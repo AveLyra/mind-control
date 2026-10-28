@@ -97,3 +97,5 @@ A positive result at one stage would justify testing the next claim; it would no
 **There is an unavoidable endpoint:** Demonstrating a voluntary, interruptible laboratory response cannot establish involuntary control over consequential real-world actions. Research deliberately defeating someone’s ability to withdraw would be ethically unacceptable. No sequence of harmless proxy studies automatically resolves that gap.
 
 For your own observations, the most grounded interpretation is that **repetition may affect how familiar, effortful, or certain an experience feels**. Establishing a change in suggestibility would require additional evidence; the recurring need to repeat something is not itself that evidence.
+
+Editorial access alternative: [van den Hout et al., OCD-like checking in the lab](https://research-portal.uu.nl/en/publications/ocd-like-checking-in-the-lab-a-meta-analysis-and-improvement-of-a/). The author’s institutional repository confirms the DOI and supplies a separate publication route; absence from one metadata index does not invalidate the citation.

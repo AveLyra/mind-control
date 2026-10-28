@@ -31,7 +31,7 @@
       "path": "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-14.md",
       "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI`, rollout ordinal `213`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "d22fd120bf178ce1e200a9d5680edae986bec8fd516e6c73827dde26d657ae76"
+      "sha256": "5dc25c771d1a2df8aa45fb1886b48cb56e8349de65034e21d6b799cf84c59bc2"
     },
     {
       "id": "1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-18",
@@ -343,7 +343,7 @@
       "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-62-58.md",
       "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab42206da1887d19af24f986a93bc4d`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "133796d3c006b0c4289b1c7ee4378895dd15d28ec71014bc4ca2ac0a15ab335e"
+      "sha256": "bb761eae9a44c3c79227be0cc68cf292b68ed6278cce0b062fa4b99d03693509"
     },
     {
       "id": "01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-1-15",
@@ -383,7 +383,7 @@
       "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-1-14.md",
       "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac2f3eeef0087d2b2e45e3d79bc9615`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "81d82ad20f74fb60c5e59baa864051921f8150a7990d867a9be2113121500d56"
+      "sha256": "dc85c06f19fdd09f32dd3d3f9f5e9bd6bf12248df5249d51ee1db17ae34071d8"
     },
     {
       "id": "01a10987-2751-7340-a64b-fa22acae50de-2-20",
@@ -463,7 +463,26 @@
       "path": "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md",
       "origin": "chatgpt thread `6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37`, item `b5680872-0685-490f-bde5-7dd917bc4940`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "a59ae0f34a77069ab3d5e4d92d283ec40b13bba27da5b91fab6193669d04bfea"
+      "sha256": "46b26fd7272b13b66128e739079179c1da0a3a7cc6ab04df1ae993bfa91e9d5c",
+      "citation_recovery": {
+        "recovered_marker_count": 18,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 18,
+        "dispositions": {
+          "original_public_link_recovered": 18
+        },
+        "source_snapshot": {
+          "conversation_id": "6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37",
+          "message_id": "b5680872-0685-490f-bde5-7dd917bc4940",
+          "rendered_text_sha256": "1fdfad3fe3235abd8cf1bbd6723da09f75041ba485e696892efb7e3e7eb9b009",
+          "rendered_html_sha256": "4f746148d606bf1a0364ca291f4f81748b2b20b8035d338528b5f2fdbfa395b4"
+        }
+      }
     },
     {
       "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-2-2",
@@ -495,7 +514,20 @@
       "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-5-2.md",
       "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `10b048f5-712f-4704-88f2-827bda10efc4`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "a423680f9f2a462e066b37a141673dd6b414b0fe709a45e5ee7ab1dc0c525107"
+      "sha256": "2c72de906e31bcace174fae543974a11e6be831ece6b5202b9b2d7f90fd98892",
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 5,
+        "dispositions": {
+          "explicit_bibliographic_identifier_resolved": 5
+        },
+        "source_snapshot": {
+          "conversation_id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6",
+          "message_id": "10b048f5-712f-4704-88f2-827bda10efc4",
+          "rendered_text_sha256": "4270065b2e790af917ceab7c977935d213cefbe6c962cb8fb2a3af0184374ab3",
+          "rendered_html_sha256": "64a5b08a3355545c77e3929d747bcf84a6002dfa8fcd3f0b687fdba24f86eae2"
+        }
+      }
     },
     {
       "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2",
@@ -503,7 +535,26 @@
       "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2.md",
       "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `068d8910-bf42-401c-9122-7bf5b899baf4`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "70ae0088d4ef4598fe179215a319089e964d2b5a8bf70e3051eb62e8020263e3"
+      "sha256": "83ca5bff42bc0f5f16dee3a0d64b0edff2d97f5cf9717cf941800744fa057d22",
+      "citation_recovery": {
+        "recovered_marker_count": 12,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 12,
+        "dispositions": {
+          "original_public_link_recovered": 12
+        },
+        "source_snapshot": {
+          "conversation_id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0",
+          "message_id": "068d8910-bf42-401c-9122-7bf5b899baf4",
+          "rendered_text_sha256": "1329946eff17473bfd76db7ce2af09e6a65f2469db97a2d13add3ed9f0fef1a1",
+          "rendered_html_sha256": "707f6cfb161d04d646a1173a652381546cbcec40a2d68f495148c7b38beeae79"
+        }
+      }
     },
     {
       "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2",
@@ -511,7 +562,26 @@
       "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2.md",
       "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `edd12a02-4ab9-4d1f-b745-239e2e3b4816`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "0ebf6bc4518bf6a074349ca20577ce8d29ccb1e59f18622189dce08ce589097c"
+      "sha256": "79c3ef53b4f811948e2e0c01f62d814df90fd7eda406d71ccb04ce194e2061ab",
+      "citation_recovery": {
+        "recovered_marker_count": 38,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 38,
+        "dispositions": {
+          "original_public_link_recovered": 38
+        },
+        "source_snapshot": {
+          "conversation_id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0",
+          "message_id": "edd12a02-4ab9-4d1f-b745-239e2e3b4816",
+          "rendered_text_sha256": "9ed4fb2fd8dd51c59ca866a28836393d2ecea541f7af44bf7a75dc2cd3fd1848",
+          "rendered_html_sha256": "a92697d6334e9e5e6c9c3dc9eab97f06743d789a10ea909f7317972d7150ba78"
+        }
+      }
     },
     {
       "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-3-2",
@@ -519,7 +589,26 @@
       "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-3-2.md",
       "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `86d8cbc2-5e77-4bd1-a7f7-d8753ffe19bc`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "e2a6f14d401865faa6ed354ece085a95234444c020a9728297321497c100fe08"
+      "sha256": "1660f557cd6ea8473039f35651dbb12497c01e144daa1ee231136ab9403def57",
+      "citation_recovery": {
+        "recovered_marker_count": 8,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 8,
+        "dispositions": {
+          "original_public_link_recovered": 8
+        },
+        "source_snapshot": {
+          "conversation_id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0",
+          "message_id": "86d8cbc2-5e77-4bd1-a7f7-d8753ffe19bc",
+          "rendered_text_sha256": "d283c80b795819562892ea2a49881e9f20f79c0c0bf2f84745cadf442cb6b0a4",
+          "rendered_html_sha256": "d1eecf106aa291a3f128c6c9a982012f35ac48379de9c2d4c51d7444e131414c"
+        }
+      }
     },
     {
       "id": "6ab14c04-9864-83ea-a250-b495d6f19c23-1-2",
@@ -527,7 +616,7 @@
       "path": "research/chats/6ab14c04-9864-83ea-a250-b495d6f19c23-1-2.md",
       "origin": "chatgpt thread `6ab14c04-9864-83ea-a250-b495d6f19c23`, item `5e7bf587-ef5e-41dc-82d8-9d03329d4bfe`",
       "status": "Historical assistant research; full rendered answer recovered from signed-in conversation; citations not comprehensively reverified",
-      "sha256": "84bc55b18c965f0c226658d951f8ad6709e059ec54bfddb97048ab76c7aaad12",
+      "sha256": "e596aecd7bf68f202d4886d3e193df1b73838de4b7eb094f0a66480c0d03fde9",
       "recovery": {
         "message_id": "5e7bf587-ef5e-41dc-82d8-9d03329d4bfe",
         "conversation_id": "6ab14c04-9864-83ea-a250-b495d6f19c23",
@@ -542,6 +631,20 @@
         "ending": "line between a convincing demonstration and a useful system is now often validation, robustness, and user control, rather than whether an AI can produce impressive-looking output.",
         "cutoff_tail_matched": true,
         "normalized_characters_beyond_cutoff": 390
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 2,
+        "dispositions": {
+          "empty_nonbibliographic_equipment_widget": 1,
+          "editorial_registry_replacement": 1
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab14c04-9864-83ea-a250-b495d6f19c23",
+          "message_id": "5e7bf587-ef5e-41dc-82d8-9d03329d4bfe",
+          "rendered_text_sha256": "14c0a64e4efb9711a3449ad2df97158cb892a41bdb6196fb6afba23f55be980a",
+          "rendered_html_sha256": "b972ab2751985a40e6a9a31e3f5cae6c336b70466ab378fb76c5d5a8bcdd5dca"
+        }
       }
     },
     {
@@ -573,7 +676,26 @@
       "path": "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-2.md",
       "origin": "chatgpt thread `6ab15d29-9edc-83e9-9692-e20add2c6825`, item `50351eac-a5b0-4361-8703-9eac39484601`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "38534f15dd8370c8f525745470011f47b48edd3bb32b9c9a5b9673c42f164dcd"
+      "sha256": "cdced60dee4d1bac8887de0b20ffaccf1d17f1c2a00f6a79b4553d0fefb2b9b9",
+      "citation_recovery": {
+        "recovered_marker_count": 28,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 28,
+        "dispositions": {
+          "original_public_link_recovered": 28
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab15d29-9edc-83e9-9692-e20add2c6825",
+          "message_id": "50351eac-a5b0-4361-8703-9eac39484601",
+          "rendered_text_sha256": "e2a6c4fbd0a8c431fbea5c45a789bdeb717c5a3e750f36543644f2b603809e6f",
+          "rendered_html_sha256": "127180d58585d13aea45c43d760679cd4f630389032be209b53f862216477291"
+        }
+      }
     },
     {
       "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-2-3",
@@ -581,7 +703,26 @@
       "path": "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-3.md",
       "origin": "chatgpt thread `6ab15d29-9edc-83e9-9692-e20add2c6825`, item `64a20424-4998-4106-9f64-cb5723573fa2`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "417e584286cc5c9b4741ceb8ee49f598e83fd9b70e7153c5e99fbd2d4134e2d9"
+      "sha256": "23e4124586b9e6d4d8a85741c223ca7799b7313ffd2fa63b159c92eb588a955f",
+      "citation_recovery": {
+        "recovered_marker_count": 33,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 33,
+        "dispositions": {
+          "original_public_link_recovered": 33
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab15d29-9edc-83e9-9692-e20add2c6825",
+          "message_id": "64a20424-4998-4106-9f64-cb5723573fa2",
+          "rendered_text_sha256": "3f12e3e29118a5597a9f8616a84a517ec60413ca8496d0d48199afc8b2de5c9d",
+          "rendered_html_sha256": "da8743fd679264d299c37dfa39db106726673b6a9eb2744992483cc439f92d9f"
+        }
+      }
     },
     {
       "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-2-4",
@@ -612,7 +753,26 @@
       "path": "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-2.md",
       "origin": "chatgpt thread `6ab16b83-0630-83ea-9a2b-95f44ca83bb6`, item `3b932253-1b5c-4de4-96b5-7483a7b9820e`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "d9ad63f56e78155afb661f4354bc3c6d020756496949c329ccd0949de767ce03"
+      "sha256": "9e9e7b3af6fc2b35219adb93803808abe6ad765e6b08af49064041960fc66d7c",
+      "citation_recovery": {
+        "recovered_marker_count": 12,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 12,
+        "dispositions": {
+          "original_public_link_recovered": 12
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6",
+          "message_id": "3b932253-1b5c-4de4-96b5-7483a7b9820e",
+          "rendered_text_sha256": "f60f0711b7baca9c5283f9cc23bc0161cc36f9aa2d63bca7ad611ad4b2bddd67",
+          "rendered_html_sha256": "62fad2cecd68dc391a99adf5d8e0b4d76d551e5d850836beb313b8c9bec8615f"
+        }
+      }
     },
     {
       "id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
@@ -666,7 +826,26 @@
       "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-2-2.md",
       "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `40c48c66-2e3c-4115-825a-5d542c7e35c5`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "178efd1229685f13a71dee8dddf5aeda5708128157264df8d3da75fcde4f2047"
+      "sha256": "92e2d49d4b42597d32ac640f66a94649fe43f88261afdb30a884457c23b98b0d",
+      "citation_recovery": {
+        "recovered_marker_count": 32,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 32,
+        "dispositions": {
+          "original_public_link_recovered": 32
+        },
+        "source_snapshot": {
+          "conversation_id": "6abd4417-0258-83e9-80c7-4cae17968083",
+          "message_id": "40c48c66-2e3c-4115-825a-5d542c7e35c5",
+          "rendered_text_sha256": "ab7c5abaff0af2e4cc9f1e275c13813fcf9e9902d24e8f08c58cf74809713cfa",
+          "rendered_html_sha256": "e210cffdd841b790104b78e36cbcd1f60488579e6ab234316dcab47e43a983a6"
+        }
+      }
     },
     {
       "id": "6abd4417-0258-83e9-80c7-4cae17968083-3-2",
@@ -705,7 +884,26 @@
       "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-5-2.md",
       "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `8ae5b2b9-f197-4c0f-a1a6-2e544571a126`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "b2ecaf5256a8eff19fc7155963ad064d12f02760127f1bd5e97cd3145324710e"
+      "sha256": "70c83c750ca88c15f62ebc09a716375d55f02bb2310fc62283b39019a44fbc3f",
+      "citation_recovery": {
+        "recovered_marker_count": 1,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 1,
+        "dispositions": {
+          "original_public_link_recovered": 1
+        },
+        "source_snapshot": {
+          "conversation_id": "6abd4417-0258-83e9-80c7-4cae17968083",
+          "message_id": "8ae5b2b9-f197-4c0f-a1a6-2e544571a126",
+          "rendered_text_sha256": "a5851c8ddcd5165ccb6b118a4b62771c86f7ec76df734f428540082ff2025784",
+          "rendered_html_sha256": "5f20dfb7a8ce82ffa8950a310d0ce72c8512a2e1d26db4630cc5d8569a31f8fc"
+        }
+      }
     },
     {
       "id": "vindication-acoustic-feature-sleep-state-coding",
@@ -835,7 +1033,26 @@
       "path": "research/chats/supplement-9ec3e30f-348e-566e-8a1e-54eae2622447.md",
       "origin": "chatgpt thread `6ab41ef2-fd0c-83e9-b41f-c07ed46dbbdf`, item `9ec3e30f-348e-566e-8a1e-54eae2622447`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "c2a3dbb87918e7564cfef5b1d30bfc2c134b7b0faca5ea52671c198e89e34a06"
+      "sha256": "a794d26a1bd036098108ae8297f1ce7efe682f037490ee8d978dc6ea6dc02952",
+      "citation_recovery": {
+        "recovered_marker_count": 3,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 3,
+        "dispositions": {
+          "original_public_link_recovered": 3
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab41ef2-fd0c-83e9-b41f-c07ed46dbbdf",
+          "message_id": "9ec3e30f-348e-566e-8a1e-54eae2622447",
+          "rendered_text_sha256": "c24916d749c73ba1f0500f00dcc08fdf6b6e86ecb83f44acbf147ba1b14ec2b3",
+          "rendered_html_sha256": "f6efa4f6e8eb629e2e45e86a770c3b77dc9439d23a5108b95b3297beb71e0573"
+        }
+      }
     },
     {
       "id": "supplement-235b91fa-5cab-58cd-bb2a-819a70248b5e",
@@ -843,7 +1060,26 @@
       "path": "research/chats/supplement-235b91fa-5cab-58cd-bb2a-819a70248b5e.md",
       "origin": "chatgpt thread `6ab41ef2-fd0c-83e9-b41f-c07ed46dbbdf`, item `235b91fa-5cab-58cd-bb2a-819a70248b5e`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "a7326927bbeb7f8131d6ace7e20316b094b1904815b6d0b93b935f46add581aa"
+      "sha256": "2916f1a19216e5bb900ef60e106c1de3dd0ecc035ced1a4f555b4495766a173c",
+      "citation_recovery": {
+        "recovered_marker_count": 5,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 5,
+        "dispositions": {
+          "original_public_link_recovered": 5
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab41ef2-fd0c-83e9-b41f-c07ed46dbbdf",
+          "message_id": "235b91fa-5cab-58cd-bb2a-819a70248b5e",
+          "rendered_text_sha256": "28865a591122ee1b104f94802ff2f5f75b56dbff355836a21e8f9e7777be7e17",
+          "rendered_html_sha256": "3fa093e2407578adadf6da23f1de5dca6878ac24ee590024c5c1466506f002ee"
+        }
+      }
     },
     {
       "id": "supplement-c3aeac62-da2e-5e0f-b2ad-e46b85ec902b",
@@ -851,7 +1087,26 @@
       "path": "research/chats/supplement-c3aeac62-da2e-5e0f-b2ad-e46b85ec902b.md",
       "origin": "chatgpt thread `6ab42197-8878-83ea-a18d-6ad10e8fffaf`, item `c3aeac62-da2e-5e0f-b2ad-e46b85ec902b`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "3a8a071b9489bb294ead3ff91cd0e8eac759861ac89f592af01792fe5937310b"
+      "sha256": "69ee71aaa6d335b3f274b53b170e391e02d3c96a5e40221a8b3bdeeabbd29d78",
+      "citation_recovery": {
+        "recovered_marker_count": 26,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 26,
+        "dispositions": {
+          "original_public_link_recovered": 26
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab42197-8878-83ea-a18d-6ad10e8fffaf",
+          "message_id": "c3aeac62-da2e-5e0f-b2ad-e46b85ec902b",
+          "rendered_text_sha256": "02f2a5684930bec1f75c0e2f265aefc460550e18db6ca2ce0f2b9d93f4b69d3d",
+          "rendered_html_sha256": "a8c3030a2335f21f83858a5a3541e97efe13dc299cb72a2be66df1df593ff1b5"
+        }
+      }
     },
     {
       "id": "supplement-fe6be24c-cc9e-5350-961b-9a47437006c6",
@@ -859,7 +1114,27 @@
       "path": "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
       "origin": "chatgpt thread `6ab42197-8878-83ea-a18d-6ad10e8fffaf`, item `fe6be24c-cc9e-5350-961b-9a47437006c6`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "edf16cb6138c8bf3659c8310d22d33dffc03eb89fc6e8fbf69974ff9b5b7d5b9"
+      "sha256": "7467dab8ff952edbe6f90e3907a18bb91875cd619cdaf0ac090caf9a2a41ebbc",
+      "citation_recovery": {
+        "recovered_marker_count": 17,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 18,
+        "dispositions": {
+          "original_public_link_recovered": 17,
+          "original_generated_artifact_recovered": 1
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab42197-8878-83ea-a18d-6ad10e8fffaf",
+          "message_id": "fe6be24c-cc9e-5350-961b-9a47437006c6",
+          "rendered_text_sha256": "dcdd4d3b102c2d491038b15d1ccf9130d03e51eae30c7f342d1f47cf518f230a",
+          "rendered_html_sha256": "2a895fc1c5f5f4195451ddf43698c361aceea9278ab94bf41b12b6393631f782"
+        }
+      }
     },
     {
       "id": "supplement-07fe3c23-2878-5ccb-aac3-a37c0d4960b9",
@@ -867,7 +1142,27 @@
       "path": "research/chats/supplement-07fe3c23-2878-5ccb-aac3-a37c0d4960b9.md",
       "origin": "chatgpt thread `6ab42197-8878-83ea-a18d-6ad10e8fffaf`, item `07fe3c23-2878-5ccb-aac3-a37c0d4960b9`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "10b2369b527a9abae0979198f0354ee118593ebf48fd327f16b4f75106447c68"
+      "sha256": "c5a7dd12c683da0d6bca4ebefe3821ceb7e3267ae45caa7429efcbb4eba641fe",
+      "citation_recovery": {
+        "recovered_marker_count": 11,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 12,
+        "dispositions": {
+          "original_public_link_recovered": 11,
+          "original_generated_artifact_recovered": 1
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab42197-8878-83ea-a18d-6ad10e8fffaf",
+          "message_id": "07fe3c23-2878-5ccb-aac3-a37c0d4960b9",
+          "rendered_text_sha256": "29b97f6dbc80de36e0b1455ca020e31e31dc4bb0b6924e7e042e041a18d65b8a",
+          "rendered_html_sha256": "dc8879d84f095273a131e15812de23c002050412a9b715a975e88a2c1cd89c07"
+        }
+      }
     },
     {
       "id": "supplement-a50e7265-7f0a-5e8f-8fe7-3906902cfa42",
@@ -875,7 +1170,20 @@
       "path": "research/chats/supplement-a50e7265-7f0a-5e8f-8fe7-3906902cfa42.md",
       "origin": "chatgpt thread `6ab42197-8878-83ea-a18d-6ad10e8fffaf`, item `a50e7265-7f0a-5e8f-8fe7-3906902cfa42`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "60c52477d4165286779cb6f688c776564cb39d520571513b78b28418483adb91"
+      "sha256": "ffc53eff670ceda8f704bf63fe7b67d4eebbfaf0801fd5c2bb6159b6ce8c6b66",
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 1,
+        "dispositions": {
+          "original_generated_artifact_recovered": 1
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab42197-8878-83ea-a18d-6ad10e8fffaf",
+          "message_id": "a50e7265-7f0a-5e8f-8fe7-3906902cfa42",
+          "rendered_text_sha256": "05732c5a58cc23c6231ba632e174b32dc0befddab7329f24387aa76d5be295e4",
+          "rendered_html_sha256": "abddd2f4531a2af3b33df29876ff24182a9052c1eac3fe94b95ab039fb820fc0"
+        }
+      }
     },
     {
       "id": "supplement-4d344059-64d6-4a61-8749-6ffa673c3947",
@@ -899,7 +1207,26 @@
       "path": "research/chats/supplement-9371b8a4-f8fe-49e9-a800-993bbf738a44.md",
       "origin": "chatgpt thread `6ab908f2-d95c-83e9-9495-2753ea124b16`, item `9371b8a4-f8fe-49e9-a800-993bbf738a44`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "7b191592b3d00184563e00210e5618c3a8997fa7e6a3756be4cbcb838d70d94e"
+      "sha256": "5573120b91bc2c4b4f21d6f36eee7b73c09e4ac72d745c439007fb957aa9d466",
+      "citation_recovery": {
+        "recovered_marker_count": 9,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 9,
+        "dispositions": {
+          "original_public_link_recovered": 9
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab908f2-d95c-83e9-9495-2753ea124b16",
+          "message_id": "9371b8a4-f8fe-49e9-a800-993bbf738a44",
+          "rendered_text_sha256": "392a52d0367ad07739bc5db89453eb41e4f7ab0c61c5acd028a0a0c373bdb8b3",
+          "rendered_html_sha256": "954190b68b45419e85d189861f70585c5ebfba20504103c82b13f1ea0c081795"
+        }
+      }
     },
     {
       "id": "supplement-61ab65d6-91b2-414d-a69f-599e081abc03",
@@ -907,7 +1234,26 @@
       "path": "research/chats/supplement-61ab65d6-91b2-414d-a69f-599e081abc03.md",
       "origin": "chatgpt thread `6ab908f2-d95c-83e9-9495-2753ea124b16`, item `61ab65d6-91b2-414d-a69f-599e081abc03`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "9893a485b741658026b5bb4b2f0dc58f786cefd0640310207286c5681735f91b"
+      "sha256": "eb25aeb2cda556d9b2c31937aaff14406151a77238a502bfd2c518c543a1d180",
+      "citation_recovery": {
+        "recovered_marker_count": 41,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 41,
+        "dispositions": {
+          "original_public_link_recovered": 41
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab908f2-d95c-83e9-9495-2753ea124b16",
+          "message_id": "61ab65d6-91b2-414d-a69f-599e081abc03",
+          "rendered_text_sha256": "dd74df3e843e08f6c1ba51220813c307d8a721a8728fb570014c1fdef5d54759",
+          "rendered_html_sha256": "d9dd7c3621af912f3e8471f5cc6043e38e60262e7da2b05ea241209d86fd63c1"
+        }
+      }
     },
     {
       "id": "supplement-4ee6aad7-ea3a-4dad-8899-5fb1117a8751",
@@ -915,7 +1261,26 @@
       "path": "research/chats/supplement-4ee6aad7-ea3a-4dad-8899-5fb1117a8751.md",
       "origin": "chatgpt thread `6ab908f2-d95c-83e9-9495-2753ea124b16`, item `4ee6aad7-ea3a-4dad-8899-5fb1117a8751`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "c63a4064fcab0acfe110527410aee32b611d87d36511d2e13d0681d32b9876c7"
+      "sha256": "4786924e9ec08b673bd9d68f5dad7c647e7dbf87042e1a3484d48b36c3d2d4f0",
+      "citation_recovery": {
+        "recovered_marker_count": 23,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 23,
+        "dispositions": {
+          "original_public_link_recovered": 23
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab908f2-d95c-83e9-9495-2753ea124b16",
+          "message_id": "4ee6aad7-ea3a-4dad-8899-5fb1117a8751",
+          "rendered_text_sha256": "8b49f544b3b230a85ce1684069f352ea7d77e462af42ead4ea451039261ab201",
+          "rendered_html_sha256": "736a285494135c2d7f1bf9c35f26f4c8b607a97aa930a68c03199717afbf4030"
+        }
+      }
     },
     {
       "id": "supplement-b731e964-4813-4a9b-8c32-9d99ae6d0c0b",
@@ -923,7 +1288,26 @@
       "path": "research/chats/supplement-b731e964-4813-4a9b-8c32-9d99ae6d0c0b.md",
       "origin": "chatgpt thread `6ab908f2-d95c-83e9-9495-2753ea124b16`, item `b731e964-4813-4a9b-8c32-9d99ae6d0c0b`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "451d6f7188ee4d35bf58bc6ba29f9657b6c713149e4e70e4263fd3e58ed7f53e"
+      "sha256": "05014713d9a2832fe5b27aed1d71d9bce4c133b1efa114e2d3770dd15a0745ec",
+      "citation_recovery": {
+        "recovered_marker_count": 28,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 28,
+        "dispositions": {
+          "original_public_link_recovered": 28
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab908f2-d95c-83e9-9495-2753ea124b16",
+          "message_id": "b731e964-4813-4a9b-8c32-9d99ae6d0c0b",
+          "rendered_text_sha256": "4675487486212fe3d6a54cac3d5f3723caf29706a9c62c38c0043c62d75d7c2b",
+          "rendered_html_sha256": "2eac89ce30edd3ba4c830f18c09b4873bc74831db14aabf79aecc5c8fae7a75f"
+        }
+      }
     },
     {
       "id": "supplement-7348cd06-afd4-5bb0-8b1d-31b35fcdd34d",
@@ -931,7 +1315,26 @@
       "path": "research/chats/supplement-7348cd06-afd4-5bb0-8b1d-31b35fcdd34d.md",
       "origin": "chatgpt thread `6ab3d3d9-79a0-83ea-821b-f1d78d6484d4`, item `7348cd06-afd4-5bb0-8b1d-31b35fcdd34d`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "08bb401f6efae563e365f3188657dd63433913fbe4000d690fbc89df93c455e7"
+      "sha256": "2b696b4c09262044a1f0c557c28e542436969a1dd0a7877e7977ba3259a9f534",
+      "citation_recovery": {
+        "recovered_marker_count": 6,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 6,
+        "dispositions": {
+          "original_public_link_recovered": 6
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab3d3d9-79a0-83ea-821b-f1d78d6484d4",
+          "message_id": "7348cd06-afd4-5bb0-8b1d-31b35fcdd34d",
+          "rendered_text_sha256": "514368ddf11a8bc6af019170d84de2b9767f8d2916cf371281cb8af68bd1ef58",
+          "rendered_html_sha256": "3cd9e48bed74a2766f72079cd168ca0b4b806094ca54e78da58002c7c0d0ba1b"
+        }
+      }
     },
     {
       "id": "supplement-1d807d80-b794-50e6-9c4e-9ef0dffc6209",
@@ -939,7 +1342,26 @@
       "path": "research/chats/supplement-1d807d80-b794-50e6-9c4e-9ef0dffc6209.md",
       "origin": "chatgpt thread `6ab3d3d9-79a0-83ea-821b-f1d78d6484d4`, item `1d807d80-b794-50e6-9c4e-9ef0dffc6209`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "71b7d329637cf61d4fc11b2bf95c389f371cfbf351f26d1f54c0c02abf35f9e3"
+      "sha256": "0279aa16b51f63f3ecddf11c709fecd26dc813200f42b2fd3fa3a3ba77cdd974",
+      "citation_recovery": {
+        "recovered_marker_count": 4,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 4,
+        "dispositions": {
+          "original_public_link_recovered": 4
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab3d3d9-79a0-83ea-821b-f1d78d6484d4",
+          "message_id": "1d807d80-b794-50e6-9c4e-9ef0dffc6209",
+          "rendered_text_sha256": "65f615c3d39be81758a4158f2d9e8335426a392f531447c55b614d311407b7df",
+          "rendered_html_sha256": "6829774855327c39e1a9b0e3b0bf6312fa256f94ef0ed7913c61ed9a5d7d418b"
+        }
+      }
     },
     {
       "id": "supplement-f25d6a38-15e6-5485-a8a0-f1f3b29a00d7",
@@ -947,7 +1369,26 @@
       "path": "research/chats/supplement-f25d6a38-15e6-5485-a8a0-f1f3b29a00d7.md",
       "origin": "chatgpt thread `6ab3d3d9-79a0-83ea-821b-f1d78d6484d4`, item `f25d6a38-15e6-5485-a8a0-f1f3b29a00d7`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "72b76c0ec2c79b5b6076f97901adba501eef22ad52f6e35cbdcb8970ec1eebc3"
+      "sha256": "8e4f4c56bc31c44b0bed5003241b02231fa1e3b258fc94b182d984b7fd26a819",
+      "citation_recovery": {
+        "recovered_marker_count": 6,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 6,
+        "dispositions": {
+          "original_public_link_recovered": 6
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab3d3d9-79a0-83ea-821b-f1d78d6484d4",
+          "message_id": "f25d6a38-15e6-5485-a8a0-f1f3b29a00d7",
+          "rendered_text_sha256": "bc46c3fa8baa744676d77a71275bbdd4b5f0023c320fa72069c5e75c9e7ac2a0",
+          "rendered_html_sha256": "22bb3bb22352c83737bf9e611bd04cfe3e78d46e76c15bad3a41428c32f86cd3"
+        }
+      }
     },
     {
       "id": "supplement-e4b72ebe-bd8b-575d-b6f3-02d9bda905ab",
@@ -955,7 +1396,26 @@
       "path": "research/chats/supplement-e4b72ebe-bd8b-575d-b6f3-02d9bda905ab.md",
       "origin": "chatgpt thread `6ab3d3d9-79a0-83ea-821b-f1d78d6484d4`, item `e4b72ebe-bd8b-575d-b6f3-02d9bda905ab`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "4c596c7d55adf1fd79106c5254dba360728ecf0ba9f97882a70ceb240c40d1e7"
+      "sha256": "1e1529ff666c4b168ed1fb7452447f93eee7367eaf5f843ac0df72651abdf9e9",
+      "citation_recovery": {
+        "recovered_marker_count": 3,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 3,
+        "dispositions": {
+          "original_public_link_recovered": 3
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab3d3d9-79a0-83ea-821b-f1d78d6484d4",
+          "message_id": "e4b72ebe-bd8b-575d-b6f3-02d9bda905ab",
+          "rendered_text_sha256": "3427d60d28fa115efa31b80fc9e39e6535a6f8fb1f6369c778fe08772c20bf5c",
+          "rendered_html_sha256": "d77bfe150747d3118eb4fbfe0dbf05a62548d459bcdac30545abdf85f419a911"
+        }
+      }
     },
     {
       "id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
@@ -963,7 +1423,20 @@
       "path": "research/chats/supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `8349b528-8aa3-4ce7-928b-a6bfe15f92bc`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "70ed51de592fe8a78c3ec22ff83ffd3a4b79842aecc764296e63232cda4a4170"
+      "sha256": "ce9d08c9875e8862e66f7cca3d7f4901250173549ce0cc77d1e56f14f86aa6f6",
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 8,
+        "dispositions": {
+          "editorial_cross_reference_original_attachment_unavailable": 8
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+          "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+          "rendered_text_sha256": "476d543b4ba9bc0d983f22bc5717348ef974d6c376f1c864cf7ed5f316c29e64",
+          "rendered_html_sha256": "393c132692da2325ac0b2978d13fd16bd3955b27c0f38fbc08e6031da47af280"
+        }
+      }
     },
     {
       "id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
@@ -971,7 +1444,20 @@
       "path": "research/chats/supplement-710556a1-7594-4b91-b9b4-03d2dca491d5.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `710556a1-7594-4b91-b9b4-03d2dca491d5`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "96099621f1e8614e3a62fba7a95a316726c7b322d63d40f927a2a5221eeb6bb1"
+      "sha256": "6b092d23c1f29dacdb3d62f499ec3e7ceb41a34908cff6eb688bb13c466e74dd",
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 9,
+        "dispositions": {
+          "editorial_cross_reference_original_attachment_unavailable": 9
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+          "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+          "rendered_text_sha256": "3338c2851173fae9e0406ccace59fe134ff18c2ae6c3e22bc4fef31dc8131043",
+          "rendered_html_sha256": "fc3843adc167c63856d86bca1ebc0955de5694a80629d8a3ad4b6733f0f465d5"
+        }
+      }
     },
     {
       "id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
@@ -979,7 +1465,7 @@
       "path": "research/chats/supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `1a6c75ff-4601-4f88-b959-4cdec13997eb`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "6aabe2998cb2ac07b01f80e2dd1bc271342ad1e9219cb1b0ace833724f9829ac",
+      "sha256": "497cd612627088b6c22a400d37e3e02583141c6928f6b646192f4dd9b1b3a62e",
       "recovery": {
         "method": "signed-in rendered DOM",
         "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
@@ -987,6 +1473,19 @@
         "source_text_sha256": "0d511ec48eb8a8104825b1f3177ba271b282df98921989a542053dce4b028c7f",
         "rendered_characters": 22078,
         "prior_reader_characters": 20000
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 19,
+        "dispositions": {
+          "editorial_cross_reference_original_attachment_unavailable": 19
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+          "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+          "rendered_text_sha256": "0d511ec48eb8a8104825b1f3177ba271b282df98921989a542053dce4b028c7f",
+          "rendered_html_sha256": "271b311239e4464a4c5e088f9bd772ae7471d32fb28f5809b494f56fcbb604d0"
+        }
       }
     },
     {
@@ -995,7 +1494,20 @@
       "path": "research/chats/supplement-92060796-96e7-421a-a090-bc6e03558358.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `92060796-96e7-421a-a090-bc6e03558358`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "42e7fa436b17278f2d9a06f15c754cd23bf46f625305bc0a009f19d7646f307a"
+      "sha256": "1888cebc6d695e8b386c8ddbdd84ad4faaef51dfe566c5251aa09fd393d23694",
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 8,
+        "dispositions": {
+          "editorial_cross_reference_original_attachment_unavailable": 8
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+          "message_id": "92060796-96e7-421a-a090-bc6e03558358",
+          "rendered_text_sha256": "ffe0250d57c5c6cb5561d9fd646b08249f554efb2ecc0bdf2b6c03e4cd813865",
+          "rendered_html_sha256": "f4af80651f532f161d0cc83fca5fc5287a72a4510756400c461171d837e4581a"
+        }
+      }
     },
     {
       "id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
@@ -1003,7 +1515,20 @@
       "path": "research/chats/supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `5a68e43a-789c-474b-8761-83e97c4fcf5a`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "6d257569919c26c12981d94c9b559be93e05b52d8efcbdd961db1d88901394aa"
+      "sha256": "dc04e83348dd6d01a56fe01df5d33dea8e80b289ca423ebb8f61363ebc50aab3",
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 5,
+        "dispositions": {
+          "editorial_cross_reference_original_attachment_unavailable": 5
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+          "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+          "rendered_text_sha256": "0baefa68bae90a2ebb560810d7beba4fca59ccc456a4d4bb8bbd1c7ff1a2c570",
+          "rendered_html_sha256": "38af0c3707e889c8501fca6e054197f966c3e7e48ab16f6f94c6614b39719b1b"
+        }
+      }
     },
     {
       "id": "supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
@@ -1011,7 +1536,27 @@
       "path": "research/chats/supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a.md",
       "origin": "chatgpt thread `6ab16e89-dda4-83ea-9b00-17522496c389`, item `38f265c2-ea46-4b51-8a4c-ca4e80526c4a`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "f32e4192d4d63713d206c46c5b6e156fff800c6d2ab5458dec197864f297543c"
+      "sha256": "9f70fb080280cc47d7cfe1ebdde9ddffc84bdafd74a01736db25f47223bde38e",
+      "citation_recovery": {
+        "recovered_marker_count": 6,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 7,
+        "dispositions": {
+          "original_public_link_recovered": 6,
+          "editorial_cross_reference_original_attachment_unavailable": 1
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab16e89-dda4-83ea-9b00-17522496c389",
+          "message_id": "38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
+          "rendered_text_sha256": "2b7642f0e5c9a3db7a14c8b94824177f2e028ab850398cf5dc8b604a1a3fe1ef",
+          "rendered_html_sha256": "5e94b0ba2c02e365170af708820f564570a8ec980e70b2c5b6473da7dfb436f1"
+        }
+      }
     },
     {
       "id": "supplement-172221fe-3630-4d57-90ca-a6136d8663d5",
@@ -1019,7 +1564,7 @@
       "path": "research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md",
       "origin": "chatgpt thread `6ab16e89-dda4-83ea-9b00-17522496c389`, item `172221fe-3630-4d57-90ca-a6136d8663d5`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "77e4cbe21f326b243a6f214dac233c1c4292d680da2311bb4051f1004ce22a19",
+      "sha256": "97f2a7b2ce5d9265e049e4bd25d85cd9951ceb373b09c9d42646bde5b0da6e85",
       "recovery": {
         "method": "signed-in rendered DOM",
         "message_id": "172221fe-3630-4d57-90ca-a6136d8663d5",
@@ -1035,7 +1580,26 @@
       "path": "research/chats/supplement-962e882d-5cc7-417c-9ad1-a233c870d5de.md",
       "origin": "chatgpt thread `6ab82782-8e90-83ea-9c0a-35b4a1373ffb`, item `962e882d-5cc7-417c-9ad1-a233c870d5de`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "f9ef575f3a8d80a1dbd0e7a80a81f8450db818ed1359845f489458a203d138f0"
+      "sha256": "7e09bd46ab7550b606027cce13a1a39dbc09d663b505afc16791ba3b69c4fe01",
+      "citation_recovery": {
+        "recovered_marker_count": 8,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 8,
+        "dispositions": {
+          "original_public_link_recovered": 8
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab82782-8e90-83ea-9c0a-35b4a1373ffb",
+          "message_id": "962e882d-5cc7-417c-9ad1-a233c870d5de",
+          "rendered_text_sha256": "e14b705d6940f10a6ae7093854234e8bfb4d2d3c479e89971d00c80a24c54fa6",
+          "rendered_html_sha256": "cab8ad6c0ddb398fdf6b1909152c417c7623338db2d61949aea50ff62fc3276d"
+        }
+      }
     },
     {
       "id": "supplement-b8be0aa7-0415-4911-9632-87fd4b913af0",
@@ -1043,7 +1607,26 @@
       "path": "research/chats/supplement-b8be0aa7-0415-4911-9632-87fd4b913af0.md",
       "origin": "chatgpt thread `6ab1eed3-97a4-83ea-87e7-61e72a73cfd2`, item `b8be0aa7-0415-4911-9632-87fd4b913af0`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "13b15dca501c953ef627fdffa29bfb83f6cf695fb701fabd86e3590d67730ba9"
+      "sha256": "b23444b691aec381df1c796e9b1177be22ab9a7506a7662bbe0c25ccc8118d9a",
+      "citation_recovery": {
+        "recovered_marker_count": 21,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 21,
+        "dispositions": {
+          "original_public_link_recovered": 21
+        },
+        "source_snapshot": {
+          "conversation_id": "6ab1eed3-97a4-83ea-87e7-61e72a73cfd2",
+          "message_id": "b8be0aa7-0415-4911-9632-87fd4b913af0",
+          "rendered_text_sha256": "a7ee9f3d7dccc66fd6882459074ec29d199ff9df0ff1491472ace787871c17ca",
+          "rendered_html_sha256": "22ba74bd56ee74aa97d83c7ea99bb9bd07ba9d6c9dbf7efbd3436b1fee8c994c"
+        }
+      }
     },
     {
       "id": "supplement-aae8514a-c9a6-43a4-b66b-2081da7b7f04",
@@ -1059,7 +1642,26 @@
       "path": "research/chats/supplement-158e55d4-b002-4614-b8aa-31a9a44ee454.md",
       "origin": "chatgpt thread `6ad117f8-b9ec-83ea-8b85-a2cc811e40aa`, item `158e55d4-b002-4614-b8aa-31a9a44ee454`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "3e86ad353c2584c52ae4266954a68c0f2d84d8386d9d2af63fc74c0d1cd22d31"
+      "sha256": "be7e94826635b202f8b4cd9aab1c631f569cd98a99017e9c9e213944891d3b53",
+      "citation_recovery": {
+        "recovered_marker_count": 4,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 4,
+        "dispositions": {
+          "original_public_link_recovered": 4
+        },
+        "source_snapshot": {
+          "conversation_id": "6ad117f8-b9ec-83ea-8b85-a2cc811e40aa",
+          "message_id": "158e55d4-b002-4614-b8aa-31a9a44ee454",
+          "rendered_text_sha256": "6f078f162c49d2d4aa9c91f72197cdceaa6bc7088e04e62d01e7a3a48caaf05d",
+          "rendered_html_sha256": "ff9630392d9a77f3260c1dd6d1c0d7fcb7bf56ca0165656d7213eb94ccb0bb97"
+        }
+      }
     },
     {
       "id": "supplement-a232f9f0-1eaa-438a-b617-c5803afd0f8e",
@@ -1067,7 +1669,26 @@
       "path": "research/chats/supplement-a232f9f0-1eaa-438a-b617-c5803afd0f8e.md",
       "origin": "chatgpt thread `6ad117f8-b9ec-83ea-8b85-a2cc811e40aa`, item `a232f9f0-1eaa-438a-b617-c5803afd0f8e`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "5aad13b5482ef50ec33cec139b1a5c86a56ced562d02ee471446608eacf136f9"
+      "sha256": "5684cf81cb9558f31c6dc7521ef3fafe281c455e7565ce8aa52508d718b519b8",
+      "citation_recovery": {
+        "recovered_marker_count": 6,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 6,
+        "dispositions": {
+          "original_public_link_recovered": 6
+        },
+        "source_snapshot": {
+          "conversation_id": "6ad117f8-b9ec-83ea-8b85-a2cc811e40aa",
+          "message_id": "a232f9f0-1eaa-438a-b617-c5803afd0f8e",
+          "rendered_text_sha256": "8723efb7c9ce5f3ba30a546882ee1fc031612c929622047a3fc8237f220d9b33",
+          "rendered_html_sha256": "1e0bc62926f4bf006667eb4dbcba243aa5bb53d7ea0d80e4b85a87eb870d1374"
+        }
+      }
     },
     {
       "id": "supplement-msg_08ce3dae55b20fa9016ab3cb2d234c87d287c3abcdd719e371",
@@ -1075,7 +1696,7 @@
       "path": "research/chats/supplement-msg_08ce3dae55b20fa9016ab3cb2d234c87d287c3abcdd719e371.md",
       "origin": "codex thread `01a0ce50-2b49-7d60-b942-6471666533cc`, item `msg_08ce3dae55b20fa9016ab3cb2d234c87d287c3abcdd719e371`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "47d8823aac55375275035b98b45b62c2d83dd6ff17423aa43564c039aff10921"
+      "sha256": "b80b8342948c9c2a4bae252f9bece0309d0edaac82bb831f84f2082a71435270"
     },
     {
       "id": "supplement-rfk-hypnosis",
@@ -1083,7 +1704,26 @@
       "path": "research/chats/supplement-rfk-hypnosis.md",
       "origin": "chatgpt thread `6ad514c0-5360-83ea-9a9d-055230533f16`, item `b3712512-3ae8-51f4-ace3-705860c9f826`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "38352cd3950ee1eaff2138295c075fa8b57d4846ed7c1a40404922a18adbfafa"
+      "sha256": "08e343db53b57b1a3bc0c3c2114c217b8981e5e442314f9cd0f8aa56e9fe826e",
+      "citation_recovery": {
+        "recovered_marker_count": 2,
+        "remaining_source_indices": [],
+        "date": "2026-10-27",
+        "basis": "source-message and citation-index match; see citation audit"
+      },
+      "citation_audit": {
+        "date": "2026-10-27",
+        "original_marker_count": 2,
+        "dispositions": {
+          "original_public_link_recovered": 2
+        },
+        "source_snapshot": {
+          "conversation_id": "6ad514c0-5360-83ea-9a9d-055230533f16",
+          "message_id": "b3712512-3ae8-51f4-ace3-705860c9f826",
+          "rendered_text_sha256": "0a9486b02dec31b86a32fbebba6715cc5ae5473b0fd4338e3361cf455efb8e05",
+          "rendered_html_sha256": "bc97602f28ee5a792925a9a632eb1a6a5ca6420a26cefafe57d15da429f3048f"
+        }
+      }
     },
     {
       "id": "supplement-hypnosis-neuroscience",
@@ -1178,6 +1818,275 @@
         "conversation_id": "6abd3b22-635c-83e9-9f32-192251bad547",
         "source_text_sha256": "1058665b696e66db9e28e25d18289fa2bebec6d6202cd420bc3a3bc8eda4c863",
         "rendered_characters": 5915
+      }
+    },
+    {
+      "id": "deeper-f6119b03-261d-4396-88c8-a54a8e04ad8d",
+      "title": "Deep Research on TMR — literature review",
+      "path": "research/chats/deeper-f6119b03-261d-4396-88c8-a54a8e04ad8d.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `f6119b03-261d-4396-88c8-a54a8e04ad8d`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "e83b3d024f6f9278fb86a1f41b1ad27345c51ea646e1ab0569f12f981db90d64",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "f6119b03-261d-4396-88c8-a54a8e04ad8d",
+        "source_text_sha256": "fede30a2ad830c0bdf8e992e4ad4075ff123c7ada5a6f7d723b2d5655c0c6a5c",
+        "source_html_sha256": "f35314f08df5b4860f2dad64a6ff4b098ad86fcf3c7addb87de95531cde39753",
+        "rendered_characters": 8099,
+        "selection": "Complete original research answer, including positive findings and limits"
+      }
+    },
+    {
+      "id": "deeper-5cac1ee0-8ea7-495e-984b-837e541cc7c0",
+      "title": "Deep Research on TMR — evidence, negative findings, and bibliography",
+      "path": "research/chats/deeper-5cac1ee0-8ea7-495e-984b-837e541cc7c0.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `5cac1ee0-8ea7-495e-984b-837e541cc7c0`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "a0b31df03aa3cc63d6ed77a3f035d7aa2e8a996598b694e9866ea623eaf27527",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "5cac1ee0-8ea7-495e-984b-837e541cc7c0",
+        "source_text_sha256": "a810d52fec31738c7caf8e4c73cbad0e75a66af555fede4e7f37807555571cee",
+        "source_html_sha256": "00d15bcabb03cda10a1f724bd923ce018db6778266efe3ab1a685036d773416f",
+        "rendered_characters": 17686,
+        "selection": "Complete extended literature review with 16-item bibliography"
+      }
+    },
+    {
+      "id": "deeper-f0a6a578-e15b-4b86-98e4-a5e21dd4c3c0",
+      "title": "Sleep and digital social experience — proposed research program",
+      "path": "research/chats/deeper-f0a6a578-e15b-4b86-98e4-a5e21dd4c3c0.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `f0a6a578-e15b-4b86-98e4-a5e21dd4c3c0`",
+      "status": "Historical experimental proposal; no study execution or demonstrated capability",
+      "sha256": "92578c328fbdb7df8a953c6d62ddd58c9441e85668dca7be99357e9bd823b594",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "f0a6a578-e15b-4b86-98e4-a5e21dd4c3c0",
+        "source_text_sha256": "9afc0145e2ddc3bd0d9f01c540a6e54cb45ce7581ccebb30875376f21288a9ec",
+        "source_html_sha256": "433501195854e6bf09addd08d6c2354d4aa8c5bcfeb4330a1364ea92d3a29b23",
+        "rendered_characters": 13481,
+        "selection": "Experimental platform, comparisons, and failure criteria only; researcher-directed introduction and proposed correspondence omitted"
+      }
+    },
+    {
+      "id": "deeper-6ddd5ee5-8e07-443c-aa45-0e267e54a7f0",
+      "title": "Subliminal cues as an experimental variable",
+      "path": "research/chats/deeper-6ddd5ee5-8e07-443c-aa45-0e267e54a7f0.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `6ddd5ee5-8e07-443c-aa45-0e267e54a7f0`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "e2d67492443ade41052b3780d400c9c374a628bc2c050c6e9bf1e36802c2667e",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "6ddd5ee5-8e07-443c-aa45-0e267e54a7f0",
+        "source_text_sha256": "01b6569f226fc517b7bd39146b3fc328d075de7b7f7ecf47a1680efebee21179",
+        "source_html_sha256": "1bdb9c17c1bd5dfbe899a530372ea6a0d0d6d38161485941c1fcc0dbc5feac91",
+        "rendered_characters": 2121,
+        "selection": "Research concepts and proposed tests; no experimental results newly produced"
+      }
+    },
+    {
+      "id": "deeper-bea38127-ce72-43f1-9803-253e56139eac",
+      "title": "Concealed sources, conditioning, and participant awareness",
+      "path": "research/chats/deeper-bea38127-ce72-43f1-9803-253e56139eac.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `bea38127-ce72-43f1-9803-253e56139eac`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "cfec3ede3de16ba9d204cf57f2e29aed9e73e0fab76a00dc453fe5e0a39cea02",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "bea38127-ce72-43f1-9803-253e56139eac",
+        "source_text_sha256": "ff709b5d36f589b4b146b38e2d02b687bcc4d6bb4597093c43325b0c719ead74",
+        "source_html_sha256": "4ccc88dc98555026c4bbfed926362dd7e01800d5977402e57345a1ebe2383bc9",
+        "rendered_characters": 1951,
+        "selection": "Research concepts and proposed tests; no experimental results newly produced"
+      }
+    },
+    {
+      "id": "deeper-6e1eb6b0-d045-4619-a75c-ae7c3911b2f4",
+      "title": "Wordplay and semantic cueing — hypothesis boundaries",
+      "path": "research/chats/deeper-6e1eb6b0-d045-4619-a75c-ae7c3911b2f4.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `6e1eb6b0-d045-4619-a75c-ae7c3911b2f4`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "899edb20cea29bec2ecffed4333087558d1ccc102f64d03a2bd496bb10597f2f",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "6e1eb6b0-d045-4619-a75c-ae7c3911b2f4",
+        "source_text_sha256": "48b8145f479b2683b43587a3aea185f976298f8990b2fb0150d358f2e5965edf",
+        "source_html_sha256": "2affdbeac4417906b801822d3159b832870969b48f7e3abd204d24a61dd5d042",
+        "rendered_characters": 2236,
+        "selection": "Research concepts and proposed tests; no experimental results newly produced"
+      }
+    },
+    {
+      "id": "deeper-d3e91e42-862c-48b0-9142-8237714a614d",
+      "title": "Hypothesis disclosure, demand characteristics, and awareness transitions",
+      "path": "research/chats/deeper-d3e91e42-862c-48b0-9142-8237714a614d.md",
+      "origin": "chatgpt thread `6aa680c7-90ac-83ea-adca-e4818028df54`, item `d3e91e42-862c-48b0-9142-8237714a614d`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "7853c9ad9959bc2b8414612b7af1486e16c24dbb653056691f269be1eaca25f9",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aa680c7-90ac-83ea-adca-e4818028df54",
+        "message_id": "d3e91e42-862c-48b0-9142-8237714a614d",
+        "source_text_sha256": "c45e3d468383ffd31b974f78f2a283931dae919ca28cbd13973b8532bb758ed4",
+        "source_html_sha256": "2ec868ae484d4aea111034caead34adcc59f5d7ec2d0b6cd9f8ad7a7c08b2fa4",
+        "rendered_characters": 3831,
+        "selection": "Research concepts and proposed tests; no experimental results newly produced"
+      }
+    },
+    {
+      "id": "deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b",
+      "title": "Scopolamine — controlled evidence, clinical reports, and rumor limits",
+      "path": "research/chats/deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b.md",
+      "origin": "chatgpt thread `6aaa8a2e-0470-83ea-acdc-8d74aa3e9c2f`, item `1847723b-ba36-4f5e-b6b8-d22ad31a242b`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "9b3c1fdfa25053ad09d6ce42954f817f4500f4a8b58022298e87016e33cb0a74",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aaa8a2e-0470-83ea-acdc-8d74aa3e9c2f",
+        "message_id": "1847723b-ba36-4f5e-b6b8-d22ad31a242b",
+        "source_text_sha256": "6d91f221df80bbd4385d45c4093607dd45a0366384b17292d3c1d329dbf3e092",
+        "source_html_sha256": "a101fae9a41962d04011f2b2a9cc192fc30674ff5c9f0b702ad66f95865de6fc",
+        "rendered_characters": 16286,
+        "selection": "General pharmacology and evidence review only; the entire individualized case discussion and conclusions omitted"
+      }
+    },
+    {
+      "id": "deeper-8f804713-457a-4482-b222-f9e23e0216be",
+      "title": "Psychological tells and kinesthetics — limits of behavioral inference",
+      "path": "research/chats/deeper-8f804713-457a-4482-b222-f9e23e0216be.md",
+      "origin": "chatgpt thread `6a2ff95a-4eec-83ea-9fa7-3fe837d1810f`, item `8f804713-457a-4482-b222-f9e23e0216be`",
+      "status": "Historical conceptual overview; original answer has no inline citations; added references support only the stated narrow conclusions",
+      "sha256": "1da62cdf3f9d36dfff0c6230b882d3f1b8ecd06e5e007106527eef28f5e1b084",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6a2ff95a-4eec-83ea-9fa7-3fe837d1810f",
+        "message_id": "8f804713-457a-4482-b222-f9e23e0216be",
+        "source_text_sha256": "ef1a3410967af91b5a9df9a38d65bff633b76e69179529a2893fa62e35ab922a",
+        "source_html_sha256": "34b9f70c35708a60ca1e825b11f0126c2ae58999712855088e660b04969f5019",
+        "rendered_characters": 3938,
+        "selection": "Original research-oriented overview; unrelated writing expansions omitted; editorial sources visibly separated"
+      }
+    },
+    {
+      "id": "deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f",
+      "title": "Memory reconstruction and neural decoding — scientific limits and evaluation",
+      "path": "research/chats/deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f.md",
+      "origin": "chatgpt thread `6aac8155-d014-83ea-a675-23c31e050e3e`, item `348ea0b2-0309-4af9-bab5-208c3f7a088f`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "6d164c2eca9c4a150c39fdd19e823935bdd461b7e4792a2039cbb71b4b9ff830",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6aac8155-d014-83ea-a675-23c31e050e3e",
+        "message_id": "348ea0b2-0309-4af9-bab5-208c3f7a088f",
+        "source_text_sha256": "b36b28a16122e4550aecdd2938fbf20064f2e6382a3dc5fb428a86c006f47b28",
+        "source_html_sha256": "dafbc63e84c2fdb8397f336b8329fb2e8b169b50540e0a2e5eb543132dfc5f08",
+        "rendered_characters": 17030,
+        "selection": "Scientific capability, false-memory risk, and validation sections only; product, market, family-history, and commercial material omitted"
+      }
+    },
+    {
+      "id": "deeper-bc78232e-6eec-4ca7-a114-1551a6eb58a4",
+      "title": "Phone-based REM inference — original research leads",
+      "path": "research/chats/deeper-bc78232e-6eec-4ca7-a114-1551a6eb58a4.md",
+      "origin": "chatgpt thread `6a92cb6a-a218-83ea-aaa9-64c8725a92e3`, item `bc78232e-6eec-4ca7-a114-1551a6eb58a4`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "68f7c8b80adbdb307c97e72704be314cd38d8d758003eacd39fa977852967f3b",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6a92cb6a-a218-83ea-aaa9-64c8725a92e3",
+        "message_id": "bc78232e-6eec-4ca7-a114-1551a6eb58a4",
+        "source_text_sha256": "8638d77ad5ec8b8bb163b4048d7300dc1e0b77676aaacdc67b704d226943642b",
+        "source_html_sha256": "479259fc66bfd28ea757f8e1d131b6dc8c43d80e73cb70fd49619e7baf0ca355",
+        "rendered_characters": 1657,
+        "selection": "Complete scientific answer; accuracy figures are inherited reports, not fresh device validation"
+      }
+    },
+    {
+      "id": "deeper-c4968b66-f9ca-4abd-a986-b238d5aff2aa",
+      "title": "Sleep-state cueing in mice — fear-memory studies",
+      "path": "research/chats/deeper-c4968b66-f9ca-4abd-a986-b238d5aff2aa.md",
+      "origin": "chatgpt thread `6a92cb6a-a218-83ea-aaa9-64c8725a92e3`, item `c4968b66-f9ca-4abd-a986-b238d5aff2aa`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "16d1f3843328679c57e31a9fcef8b3e85acd635fe713d90fe6893e9c6e63318c",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6a92cb6a-a218-83ea-aaa9-64c8725a92e3",
+        "message_id": "c4968b66-f9ca-4abd-a986-b238d5aff2aa",
+        "source_text_sha256": "2aaaa37ebc615d991d6f00325a172bb44e7458e37cfc13ab8a11dabc9fa2ae07",
+        "source_html_sha256": "21497fceb4a661d4d47b7546436788af4bf028f75630a1319592f6041bbb88d6",
+        "rendered_characters": 1999,
+        "selection": "Animal-study research paragraphs only; family context and proposed human-app extrapolation omitted"
+      }
+    },
+    {
+      "id": "deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d",
+      "title": "Dream engineering — incubation, REM, and sleep physiology",
+      "path": "research/chats/deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d.md",
+      "origin": "chatgpt thread `6a92cb6a-a218-83ea-aaa9-64c8725a92e3`, item `2d5f09ab-d475-4dd0-a981-8a1954c8af1d`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "1659c79190ddad969138db23bd0f073dbab22fe4d272f52fe1008db25cd6650d",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6a92cb6a-a218-83ea-aaa9-64c8725a92e3",
+        "message_id": "2d5f09ab-d475-4dd0-a981-8a1954c8af1d",
+        "source_text_sha256": "98587f9d65865e80f0b9b98d0a62266c42cb12f13b37ce5b4939e8d0cb07d327",
+        "source_html_sha256": "f415dccef83b9ba33e379c0f8271321b09e49c428cd1e9b959e48d44048f7944",
+        "rendered_characters": 2643,
+        "selection": "Research review; study limits and the real-time staging dependency retained"
+      }
+    },
+    {
+      "id": "deeper-0ce1626d-b373-4583-87bb-6bf20072bbcc",
+      "title": "State-dependent responses to sound during sleep",
+      "path": "research/chats/deeper-0ce1626d-b373-4583-87bb-6bf20072bbcc.md",
+      "origin": "chatgpt thread `6a92cb6a-a218-83ea-aaa9-64c8725a92e3`, item `0ce1626d-b373-4583-87bb-6bf20072bbcc`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "81fc77cf18ef5a518b3665691f0fbe103bd4ea2b601ec81c93c00e063264bb18",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6a92cb6a-a218-83ea-aaa9-64c8725a92e3",
+        "message_id": "0ce1626d-b373-4583-87bb-6bf20072bbcc",
+        "source_text_sha256": "3d95e4649bc826612bc37f9a42c2127d5bcb20e836989fd82a6f8a1b19e48009",
+        "source_html_sha256": "9a90856f6754708cc94e540de811785cbb8309dcf81be7a7b2c5492e383ec779",
+        "rendered_characters": 3788,
+        "selection": "Research explanation of sound timing, sleep state, and prior learning"
+      }
+    },
+    {
+      "id": "deeper-3c8ec32e-4cab-4cd0-9d03-506d7af30574",
+      "title": "Habituation to arousal versus susceptibility to suggestion",
+      "path": "research/chats/deeper-3c8ec32e-4cab-4cd0-9d03-506d7af30574.md",
+      "origin": "chatgpt thread `6a92cb6a-a218-83ea-aaa9-64c8725a92e3`, item `3c8ec32e-4cab-4cd0-9d03-506d7af30574`",
+      "status": "Historical assistant research recovered through deep-research discovery; source links recovered, claims not comprehensively reverified",
+      "sha256": "7260eed58c10e99518b914016f4c95899fd02e6780c55275657092aef9411a83",
+      "recovery": {
+        "method": "signed-in rendered message DOM",
+        "conversation_id": "6a92cb6a-a218-83ea-aaa9-64c8725a92e3",
+        "message_id": "3c8ec32e-4cab-4cd0-9d03-506d7af30574",
+        "source_text_sha256": "c9358649ee83fe3db430edff13e43b39d1e00ac71a4649485cfb3370ed12448b",
+        "source_html_sha256": "b2a8da8d51c2d6c2fed1dcbaef8d5dd0eee8932b402f0cf62c41af217c43273b",
+        "rendered_characters": 2212,
+        "selection": "Conceptual distinction and cited empirical limits; no proof that habituation amplifies suggestion"
+      }
+    },
+    {
+      "id": "deeper-hypnosis-evidence-archive",
+      "title": "Hypnosis evidence archive — references and original research appendices",
+      "path": "research/chats/deeper-hypnosis-evidence-archive.md",
+      "origin": "chatgpt thread `6ab42197-8878-83ea-a18d-6ad10e8fffaf`, rendered file `research-evidence-archive.md`",
+      "status": "Historical ChatGPT-generated evidence archive; recovered from the file viewer; source claims remain historical",
+      "sha256": "063d40682de4103a754af4821906d32560fce15db73550493465a077eb04c61b",
+      "recovery": {
+        "method": "signed-in rendered file viewer",
+        "source_text_sha256": "8a745e7d2580c9b3ec506fe5d81ca79d751ea1d10c699ed1e914164d68f9b477",
+        "source_html_sha256": "12445973e0860ad9718fdac228d1cb9a61209eca5a3f8a3e3fcd4db4fa8f42cf",
+        "rendered_characters": 48996
       }
     }
   ],
@@ -1327,5 +2236,68 @@
       "supplement-a063061a-c55e-4c3c-bf77-375a9e186442"
     ],
     "method": "Account reader plus signed-in rendered conversation DOM and bounded content search"
+  },
+  "citation_audit": {
+    "date": "2026-10-27",
+    "original_marker_count": 471,
+    "dispositions": {
+      "original_public_link_recovered": 411,
+      "explicit_bibliographic_identifier_resolved": 5,
+      "original_generated_artifact_recovered": 3,
+      "empty_nonbibliographic_equipment_widget": 1,
+      "editorial_registry_replacement": 1,
+      "editorial_cross_reference_original_attachment_unavailable": 50
+    },
+    "original_uploaded_file_references_unrecovered": 50,
+    "report": "sources/citation-recovery.json",
+    "ledger_sha256": "7d96047406abad276533e529a4f9a2817aa62be6bf0755c7a73455a6ff192206"
+  },
+  "deep_research_discovery": {
+    "date": "2026-10-27",
+    "exact_query": "deep research",
+    "returned_chat_results_screened": 172,
+    "pagination_exhausted": true,
+    "new_record_ids": [
+      "deeper-f6119b03-261d-4396-88c8-a54a8e04ad8d",
+      "deeper-5cac1ee0-8ea7-495e-984b-837e541cc7c0",
+      "deeper-f0a6a578-e15b-4b86-98e4-a5e21dd4c3c0",
+      "deeper-6ddd5ee5-8e07-443c-aa45-0e267e54a7f0",
+      "deeper-bea38127-ce72-43f1-9803-253e56139eac",
+      "deeper-6e1eb6b0-d045-4619-a75c-ae7c3911b2f4",
+      "deeper-d3e91e42-862c-48b0-9142-8237714a614d",
+      "deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b",
+      "deeper-8f804713-457a-4482-b222-f9e23e0216be",
+      "deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f",
+      "deeper-bc78232e-6eec-4ca7-a114-1551a6eb58a4",
+      "deeper-c4968b66-f9ca-4abd-a986-b238d5aff2aa",
+      "deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d",
+      "deeper-0ce1626d-b373-4583-87bb-6bf20072bbcc",
+      "deeper-3c8ec32e-4cab-4cd0-9d03-506d7af30574",
+      "deeper-hypnosis-evidence-archive"
+    ],
+    "method": "Paginated signed-in content search, account reader, matching rendered messages, and rendered evidence-archive file; topic-relevant research only",
+    "limits": "Provider search is not an account export. Unrelated content and personal/family case material excluded. Some relevant chats were separately found through titles or earlier searches.",
+    "private_search_inventory_sha256": "f9db908f96d68f26f885cff239d6061cf203b4fccd2ea533503d7db14854dd3a"
+  },
+  "source_link_audit": {
+    "date": "2026-10-27",
+    "unique_source_urls": 746,
+    "http_summary": {
+      "reachable": 339,
+      "access_restricted": 120,
+      "http_error": 2,
+      "redirect_landing": 48,
+      "access_challenge": 230,
+      "request_failed": 7
+    },
+    "metadata_summary": {
+      "not_applicable": 276,
+      "api_identity_resolved": 467,
+      "independent_identity_resolved_after_index_miss": 3
+    },
+    "report": "sources/link-audit.json",
+    "report_sha256": "35cc5f51092b5f4ca2a9a545a3e924d6ca2dc854cb3f084c434042eb3527c225",
+    "registry_report": "sources/trial-identity-checks.json",
+    "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   }
 }

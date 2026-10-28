@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Catalog](catalog.md) · [Corrections](corrections.md)
 
-Collection and supplementary recovery date: October 27, 2026, America/New_York. The manifest contains 128 selected research records. These are research extracts and notes, not 128 independent studies or 128 distinct conversations. See the [recovery report](recovery.md) for the six restored answers and 37 additional records.
+Collection and supplementary recovery date: October 27, 2026, America/New_York. The manifest contains 144 selected research records. These are extracts, research artifacts, and notes, not 144 independent studies or distinct conversations. The [recovery report](recovery.md) records six restored answers and the first 37 supplementary records. The [citation/discovery audit](citation-audit.md) adds 16 records and accounts for the 471 original unresolved markers.
 
 ## Discovery performed
 
@@ -14,6 +14,8 @@ Collection and supplementary recovery date: October 27, 2026, America/New_York. 
 - Examined relevant Faraday workspace notes, the sleep/acoustic reference campaign, and the October 15 Codæmons/Sthetiquea dossiers. The REM catalog proved unrelated to sleep research.
 - Supplemented title discovery with signed-in content searches for sleep, hypnosis, conditioning, subliminal, and dream. Read matching conversations through the account reader and rendered conversation view; restored all six original truncated answers and three newly found long answers before publication.
 - Repeated the Drive searches for hypnosis/sleep and checked for a conversations.json export. No export was returned. Examined the local session-title index with broader influence/suggestion terms and recovered Develop influence protections. Existing literary/cultural notes were reviewed for research relevance without importing plot or personal material.
+- Paginated the signed-in **deep research** content search until all 172 returned chat results were loaded. Screened titles and excerpts, opened relevant chats and matching older answers, and recovered the named hypnosis evidence-archive file through its viewer. Relevant additions include TMR, scopolamine, memory reconstruction, behavioral inference, and earlier sleep research hidden in a troubleshooting chat.
+- Matched original citation indices to rendered source messages and expanded 45 grouped citation widgets. Audited every collected public source URL for access, with independent bibliographic checks where identifiers permit. Retrieved all six cited clinical-trial identities from ClinicalTrials.gov.
 
 The Drive snapshot is October 11, 2026. Current account-reader histories and later project notes extend beyond it. Raw backup transcripts remain in private local staging and the existing private backup; private backup URLs are not published here.
 
@@ -25,22 +27,25 @@ ChatGPT: **wiki pages on hypnosis**, **Magnetoreception Applications Research**,
 
 Supplementary ChatGPT sources: **Hypnosis Neuroscience Explanation**, **Explain hypnosis study**, **Branch · Explain hypnosis study**, **Deep Research Repetition Effects**, **MKULTRA Deep Research**, **Invisible Signals Experiment**, **Research Summary**, **Summarize Ring of Gyges**, **Intelligence Propaganda Evidence**, and the RFK section of **Research intelligence assassinations**. A different conversation also titled **Magnetoreception Applications Research** supplied sleeping-brain reviews; the distinct thread IDs are retained. **Identifying Robert Stickgold's Work** was reviewed as an overlapping bibliography lead; its research themes and dream-advertising source were already represented, so its biography was not separately imported.
 
+Deeper additions: **Deep Research on TMR**, **Scopolamine Rumors Explained**, **Psychological Tells and Kinesthetics**, **Research Memory Recreation Tech**, and **Branch · Booster troubleshooting guide**. The recovered generated evidence archive belongs to **Branch · Explain hypnosis study**. Its original reference index and appendices remain derivative research, not independent studies.
+
 Titles are discovery aids. Records identify the source thread and item/rollout ordinal. Forked histories can share messages and later acquire different titles; shared answers count once.
 
 ## Selection and transformations
 
 Research-bearing assistant answers were selected instead of publishing whole private conversations. Excluded material includes medical symptoms and individualized advice, shopping/testing logistics, private correspondence and voicemail, unrelated family sleep discussions, credentials, and unrelated literary directions. Relevant historical pharmacology and funding research remains included. Topic-related fictional extrapolation is labeled as such.
 
-Personal-context sentences and local filesystem links were removed or visibly replaced. ChatGPT internal citation markers were rendered as unresolved markers; they were not converted into invented bibliographic references. Source text, selection labels, and hashes describe the published derivatives, not untouched raw transcripts. Some source answers contain superseded claims; the corrections page and topic pages govern the current editorial interpretation.
+Personal-context sentences and local filesystem links were removed or visibly replaced. The initial collection left ChatGPT citation markers unresolved. The current audit records their actual dispositions: recovered links, explicit DOI resolutions, a recovered artifact, empty widgets, and labeled editorial supplementation. Fifty original uploaded-file references remain unrecovered; related sources do not impersonate those uploads. Source text, selection labels, and hashes describe publication derivatives, not untouched raw transcripts. Some answers contain superseded claims; the corrections page and topic pages govern current editorial interpretation.
 
 ## What remains incomplete
 
 1. No complete ChatGPT account export was available in the inspected sources. The current chat list is bounded, and archived title discovery cannot identify all relevant content hidden under unrelated titles. An exhaustive account-wide claim is therefore unsupported.
-2. The six original 20,000-character reader truncations are resolved through complete rendered answers. Their message IDs, matching openings, matching cutoff tails, additional text, and snapshot hashes are recorded. Three supplementary reader truncations were also resolved. These rendered derivatives do not constitute a complete raw export, and grouped citation sources can remain partly unexpanded.
+2. The six original 20,000-character reader truncations are resolved through complete rendered answers. Their message IDs, matching openings, matching cutoff tails, additional text, and snapshot hashes are recorded. Three supplementary reader truncations were also resolved. One of those source messages itself ends mid-sentence; its visible boundary is now explicit. These derivatives are not a complete raw export, and some grouped sources remain unexpanded.
 3. The multipart lossless backup was not recovered. Full tool output, identified attachments, and older unprojected fragments may add research not in readable projections.
 4. General Faraday development chats were located through the catalog, but unrelated implementation turns were not exhaustively imported. Their relevant research notes were collected.
 5. The local index was searched by title and the signed-in account by bounded content queries; all raw rollout contents across every host were not globally searched. Remote-only, deleted, inaccessible, untitled, and inactive-branch material may remain.
 6. No dataset download, model integration, experiment, participant exposure, or simulation replay occurred in this collection pass. Prior reported runs remain historical reports.
-7. Most paper links are recovered research leads, not fresh full-text verification. Some primary-source retrievals were blocked by provider challenges. Vendor terms, medical advice, budget figures, and platform rules in historical excerpts may be outdated.
+7. Every collected source URL was included in the access audit, but many publisher requests met challenges, restrictions, or redirect pages. Publication metadata verifies identity rather than full-text access or support for every claim. Seven legacy endpoints failed direct TLS verification. Vendor terms, historical figures, and platform rules in archived excerpts can be outdated. See the [link report](link-audit.md) for exact results and alternatives.
+8. Forty-nine citations to uploads displayed as `Pasted text.txt`, plus one unidentified proposal upload, remain unavailable. Editorial sources are separately labeled and cannot establish the missing files’ exact contents. The original kinesthetics overview supplied no inline citations; new references support only its stated narrower conclusions.
 
 The smallest next completeness step is a full account conversation export reconciled against the thread IDs in this collection. It should be processed privately, with research-only publication selection and explicit gap tracking.

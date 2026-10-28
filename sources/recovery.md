@@ -21,7 +21,7 @@ These are complete rendered-answer derivatives, not byte-for-byte account export
 
 ## Additional recovery
 
-The supplementary search added 37 research records, bringing the collection to 128. Three newly discovered answers also exceeded the account reader limit: the repetition/mental-focus review, the sleeping-brain review in a different conversation also titled Magnetoreception Applications Research, and the expanded Invisible Signals Experiment review. Those three were recovered from their complete rendered answers before publication, so they add no new reader-truncation gaps.
+The first supplementary search added 37 research records, bringing the collection to 128 at commit `677a21e`. Three newly discovered answers also exceeded the account reader limit: the repetition/mental-focus review, the sleeping-brain review in a different conversation also titled Magnetoreception Applications Research, and the expanded Invisible Signals Experiment review. Those three were recovered through their visible rendered endings, resolving the reader cutoffs. The sleeping-brain source itself ends mid-sentence; that original generation boundary is now explicitly labeled and no continuation has been invented.
 
 The content search covered sleep, hypnosis, conditioning, subliminal, and dream. It exposed relevant chats hidden behind broad or unrelated titles, including Summarize Ring of Gyges and Research Summary. Older rendered turns also exposed agency and sleep research absent from the account reader's current branch. Shared item IDs were deduplicated against the existing collection.
 
@@ -29,6 +29,8 @@ New materials cover hypnotic-response durability, absorption and test context, c
 
 ## Remaining limits
 
-Citation badges now supply visible public links for the six recovered answers, but grouped “additional sources” were not expanded exhaustively. Unresolved citations elsewhere remain explicit. Search is bounded and branch-sensitive; not every historical revision, inactive branch, attachment, or chat under an unrelated title is guaranteed recovered. The lossless backup was not downloaded, and no full account export was obtained. No experiments or simulations were rerun.
+The deeper pass adds 16 records, bringing the collection to 144. It screens 172 returned **deep research** chat results and recovers a generated hypnosis evidence archive. All 471 old unresolved citation markers now have explicit dispositions; 411 original public citations and three original artifact references are recovered, while five DOIs and two empty widgets receive separately labeled resolutions. Fifty upload references have editorial supplements and remain unrecovered as original files. See the [citation audit](citation-audit.md).
+
+Grouped “additional sources” were expanded selectively, not exhaustively. Search is bounded and branch-sensitive; not every historical revision, inactive branch, attachment, or chat under an unrelated title is guaranteed recovered. The lossless backup was not downloaded, and no full account export was obtained. No experiments or simulations were rerun.
 
 The checked-in manifest records the original six recovery receipts and the exact IDs of all supplementary records. Private capture files stay outside the public repository.

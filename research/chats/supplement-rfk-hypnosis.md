@@ -12,6 +12,6 @@ Selection: RFK section only; historical research, not a fresh legal assessment. 
 
 ## Robert F. Kennedy: large releases, with old redactions still present
 
-NARA lists **84,524 pages across three 2025 releases**, plus audio files. Its notes explicitly say some records reproduce **1976 FOIA releases with their original redactions intact**; many June records had already been available onsite. Newly posted material is not necessarily newly declassified material. [citation marker unresolved in reader]
+NARA lists **84,524 pages across three 2025 releases**, plus audio files. Its notes explicitly say some records reproduce **1976 FOIA releases with their original redactions intact**; many June records had already been available onsite. Newly posted material is not necessarily newly declassified material. [source 13](https://www.archives.gov/research/rfk)
 
-I did not locate a corroborated released record establishing that Sirhan acted under CIA instructions. A 2015 federal decision found the submitted hypnosis and second-shooter evidence insufficient to pass the actual-innocence gateway and obtain the requested evidentiary hearing. That ruling was not a new murder trial. [citation marker unresolved in reader]
+I did not locate a corroborated released record establishing that Sirhan acted under CIA instructions. A 2015 federal decision found the submitted hypnosis and second-shooter evidence insufficient to pass the actual-innocence gateway and obtain the requested evidentiary hearing. That ruling was not a new murder trial. [source 14](https://docs.justia.com/cases/federal/district-courts/california/cacdce/2%3A2000cv05686/6331/222/)

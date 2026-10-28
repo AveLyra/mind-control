@@ -4,6 +4,8 @@
 
 Source: chatgpt thread `6ab16e89-dda4-83ea-9b00-17522496c389`, item `38f265c2-ea46-4b51-8a4c-ca4e80526c4a`
 
+Citation provenance: The original answer cites an unavailable uploaded file (`turn3file2`). Links labeled **editorial source** or **editorial synthesis** were added during this audit. They supply related published evidence or an explicitly labeled interpretation; they are not recovered links from that upload. See the [attachment gap](../../sources/citation-audit.md#unavailable-upload).
+
 Selection: Complete research answer; source citations and limitations retained. Personal prompts and unrelated correspondence are excluded.
 
 [Wiki home](../../README.md) · [Source catalog](../../sources/catalog.md)
@@ -28,9 +30,9 @@ The same transmission could succeed at one level and fail at another:
 
 **The central distinction is that a computer decoding information from someone’s brain does not necessarily mean that person knows the information.**
 
-There is already a close precedent for the neural-recording level. A 2022 study used imperceptible flicker and MEG to identify which location participants voluntarily attended to; a 2023 study demonstrated an EEG-based interface using imperceptible flicker. These are instrumented interfaces—not demonstrations of people understanding secretly delivered sentences. [citation marker unresolved in reader]
+There is already a close precedent for the neural-recording level. A 2022 study used imperceptible flicker and MEG to identify which location participants voluntarily attended to; a 2023 study demonstrated an EEG-based interface using imperceptible flicker. These are instrumented interfaces—not demonstrations of people understanding secretly delivered sentences. [source 0](https://pubmed.ncbi.nlm.nih.gov/36228894/)
 
-Also, **imperceptible flicker does not mean invisible content**. A person may consciously see the target while not noticing its rapid brightness changes. That distinction matters enormously when interpreting these studies. [citation marker unresolved in reader]
+Also, **imperceptible flicker does not mean invisible content**. A person may consciously see the target while not noticing its rapid brightness changes. That distinction matters enormously when interpreting these studies. [source 1](https://pubmed.ncbi.nlm.nih.gov/36228894/)
 
 ## 2. The experiment I would propose
 
@@ -78,7 +80,7 @@ These are not interchangeable.
 
 Someone might fail to notice flicker yet consciously recognize a faint change that identifies the symbol. That would still be interesting communication—but not unconscious message reception.
 
-Conversely, someone might answer above chance while saying they were guessing. The appropriate initial conclusion would be **“discrimination with low reported awareness,”** not automatically “unconscious comprehension.” Published experiments illustrate how difficult it is to separate genuinely unconscious performance from residual conscious perception and task-specific effects. [citation marker unresolved in reader]
+Conversely, someone might answer above chance while saying they were guessing. The appropriate initial conclusion would be **“discrimination with low reported awareness,”** not automatically “unconscious comprehension.” Published experiments illustrate how difficult it is to separate genuinely unconscious performance from residual conscious perception and task-specific effects. [editorial source attachment-turn3file2a](https://journalofcognition.org/articles/10.5334/joc.419) [editorial source attachment-turn3file2b](https://doi.org/10.1016/j.concog.2026.104018)
 
 I would therefore measure both reported experience and performance on a separate, carefully matched flicker-detection task. Importantly, that detection task tests awareness of **modulation**, not necessarily awareness of **message content**.
 
@@ -109,7 +111,7 @@ Keeping these projects separate makes the evidence clearer: **miniaturization ca
 
 ### Infrared conversion: an equipped sensory channel
 
-The 2025 contact-lens study used upconversion materials to make near-infrared information perceptible to equipped participants. That supports an engineered sensory channel; the external carrier can be invisible while the converted signal becomes visible to its recipient. [citation marker unresolved in reader]
+The 2025 contact-lens study used upconversion materials to make near-infrared information perceptible to equipped participants. That supports an engineered sensory channel; the external carrier can be invisible while the converted signal becomes visible to its recipient. [source 3](https://pubmed.ncbi.nlm.nih.gov/40409271/)
 
 I would not make experimental contact lenses part of an initial project. A separate external detector and display could test the communication concept without putting experimental materials on an eye—but it would remain ordinary equipment-assisted reception.
 
@@ -117,13 +119,13 @@ I would not make experimental contact lenses part of an initial project. A separ
 
 An awake, eyes-closed condition could be a subsequent comparison after the eyes-open protocol is established.
 
-Sleep should be another study, with physiological sleep monitoring and checks for awakenings. The 2021 interactive-dreaming work demonstrated some correct responses during verified REM sleep, including lucid dreaming; it does not establish routine decoding of complex, unnoticed messages by ordinary sleepers. [citation marker unresolved in reader]
+Sleep should be another study, with physiological sleep monitoring and checks for awakenings. The 2021 interactive-dreaming work demonstrated some correct responses during verified REM sleep, including lucid dreaming; it does not establish routine decoding of complex, unnoticed messages by ordinary sleepers. [source 4](https://pubmed.ncbi.nlm.nih.gov/33607035/)
 
 ## 6. Safety changes the starting point
 
-**Do not treat “imperceptible” as synonymous with “safe.”** Flashing light can provoke seizures in susceptible people, and relevant frequencies can extend up to approximately 60 flashes per second. A blanket “40–60 Hz is invisible and harmless” assumption would be inappropriate. [citation marker unresolved in reader]
+**Do not treat “imperceptible” as synonymous with “safe.”** Flashing light can provoke seizures in susceptible people, and relevant frequencies can extend up to approximately 60 flashes per second. A blanket “40–60 Hz is invisible and harmless” assumption would be inappropriate. [source 5](https://www.epilepsy.org.uk/info/seizure-triggers/photosensitive-epilepsy)
 
-Invisible infrared also lacks the ordinary visible-light warning that prompts someone to look away; sufficiently intense near-infrared exposure can injure the eye. I would exclude improvised infrared eye exposure, lasers, homemade contact lenses, and unattended overnight stimulation from this project. [citation marker unresolved in reader]
+Invisible infrared also lacks the ordinary visible-light warning that prompts someone to look away; sufficiently intense near-infrared exposure can injure the eye. I would exclude improvised infrared eye exposure, lasers, homemade contact lenses, and unattended overnight stimulation from this project. [source 6](https://ehs.lbl.gov/resource/laser-bio-effects/)
 
 **My recommendation:** start with the randomization, recording, analysis, and bench-level signal verification. Then take the human experiment to a vision or EEG research group.
 

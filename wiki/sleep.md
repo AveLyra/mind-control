@@ -28,3 +28,11 @@ Find the seven recovered answers under **Find research on sleep hypnosis** in th
 ## Most useful unresolved test
 
 Can a non-lucid sleeper learn a genuinely new rule and apply it to held-out examples after waking, with awareness and brief awakenings independently assessed? The archived proposals identify this as a larger claim than reactivating prior learning. No collected simulation tests it. Ordinary waking exposure, arousal, expectancy, and selective recall are strong alternative explanations that any interpretation must address.
+
+## Deeper research recovered
+
+The original [Deep Research on TMR review](../research/chats/deeper-f6119b03-261d-4396-88c8-a54a8e04ad8d.md) and its [extended assessment and bibliography](../research/chats/deeper-5cac1ee0-8ea7-495e-984b-837e541cc7c0.md) add home cueing, emotional-memory studies, dream content, negative results, and the distinction between a narrative review and a meta-analysis. [Dream-engineering research](../research/chats/deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d.md) and [mouse cueing studies](../research/chats/deeper-c4968b66-f9ca-4abd-a986-b238d5aff2aa.md) are retained with their species, state, and sample limits.
+
+The [2025 social-evaluation paper](https://www.nature.com/articles/s41539-025-00356-9) reports changed evaluations after name–positive-trait pairings during sleep. Its discussion also identifies no follow-up test, no wakefulness comparison, restricted participant/stimulus generalizability, and difficulty separating new integration from reactivation. Those limits prevent inferring durable, arbitrary persuasion in everyday settings. Lack of later recall alone is also insufficient to settle awareness during stimulation.
+
+The [proposed digital-experience research program](../research/chats/deeper-f0a6a578-e15b-4b86-98e4-a5e21dd4c3c0.md) and [disclosure/awareness model](../research/chats/deeper-d3e91e42-862c-48b0-9142-8237714a614d.md) describe possible tests, not completed studies. See the [citation audit](../sources/citation-audit.md) for discovery scope and unavailable uploads.

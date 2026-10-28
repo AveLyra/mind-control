@@ -1,0 +1,49 @@
+{
+  "checked_date": "2026-10-27",
+  "method": "ClinicalTrials.gov get_trial_details connector; only identity and listed status/date fields extracted",
+  "scope": "Title and registry identity checks for all NCT links in the collected research. Other trial fields and outcomes were not comprehensively reviewed.",
+  "studies": [
+    {
+      "nct_id": "NCT03834857",
+      "title": "SWITCH: Stentrode First-in-Human Study of Implantable BCI for Control of a Digital Device",
+      "source_url": "https://clinicaltrials.gov/study/NCT03834857",
+      "last_update_post_date": "2022-09-01",
+      "status": "COMPLETED"
+    },
+    {
+      "nct_id": "NCT05035823",
+      "title": "COMMAND Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis",
+      "source_url": "https://clinicaltrials.gov/study/NCT05035823",
+      "last_update_post_date": "2026-09-08",
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "nct_id": "NCT07224256",
+      "title": "VOICE: An Early Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for Communication Restoration",
+      "source_url": "https://clinicaltrials.gov/study/NCT07224256",
+      "last_update_post_date": "2025-11-04",
+      "status": "RECRUITING"
+    },
+    {
+      "nct_id": "NCT07543367",
+      "title": "INdependence Through Endovascular Neuroprosthetic Technology (INTENT): an Early Feasibility Study",
+      "source_url": "https://clinicaltrials.gov/study/NCT07543367",
+      "last_update_post_date": "2026-10-21",
+      "status": "RECRUITING"
+    },
+    {
+      "nct_id": "NCT07594483",
+      "title": "Regulated Stimulation for Optimized Network Activity and Therapeutic Equilibrium",
+      "source_url": "https://clinicaltrials.gov/study/NCT07594483",
+      "last_update_post_date": "2026-10-21",
+      "status": "RECRUITING"
+    },
+    {
+      "nct_id": "NCT07684794",
+      "title": "Regulated Stimulation for Optimized Network Activity and Therapeutic Equilibrium - Maintenance",
+      "source_url": "https://clinicaltrials.gov/study/NCT07684794",
+      "last_update_post_date": "2026-07-06",
+      "status": "NOT_YET_RECRUITING"
+    }
+  ]
+}

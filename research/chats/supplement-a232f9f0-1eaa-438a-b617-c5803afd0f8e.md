@@ -33,7 +33,7 @@ I examined publicly available production histories, financing information, artis
 
 Keenan's music frequently explores themes involving authority, manipulation, religion, institutional power, and human psychology.
 
-His official biography identifies his work with Tool, A Perfect Circle, and Puscifer, alongside his commercial ventures. None of the sources I located establishes an intelligence-agency financial or operational relationship. [citation marker unresolved in reader]
+His official biography identifies his work with Tool, A Perfect Circle, and Puscifer, alongside his commercial ventures. None of the sources I located establishes an intelligence-agency financial or operational relationship. [source 1](https://maynardjameskeenan.com/)
 
 An artist's engagement with themes of psychological manipulation does not establish participation in an intelligence operation.
 
@@ -45,7 +45,7 @@ Abel's *The Emilys*, published June 16, 2026, concerns friendship, parenting, en
 
 The documented publishing arrangement is with Random House.
 
-In an interview, Abel describes her interest in how climate change affects individuals and communities differently. This provides a publicly articulated creative motivation for the novel. [citation marker unresolved in reader]
+In an interview, Abel describes her interest in how climate change affects individuals and communities differently. This provides a publicly articulated creative motivation for the novel. [source 3](https://www.penguinrandomhouse.com/books/796383/the-emilys-by-heather-abel/)
 
 I found no credible reporting or documentation connecting the novel to intelligence sponsorship.
 
@@ -68,7 +68,7 @@ According to contemporary industry reporting:
 - Rebecca Green, Laura D. Smith, and other independent producers participated.
 - RADiUS acquired American distribution rights.
 
-The producers also discussed the financing process in an interview with Film Independent. [citation marker unresolved in reader]
+The producers also discussed the financing process in an interview with Film Independent. [source 5](https://www.filmindependent.org/blog/icymi-halloween-edition-the-making-of-indie-horror-classic-it-follows-with-director-david-robert-mitchell/)
 
 **Assessment:** The available evidence supports an ordinary independent-film production. It does not establish intelligence financing or editorial involvement.
 
@@ -82,7 +82,7 @@ This is particularly relevant because its fictional premise explicitly involves 
 
 The film was written by Max Landis and directed by Nima Nourizadeh.
 
-The American Film Institute identifies its production companies, including PalmStar Media, The Bridge Finance Company, Circle of Confusion, FilmNation Entertainment, and Likely Story. [citation marker unresolved in reader]
+The American Film Institute identifies its production companies, including PalmStar Media, The Bridge Finance Company, Circle of Confusion, FilmNation Entertainment, and Likely Story. [source 7](https://catalog.afi.com/Film/70408-AMERICAN-ULTRA)
 
 Its connection to MKULTRA is thematic and explicit, rather than evidence of secret participation.
 
@@ -104,7 +104,7 @@ However, **the claim that Kaczynski's Harvard experiments were part of MKULTRA h
 
 The film's writers, Sam Chalsen and Nelson Greaves, acknowledge dramatizing elements of Kaczynski's relationship with Murray.
 
-The documented production arrangement identifies 2.0 Entertainment and MRC, with Sophie Cassidy producing. [citation marker unresolved in reader]
+The documented production arrangement identifies 2.0 Entertainment and MRC, with Sophie Cassidy producing. [source 9](https://www.netflix.com/tudum/articles/unabomber-release-date-cast-news)
 
 There is no identified evidence that the CIA commissioned or financed this film.
 
@@ -118,7 +118,7 @@ A peer-reviewed investigation by Tom Secker and Matthew Alford, *New Evidence fo
 
 The researchers describe government involvement extending beyond straightforward technical advice, including influence over how military and intelligence institutions are represented.
 
-Their findings provide evidence that intelligence and defense organizations have sometimes influenced entertainment content through production relationships. They do not establish involvement in any of the specific works examined above. [citation marker unresolved in reader]
+Their findings provide evidence that intelligence and defense organizations have sometimes influenced entertainment content through production relationships. They do not establish involvement in any of the specific works examined above. [source 10](https://journals.sagepub.com/eprint/pid8iyWP5JRFAZSujypQ/full)
 
 [Read the academic investigation](https://journals.sagepub.com/eprint/pid8iyWP5JRFAZSujypQ/full?utm_source=chatgpt.com)
 

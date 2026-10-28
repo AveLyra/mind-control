@@ -27,3 +27,11 @@ Read the first five selected answers from **Research conditioning and hypnosis**
 The newly recovered [mental-focus review](../research/chats/supplement-4d344059-64d6-4a61-8749-6ffa673c3947.md) collects motor imagery, voluntary versus hypnotic experience, attention, and neural comparisons. Its reader truncation was resolved before publication. The [imagery and source-monitoring review](../research/chats/supplement-61ab65d6-91b2-414d-a69f-599e081abc03.md) discusses prior processing and later involuntary memories, while separating awareness of a stimulus from awareness of an intention.
 
 The [specific missing-combination assessment](../research/chats/supplement-9371b8a4-f8fe-49e9-a800-993bbf738a44.md) reports that the reviewed work did not cleanly demonstrate the proposed combination of immersive imagery, unnoticed speech, and a later specified response. Combining related studies is a hypothesis-generating synthesis, not an independent replication of that chain.
+
+## Semantic ambiguity and behavioral inference
+
+The deeper search recovered [wordplay as an experimental hypothesis](../research/chats/deeper-6e1eb6b0-d045-4619-a75c-ae7c3911b2f4.md), [subliminal cueing limits](../research/chats/deeper-6ddd5ee5-8e07-443c-aa45-0e267e54a7f0.md), and [source concealment versus conditioning](../research/chats/deeper-bea38127-ce72-43f1-9803-253e56139eac.md). Ambiguous speech, learning an association, changing an evaluation, and identifying intent require separate evidence.
+
+The recovered [kinesthetics overview](../research/chats/deeper-8f804713-457a-4482-b222-f9e23e0216be.md) supplied no original inline citations. Its gesture examples remain hypotheses, not diagnostic rules. An independently checked [meta-analysis of deception judgments](https://doi.org/10.1207/s15327957pspr1003_2) found average unaided accuracy of 54% across 206 documents and 24,483 judges. That is strong reason to avoid inferring deception or a particular internal state from an isolated gesture.
+
+The [sound-habituation discussion](../research/chats/deeper-3c8ec32e-4cab-4cd0-9d03-506d7af30574.md) separates reduced awakening from increased suggestibility. Reduced overt response cannot establish that a stimulus has become more effective at influencing beliefs or behavior.

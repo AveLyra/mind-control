@@ -24,3 +24,16 @@ Supplementary recovery checks, October 27, 2026:
 The checks do not validate the scientific claims, certify every external link, reproduce experiments, establish complete citation recovery, or establish exhaustive account coverage. Private DOM captures remain outside the public repository. See the recovery and coverage pages for scope and limitations.
 
 Git publication is verified separately against the committed hash and remote branch after pushing. Existing initial repository history is preserved.
+
+Citation and deeper-discovery checks, October 27, 2026:
+
+- The signed-in **deep research** result list was paginated to its observed end at 172 chats. Relevant reader results, rendered messages, and the generated evidence archive were reviewed privately; 16 selected records were added.
+- Private snapshot verification checked all 411 original public-citation mappings by conversation ID, message ID, citation index, and normalized primary URL: zero missing snapshots and zero mismatches. Per-record text/HTML snapshot digests and a verification-receipt digest are recorded. This checks retrieval, not whether a cited paper supports every sentence.
+- `tools/audit_source_links.py` checked 746 distinct source URLs through full and incremental runs. Final direct-access results: 339 reachable, 230 access challenges, 120 restricted, 48 redirect landing pages, seven request failures, and two HTTP errors. The two official guidance pages were independently retrieved through the web source tool; the access disagreement remains explicit.
+- Bibliographic services resolved 467 URL identities. Three index misses were independently matched against institutional or official publication records. All six cited NCT identities were retrieved using ClinicalTrials.gov. Counts refer to URL identities, not independent studies or complete full-text reviews.
+- `python3 tools/reindex_collection.py` regenerated the catalog and expanded source index: 144 records and 742 source URLs in research records. Four additional wiki-only URLs bring the access-audit scope to 746.
+- `python3 tools/verify_collection.py` passed for research digests, local links, the six original recovery receipts, all 471 citation dispositions, audit coverage/context paths, and the six registry identities. Fifty original upload references remain unrecovered and visibly labeled as editorial supplements. No generic unresolved citation placeholders remain.
+- `gitave diff --check` passed. The fetched remote `main` matched the pre-update local base, `677a21ef2b5ee080427bf05c96648e9de4f1cef7`.
+- Rechecked publication selection for private case context, account/backup links, workspace paths, and credential patterns. No files, chats, histories, or caches were deleted. Pattern checks supplement manual review; they do not prove the absence of every sensitive detail.
+
+The manifest hashes the citation ledger, link-audit report, and registry receipt. Reindexing refreshes generated audit-report digests after an intentional new audit; it does not silently rehash historical research records. The original source-answer ending that stops mid-sentence is explicit and was not completed by inference.

@@ -32,3 +32,9 @@ See the selected **Research conditioning and hypnosis — continuation** and **R
 A [historical correction inside Summarize Ring of Gyges](../research/chats/supplement-962e882d-5cc7-417c-9ad1-a233c870d5de.md) collects BLUEBIRD/ARTICHOKE record leads. The unrelated hypothetical surveillance budgets from that conversation were excluded. The [intervention-history review](../research/chats/supplement-b731e964-4813-4a9b-8c32-9d99ae6d0c0b.md) and [military-research connections review](../research/chats/supplement-4ee6aad7-ea3a-4dad-8899-5fb1117a8751.md) retain their distinctions among documented sponsorship, experimental findings, and speculative capability.
 
 The [RFK section](../research/chats/supplement-rfk-hypnosis.md) records an earlier account of releases and a court's treatment of submitted hypnosis evidence. It is a narrow historical legal-research excerpt, not a new finding about the assassination or a fresh legal assessment. Unsupported individual attribution is not established by these records.
+
+## Scopolamine: impairment and obedience are separate claims
+
+The deeper search recovered a [focused evidence review](../research/chats/deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b.md) covering controlled cognition studies, clinical reports, forensic exposure evidence, and competing explanations. Its individualized case discussion is excluded.
+
+In a [controlled human study](https://pubmed.ncbi.nlm.nih.gov/20158291/), scopolamine and triazolam impaired episodic memory and aspects of confidence calibration. The experiment measured memory and self-monitoring, not interpersonal obedience. Clinical reports of unusual cooperation raise a different question: other substances, general intoxication, social pressure, and retrospective reconstruction can confound causal attribution. Repeatedly citing the same case reports does not provide independent replication of a reliable obedience mechanism.
