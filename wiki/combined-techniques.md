@@ -4,6 +4,8 @@
 
 The [decoded-feedback/AI follow-up](decoded-feedback-and-ai-memory.md) now traces replication and cohort relationships and examines direct versus adjacent sleep/hypnosis combinations. Its source checks preserve the earlier review rather than rewriting its historical research record.
 
+The [reconsolidation/source-monitoring review](reconsolidation-and-source-monitoring.md) adds the possible mechanisms linking those fields, with positive and failed replications, recoverability results, and sleep effects that can oppose one another.
+
 **Some combinations already have human experimental evidence. The most defensible extensions concern restricted changes to learned material, responses, or reports. Evidence that the same ingredients can produce flexible new instructions, exact memory replacement, or a general behavior override remains missing.**
 
 This October 28, 2026 review prioritizes four connections because they have direct combination studies, plausible shared mechanisms, or especially informative counterexamples. “Promising” refers to a specified research question, not a probability of covert deployment or a treatment recommendation. The [source record](../research/updates/2026-10-28-combined-techniques.md) identifies 16 selected publications and the access limits of this bounded search.

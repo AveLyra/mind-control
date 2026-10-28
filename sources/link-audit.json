@@ -3,9 +3,9 @@
   "auditor_version": 3,
   "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
   "summary": {
-    "reachable": 428,
-    "access_challenge": 281,
+    "reachable": 463,
     "access_restricted": 146,
+    "access_challenge": 281,
     "redirect_landing": 55,
     "request_failed": 7,
     "http_error": 3
@@ -288,6 +288,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://arxiv.org/abs/2605.03261",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:17+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2605.03261",
+      "content_type": "text/html; charset=utf-8",
+      "title": "[2605.03261] Can AI Help You Get Over Your Breakup? One Session with a Belief-Reframing Chatbot Shows Sustained Distress Reduction",
+      "bytes_sampled": 43040,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://arxiv.org/abs/2609.28820",
       "record_paths": [
         "research/updates/2026-10-28-combined-techniques.md"
@@ -330,6 +346,22 @@
       "final_url": "https://arxiv.org/html/2409.08895v1",
       "content_type": "text/html; charset=utf-8",
       "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://arxiv.org/html/2605.03261v1",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:17+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/html/2605.03261v1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Can AI Help You Get Over Your Breakup? One Session with a Belief-Reframing Chatbot Shows Sustained Distress Reduction",
       "bytes_sampled": 131072,
       "status": "reachable",
       "pdf_signature": null,
@@ -11762,6 +11794,62 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15115061/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:13+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/15115061/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "15115061",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1076/iceh.52.2.188.28095",
+        "title": "Reality monitoring in hypnosis: a pilot investigation.",
+        "authorString": "Bryant RA, Mallard D.",
+        "pubYear": "2004",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15115061+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15788241/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/15788241/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Reality monitoring in hypnosis: a real-simulating analysis - PubMed",
+      "bytes_sampled": 113192,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "15788241",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207140490914216",
+        "title": "Reality monitoring in hypnosis: a real-simulating analysis.",
+        "authorString": "Bryant RA, Mallard D.",
+        "pubYear": "2005",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15788241+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/1594413/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-3-8.md"
@@ -11962,6 +12050,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17202429/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/17202429/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Reconsolidation of episodic memories: a subtle reminder triggers integration of new information - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "17202429",
+        "source": "MED",
+        "pmcid": "PMC1838545",
+        "doi": "10.1101/lm.365707",
+        "title": "Reconsolidation of episodic memories: a subtle reminder triggers integration of new information.",
+        "authorString": "Hupbach A, Gomez R, Hardt O, Nadel L.",
+        "pubYear": "2007",
+        "journalTitle": "Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17202429+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/17347444/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-55-36.md",
@@ -12021,6 +12137,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17983318/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:14+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/17983318/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Features and feedback: enhancing metamnemonic knowledge at retrieval reduces source-monitoring errors - PubMed",
+      "bytes_sampled": 126914,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "17983318",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/0278-7393.33.6.1131",
+        "title": "Features and feedback: enhancing metamnemonic knowledge at retrieval reduces source-monitoring errors.",
+        "authorString": "Lane SM, Roussel CC, Villa D, Morita SK.",
+        "pubYear": "2007",
+        "journalTitle": "J Exp Psychol Learn Mem Cogn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17983318+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/18184778/",
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md"
@@ -12045,6 +12189,34 @@
         "journalTitle": "J Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A18184778+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19037905/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:04+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/19037905/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "19037905",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/j.1467-9280.2008.02245.x",
+        "title": "Recalling a witnessed event increases eyewitness suggestibility: the reversed testing effect.",
+        "authorString": "Chan JC, Thomas AK, Bulevich JB.",
+        "pubYear": "2009",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19037905+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -12076,6 +12248,34 @@
         "journalTitle": "Psychopharmacology (Berl)",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19057896+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19468955/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/19468955/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Episodic memory reconsolidation: updating or source confusion? - PubMed",
+      "bytes_sampled": 114229,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "19468955",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658210902882399",
+        "title": "Episodic memory reconsolidation: updating or source confusion?",
+        "authorString": "Hupbach A, Gomez R, Nadel L.",
+        "pubYear": "2009",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19468955+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -12485,6 +12685,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21258327/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:06+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/21258327/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21258327",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1038/nn.2744",
+        "title": "Labile or stable: opposing consequences for memory when reactivated during waking and sleep.",
+        "authorString": "Diekelmann S, Büchel C, Born J, Rasch B.",
+        "pubYear": "2011",
+        "journalTitle": "Nat Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21258327+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/21655277/",
       "record_paths": [
         "research/chats/deeper-6ddd5ee5-8e07-443c-aa45-0e267e54a7f0.md",
@@ -12775,6 +13003,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22883683/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:15+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/22883683/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Undoing suggestive influence on memory: the reversibility of the eyewitness misinformation effect - PubMed",
+      "bytes_sampled": 119591,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "22883683",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.cognition.2012.07.009",
+        "title": "Undoing suggestive influence on memory: the reversibility of the eyewitness misinformation effect.",
+        "authorString": "Oeberst A, Blank H.",
+        "pubYear": "2012",
+        "journalTitle": "Cognition",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22883683+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/22922782/",
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-1-15.md",
@@ -12946,6 +13202,34 @@
         "journalTitle": "Hum Psychopharmacol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23776033+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23874738/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:10+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23874738/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23874738",
+        "source": "MED",
+        "pmcid": "PMC3706422",
+        "doi": "10.1371/journal.pone.0068727",
+        "title": "Does recall after sleep-dependent memory consolidation reinstate sensitivity to retroactive interference?",
+        "authorString": "Deliens G, Schmitz R, Caudron I, Mary A, Leproult R, Peigneux P.",
+        "pubYear": "2013",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23874738+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13678,6 +13962,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26754184/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:15+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26754184/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Why misinformation is reported: evidence from a warning and a source-monitoring task - PubMed",
+      "bytes_sampled": 127149,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26754184",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658211.2015.1117641",
+        "title": "Why misinformation is reported: evidence from a warning and a source-monitoring task.",
+        "authorString": "Wyler H, Oswald ME.",
+        "pubYear": "2016",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26754184+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/26878746/",
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md"
@@ -13702,6 +14014,90 @@
         "journalTitle": "Q J Exp Psychol (Hove)",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26878746+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26913933/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:05+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26913933/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26913933",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/xlm0000265",
+        "title": "Does reactivating a witnessed memory increase its susceptibility to impairment by subsequent misinformation?",
+        "authorString": "Rindal EJ, DeFranco RM, Rich PR, Zaragoza MS.",
+        "pubYear": "2016",
+        "journalTitle": "J Exp Psychol Learn Mem Cogn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26913933+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27114514/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27114514/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Postretrieval new learning does not reliably induce human memory updating via reconsolidation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27114514",
+        "source": "MED",
+        "pmcid": "PMC4868433",
+        "doi": "10.1073/pnas.1601440113",
+        "title": "Postretrieval new learning does not reliably induce human memory updating via reconsolidation.",
+        "authorString": "Hardwicke TE, Taqi M, Shanks DR.",
+        "pubYear": "2016",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27114514+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2725271/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:14+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/2725271/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The eyewitness suggestibility effect and memory for source - PubMed",
+      "bytes_sampled": 116743,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "2725271",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.3758/bf03198473",
+        "title": "The eyewitness suggestibility effect and memory for source.",
+        "authorString": "Lindsay DS, Johnson MK.",
+        "pubYear": "1989",
+        "journalTitle": "Mem Cognit",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2725271+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13818,6 +14214,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27720856/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:06+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27720856/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27720856",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.nlm.2016.10.004",
+        "title": "Sleep's role in the reconsolidation of declarative memories.",
+        "authorString": "Klinzing JG, Rasch B, Born J, Diekelmann S.",
+        "pubYear": "2016",
+        "journalTitle": "Neurobiol Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27720856+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/27753047/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -13898,6 +14322,34 @@
         "journalTitle": "Nat Commun",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27976739+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28025069/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28025069/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Does reactivation trigger episodic memory change? A meta-analysis - PubMed",
+      "bytes_sampled": 115462,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28025069",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.nlm.2016.12.012",
+        "title": "Does reactivation trigger episodic memory change? A meta-analysis.",
+        "authorString": "Scully ID, Napper LE, Hupbach A.",
+        "pubYear": "2017",
+        "journalTitle": "Neurobiol Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28025069+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14092,6 +14544,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28416633/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28416633/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Intrusions in episodic memory: reconsolidation or interference? - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28416633",
+        "source": "MED",
+        "pmcid": "PMC5397684",
+        "doi": "10.1101/lm.045047.117",
+        "title": "Intrusions in episodic memory: reconsolidation or interference?",
+        "authorString": "Klingmüller A, Caplan JB, Sommer T.",
+        "pubYear": "2017",
+        "journalTitle": "Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28416633+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28458092/",
       "record_paths": [
         "research/updates/2026-10-28-decoded-ai-replications.md"
@@ -14233,6 +14713,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29038684/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:04+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29038684/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29038684",
+        "source": "MED",
+        "pmcid": "PMC5632778",
+        "doi": "10.1080/20008198.2017.1315291",
+        "title": "Modification of episodic memories by novel learning: a failed replication study.",
+        "authorString": "van Schie K, van Veen SC, van den Hout MA, Engelhard IM.",
+        "pubYear": "2017",
+        "journalTitle": "Eur J Psychotraumatol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29038684+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/29133409/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-62-58.md",
@@ -14258,6 +14766,34 @@
         "journalTitle": "Proc Natl Acad Sci U S A",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29133409+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29214206/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:05+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29214206/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29214206",
+        "source": "MED",
+        "pmcid": "PMC5698386",
+        "doi": "10.1186/s41235-017-0081-4",
+        "title": "The effect of testing can increase or decrease misinformation susceptibility depending on the retention interval.",
+        "authorString": "Thomas AK, Gordon LT, Cernasov PM, Bulevich JB.",
+        "pubYear": "2017",
+        "journalTitle": "Cogn Res Princ Implic",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29214206+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14493,6 +15029,34 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29877507+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30012882/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:04+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30012882/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30012882",
+        "source": "MED",
+        "pmcid": "PMC6049395",
+        "doi": "10.1101/lm.046912.117",
+        "title": "Surprise and destabilize: prediction error influences episodic memory reconsolidation.",
+        "authorString": "Sinclair AH, Barense MD.",
+        "pubYear": "2018",
+        "journalTitle": "Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30012882+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14905,6 +15469,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31029768/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:07+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31029768/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31029768",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.nlm.2019.04.012",
+        "title": "Sleep accelerates re-stabilization of human declarative memories.",
+        "authorString": "Moyano MD, Diekelmann S, Pedreira ME, Forcato C.",
+        "pubYear": "2019",
+        "journalTitle": "Neurobiol Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31029768+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/31259198/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -15074,6 +15666,34 @@
         "journalTitle": "J Sleep Res",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31674096+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31743543/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:07+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31743543/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31743543",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1002/hipo.23178",
+        "title": "Associations between sleep and episodic memory updating.",
+        "authorString": "Bryant NB, Nadel L, Gómez RL.",
+        "pubYear": "2020",
+        "journalTitle": "Hippocampus",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31743543+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15403,6 +16023,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33277601/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:09+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33277601/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33277601",
+        "source": "MED",
+        "pmcid": "PMC7718244",
+        "doi": "10.1038/s42003-020-01457-4",
+        "title": "Reactivation during sleep with incomplete reminder cues rather than complete ones stabilizes long-term memory in humans.",
+        "authorString": "Forcato C, Klinzing JG, Carbone J, Radloff M, Weber FD, Born J, Diekelmann S.",
+        "pubYear": "2020",
+        "journalTitle": "Commun Biol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33277601+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/33406249/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-2-6.md",
@@ -15551,6 +16199,34 @@
         "journalTitle": "Trends Cogn Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33879421+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33905302/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:14+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33905302/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Recognition in Posthypnotic Amnesia, Revisited - PubMed",
+      "bytes_sampled": 126867,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33905302",
+        "source": "MED",
+        "pmcid": "PMC8222162",
+        "doi": "10.1080/00207144.2021.1910827",
+        "title": "Recognition in Posthypnotic Amnesia, Revisited.",
+        "authorString": "Kihlstrom JF.",
+        "pubYear": "2021",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33905302+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15779,6 +16455,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34911768/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:04+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34911768/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34911768",
+        "source": "MED",
+        "pmcid": "PMC8713973",
+        "doi": "10.1073/pnas.2117625118",
+        "title": "Prediction errors disrupt hippocampal representations and update episodic memories.",
+        "authorString": "Sinclair AH, Manalili GM, Brunec IK, Adcock RA, Barense MD.",
+        "pubYear": "2021",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34911768+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/35082248/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -15836,6 +16540,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35332136/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:10+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35332136/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35332136",
+        "source": "MED",
+        "pmcid": "PMC8948270",
+        "doi": "10.1038/s41398-022-01878-1",
+        "title": "Sleep's role in updating aversive autobiographical memories.",
+        "authorString": "Azza Y, Wilhelm FH, Seifritz E, Junghanns K, Kleim B, Wilhelm I.",
+        "pubYear": "2022",
+        "journalTitle": "Transl Psychiatry",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35332136+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/35356055/",
       "record_paths": [
         "research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md",
@@ -15862,6 +16594,62 @@
         "journalTitle": "Front Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35356055+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35428932/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35428932/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The time window of reconsolidation: A replication - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35428932",
+        "source": "MED",
+        "pmcid": "PMC9012516",
+        "doi": "10.3758/s13423-022-02102-3",
+        "title": "The time window of reconsolidation: A replication.",
+        "authorString": "Parks CM, Mohawk KD, Werner LLS, Kiley C.",
+        "pubYear": "2022",
+        "journalTitle": "Psychon Bull Rev",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35428932+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35508568/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:09+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35508568/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35508568",
+        "source": "MED",
+        "pmcid": "PMC9068753",
+        "doi": "10.1038/s41598-022-11135-6",
+        "title": "Sleep enhances reconsolidation-based strengthening of visuospatial memories.",
+        "authorString": "Jones BJ, Chen ME, Simoncini L, Spencer RMC.",
+        "pubYear": "2022",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35508568+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16604,6 +17392,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38077219/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:11+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38077219/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38077219",
+        "source": "MED",
+        "pmcid": "PMC10698482",
+        "doi": "10.1098/rsos.220595",
+        "title": "A registered report testing the effect of sleep on Deese-Roediger-McDermott false memory: greater lure and veridical recall but fewer intrusions after sleep.",
+        "authorString": "Mak MHC, O'Hagan A, Horner AJ, Gaskell MG.",
+        "pubYear": "2023",
+        "journalTitle": "R Soc Open Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38077219+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38107593/",
       "record_paths": [
         "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md"
@@ -16808,6 +17624,34 @@
         "journalTitle": "J Neural Eng",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38812288+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38831160/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:11+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38831160/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38831160",
+        "source": "MED",
+        "pmcid": "PMC11868154",
+        "doi": "10.3758/s13421-024-01579-8",
+        "title": "Does sleep benefit source memory? Investigating 12-h retention intervals with a multinomial modeling approach.",
+        "authorString": "Berres S, Erdfelder E, Kuhlmann BG.",
+        "pubYear": "2025",
+        "journalTitle": "Mem Cognit",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38831160+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17152,6 +17996,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39393958/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39393958/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39393958",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.tics.2024.08.007",
+        "title": "Large language models (LLMs) and the institutionalization of misinformation.",
+        "authorString": "Garry M, Chan WM, Foster J, Henkel LA.",
+        "pubYear": "2024",
+        "journalTitle": "Trends Cogn Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39393958+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/39448569/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-52-28.md"
@@ -17300,6 +18172,34 @@
         "journalTitle": "Sleep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39700417+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39762387/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:16+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39762387/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Timing of pre-retrieval warnings matters in reducing memory errors in a repeated testing misinformation study - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39762387",
+        "source": "MED",
+        "pmcid": "PMC11704017",
+        "doi": "10.1038/s41598-024-84154-0",
+        "title": "Timing of pre-retrieval warnings matters in reducing memory errors in a repeated testing misinformation study.",
+        "authorString": "Wulff AN, Karanian J, Race E, Thomas AK.",
+        "pubYear": "2025",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39762387+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18456,6 +19356,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42061550/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:16+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42061550/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "How self-reference enhances susceptibility to misinformation: An event-related potentials study - PubMed",
+      "bytes_sampled": 124322,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42061550",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.biopsycho.2026.109277",
+        "title": "How self-reference enhances susceptibility to misinformation: An event-related potentials study.",
+        "authorString": "Sun M, Wang J.",
+        "pubYear": "2026",
+        "journalTitle": "Biol Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42061550+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/42158642/",
       "record_paths": [
         "research/chats/supplement-4d344059-64d6-4a61-8749-6ffa673c3947.md"
@@ -18877,6 +19805,34 @@
         "journalTitle": "Integr Physiol Behav Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8318445+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8346328/",
+      "record_paths": [
+        "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
+      ],
+      "checked_at_utc": "2026-10-28T20:21:03+00:00",
+      "auditor_version": 3,
+      "http_status": 203,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/8346328/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "bytes_sampled": 5590,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "8346328",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/0033-2909.114.1.3",
+        "title": "Source monitoring.",
+        "authorString": "Johnson MK, Hashtroudi S, Lindsay DS.",
+        "pubYear": "1993",
+        "journalTitle": "Psychol Bull",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8346328+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -22080,8 +23036,8 @@
     "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
   },
   "metadata_summary": {
-    "not_applicable": 319,
-    "api_identity_resolved": 600,
+    "not_applicable": 321,
+    "api_identity_resolved": 633,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
   "decoded_ai_incremental_check": {
@@ -22094,5 +23050,15 @@
     },
     "new_url_metadata_identities_resolved": 22,
     "scope": "Replication/cohort and sleep/hypnosis follow-up. Prior outcomes preserved except updated context paths. Primary-text and identity checks are separately scoped in the new source record."
+  },
+  "reconsolidation_source_incremental_check": {
+    "date": "2026-10-28",
+    "prior_same_day_results_preserved": 920,
+    "new_source_urls_checked": 35,
+    "new_url_http_summary": {
+      "reachable": 35
+    },
+    "new_url_metadata_identities_resolved": 33,
+    "scope": "New reconsolidation/source-monitoring source URLs only; all older outcomes/checks preserved apart from context paths. Primary-text access separately scoped in the new source record."
   }
 }

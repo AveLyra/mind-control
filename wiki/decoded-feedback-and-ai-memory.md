@@ -6,6 +6,8 @@
 
 Assessed October 28, 2026. This is a bounded follow-up to CT3–CT4, with 26 selected source entries, including reused publications needed to trace study relationships. It is not a systematic review. The source record distinguishes new cohorts, reused data, publication versions, methodological studies, and incomplete access. A paper count is not a replication count.
 
+The next [mechanism follow-up](reconsolidation-and-source-monitoring.md) examines reconsolidation, source monitoring, recoverability, and the opposing predictions sleep can make for AI-related memory errors. It preserves the modality and replication distinctions established here.
+
 <a id="modalities"></a>
 ## Which technique is being combined?
 

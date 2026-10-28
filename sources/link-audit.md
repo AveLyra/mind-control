@@ -2,13 +2,13 @@
 
 [Home](../README.md) · [Citation recovery](citation-audit.md) · [Bibliography](bibliography.md) · [Machine results](link-audit.json) · [New literature intake](awareness-update-intake.md)
 
-Checked October 28, 2026, America/New_York. All **920 distinct source URLs** in `research/` and `wiki/` have direct-access and metadata attempts recorded for that date. The [decoded-feedback/AI replication follow-up](../research/updates/2026-10-28-decoded-ai-replications.md) checked 24 newly cited URLs while preserving the 896 earlier same-day results and updating their context paths. This includes supplied awareness-review artifacts, earlier network/combination checks, and topic-page links. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
+Checked October 28, 2026, America/New_York. All **955 distinct source URLs** in `research/` and `wiki/` have direct-access and metadata attempts recorded for that date. The [reconsolidation/source-monitoring follow-up](../research/updates/2026-10-28-reconsolidation-source-monitoring.md) checked 35 newly cited URLs while preserving the 920 earlier same-day results and updating their context paths. This includes supplied awareness-review artifacts, earlier network/combination/replication checks, and topic-page links. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
 
 ## Direct access results
 
 | Result | URLs | Meaning |
 |---|---:|---|
-| Reachable | 428 | HTTP success without a recognized challenge in the sample; not full-text certification. |
+| Reachable | 463 | HTTP success without a recognized challenge in the sample; not full-text certification. |
 | Access challenge | 281 | A browser or human-verification response, sometimes returned with HTTP 200. |
 | Access restricted | 146 | HTTP 401, 403, or 429. |
 | Redirect landing | 55 | An intermediary page rather than verified article content. |
@@ -19,13 +19,14 @@ The JSON report records each URL, research/wiki context paths, attempt time, sta
 
 ## Publication identities and separately dated checks
 
-- **600 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata in the same-day audits, including 22 new URL identities in the replication follow-up. These are URL identities, not independent studies or complete full-text reviews.
+- **633 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata in the same-day audits, including 33 new URL identities in the reconsolidation/source-monitoring follow-up. These are URL identities, not independent studies or complete full-text reviews.
 - **1 remaining API index miss** retains a separately dated independent identity check from October 27. Earlier independent checks remain recorded even where a fresh API lookup now resolves the identity.
 - **All 53 numbered references in the supplied continuation bibliography** passed title and DOI/PMID relationship checks. All 58 DOI-resolver URLs in those new records resolved bibliographic metadata. The version-3 eLife DOI and PubMed's base DOI identify one study; their alias is explicit in the [intake receipt](awareness-update-intake.json).
 - The supplied update received selected primary-text checks, not a complete independent rereading of every paper or numerical table entry. Its FT/PFT/A labels describe the supplied reviewer. New independent checks are enumerated in the [intake report](awareness-update-intake.md).
 - The initial research network checked 24 selected citation/abstract identities through the PubMed connector, retrieved two complete PMC bodies, and inspected selected relevant sections. Its three added URLs met direct-browser challenges despite successful metadata and connector retrievals. The [source-check record](../research/updates/2026-10-28-horizon-source-checks.md) preserves the full-text scope and failed Raz retrieval.
 - The combination follow-up selected 16 publications, retrieved 13 complete PubMed abstracts and three complete PMC bodies, and inspected selected primary PDF/HTML sections. Of its 20 new URLs, 19 were directly reachable and one DOI route was restricted despite resolved Crossref identity. Publisher-PDF 403, institutional-PDF 429, connector failures, successful alternate primary routes, and preprint/final-version distinctions are explicit in the [new source record](../research/updates/2026-10-28-combined-techniques.md). These checks are not 16 independent full-text reviews or experiments.
 - The replication follow-up selected 26 entries: 25 PubMed publications and one final HCI conference paper. Ten complete PMC bodies and selected final-PDF sections were retrieved/inspected within the [recorded scope](../research/updates/2026-10-28-decoded-ai-replications.md). Of 24 new URLs, 23 were reachable and the IUI DOI route returned 403 despite resolved Crossref identity; institutional identity and the published PDF were available. Data reuse, new validation data, modality changes, and conceptual extensions remain distinct from independent exact replication.
+- The reconsolidation/source-monitoring follow-up selected 34 entries: 33 PubMed publications with complete abstracts/identities and one AI-intervention preprint. Nine complete PMC bodies and selected preprint HTML sections received scoped inspection. All 35 new source URLs were reachable and all 33 new PubMed metadata identities resolved. M03 connector internal errors and a browser challenge, and M02's unavailable publisher route, remain explicit in the [source record](../research/updates/2026-10-28-reconsolidation-source-monitoring.md). A later successful direct page request does not convert those failed body-retrieval attempts into a complete inspection.
 - The **six ClinicalTrials.gov identity receipts remain dated October 27**. Their direct source URLs were included in this refresh, but the earlier connector retrievals and trial fields were not rerun. See the [registry receipt](trial-identity-checks.json).
 - Earlier independent web-content checks for Apple Focus guidance and the FTC privacy guide retain their October 27 dates. Their direct requests still returned 404; these are separately dated observations from different access routes.
 

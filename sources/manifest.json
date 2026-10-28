@@ -2226,6 +2226,14 @@
       "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-28",
       "status": "26 selected source entries; 25 PubMed identities; 24 complete abstracts; one selected PMC opening without a supplied abstract; ten other complete PMC bodies retrieved with selected sections checked; final IUI PDF and cohort/version relationships inspected",
       "sha256": "22f26e966e1030d868b6098d1397a1cddf3bb2d21ab639088009b3de0061f8c1"
+    },
+    {
+      "id": "reconsolidation-source-monitoring-checks-2026-10-28",
+      "title": "Reconsolidation and source monitoring — AI, sleep, hypnosis, replications and competing mechanisms",
+      "path": "research/updates/2026-10-28-reconsolidation-source-monitoring.md",
+      "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-28",
+      "status": "34 selected entries; 33 complete PubMed abstracts and citation identities; nine complete PMC bodies with selected sections inspected; selected primary AI-preprint HTML; failed retrieval and mechanism/replication limits explicit",
+      "sha256": "f3ab1c9d3400c27431d5c71f232fbee32fbed3c059e6f9e7e53900362be58a66"
     }
   ],
   "supplementary_recovery": {
@@ -2423,22 +2431,22 @@
   },
   "source_link_audit": {
     "date": "2026-10-28",
-    "unique_source_urls": 920,
+    "unique_source_urls": 955,
     "http_summary": {
-      "reachable": 428,
-      "access_challenge": 281,
+      "reachable": 463,
       "access_restricted": 146,
+      "access_challenge": 281,
       "redirect_landing": 55,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
-      "not_applicable": 319,
-      "api_identity_resolved": 600,
+      "not_applicable": 321,
+      "api_identity_resolved": 633,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "93c9e34fc2817329fa53a04b4381d86bf6a940c0b6d1955bd31c61afea76ecff",
+    "report_sha256": "2017255462ab24d43cee3dca9162e486863b880e997d72a801cb4b3b3cc0b87b",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },

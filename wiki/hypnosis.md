@@ -20,6 +20,8 @@ The recovered ChatGPT **wiki pages on hypnosis** conversation contains research 
 
 The original conditioning/hypnosis answers collect pain, perception, false-memory, and posthypnotic-response studies. Effects vary with responsiveness, task, wording, selection, and comparison condition. Confidence and vividness do not verify an autobiographical memory. Apparently objectionable behavior also requires comparison with nonhypnotic compliance, simulation, and trust in the experimenter.
 
+The [source-monitoring follow-up](reconsolidation-and-source-monitoring.md#hypnosis) connects perceived reality and posthypnotic memory for context while distinguishing them from experimentally established reconsolidation. Familiarity, recall, source, temporal order, symptom relief, and agency can dissociate; none alone proves factual memory replacement.
+
 The theory review [Kirsch and Lynn, 1998](https://pubmed.ncbi.nlm.nih.gov/9461855/) describes competing dissociation accounts. It supports the existence and content of the theories; it does not prove their mechanisms. The historical draft supplies additional DOI and PMID leads, including Bowers (1992), Weitzenhoffer (1974), and later Woody/Jamieson discussions. These leads have not all been reverified in this collection pass.
 
 ## Recovered material

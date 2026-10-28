@@ -4,6 +4,8 @@
 
 The recovered work examines several distinct techniques. They should be evaluated by what was learned beforehand, the verified sleep state, and the measured outcome.
 
+The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-monitoring.md#sleep) examines sleep's roles in stabilization, updating, and memory for context. Spatial source benefits, task-dependent interference, and a registered false-recall report oppose treating sleep as a uniform amplifier of misinformation. Direct combinations with AI content remain a separate question.
+
 | Technique | Research question | Main evidential limit |
 |---|---|---|
 | Targeted memory reactivation (TMR) | Does replaying a cue associated with waking learning change later retention? | Consolidating an existing association differs from teaching new instructions. |
