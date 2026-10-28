@@ -4,6 +4,8 @@
 
 Recovery date: October 28, 2026, America/New_York. **All 50 remaining references were reviewed. Forty-nine now have high-confidence text ancestry connecting their cited upload to the existing optical review. One source identity remains unresolved. No original upload bytes were recovered.** These are citation occurrences, not 50 separate files.
 
+The subsequent [full lossless-backup audit](lossless-backup-audit.md) verified all 16 parts and searched every archive file, including raw session and history records. It did not identify the target upload or resolve the remaining source. Thirty-six identified Codex attachment originals were restored privately, but none matches the retained ChatGPT upload excerpts.
+
 ## What the original chats retain
 
 Each of the five affected answers in **Magnetoreception Applications Research**, conversation `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, lists one file, `Pasted text.txt`, in its Sources panel. Although its preview fails, that panel still supplies a short excerpt. The five excerpts comprise three distinct passages: the optical review’s introduction, its sleep section, and its conclusion.
@@ -70,6 +72,6 @@ Its Sources panel lists **Invisible Wavelengths Feasibility**, **Research Brain 
 - Read all **36 indexed attachment originals** still present locally: 35 pasted-text files and `goal.md`. All 36 SHA-256 digests match the backup inventory. None contains any of the four distinctive optical phrases recorded in the machine-readable receipt. The one broader sleep/hypnosis match was a different research/literary attachment.
 - Searched **333 cached readable backup and catalog files** for the same distinctive phrases; no matches were found. This negative result concerns that local readable cache, not every remote file or every raw tool record.
 
-The multipart lossless archive was not downloaded or searched in this pass. Its unprojected fragments remain a possible additional source. No files, chats, caches, histories, or backup material were deleted. Private capture files and unrelated library material remain outside the public repository.
+The initial readable-backup investigation was followed by a complete multipart archive inspection. Its 253 files, 349,488 session JSONL rows, and 105,664 metadata rows were read; the archive and original source-file hashes matched the recovery records. Exact target references, chat/message IDs, and retained passages returned no matches. The broader optical match was the already-published Codex note, whose body matches byte for byte. See the [archive audit](lossless-backup-audit.md) for methods and limits. No files, chats, caches, histories, or backup material were deleted. Private capture files and unrelated material remain outside the public repository.
 
 The remaining recovery requirement is an accessible original upload or a ChatGPT account export containing the relevant attachment data, plus an identifiable source mapping for `turn3file2`. An export that contains only conversation text may still omit attachment bytes.

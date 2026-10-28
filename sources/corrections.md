@@ -28,6 +28,8 @@ All 471 old unresolved citation markers now have entries in the [citation ledger
 
 The earlier description of the proposal’s `turn3file2` as an unidentified **upload** was too strong. Its rendered citation is empty, while its Sources panel lists two past chats. No visible mapping settles which source it meant or whether it was a user upload. The [upload report](upload-recovery.md#the-50th-reference) preserves that uncertainty. Matching file excerpts elsewhere establishes shared text ancestry, not the complete file or independent support for each claim.
 
+The [full multipart-backup inspection](lossless-backup-audit.md) found no exact target reference, chat/message identifier, or retained optical passage. It confirms the already-published optical note’s body and restores 36 identified Codex attachments privately; none is identified as the missing ChatGPT upload. The previous statement that this archive remained uninspected is superseded. The original file and source-identity gaps remain open.
+
 During the initial collection, metadata/search results were checked for the lucid-dream citation correction, Kirsch and Lynn's theory review (PMID 9461855), Woods et al.'s cortical-stimulator study (PMID 38608028; DOI 10.1126/sciadv.adn0858), and the Senate's official 1977 hearing page. Initial attempts to retrieve the closed-eyelid SSVEP and spectral-flicker sources did not yield usable substantive text. The current audit adds bibliographic identity checks and recovered links; it does not claim a complete fresh full-text review.
 
 ## Absorption and durability are different papers

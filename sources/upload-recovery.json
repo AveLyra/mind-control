@@ -304,8 +304,21 @@
       "Waking imperceptible-flicker interfaces and invisible spectral flicker"
     ],
     "private_verification_receipt_sha256": "9172627f105259269c098c982485fb17fb3a20dea066e11fb4e97ae152e6aa1c",
-    "lossless_multipart_archive_downloaded": false,
-    "limit": "Negative phrase searches cover identified attachment originals and cached readable text, not every tool record or unprojected archive fragment."
+    "lossless_multipart_archive_downloaded": true,
+    "limit": "Initial readable-cache and attachment checks were followed by the full verified multipart archive search. No matching target upload or source mapping was identified; the archive remains a selected Codex snapshot, not a ChatGPT export.",
+    "initial_readable_check_lossless_archive_downloaded": false,
+    "lossless_archive_report": "sources/lossless-backup-audit.json",
+    "lossless_archive_followup_summary": {
+      "parts_verified": 16,
+      "archive_members_read": 253,
+      "raw_session_jsonl_files": 179,
+      "raw_session_jsonl_rows": 349488,
+      "metadata_rows": 105664,
+      "codex_attachment_originals_restored": 36,
+      "target_chatgpt_uploads_identified": 0,
+      "unidentified_reference_matches": 0,
+      "source_identity_unresolved": 1
+    }
   },
   "original_upload_access": {
     "original_user_message_id": "3d9ed183-960e-411f-aad8-9f61f2013a91",

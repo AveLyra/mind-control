@@ -1,0 +1,367 @@
+{
+  "recovery_date": "2026-10-28",
+  "completed_at_utc": "2026-10-28T12:20:32.297891+00:00",
+  "base_commit": "d6168f971b176d003b526965111fd84b8e20543e",
+  "result": "Full lossless Codex backup verified and searched. No target ChatGPT upload or mapping for turn3file2 was identified. The earlier 49 shared-text ancestry matches remain valid; original upload bytes and one source identity remain unavailable.",
+  "archive": {
+    "snapshot_date": "2026-10-11",
+    "scope": "Selected Codex logs, required base data, history/metadata rows, identified attachments, and project notes; not a ChatGPT account export",
+    "part_count": 16,
+    "compressed_bytes": 1576145931,
+    "compressed_sha256": "e19fd8ab9b5c366379e3fa6d268ff1c365a9acaeec4163f7ca7caf0f9cb05972",
+    "expected_compressed_sha256": "e19fd8ab9b5c366379e3fa6d268ff1c365a9acaeec4163f7ca7caf0f9cb05972",
+    "parts": [
+      {
+        "sequence": 1,
+        "bytes": 100663296,
+        "sha256": "009e5f8aa6ad11e49e2cae452f8de73a2b8e79dae2741fc4d9f4a40c2686195b",
+        "expected_sha256": "009e5f8aa6ad11e49e2cae452f8de73a2b8e79dae2741fc4d9f4a40c2686195b"
+      },
+      {
+        "sequence": 2,
+        "bytes": 100663296,
+        "sha256": "a11629fbe5d2317eae07589b56b05c5fb3efd2f6189bfa455923423d8d57f3fb",
+        "expected_sha256": "a11629fbe5d2317eae07589b56b05c5fb3efd2f6189bfa455923423d8d57f3fb"
+      },
+      {
+        "sequence": 3,
+        "bytes": 100663296,
+        "sha256": "eb83fdc1e1e22889fe882352fd390beca662e41e4c11c35e8aa4e775994b4dd6",
+        "expected_sha256": "eb83fdc1e1e22889fe882352fd390beca662e41e4c11c35e8aa4e775994b4dd6"
+      },
+      {
+        "sequence": 4,
+        "bytes": 100663296,
+        "sha256": "17a947f3e3f4bd089e9df73c202a27eba87ad50b3a15df0f30dd1f9fad68785d",
+        "expected_sha256": "17a947f3e3f4bd089e9df73c202a27eba87ad50b3a15df0f30dd1f9fad68785d"
+      },
+      {
+        "sequence": 5,
+        "bytes": 100663296,
+        "sha256": "4c2dec55795219ea3392736c0700904993cd8085afabdf24617a8482270f22d3",
+        "expected_sha256": "4c2dec55795219ea3392736c0700904993cd8085afabdf24617a8482270f22d3"
+      },
+      {
+        "sequence": 6,
+        "bytes": 100663296,
+        "sha256": "acac0622d48a008f650fc04a5aeea3a4e2296215dedf37eecd6e5c90e8c5a107",
+        "expected_sha256": "acac0622d48a008f650fc04a5aeea3a4e2296215dedf37eecd6e5c90e8c5a107"
+      },
+      {
+        "sequence": 7,
+        "bytes": 100663296,
+        "sha256": "00b6c45dadb0206b661b3803563160ca17940eb1aa00472bd8a6ff587fa6e2d9",
+        "expected_sha256": "00b6c45dadb0206b661b3803563160ca17940eb1aa00472bd8a6ff587fa6e2d9"
+      },
+      {
+        "sequence": 8,
+        "bytes": 100663296,
+        "sha256": "649d5a4f368fe98107c32e54876867b6c14dd8a97723e3512ffddf5c9e31684a",
+        "expected_sha256": "649d5a4f368fe98107c32e54876867b6c14dd8a97723e3512ffddf5c9e31684a"
+      },
+      {
+        "sequence": 9,
+        "bytes": 100663296,
+        "sha256": "7597935208f6bffed35f120747185d8dae5321a4c12197343335ba339662c1e7",
+        "expected_sha256": "7597935208f6bffed35f120747185d8dae5321a4c12197343335ba339662c1e7"
+      },
+      {
+        "sequence": 10,
+        "bytes": 100663296,
+        "sha256": "3ac82d7aae5b39c9aa21eebdf9443b9a72781c51f9d040aa52115ce10f6ca5e3",
+        "expected_sha256": "3ac82d7aae5b39c9aa21eebdf9443b9a72781c51f9d040aa52115ce10f6ca5e3"
+      },
+      {
+        "sequence": 11,
+        "bytes": 100663296,
+        "sha256": "3418e979af2961ff517b7f530720ca42c6855d958a78bac941885b8a4163fc7f",
+        "expected_sha256": "3418e979af2961ff517b7f530720ca42c6855d958a78bac941885b8a4163fc7f"
+      },
+      {
+        "sequence": 12,
+        "bytes": 100663296,
+        "sha256": "0a798c035d680107195132d4855b8d6639537aca23fbff7e70cf0fefc0ec0dff",
+        "expected_sha256": "0a798c035d680107195132d4855b8d6639537aca23fbff7e70cf0fefc0ec0dff"
+      },
+      {
+        "sequence": 13,
+        "bytes": 100663296,
+        "sha256": "856343e22601fdf68e665b4d50c86a68bca1fc4ed1c42f4b50220571c442808b",
+        "expected_sha256": "856343e22601fdf68e665b4d50c86a68bca1fc4ed1c42f4b50220571c442808b"
+      },
+      {
+        "sequence": 14,
+        "bytes": 100663296,
+        "sha256": "851fcf9c36f89987598c1f3e5f4b4a6a4dc1dbedc61fdf05b37b6ede466ab2ae",
+        "expected_sha256": "851fcf9c36f89987598c1f3e5f4b4a6a4dc1dbedc61fdf05b37b6ede466ab2ae"
+      },
+      {
+        "sequence": 15,
+        "bytes": 100663296,
+        "sha256": "e6195e2e4b860861592868b04c9cf96061687e01162015cdee29d56155c84283",
+        "expected_sha256": "e6195e2e4b860861592868b04c9cf96061687e01162015cdee29d56155c84283"
+      },
+      {
+        "sequence": 16,
+        "bytes": 66196491,
+        "sha256": "9401192d25827688bc99dc3274baa055bb98e7e3ce1ee65b69a50955e6de1ad4",
+        "expected_sha256": "9401192d25827688bc99dc3274baa055bb98e7e3ce1ee65b69a50955e6de1ad4"
+      }
+    ],
+    "member_count": 253,
+    "uncompressed_member_bytes": 3766552745,
+    "original_source_files_verified_against_inventory": 215,
+    "generated_files": 38,
+    "generated_files_matching_retained_local_snapshots": 37,
+    "metadata_file_sha256": "0f2c4fe80d1197fd6abc3dcd466ddb235e04598ab93e903518d3b7de86ba939d",
+    "metadata_integrity_basis": "The complete authenticated compressed-archive hash covers metadata.jsonl. Its JSON rows and original inventory table counts were separately checked; no pre-existing standalone metadata-file digest was available.",
+    "raw_session_jsonl_files": 179,
+    "raw_session_jsonl_rows": 349488,
+    "metadata_rows": 105664,
+    "metadata_table_counts": {
+      "state_5.sqlite:threads": 163,
+      "state_5.sqlite:thread_spawn_edges": 49,
+      "state_5.sqlite:thread_sections": 2,
+      "thread_history_1.sqlite:thread_turns": 2354,
+      "thread_history_1.sqlite:thread_items": 102914,
+      "thread_history_1.sqlite:thread_history_projection_state": 169,
+      "goals_1.sqlite:thread_goals": 4,
+      "queue_1.sqlite:queued_thread_revisions": 9
+    },
+    "jsonl_parse_errors": 0
+  },
+  "search": {
+    "method": "Read and hash every member. Parse every session JSONL line and metadata row; inspect decoded string fields and nested serialized JSON to depth six. Search case-insensitive exact identifiers/passages, broader optical terms, and pasted-text filenames. Test named base64 fields up to 50 MB for UTF-8 text; no eligible fields were processed. Compare all 36 restored attachment bodies with the normalized retained excerpts.",
+    "queries": [
+      {
+        "id": "unidentified_reference",
+        "text": "turn3file2",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "sleep_chat_id",
+        "text": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "optical_chat_id",
+        "text": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "proposal_chat_id",
+        "text": "6ab16e89-dda4-83ea-9b00-17522496c389",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "bci_chat_id",
+        "text": "6ab14c04-9864-83ea-a250-b495d6f19c23",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "optical_message_id",
+        "text": "8a5c27b1-08bc-490a-9518-25e2b4066c27",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "proposal_message_id",
+        "text": "38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "upload_user_message_id",
+        "text": "3d9ed183-960e-411f-aad8-9f61f2013a91",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "sleep_answer_1",
+        "text": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "sleep_answer_2",
+        "text": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "sleep_answer_3",
+        "text": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "sleep_answer_4",
+        "text": "92060796-96e7-421a-a090-bc6e03558358",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "sleep_answer_5",
+        "text": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "optical_intro_phrase",
+        "text": "transmitting information through closed eyelids without conscious visual awareness",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "optical_intro_opening",
+        "text": "For the particular possibility you are investigating",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "optical_sleep_phrase",
+        "text": "Norton, Umunna, and Bretl",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "optical_conclusion_phrase",
+        "text": "Waking imperceptible-flicker interfaces and invisible spectral flicker",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "proposal_awareness_phrase",
+        "text": "unconscious performance from residual conscious perception",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "proposal_awareness_sentence",
+        "text": "Published experiments illustrate how difficult it is to separate",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "awareness_doi_1",
+        "text": "10.5334/joc.419",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "awareness_doi_2",
+        "text": "10.1016/j.concog.2026.104018",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "eyelid_candidate",
+        "text": "eyelid",
+        "matching_lines": 25,
+        "matching_members": 7
+      },
+      {
+        "id": "flicker_candidate",
+        "text": "flicker",
+        "matching_lines": 570,
+        "matching_members": 25
+      },
+      {
+        "id": "upconversion_candidate",
+        "text": "upconversion",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "magnetoreception_candidate",
+        "text": "magnetoreception",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "invisible_signals_candidate",
+        "text": "invisible signals",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "subliminal_optical_candidate",
+        "text": "subliminal optical",
+        "matching_lines": 0,
+        "matching_members": 0
+      },
+      {
+        "id": "pasted_filename_space",
+        "text": "Pasted text.txt",
+        "matching_lines": 88,
+        "matching_members": 9
+      },
+      {
+        "id": "pasted_filename_hyphen",
+        "text": "pasted-text.txt",
+        "matching_lines": 1034,
+        "matching_members": 45
+      }
+    ],
+    "broad_candidate_lines": 591,
+    "broad_candidate_context_groups": {
+      "literary_context_or_project": 493,
+      "software_display_or_issue_context": 74,
+      "existing_optical_note": 4,
+      "other_biomedical_sleep_or_hypnosis_sources": 19,
+      "encoded_binary_false_positive": 1
+    },
+    "candidate_review_method": "Group bounded hit contexts using text and source-project ancestry, then review the research-relevant and remaining ambiguous contexts. Broad keyword/filename matches are not source identities. Counts can duplicate the same item across raw logs and history metadata.",
+    "named_base64_text_fields_decoded": 0,
+    "private_search_hit_receipt_sha256": "9c0d3fc57a697ab8bd8603381412c3b64b3072e6d91acc44192b8fa4469a1b41",
+    "private_candidate_review_sha256": "05ea0a2ff0669175ad063464731d071c927c42f57295e0fd1bd64c6cc5cdf505"
+  },
+  "restored_attachment_checks": {
+    "originals_restored_privately": 36,
+    "digests_matching_original_inventory": 36,
+    "pasted_text_files": 35,
+    "other_text_files": 1,
+    "matching_retained_upload_excerpts": 0,
+    "target_chatgpt_uploads_identified": 0,
+    "private_body_comparison_receipt_sha256": "65d03bd73bdf05bc81e488c6886936399a4f6f2c6a0198acac97c2dfae1ce89a",
+    "identity_limit": "These are the identified Codex attachment originals. Restoring them does not establish recovery of the missing ChatGPT upload with the same generic filename."
+  },
+  "known_optical_note_confirmation": {
+    "archive_member": "metadata.jsonl",
+    "metadata_line": 102119,
+    "thread_id": "01a0ce55-fdd6-71e0-8876-254172fd33bd",
+    "item_id": "exec-91200756-ef51-4730-9821-47fa65105479",
+    "source": "aggregatedOutput of a historical sed read of the optical note; no historical command was executed",
+    "published_record_path": "research/notes/vindication-optical-sleep-influence-research.md",
+    "body_bytes": 3334,
+    "original_body_sha256": "2ba077493b7f8e6ad91c4381ce1a407216d15ed999a91b1deb12afb7cf0df23d",
+    "published_body_sha256": "2ba077493b7f8e6ad91c4381ce1a407216d15ed999a91b1deb12afb7cf0df23d",
+    "exact_body_match": true,
+    "record_id": "vindication-optical-sleep-influence-research",
+    "published_record_sha256": "7d648c3362a3c28134805b89151964e0a63d721f7b6ab1f854a788c118144598",
+    "interpretation": "The historical command output contains the exact 3,334-byte body already published in the collection. This confirms an existing Codex note; it is not the missing uploaded optical review or a new independent source."
+  },
+  "remaining_gaps": {
+    "file_references_investigated": 50,
+    "shared_text_ancestry_identified_previously": 49,
+    "source_identity_unresolved": 1,
+    "raw_unidentified_reference": "turn3file2",
+    "target_original_uploads_fully_restored": 0,
+    "original_file_bytes_unavailable_references": 50,
+    "next_required_source": "The original ChatGPT attachment data or a suitable ChatGPT export, and an original source mapping for turn3file2. A text-only conversation export may omit file bytes.",
+    "strongest_limit": "The searched archive is a selected Codex snapshot. Negative results here cannot establish absence from the live ChatGPT account, another backup, an omitted source, or an unrecognized encoding."
+  },
+  "private_provenance": {
+    "archive_audit_receipt_sha256": "31ccccc2faff479d080cab33ec27959b6ddc6309c79d6dbfd3055712ac347186",
+    "retrieval_receipt_sha256": "3a5e3e3ac9a13c97df41ab41bd97f65466d64242d7b752576399c5ae57dcad4b",
+    "audit_script_sha256": "4117aa8d61cdef00259a322e4718042a43af3b9904d0f1a84dccab71fee801fe",
+    "original_note_receipt_sha256": "b66ac42ec37d5303923a1057e8184fd1325f7d657bf0e6d8f1e1600a1360aaa8"
+  },
+  "publication_selection": "No raw chats, metadata rows, unrelated attachment contents, library contents, private account/Drive URLs, workspace paths, or authenticated download references are published. Parts, restored attachments, and receipts are retained privately. Live stores were not modified; no material was deleted.",
+  "deletions_performed": 0
+}

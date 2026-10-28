@@ -23,6 +23,8 @@ The previously truncated [full optical answer](../research/chats/6ab16b83-0630-8
 
 The October 28 [upload-source investigation](../sources/upload-recovery.md) found that five downstream sleeping-brain answers retain excerpts matching this optical review. That traces shared text behind 49 citations to `Pasted text.txt`; it does not turn those five derivative answers into independent evidence. The original upload bytes remain unavailable, and one separate proposal reference remains unidentified.
 
+The later [complete lossless-backup search](../sources/lossless-backup-audit.md) confirms the existing Codex optical note’s body byte for byte. It found no matching target ChatGPT upload or mapping for the unidentified proposal reference. That archive confirmation is provenance evidence, not an additional experiment or independent scientific replication.
+
 ## Recovered experiment proposal
 
 The [Invisible Signals Experiment proposal](../research/chats/supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a.md) separates electronic reception, a classifier recovering information from EEG, and a participant independently identifying a symbol. It proposes perceptible controls, matched sham, delivery measurement, artifact checks, blinded assignment, and awareness tests. It is an unexecuted research design.

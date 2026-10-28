@@ -28,6 +28,8 @@ The 49 references now link to **upload ancestry** receipts as well as the earlie
 
 A separate proposal reference, `turn3file2`, remains unidentified. Its rendered citation is empty; the Sources panel lists two past chats without mapping this reference. Calling it a definite user upload was unsupported. All 50 references were reviewed; 49 have identified text ancestry and one has an unresolved source identity. Access to the original upload or an account export containing attachment data remains necessary for complete file recovery. Such material must be reviewed privately before publication.
 
+The [subsequent lossless-backup search](lossless-backup-audit.md) authenticated all 16 parts and inspected the complete selected Codex archive, including raw tool records and 105,664 metadata rows. Exact target references, chat/message IDs, and retained passages returned no matches. None of the 36 restored Codex attachments matches the retained upload excerpts. Citation dispositions therefore remain unchanged; the archive search does not justify inventing an original source.
+
 ## Deeper chat discovery
 
 The signed-in content search for **deep research** was paginated until the result count stopped at **172**. Titles and returned excerpts were screened for topic relevance. Relevant matches were read through the account reader and rendered conversations; matching older answers were also opened directly from their search results. The private inventory is not published because it includes unrelated account material.
@@ -45,4 +47,4 @@ The archive reports 89 supplied web URLs and includes additional checking links.
 
 One sleeping-brain answer’s **original rendered ending is itself unfinished**. That boundary is now explicit; no completion was invented. It is distinct from the six previously repaired reader truncations.
 
-Search results depend on the provider’s indexing and active branches. The 172-result search is deeper discovery, not evidence that every relevant chat on the account has been recovered. No complete account export or lossless backup recovery occurred.
+Search results depend on the provider’s indexing and active branches. The 172-result search is deeper discovery, not evidence that every relevant chat on the account has been recovered. The later lossless-backup inspection is recorded separately; no complete ChatGPT account export was obtained.

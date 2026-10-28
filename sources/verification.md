@@ -38,7 +38,7 @@ Citation and deeper-discovery checks, October 27, 2026:
 
 The manifest hashes the citation ledger, link-audit report, and registry receipt. Reindexing refreshes generated audit-report digests after an intentional new audit; it does not silently rehash historical research records. The original source-answer ending that stops mid-sentence is explicit and was not completed by inference.
 
-Upload-source investigation checks, October 28, 2026:
+Initial upload-source investigation checks, October 28, 2026:
 
 - Reviewed all 50 file-style references. Five original answer snapshots contain 49 citation controls with the exact preview label **Open preview of Pasted text.txt**. Their indices and source text/HTML digests agree with the existing ledger and manifest.
 - Captured the five answer-specific Sources panels. Their three distinct retained excerpts match the complete optical review after the documented normalization, including original embedded citation indices 29 and 44–47. The checked-in verifier reproduces the text matches and validates all 49 ancestry mappings, per-answer counts, source hashes, and report digests.
@@ -49,3 +49,14 @@ Upload-source investigation checks, October 28, 2026:
 - Confirmed the AveLyra GitHub CLI account and the `AveLyra/mind-control` remote before publication. Reviewed the changed research records and public receipts for private backup/account links, workspace paths, unrelated library contents, and credential patterns. Private evidence stays outside Git. No files, chats, histories, caches, or backups were deleted.
 
 The [new receipts](upload-recovery.md) establish shared text ancestry, not complete uploaded-file recovery. All original upload bytes and the citation-specific passages remain unavailable. No new scientific result or experiment is claimed.
+
+Multipart lossless-backup follow-up, October 28, 2026:
+
+- Retrieved the remote manifest and all 16 parts through the specified private Drive connection. Each part’s byte count and SHA-256 matched the manifest; the combined 1,576,145,931-byte stream matched the original archive hash. Authenticated download references were passed privately to the downloader and excluded from the published receipts.
+- The private archive audit passed for all 253 members and 3,766,552,745 uncompressed bytes. All 215 original source files matched inventory digests; 37 generated files matched retained local copies. The complete archive hash authenticates the remaining metadata file, whose standalone digest and per-table row counts were recorded.
+- Parsed 179 session JSONL files containing 349,488 rows and 105,664 metadata rows, with no JSONL parsing errors. Exact target references, chat/message IDs, retained passages, awareness wording, and the two editorial awareness DOIs returned no matches. Broader keyword contexts were grouped by content/project ancestry and reviewed as described in the [archive report](lossless-backup-audit.md).
+- Restored all 36 identified Codex attachment originals privately; their hashes match the inventory. Full-body comparisons against the three normalized upload excerpts returned no matches. A historical command-output record supplies the exact 3,334-byte body of the existing optical note. It confirms that note, not the missing ChatGPT upload.
+- `python3 tools/reindex_collection.py` and `python3 tools/verify_collection.py` passed for 144 research records, all record/report digests and local links, 471 citation dispositions, retained-excerpt mappings, the new archive receipt, existing source-URL coverage, and registry identities. `PYTHONPYCACHEPREFIX=/private/tmp/mind-control-lossless-pycache python3 -m py_compile tools/verify_collection.py tools/reindex_collection.py` passed.
+- Compared the public archive receipt’s part hashes, queries, counts, and private-receipt digest with the actual private audit. Checked the selected public JSON for private account/Drive links, workspace paths, authenticated download references, and credential patterns; no matches were found. Raw logs, metadata, unrelated attachment contents, and private source locations remain outside Git.
+
+The public verifier checks receipt consistency and the optical-note body match; it does not refetch Drive or rerun the private archive search. No target ChatGPT upload bytes or new source identity were recovered. The existing external HTTP audit remains dated October 27; its source URLs and context paths are unchanged. Live chat stores were not modified, and no files, histories, chats, backups, or caches were deleted.

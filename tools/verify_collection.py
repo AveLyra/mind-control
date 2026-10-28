@@ -191,9 +191,85 @@ if (unidentified_keys != {(unidentified['record_id'], unidentified['ledger_sourc
     errors.append('The separate unidentified source gap is not preserved')
 if (upload['backup_checks']['indexed_attachment_originals_read'] != 36
         or upload['backup_checks']['attachment_digests_matching_inventory'] != 36
-        or upload['backup_checks']['lossless_multipart_archive_downloaded'] is not False
+        or upload['backup_checks']['lossless_multipart_archive_downloaded'] is not True
         or upload['original_upload_access']['file_id_or_original_bytes_recovered'] is not False):
     errors.append('Upload or backup recovery limits changed without new evidence')
+
+# This validates the published receipt and its links to existing records. The
+# separate private audit authenticated and searched the actual archive bytes.
+lossless_entry = manifest['lossless_backup_recovery']
+lossless_path = root / lossless_entry['report']
+lossless = json.loads(lossless_path.read_text())
+if hashlib.sha256(lossless_path.read_bytes()).hexdigest() != lossless_entry['report_sha256']:
+    errors.append('Lossless archive receipt digest disagrees with manifest')
+expected_lossless_summary = {
+    'parts_verified': 16, 'archive_members_read': 253,
+    'raw_session_jsonl_files': 179, 'raw_session_jsonl_rows': 349488,
+    'metadata_rows': 105664, 'codex_attachment_originals_restored': 36,
+    'target_chatgpt_uploads_identified': 0, 'unidentified_reference_matches': 0,
+    'source_identity_unresolved': 1,
+}
+if (lossless_entry['summary'] != expected_lossless_summary
+        or citation_report['lossless_backup_followup']['summary'] != expected_lossless_summary
+        or upload['backup_checks']['lossless_archive_followup_summary'] != expected_lossless_summary
+        or upload['backup_checks']['lossless_archive_report'] != lossless_entry['report']):
+    errors.append('Lossless archive summary or cross-reference is inconsistent')
+archive = lossless['archive']
+parts = archive['parts']
+if (len(parts) != 16 or [part['sequence'] for part in parts] != list(range(1, 17))
+        or sum(part['bytes'] for part in parts) != 1576145931
+        or any(part['sha256'] != part['expected_sha256'] for part in parts)
+        or archive['compressed_bytes'] != 1576145931
+        or archive['compressed_sha256'] != archive['expected_compressed_sha256']
+        or archive['compressed_sha256'] != 'e19fd8ab9b5c366379e3fa6d268ff1c365a9acaeec4163f7ca7caf0f9cb05972'):
+    errors.append('Multipart archive identities or sizes are inconsistent')
+expected_archive_counts = {
+    'member_count': 253, 'uncompressed_member_bytes': 3766552745,
+    'original_source_files_verified_against_inventory': 215,
+    'generated_files': 38, 'generated_files_matching_retained_local_snapshots': 37,
+    'raw_session_jsonl_files': 179, 'raw_session_jsonl_rows': 349488,
+    'metadata_rows': 105664, 'jsonl_parse_errors': 0,
+}
+if any(archive.get(key) != count for key, count in expected_archive_counts.items()):
+    errors.append('Lossless archive coverage counts differ from verified receipt')
+if sum(archive['metadata_table_counts'].values()) != archive['metadata_rows']:
+    errors.append('Archive metadata table counts do not sum to the row count')
+queries = lossless['search']['queries']
+if len(queries) != 29 or len({query['id'] for query in queries}) != 29:
+    errors.append('Expected 29 distinct lossless archive search queries')
+for query in queries:
+    if not query['id'].endswith('_candidate') and not query['id'].startswith('pasted_filename'):
+        if query['matching_lines'] != 0 or query['matching_members'] != 0:
+            errors.append('Targeted negative archive result has changed: ' + query['id'])
+if (lossless['search']['broad_candidate_lines'] != 591
+        or sum(lossless['search']['broad_candidate_context_groups'].values()) != 591):
+    errors.append('Broad archive candidate review coverage is inconsistent')
+attachment_checks = lossless['restored_attachment_checks']
+if (attachment_checks['originals_restored_privately'] != 36
+        or attachment_checks['digests_matching_original_inventory'] != 36
+        or attachment_checks['matching_retained_upload_excerpts'] != 0
+        or attachment_checks['target_chatgpt_uploads_identified'] != 0):
+    errors.append('Restored Codex attachments have been confused with target ChatGPT uploads')
+known_note = lossless['known_optical_note_confirmation']
+note_record = record_by_id[known_note['record_id']]
+note_text = (root / note_record['path']).read_text()
+note_heading = '# Optical Input And Sleep-State Influence'
+note_start = note_text.find(note_heading)
+note_body = note_text[note_start:].encode() if note_start >= 0 else b''
+note_digest = hashlib.sha256(note_body).hexdigest()
+if (note_digest != known_note['original_body_sha256']
+        or note_digest != known_note['published_body_sha256']
+        or len(note_body) != known_note['body_bytes'] or len(note_body) != 3334
+        or note_record['sha256'] != known_note['published_record_sha256']
+        or note_record['lossless_backup_confirmation']['body_sha256'] != note_digest
+        or known_note['exact_body_match'] is not True):
+    errors.append('Recovered archive optical-note body does not match the existing record')
+gaps = lossless['remaining_gaps']
+if (gaps['source_identity_unresolved'] != 1
+        or gaps['target_original_uploads_fully_restored'] != 0
+        or gaps['original_file_bytes_unavailable_references'] != 50
+        or lossless['deletions_performed'] != 0):
+    errors.append('Lossless archive recovery outcome or preservation boundary is misstated')
 
 new_ids = manifest['deep_research_discovery']['new_record_ids']
 if len(new_ids) != 16 or len(set(new_ids)) != 16 or any(i not in record_by_id for i in new_ids):
@@ -228,4 +304,4 @@ for path in (root / 'research').rglob('*'):
 if errors:
     print('\n'.join(errors))
     raise SystemExit(1)
-print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts; 471 citation dispositions; 49 upload-ancestry mappings / three matched excerpts / one unidentified source; {len(current_urls)} audited source URLs; six registry identities; no uncatalogued research or matched private URLs/credentials.")
+print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts; 471 citation dispositions; 49 upload-ancestry mappings / three matched excerpts / one unidentified source; verified lossless-backup receipt (16 parts / 253 files / 105664 metadata rows); {len(current_urls)} audited source URLs; six registry identities; no uncatalogued research or matched private URLs/credentials.")

@@ -5941,5 +5941,21 @@
       "answers_with_matching_retained_excerpts": 5,
       "distinct_matching_excerpts": 3
     }
+  },
+  "lossless_backup_followup": {
+    "date": "2026-10-28",
+    "report": "sources/lossless-backup-audit.json",
+    "summary": {
+      "parts_verified": 16,
+      "archive_members_read": 253,
+      "raw_session_jsonl_files": 179,
+      "raw_session_jsonl_rows": 349488,
+      "metadata_rows": 105664,
+      "codex_attachment_originals_restored": 36,
+      "target_chatgpt_uploads_identified": 0,
+      "unidentified_reference_matches": 0,
+      "source_identity_unresolved": 1
+    },
+    "result": "No new source identity or target upload bytes recovered; existing citation dispositions are unchanged."
   }
 }

@@ -921,7 +921,12 @@
       "origin": "Faraday named component workspace, docs/vindication-optical-sleep-influence-research.md",
       "status": "Archived note; hypotheses and simulations retain original claim ceilings",
       "source_sha256": "2ba077493b7f8e6ad91c4381ce1a407216d15ed999a91b1deb12afb7cf0df23d",
-      "sha256": "7d648c3362a3c28134805b89151964e0a63d721f7b6ab1f854a788c118144598"
+      "sha256": "7d648c3362a3c28134805b89151964e0a63d721f7b6ab1f854a788c118144598",
+      "lossless_backup_confirmation": {
+        "report": "sources/lossless-backup-audit.json",
+        "body_sha256": "2ba077493b7f8e6ad91c4381ce1a407216d15ed999a91b1deb12afb7cf0df23d",
+        "body_bytes": 3334
+      }
     },
     {
       "id": "vindication-magnetic-effects-research",
@@ -2271,7 +2276,7 @@
     },
     "original_uploaded_file_references_unrecovered": 50,
     "report": "sources/citation-recovery.json",
-    "ledger_sha256": "560553002d4c03f981607d23e75a3456bad5b5aca37f8b1a14a57d158b5061a3",
+    "ledger_sha256": "fa401a7d5944f941c468e925f53af1af22db30926d7c813486be0e989aeba145",
     "upload_text_ancestry_identified": 49,
     "file_style_source_identity_unresolved": 1,
     "unrecovered_count_basis": "49 original upload citations plus one unidentified file-style reference; ancestry matches are not complete-file recovery"
@@ -2327,7 +2332,7 @@
   "upload_ancestry_recovery": {
     "date": "2026-10-28",
     "report": "sources/upload-recovery.json",
-    "report_sha256": "ffff6a39c4890518b1af7915bf642e6f66a2cf9658db147d097bd7be077f0355",
+    "report_sha256": "7f30e252e78408678b9e47106fe19636c78f4dac41cc197905218666ba0f2987",
     "summary": {
       "references_reviewed": 50,
       "high_confidence_text_ancestry_identified": 49,
@@ -2336,6 +2341,22 @@
       "original_uploaded_files_fully_restored": 0,
       "answers_with_matching_retained_excerpts": 5,
       "distinct_matching_excerpts": 3
+    }
+  },
+  "lossless_backup_recovery": {
+    "date": "2026-10-28",
+    "report": "sources/lossless-backup-audit.json",
+    "report_sha256": "b4a1a94a2518a8130a84e4ab98d2dcadb09ea1b62255b09b8f33b080e127e437",
+    "summary": {
+      "parts_verified": 16,
+      "archive_members_read": 253,
+      "raw_session_jsonl_files": 179,
+      "raw_session_jsonl_rows": 349488,
+      "metadata_rows": 105664,
+      "codex_attachment_originals_restored": 36,
+      "target_chatgpt_uploads_identified": 0,
+      "unidentified_reference_matches": 0,
+      "source_identity_unresolved": 1
     }
   }
 }

@@ -24,6 +24,7 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 - [Recovery report](sources/recovery.md): all six original truncated answers restored, plus 37 additional research records.
 - [Citation recovery and deeper discovery](sources/citation-audit.md): 172 deep-research search results screened; 16 more records added; all 471 old citation markers accounted for.
 - [Uploaded-reference recovery](sources/upload-recovery.md): retained excerpts trace 49 references to the optical review; one source identity remains unresolved. Original upload bytes remain unavailable.
+- [Lossless-backup audit](sources/lossless-backup-audit.md): all 16 parts verified; 253 files and 105,664 metadata rows searched; no missing target upload or reference mapping identified.
 - [Source-link audit](sources/link-audit.md): access results, publication identities, verified alternatives, and remaining access limits.
 - [Coverage and recovery gaps](sources/coverage.md): what was searched, exclusions, and limits.
 - [Citation corrections](sources/corrections.md): bibliographic errors, editorial repairs, and source boundaries.
