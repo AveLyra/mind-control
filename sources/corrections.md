@@ -46,6 +46,8 @@ The recovered evidence archive preserves an original heading that linked **Absor
 
 ## Publication type and version matter
 
+The [decoded-feedback follow-up](../wiki/decoded-feedback-and-ai-memory.md#replication) corrects a potential study-counting error: the 2016 and 2017 confidence reports explicitly use identical data, with ten feedback participants. Both may be informative, but they are one intervention dataset rather than independent replications. Their earlier source records remain preserved. The common-fear data mapping needs a different qualification: the later decoder paper also contains additional validation data; it is not wholly identical merely because a shared dataset is listed under both publications. See [R03–R10](../research/updates/2026-10-28-decoded-ai-replications.md#r03).
+
 Crossref identifies DOI `10.7554/eLife.89601.2.sa2` as an **eLife Assessment**. The archived answer cites it for a peer-review qualification, which is an appropriate distinct role; it should not be counted as another experiment. Likewise, the BCI answer already labels **A generalizable speech neuroprosthesis** as a preprint. Its [PubMed record](https://pubmed.ncbi.nlm.nih.gov/42619707/) independently confirms the title, PMCID, and preprint identity.
 
 The [2019 sleep-vocabulary article](https://pubmed.ncbi.nlm.nih.gov/30713104/) has a linked [erratum](https://pubmed.ncbi.nlm.nih.gov/31639343/). The erratum’s contents were not examined in this pass. The retrieved record did not indicate a retraction; a correction link alone cannot establish that the result was reversed. Quantitative reuse should consult the corrected publication.

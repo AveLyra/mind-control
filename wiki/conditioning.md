@@ -1,6 +1,6 @@
 # Conditioning, repetition, and suggestion
 
-[Home](../README.md) · [Hypnosis](hypnosis.md) · [Sleep](sleep.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md)
+[Home](../README.md) · [Hypnosis](hypnosis.md) · [Sleep](sleep.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md) · [Replication follow-up](decoded-feedback-and-ai-memory.md)
 
 The original **Research conditioning and hypnosis** conversation distinguishes learning a response from obeying an instruction. Its recovered answers cover fear learning, anticipatory nausea, conditioned immune responses, repetition, familiarity, memory confidence, and false recollection.
 

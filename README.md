@@ -8,6 +8,7 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 |---|---|
 | [Research network and science-fiction horizon](wiki/research-horizon.md) | 17 capabilities, 14 connections, six larger scenarios, contrary evidence, and milestones that would move the boundary |
 | [Combining techniques: evidence for and against](wiki/combined-techniques.md) | Four focused combinations, direct studies, null outcomes, and the distinction between integration, added benefit, and synergy |
+| [Decoded feedback and AI memory: replications and combinations](wiki/decoded-feedback-and-ai-memory.md) | Cohort/replication tracing, modality differences, deepfake/text comparisons, and direct versus adjacent sleep/hypnosis evidence |
 | [Sleep techniques and learning](wiki/sleep.md) | Targeted memory reactivation, dream incubation, sleep conditioning, pink noise, masked speech |
 | [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
 | [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
@@ -23,7 +24,8 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 150 research records, including supplied continuation artifacts and dated network/combination checks, with origins and status.
+- [Source catalog](sources/catalog.md): 151 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Decoded-feedback/AI replication checks](research/updates/2026-10-28-decoded-ai-replications.md): 26 source entries, study relationships, 14 bounded PubMed queries, and scoped primary-text inspection.
 - [Combined-technique source checks](research/updates/2026-10-28-combined-techniques.md): 16 selected publications, bounded discovery, source versions, and retrieval limits.
 - [Network source checks](research/updates/2026-10-28-horizon-source-checks.md): 24 selected publications, with bounded claims and explicit abstract/full-text access limits.
 - [Awareness literature update](sources/awareness-update-intake.md): new review, 30 evidence entries, 53 numbered references, and scoped source/claim checks.

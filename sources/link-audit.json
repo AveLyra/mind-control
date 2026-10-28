@@ -3,9 +3,9 @@
   "auditor_version": 3,
   "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
   "summary": {
+    "reachable": 428,
     "access_challenge": 281,
-    "reachable": 405,
-    "access_restricted": 145,
+    "access_restricted": 146,
     "redirect_landing": 55,
     "request_failed": 7,
     "http_error": 3
@@ -772,6 +772,22 @@
       "bytes_sampled": 105382,
       "status": "reachable",
       "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://dam-prod.media.mit.edu/x/2025/08/25/IUI-2025-Slip%20Through%20the%20Chat.pdf",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:22+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://dam-prod.media.mit.edu/x/2025/08/25/IUI-2025-Slip%20Through%20the%20Chat.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
       "identity_check_category": "not_applicable"
     },
     {
@@ -5446,6 +5462,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1145/3708359.3712112",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:22+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://dl.acm.org/doi/10.1145/3708359.3712112",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "doi": "10.1145/3708359.3712112",
+        "title": "Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation",
+        "authorString": "Pat Pataranutaporn; Chayapatr Archiwaranguprok; Samantha W. T. Chan; Elizabeth Loftus; Pattie Maes",
+        "publication_date": [
+          [
+            2025,
+            3,
+            24
+          ]
+        ],
+        "journalTitle": "Proceedings of the 30th International Conference on Intelligent User Interfaces",
+        "type": "proceedings-article",
+        "metadata_provider": "Crossref",
+        "metadata_url": "https://api.crossref.org/works/10.1145%2F3708359.3712112"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1159/000072883",
       "record_paths": [
         "research/chats/deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b.md"
@@ -6283,6 +6327,22 @@
         "metadata_url": "https://api.crossref.org/works/10.7554%2FeLife.89601.3"
       },
       "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://dspace.mit.edu/entities/publication/4425a046-bb57-49ac-911a-90ca9869d7bc",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:22+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://dspace.mit.edu/entities/publication/4425a046-bb57-49ac-911a-90ca9869d7bc",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
     },
     {
       "url": "https://dspace.mit.edu/entities/publication/7d46de1f-6a49-42ab-9700-c37efa0ba991",
@@ -11674,6 +11734,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1500609/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:24+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/1500609/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Reports of real and false memories: the relevance of hypnosis, hypnotizability, and context of memory test - PubMed",
+      "bytes_sampled": 117531,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "1500609",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037//0021-843x.101.3.521",
+        "title": "Reports of real and false memories: the relevance of hypnosis, hypnotizability, and context of memory test.",
+        "authorString": "Barnier AJ, McConkey KM.",
+        "pubYear": "1992",
+        "journalTitle": "J Abnorm Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A1500609+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/1594413/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-3-8.md"
@@ -11842,6 +11930,34 @@
         "journalTitle": "Arch Gen Psychiatry",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17015814+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17113932/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:20+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/17113932/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Relaxation strategies and enhancement of hypnotic susceptibility: EEG neurofeedback, progressive muscle relaxation and self-hypnosis - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "17113932",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.brainresbull.2006.08.005",
+        "title": "Relaxation strategies and enhancement of hypnotic susceptibility: EEG neurofeedback, progressive muscle relaxation and self-hypnosis.",
+        "authorString": "Batty MJ, Bonnington S, Tang BK, Hawken MB, Gruzelier JH.",
+        "pubYear": "2006",
+        "journalTitle": "Brain Res Bull",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A17113932+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -12513,6 +12629,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22158821/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/22158821/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Perceptual learning incepted by decoded fMRI neurofeedback without stimulus presentation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "22158821",
+        "source": "MED",
+        "pmcid": "PMC3297423",
+        "doi": "10.1126/science.1212003",
+        "title": "Perceptual learning incepted by decoded fMRI neurofeedback without stimulus presentation.",
+        "authorString": "Shibata K, Watanabe T, Sasaki Y, Kawato M.",
+        "pubYear": "2011",
+        "journalTitle": "Science",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22158821+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/22281851/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-54-16.md"
@@ -13090,6 +13234,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25031301/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:24+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/25031301/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Sleep deprivation and false memories - PubMed",
+      "bytes_sampled": 128070,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "25031301",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797614534694",
+        "title": "Sleep deprivation and false memories.",
+        "authorString": "Frenda SJ, Patihis L, Loftus EF, Lewis HC, Fenn KM.",
+        "pubYear": "2014",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25031301+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/25220055/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -13478,6 +13650,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26599991/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26599991/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Use of Neurofeedback to Enhance Response to Hypnotic Analgesia in Individuals With Multiple Sclerosis - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26599991",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207144.2015.1099400",
+        "title": "Use of Neurofeedback to Enhance Response to Hypnotic Analgesia in Individuals With Multiple Sclerosis.",
+        "authorString": "Jensen MP, Gianas A, George HR, Sherlin LH, Kraft GH, Ehde DM.",
+        "pubYear": "2016",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26599991+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/26878746/",
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md"
@@ -13674,6 +13874,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27976739/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27976739/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Multivoxel neurofeedback selectively modulates confidence without changing perceptual performance - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27976739",
+        "source": "MED",
+        "pmcid": "PMC5171844",
+        "doi": "10.1038/ncomms13669",
+        "title": "Multivoxel neurofeedback selectively modulates confidence without changing perceptual performance.",
+        "authorString": "Cortese A, Amano K, Koizumi A, Kawato M, Lau H.",
+        "pubYear": "2016",
+        "journalTitle": "Nat Commun",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27976739+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28098351/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -13716,7 +13944,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28163140/",
       "record_paths": [
-        "research/updates/2026-10-28-combined-techniques.md"
+        "research/updates/2026-10-28-combined-techniques.md",
+        "research/updates/2026-10-28-decoded-ai-replications.md"
       ],
       "checked_at_utc": "2026-10-28T18:11:51+00:00",
       "auditor_version": 3,
@@ -13805,6 +14034,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28335000/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:20+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28335000/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Better than sham? A double-blind placebo-controlled neurofeedback study in primary insomnia - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28335000",
+        "source": "MED",
+        "pmcid": "PMC5382955",
+        "doi": "10.1093/brain/awx011",
+        "title": "Better than sham? A double-blind placebo-controlled neurofeedback study in primary insomnia.",
+        "authorString": "Schabus M, Griessenberger H, Gnjezda MT, Heib DPJ, Wislowska M, Hoedlmoser K.",
+        "pubYear": "2017",
+        "journalTitle": "Brain",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28335000+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28337134/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -13831,6 +14088,34 @@
         "journalTitle": "Front Hum Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28337134+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28458092/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:23+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28458092/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Sleep does not cause false memories on a story-based test of suggestibility - PubMed",
+      "bytes_sampled": 128254,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28458092",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.concog.2017.04.010",
+        "title": "Sleep does not cause false memories on a story-based test of suggestibility.",
+        "authorString": "van Rijn E, Carter N, McMurtrie H, Willner P, Blagrove MT.",
+        "pubYear": "2017",
+        "journalTitle": "Conscious Cogn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28458092+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13916,6 +14201,34 @@
         "journalTitle": "Soc Psychol Personal Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28736600+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28989977/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28989977/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Fear reduction without fear through reinforcement of neural activity that bypasses conscious exposure - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28989977",
+        "source": "MED",
+        "pmcid": "PMC5628620",
+        "doi": "10.1038/s41562-016-0006",
+        "title": "Fear reduction without fear through reinforcement of neural activity that bypasses conscious exposure.",
+        "authorString": "Koizumi A, Amano K, Cortese A, Shibata K, Yoshida W, Seymour B, Kawato M, Lau H.",
+        "pubYear": "2016",
+        "journalTitle": "Nat Hum Behav",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28989977+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14007,7 +14320,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/29511106/",
       "record_paths": [
-        "research/updates/2026-10-28-combined-techniques.md"
+        "research/updates/2026-10-28-combined-techniques.md",
+        "research/updates/2026-10-28-decoded-ai-replications.md"
       ],
       "checked_at_utc": "2026-10-28T18:11:51+00:00",
       "auditor_version": 3,
@@ -14092,6 +14406,34 @@
         "journalTitle": "Behav Sci (Basel)",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29849006+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29856281/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29856281/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "USE OF NEUROFEEDBACK AND MINDFULNESS TO ENHANCE RESPONSE TO HYPNOSIS TREATMENT IN INDIVIDUALS WITH MULTIPLE SCLEROSIS: Results From a Pilot Randomized Clinical Trial - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29856281",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207144.2018.1460546",
+        "title": "USE OF NEUROFEEDBACK AND MINDFULNESS TO ENHANCE RESPONSE TO HYPNOSIS TREATMENT IN INDIVIDUALS WITH MULTIPLE SCLEROSIS: Results From a Pilot Randomized Clinical Trial.",
+        "authorString": "Jensen MP, Battalio SL, Chan JF, Edwards KA, Day MA, Sherlin LH, Ehde DM.",
+        "pubYear": "2018",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29856281+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14238,6 +14580,34 @@
         "journalTitle": "J Exp Psychol Gen",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30247057+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30264239/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:23+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30264239/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "When does sleep affect veridical and false memory consolidation? A meta-analysis - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30264239",
+        "source": "MED",
+        "pmcid": "PMC6488554",
+        "doi": "10.3758/s13423-018-1528-4",
+        "title": "When does sleep affect veridical and false memory consolidation? A meta-analysis.",
+        "authorString": "Newbury CR, Monaghan P.",
+        "pubYear": "2019",
+        "journalTitle": "Psychon Bull Rev",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30264239+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14648,6 +15018,34 @@
         "journalTitle": "Curr Biol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31639343+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31659269/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31659269/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Multivoxel pattern analysis reveals dissociations between subjective fear and its physiological correlates - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31659269",
+        "source": "MED",
+        "pmcid": "PMC7515839",
+        "doi": "10.1038/s41380-019-0520-3",
+        "title": "Multivoxel pattern analysis reveals dissociations between subjective fear and its physiological correlates.",
+        "authorString": "Taschereau-Dumouchel V, Kawato M, Lau H.",
+        "pubYear": "2020",
+        "journalTitle": "Mol Psychiatry",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31659269+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15073,6 +15471,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33623035/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33623035/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The DecNef collection, fMRI data from closed-loop decoded neurofeedback experiments - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33623035",
+        "source": "MED",
+        "pmcid": "PMC7902847",
+        "doi": "10.1038/s41597-021-00845-7",
+        "title": "The DecNef collection, fMRI data from closed-loop decoded neurofeedback experiments.",
+        "authorString": "Cortese A, Tanaka SC, Amano K, Koizumi A, Lau H, Sasaki Y, Shibata K, Taschereau-Dumouchel V, Watanabe T, Kawato M.",
+        "pubYear": "2021",
+        "journalTitle": "Sci Data",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33623035+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/",
       "record_paths": [
         "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-27.md"
@@ -15125,6 +15551,34 @@
         "journalTitle": "Trends Cogn Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33879421+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33910482/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:21+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33910482/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Deepfake false memories - PubMed",
+      "bytes_sampled": 96569,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33910482",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658211.2021.1919715",
+        "title": "Deepfake false memories.",
+        "authorString": "Murphy G, Flynn E.",
+        "pubYear": "2022",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33910482+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15237,6 +15691,34 @@
         "journalTitle": "Nat Sci Sleep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34393533+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34431964/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34431964/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Visual perceptual learning of a primitive feature in human V1/V2 as a result of unconscious processing, revealed by decoded functional MRI neurofeedback (DecNef) - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34431964",
+        "source": "MED",
+        "pmcid": "PMC8399321",
+        "doi": "10.1167/jov.21.8.24",
+        "title": "Visual perceptual learning of a primitive feature in human V1/V2 as a result of unconscious processing, revealed by decoded functional MRI neurofeedback (DecNef).",
+        "authorString": "Wang Z, Tamaki M, Frank SM, Shibata K, Worden MS, Yamada T, Kawato M, Sasaki Y, Watanabe T.",
+        "pubYear": "2021",
+        "journalTitle": "J Vis",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34431964+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15886,6 +16368,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37410765/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:22+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37410765/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Face/Off: Changing the face of movies with deepfakes - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37410765",
+        "source": "MED",
+        "pmcid": "PMC10325052",
+        "doi": "10.1371/journal.pone.0287503",
+        "title": "Face/Off: Changing the face of movies with deepfakes.",
+        "authorString": "Murphy G, Ching D, Twomey J, Linehan C.",
+        "pubYear": "2023",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37410765+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/37528278/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -16067,7 +16577,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/37985180/",
       "record_paths": [
-        "research/updates/2026-10-28-combined-techniques.md"
+        "research/updates/2026-10-28-combined-techniques.md",
+        "research/updates/2026-10-28-decoded-ai-replications.md"
       ],
       "checked_at_utc": "2026-10-28T18:11:51+00:00",
       "auditor_version": 3,
@@ -16529,7 +17040,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/39221769/",
       "record_paths": [
-        "research/updates/2026-10-28-combined-techniques.md"
+        "research/updates/2026-10-28-combined-techniques.md",
+        "research/updates/2026-10-28-decoded-ai-replications.md"
       ],
       "checked_at_utc": "2026-10-28T18:11:51+00:00",
       "auditor_version": 3,
@@ -16692,6 +17204,34 @@
         "journalTitle": "NPJ Sci Learn",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39500927+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39555250/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39555250/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Decoded EEG neurofeedback-guided cognitive reappraisal training for emotion regulation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39555250",
+        "source": "MED",
+        "pmcid": "PMC11564442",
+        "doi": "10.1007/s11571-024-10108-x",
+        "title": "Decoded EEG neurofeedback-guided cognitive reappraisal training for emotion regulation.",
+        "authorString": "Li L, Gui X, Huang G, Zhang L, Wan F, Han X, Wang J, Ni D, Liang Z, Zhang Z.",
+        "pubYear": "2024",
+        "journalTitle": "Cogn Neurodyn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39555250+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16977,6 +17517,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40568446/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:24+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40568446/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Event-related desynchronization in motor imagery with EEG neurofeedback in the context of declarative interference and sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40568446",
+        "source": "MED",
+        "pmcid": "PMC12172706",
+        "doi": "10.1016/j.ynirp.2021.100058",
+        "title": "Event-related desynchronization in motor imagery with EEG neurofeedback in the context of declarative interference and sleep.",
+        "authorString": "Daeglau M, Zich C, Welzel J, Saak SK, Scheffels JF, Kranczioch C.",
+        "pubYear": "2021",
+        "journalTitle": "Neuroimage Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40568446+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/40569728/",
       "record_paths": [
         "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md"
@@ -17236,6 +17804,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41060038/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41060038/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Effects of Olfactory Learning Context Reactivation During Sleep on Training Success in a Double-Blind Randomized Controlled Sensorimotor Rhythm Neurofeedback Protocol: A Pilot Study - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41060038",
+        "source": "MED",
+        "pmcid": "PMC12506616",
+        "doi": "10.1111/psyp.70154",
+        "title": "Effects of Olfactory Learning Context Reactivation During Sleep on Training Success in a Double-Blind Randomized Controlled Sensorimotor Rhythm Neurofeedback Protocol: A Pilot Study.",
+        "authorString": "Lechinger J, Newe C, Nadler S, Schubert M, V Ngo HV, Göder R, Prehn-Kristensen A.",
+        "pubYear": "2025",
+        "journalTitle": "Psychophysiology",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41060038+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41089190/",
       "record_paths": [
         "research/chats/deeper-f6119b03-261d-4396-88c8-a54a8e04ad8d.md"
@@ -17433,6 +18029,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347227/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41347227/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Improving interference control without conflict exposure: prefrontal fNIRS-decoded neurofeedback training - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41347227",
+        "source": "MED",
+        "pmcid": "PMC12673338",
+        "doi": "10.1117/1.nph.12.4.045009",
+        "title": "Improving interference control without conflict exposure: prefrontal fNIRS-decoded neurofeedback training.",
+        "authorString": "Zeng L, Xing W, Wu D, Dong M, Yuan Y, Wang X, Wen Z.",
+        "pubYear": "2025",
+        "journalTitle": "Neurophotonics",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41347227+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41426467/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-9-13.md",
@@ -17545,6 +18169,34 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41561361+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41644844/",
+      "record_paths": [
+        "research/updates/2026-10-28-decoded-ai-replications.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:53:19+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41644844/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Enhancing fMRI Decoded Neurofeedback with Co-adaptive Training: Simulation and Proof-of-principle Evidence - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41644844",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1007/s12021-026-09768-3",
+        "title": "Enhancing fMRI Decoded Neurofeedback with Co-adaptive Training: Simulation and Proof-of-principle Evidence.",
+        "authorString": "Abdennour N, Margolles P, Soto D.",
+        "pubYear": "2026",
+        "journalTitle": "Neuroinformatics",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41644844+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -21416,11 +22068,6 @@
     "new_url_metadata_identities_resolved": 3,
     "scope": "New source URLs and updated context paths; earlier same-day outcomes and separately dated checks preserved."
   },
-  "metadata_summary": {
-    "not_applicable": 317,
-    "api_identity_resolved": 578,
-    "prior_independent_identity_resolved_after_index_miss": 1
-  },
   "combined_technique_incremental_check": {
     "date": "2026-10-28",
     "prior_same_day_results_preserved": 876,
@@ -21431,5 +22078,21 @@
     },
     "new_url_metadata_identities_resolved": 13,
     "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
+  },
+  "metadata_summary": {
+    "not_applicable": 319,
+    "api_identity_resolved": 600,
+    "prior_independent_identity_resolved_after_index_miss": 1
+  },
+  "decoded_ai_incremental_check": {
+    "date": "2026-10-28",
+    "prior_same_day_results_preserved": 896,
+    "new_source_urls_checked": 24,
+    "new_url_http_summary": {
+      "reachable": 23,
+      "access_restricted": 1
+    },
+    "new_url_metadata_identities_resolved": 22,
+    "scope": "Replication/cohort and sleep/hypnosis follow-up. Prior outcomes preserved except updated context paths. Primary-text and identity checks are separately scoped in the new source record."
   }
 }

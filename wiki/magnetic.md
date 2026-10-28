@@ -1,6 +1,6 @@
 # Magnetism and neural interfaces
 
-[Home](../README.md) · [Optical signaling](optical.md) · [Evidence ledger](evidence-ledger.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md)
+[Home](../README.md) · [Optical signaling](optical.md) · [Evidence ledger](evidence-ledger.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md) · [Replication follow-up](decoded-feedback-and-ai-memory.md)
 
 The ChatGPT **Magnetoreception Applications Research** discussion and [Faraday magnetic note](../research/notes/vindication-magnetic-effects-research.md) use a receiver-first distinction: identify what receives a field, how it transduces it, and what outcome was measured.
 

@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Combined-technique review](combined-techniques.md) · [Evidence ledger](evidence-ledger.md) · [Source checks](../research/updates/2026-10-28-horizon-source-checks.md)
 
+The [replication and modality follow-up](decoded-feedback-and-ai-memory.md) traces C17/B08 and B10 evidence by cohort, adds direct conventional-feedback combinations, and preserves the missing decoded-fMRI and AI-distortion interactions. The capability and bridge IDs remain stable.
+
 **Real results exist on both sides of the brain–environment interface: changing some responses, learning some associations, decoding some information, and delivering some stimulation. The frontier lies in the missing connections between these capabilities.** A result about one response, species, state, or device does not establish the whole system suggested by a science-fiction scenario.
 
 This is a curated network of the collection, assessed October 28, 2026. It adds targeted source checks for connections across fields; it is not an exhaustive review or a forecast of when a technology will arrive. Primary papers control their reported results. The connections and horizon judgments below are editorial inferences, open to revision.
@@ -156,6 +158,8 @@ Connects to **B12** and [historical programs and drugs](history-and-drugs.md). M
 **Measured:** human decoded-neurofeedback studies combine neural pattern measurement with reinforcement and report restricted perceptual, confidence, or threat-response changes. These are actual feedback–learning loops. They differ from passive semantic decoding and from direct neural stimulation. [CT3 and sources D09–D13](combined-techniques.md#ct3)
 
 The intended symbolic association failed in one conceptual study despite neural target-pattern learning. A small phobia trial changed a neural endpoint without a significant self-reported fear change. Connects to **B08**, [memory](memory.md), and [interfaces](magnetic.md). Target-pattern success cannot substitute for independent transfer or real-life behavior.
+
+The [new replication trace](decoded-feedback-and-ai-memory.md#replication) identifies identical data behind the two confidence papers. Other modalities add task-dependent findings, including a decoded-fNIRS result without nearby task transfer. Conventional EEG combinations with sleep/hypnosis are adjacent evidence, not direct tests of the same decoded-fMRI capability.
 
 ## Connection register: where the inference can break
 

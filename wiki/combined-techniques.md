@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Research horizon](research-horizon.md) · [Evidence ledger](evidence-ledger.md) · [Source record](../research/updates/2026-10-28-combined-techniques.md)
 
+The [decoded-feedback/AI follow-up](decoded-feedback-and-ai-memory.md) now traces replication and cohort relationships and examines direct versus adjacent sleep/hypnosis combinations. Its source checks preserve the earlier review rather than rewriting its historical research record.
+
 **Some combinations already have human experimental evidence. The most defensible extensions concern restricted changes to learned material, responses, or reports. Evidence that the same ingredients can produce flexible new instructions, exact memory replacement, or a general behavior override remains missing.**
 
 This October 28, 2026 review prioritizes four connections because they have direct combination studies, plausible shared mechanisms, or especially informative counterexamples. “Promising” refers to a specified research question, not a probability of covert deployment or a treatment recommendation. The [source record](../research/updates/2026-10-28-combined-techniques.md) identifies 16 selected publications and the access limits of this bounded search.
@@ -48,6 +50,8 @@ Reduced coupling is a plausible explanation for the dissociation, not a demonstr
 
 The confidence study also directly tests a combination problem: opposing feedback directions within the same participants produced order-dependent effects, with the second session markedly weakened. Prior learning can interfere with a later intervention rather than supply a freely stackable component. The reported confidence effects do not establish corresponding changes in accuracy, values, or obedience. [D13](../research/updates/2026-10-28-combined-techniques.md#d13)
 
+**Cohort clarification:** the 2016 and 2017 confidence papers use identical experimental data: ten feedback participants, not two independent feedback samples. The newer [replication trace](decoded-feedback-and-ai-memory.md#replication) records the explicit same-data declaration, additional validation evidence elsewhere in the field, and publication-versus-study distinctions.
+
 Fear-oriented studies also provide bounded positive evidence. In the 2024 double-blind phobia trial, 18 participants entered the primary neural analysis. The target-versus-control-phobia change in amygdala response reached p = .033. However, self-reported fear did not significantly change, an attentional-task interaction did not reach .05, and the study could not establish real-life avoidance benefits or duration of effects. Randomization concerned session-number groups, with a within-person control phobia; this was not a large parallel sham-treatment efficacy trial. [D09–D10](../research/updates/2026-10-28-combined-techniques.md#d09)
 
 **An especially relevant failure.** Margolles et al. attempted to associate an unfamiliar symbol with an existing perceptual concept through decoded feedback. Neural target-pattern induction improved, but the intended symbol-specific search priming was absent; search for the target category was instead impaired. That is evidence for an unintended behavioral consequence alongside failure of the intended semantic association. [D11](../research/updates/2026-10-28-combined-techniques.md#d11)
@@ -66,6 +70,8 @@ A separate 200-person conversational preprint found more errors after suggestive
 **What limits an AI-specific explanation.** A 2026 summary experiment analyzed 328 participants. Accurate versus misleading content strongly affected recognition of a studied detail; attributing otherwise matched text to AI versus a human did not significantly change accuracy. This supports a content-based misinformation explanation and limits claims that an AI label supplies the mechanism. Broader accuracy remained high, which also limits a wholesale-replacement interpretation. [D16](../research/updates/2026-10-28-combined-techniques.md#d16)
 
 These studies do not test a reconstructed *personal* episode generated from brain recordings, nor a combination with hypnotic suggestion or sleep cueing. Their narrow distortion findings strengthen one portion of [B10](research-horizon.md#connection-register-where-the-inference-can-break). They do not validate the full neural-decoding → generated-feedback → durable autobiographical-replacement chain. Independent source records and reports made before feedback remain essential discriminators between recovery and contamination.
+
+The [new AI-memory comparison](decoded-feedback-and-ai-memory.md#ai) adds a separate same-network article-discussion experiment and earlier independent deepfake research that did not consistently outperform text. It distinguishes conceptual convergence from exact replication and leaves direct AI-distortion/sleep/hypnosis interactions open.
 
 ## A combination is not automatically synergy
 

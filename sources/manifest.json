@@ -2218,6 +2218,14 @@
       "origin": "New editorial research review; bounded PubMed and primary HCI/AI source checks dated 2026-10-28",
       "status": "16 selected publications; 13 complete PubMed abstracts; three complete PMC bodies retrieved with selected sections inspected; additional published PDF/primary HTML checks and version limits explicit",
       "sha256": "0f9b72bb1f43514411944c6b7d4874aa883ff64ad06be13d995baa16ea5d3117"
+    },
+    {
+      "id": "decoded-ai-replication-checks-2026-10-28",
+      "title": "Decoded feedback and AI memory — replication, cohorts, and sleep/hypnosis combinations",
+      "path": "research/updates/2026-10-28-decoded-ai-replications.md",
+      "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-28",
+      "status": "26 selected source entries; 25 PubMed identities; 24 complete abstracts; one selected PMC opening without a supplied abstract; ten other complete PMC bodies retrieved with selected sections checked; final IUI PDF and cohort/version relationships inspected",
+      "sha256": "22f26e966e1030d868b6098d1397a1cddf3bb2d21ab639088009b3de0061f8c1"
     }
   ],
   "supplementary_recovery": {
@@ -2415,22 +2423,22 @@
   },
   "source_link_audit": {
     "date": "2026-10-28",
-    "unique_source_urls": 896,
+    "unique_source_urls": 920,
     "http_summary": {
+      "reachable": 428,
       "access_challenge": 281,
-      "reachable": 405,
-      "access_restricted": 145,
+      "access_restricted": 146,
       "redirect_landing": 55,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
-      "not_applicable": 317,
-      "api_identity_resolved": 578,
+      "not_applicable": 319,
+      "api_identity_resolved": 600,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "4f92e1298fa0480966d00d550d76dcf83132d439e9319814f80bac2d1d1bf33d",
+    "report_sha256": "93c9e34fc2817329fa53a04b4381d86bf6a940c0b6d1955bd31c61afea76ecff",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },

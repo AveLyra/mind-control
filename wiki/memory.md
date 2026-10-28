@@ -1,6 +1,6 @@
 # Memory reconstruction and awareness
 
-[Home](../README.md) · [Conditioning](conditioning.md) · [Neural interfaces](magnetic.md) · [Evidence ledger](evidence-ledger.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md)
+[Home](../README.md) · [Conditioning](conditioning.md) · [Neural interfaces](magnetic.md) · [Evidence ledger](evidence-ledger.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md) · [Replication follow-up](decoded-feedback-and-ai-memory.md)
 
 The recovered [memory-reconstruction research](../research/chats/deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f.md) distinguishes a plausible generated scene from information demonstrably recovered from memory. Its scientific sections are preserved separately from the original business proposal.
 
