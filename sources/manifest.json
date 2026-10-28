@@ -2113,6 +2113,95 @@
         "source_html_sha256": "12445973e0860ad9718fdac228d1cb9a61209eca5a3f8a3e3fcd4db4fa8f42cf",
         "rendered_characters": 48996
       }
+    },
+    {
+      "id": "awareness-update-2026-10-28-review",
+      "title": "Awareness and optical information — continuation literature review",
+      "path": "research/updates/2026-10-28-awareness/awareness-optical-review-2026-10-28.md",
+      "origin": "User-supplied ChatGPT continuation-research artifact; cutoff 2026-10-28; original source chat ID not supplied",
+      "status": "New supplied literature update; reviewer access labels retained; independent intake checks are separately scoped",
+      "sha256": "e5af9f698bed538208c3cb857d4e978cab9e7a0a6ecbba0d796326a9d1a52885",
+      "supplied_artifact": {
+        "file_name": "awareness-optical-review-2026-10-28.md",
+        "bytes": 46872,
+        "sha256": "bb50488562053f4b5edd5e1289c947de88b72608bb58193991955da3217c8971"
+      },
+      "publication_transformations": {
+        "provenance_header_added": true,
+        "repository_links_made_local": [
+          {
+            "original": "https://github.com/AveLyra/mind-control/blob/main/wiki/awareness.md",
+            "replacement": "../../../wiki/awareness.md"
+          },
+          {
+            "original": "https://github.com/AveLyra/mind-control/blob/main/sources/upload-recovery.md",
+            "replacement": "../../../sources/upload-recovery.md"
+          },
+          {
+            "original": "https://github.com/AveLyra/mind-control/blob/main/research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+            "replacement": "../../chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md"
+          }
+        ],
+        "extra_trailing_newlines_removed": 1
+      },
+      "literature_update_role": "review"
+    },
+    {
+      "id": "awareness-update-2026-10-28-evidence",
+      "title": "Awareness and optical information — 30-entry evidence appendix",
+      "path": "research/updates/2026-10-28-awareness/awareness-optical-evidence-2026-10-28.md",
+      "origin": "User-supplied ChatGPT continuation-research artifact; cutoff 2026-10-28; original source chat ID not supplied",
+      "status": "New supplied literature update; reviewer access labels retained; independent intake checks are separately scoped",
+      "sha256": "6f40dacbb2f6b025c5d4ee24c5bb80e8b2de0824ca317d252892fd45f0f82e37",
+      "supplied_artifact": {
+        "file_name": "awareness-optical-evidence-2026-10-28.md",
+        "bytes": 28391,
+        "sha256": "063f43463d91233db7bd4885f7eec65569f1ef7b6a11c4f65170df5cec7aa6b7"
+      },
+      "publication_transformations": {
+        "provenance_header_added": true,
+        "repository_links_made_local": [],
+        "extra_trailing_newlines_removed": 0
+      },
+      "literature_update_role": "evidence"
+    },
+    {
+      "id": "awareness-update-2026-10-28-bibliography",
+      "title": "Awareness and optical information — 53-entry annotated bibliography",
+      "path": "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+      "origin": "User-supplied ChatGPT continuation-research artifact; cutoff 2026-10-28; original source chat ID not supplied",
+      "status": "New supplied literature update; reviewer access labels retained; independent intake checks are separately scoped",
+      "sha256": "989cc45dab2eba50841f28c6d2d74f50ed2ec1acb4d6aa44b8cd13845327c219",
+      "supplied_artifact": {
+        "file_name": "awareness-optical-bibliography-2026-10-28.md",
+        "bytes": 42919,
+        "sha256": "10c7351886812e4179a1f20e49f9b55a8574018b2e9f1afd84df602070e9d5ba"
+      },
+      "publication_transformations": {
+        "provenance_header_added": true,
+        "repository_links_made_local": [],
+        "extra_trailing_newlines_removed": 1
+      },
+      "literature_update_role": "bibliography"
+    },
+    {
+      "id": "awareness-update-2026-10-28-proposed-wiki",
+      "title": "Awareness and optical information — supplied proposed wiki addition",
+      "path": "research/updates/2026-10-28-awareness/wiki-awareness-addition-2026-10-28.md",
+      "origin": "User-supplied ChatGPT continuation-research artifact; cutoff 2026-10-28; original source chat ID not supplied",
+      "status": "New supplied literature update; reviewer access labels retained; independent intake checks are separately scoped",
+      "sha256": "2552e1f17d8ba39713039d50c44742dbb06a4dd94a93471de43df78f5a25c00c",
+      "supplied_artifact": {
+        "file_name": "wiki-awareness-addition-2026-10-28.md",
+        "bytes": 5131,
+        "sha256": "68b884915bebcb143f979a66d7043b6ca2ed942fc73ce40e3da64cd188279ec5"
+      },
+      "publication_transformations": {
+        "provenance_header_added": true,
+        "repository_links_made_local": [],
+        "extra_trailing_newlines_removed": 1
+      },
+      "literature_update_role": "proposed-wiki"
     }
   ],
   "supplementary_recovery": {
@@ -2309,30 +2398,30 @@
     "private_search_inventory_sha256": "f9db908f96d68f26f885cff239d6061cf203b4fccd2ea533503d7db14854dd3a"
   },
   "source_link_audit": {
-    "date": "2026-10-27",
-    "unique_source_urls": 746,
+    "date": "2026-10-28",
+    "unique_source_urls": 873,
     "http_summary": {
-      "reachable": 339,
-      "access_restricted": 120,
-      "http_error": 2,
-      "redirect_landing": 48,
-      "access_challenge": 230,
+      "reachable": 386,
+      "access_restricted": 144,
+      "http_error": 3,
+      "redirect_landing": 55,
+      "access_challenge": 278,
       "request_failed": 7
     },
     "metadata_summary": {
-      "not_applicable": 276,
-      "api_identity_resolved": 467,
-      "independent_identity_resolved_after_index_miss": 3
+      "not_applicable": 310,
+      "api_identity_resolved": 562,
+      "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "35cc5f51092b5f4ca2a9a545a3e924d6ca2dc854cb3f084c434042eb3527c225",
+    "report_sha256": "66a3e9fa6a6d76068faeb376085c80c8a0260f4d707938fe600994b66e03a6ab",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },
   "upload_ancestry_recovery": {
     "date": "2026-10-28",
     "report": "sources/upload-recovery.json",
-    "report_sha256": "58e7050b0ad7fe04f733ee6cff09ef2d82246379af5d6fff16a3704f15146edd",
+    "report_sha256": "98948eb29b1104cbecb11e30e884883680dc811ba0637969acece522c92702d9",
     "summary": {
       "references_reviewed": 50,
       "high_confidence_text_ancestry_identified": 49,
@@ -2368,7 +2457,35 @@
     "provenance_report": "sources/upload-recovery.json",
     "topic_page": "wiki/awareness.md",
     "prompt": "prompts/awareness-optical-deep-research.md",
-    "prompt_sha256": "24c8c55dbf185e79b8a40114256b000d633aa8892d0b1029889e29d975822c7e",
-    "execution_status": "draft_only_not_executed"
+    "prompt_sha256": "c5ef1be6b6bbd2eed748bb08685aca5db753785ea0ba7f33274d00f4d1c5fa33",
+    "execution_status": "supplied_literature_update_integrated",
+    "execution_origin": "User supplied the completed continuation review and companion files",
+    "review_record_ids": [
+      "awareness-update-2026-10-28-review",
+      "awareness-update-2026-10-28-evidence",
+      "awareness-update-2026-10-28-bibliography",
+      "awareness-update-2026-10-28-proposed-wiki"
+    ],
+    "intake_report": "sources/awareness-update-intake.json"
+  },
+  "awareness_literature_update": {
+    "date": "2026-10-28",
+    "search_cutoff_reported_by_source": "2026-10-28",
+    "record_ids": [
+      "awareness-update-2026-10-28-review",
+      "awareness-update-2026-10-28-evidence",
+      "awareness-update-2026-10-28-bibliography",
+      "awareness-update-2026-10-28-proposed-wiki"
+    ],
+    "evidence_entries": 30,
+    "numbered_bibliography_entries": 53,
+    "origin": "User supplied the four completed continuation-review files",
+    "original_citation_identity_recovered": false,
+    "original_upload_bytes_recovered": false,
+    "intake_report": "sources/awareness-update-intake.json",
+    "intake_report_sha256": "6218bd63a5890a8f7ebebcff2ea129c4f57f615f242c0852ae535a14e725fdc5",
+    "main_reference_identities_matched": 53,
+    "selected_claim_checks": 6,
+    "execution_status": "supplied_literature_update_integrated"
   }
 }

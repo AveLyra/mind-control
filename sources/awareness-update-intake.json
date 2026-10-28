@@ -1,0 +1,796 @@
+{
+  "date": "2026-10-28",
+  "reported_search_cutoff": "2026-10-28",
+  "review_origin": "Four user-supplied continuation-research Markdown artifacts; source chat/message ID not supplied",
+  "record_ids": [
+    "awareness-update-2026-10-28-review",
+    "awareness-update-2026-10-28-evidence",
+    "awareness-update-2026-10-28-bibliography",
+    "awareness-update-2026-10-28-proposed-wiki"
+  ],
+  "supplied_files": [
+    {
+      "file_name": "awareness-optical-review-2026-10-28.md",
+      "bytes": 46872,
+      "sha256": "bb50488562053f4b5edd5e1289c947de88b72608bb58193991955da3217c8971"
+    },
+    {
+      "file_name": "awareness-optical-evidence-2026-10-28.md",
+      "bytes": 28391,
+      "sha256": "063f43463d91233db7bd4885f7eec65569f1ef7b6a11c4f65170df5cec7aa6b7"
+    },
+    {
+      "file_name": "awareness-optical-bibliography-2026-10-28.md",
+      "bytes": 42919,
+      "sha256": "10c7351886812e4179a1f20e49f9b55a8574018b2e9f1afd84df602070e9d5ba"
+    },
+    {
+      "file_name": "wiki-awareness-addition-2026-10-28.md",
+      "bytes": 5131,
+      "sha256": "68b884915bebcb143f979a66d7043b6ca2ed942fc73ce40e3da64cd188279ec5"
+    }
+  ],
+  "evidence_entries": 30,
+  "numbered_bibliography_entries": 53,
+  "bibliographic_identities": [
+    {
+      "number": 1,
+      "supplied_title": "Using direct and indirect measures to study perception without awareness",
+      "doi": "10.3758/BF03207490",
+      "reported_pmid": "3200674",
+      "resolved_title": "Using direct and indirect measures to study perception without awareness.",
+      "resolved_pmid": "3200674",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 2,
+      "supplied_title": "Criteria for unconscious cognition: Three types of dissociation",
+      "doi": "10.3758/BF03193692",
+      "reported_pmid": "16900839",
+      "resolved_title": "Criteria for unconscious cognition: three types of dissociation.",
+      "resolved_pmid": "16900839",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 3,
+      "supplied_title": "Introspection and subliminal perception",
+      "doi": "10.1023/B:PHEN.0000041900.30172.e8",
+      "reported_pmid": null,
+      "resolved_title": "Introspection and subliminal perception",
+      "resolved_pmid": null,
+      "provider": "Crossref",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 4,
+      "supplied_title": "Measuring consciousness: Is one measure better than the other?",
+      "doi": "10.1016/j.concog.2009.12.013",
+      "reported_pmid": "20133167",
+      "resolved_title": "Measuring consciousness: is one measure better than the other?",
+      "resolved_pmid": "20133167",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 5,
+      "supplied_title": "A signal detection theoretic approach for estimating metacognitive sensitivity from confidence ratings",
+      "doi": "10.1016/j.concog.2011.09.021",
+      "reported_pmid": "22071269",
+      "resolved_title": "A signal detection theoretic approach for estimating metacognitive sensitivity from confidence ratings.",
+      "resolved_pmid": "22071269",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 6,
+      "supplied_title": "HMeta-d: hierarchical Bayesian estimation of metacognitive efficiency from confidence ratings",
+      "doi": "10.1093/nc/nix007",
+      "reported_pmid": "29877507",
+      "resolved_title": "HMeta-d: hierarchical Bayesian estimation of metacognitive efficiency from confidence ratings.",
+      "resolved_pmid": "29877507",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 7,
+      "supplied_title": "Regressive research: The pitfalls of post hoc data selection in the study of unconscious mental processes",
+      "doi": "10.3758/s13423-016-1170-y",
+      "reported_pmid": "27753047",
+      "resolved_title": "Regressive research: The pitfalls of post hoc data selection in the study of unconscious mental processes.",
+      "resolved_pmid": "27753047",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 8,
+      "supplied_title": "Progressing, not regressing: A possible solution to the problem of regression to the mean in unconscious processing studies",
+      "doi": "10.3758/s13423-023-02326-x",
+      "reported_pmid": "37528278",
+      "resolved_title": "Progressing, not regressing: A possible solution to the problem of regression to the mean in unconscious processing studies.",
+      "resolved_pmid": "37528278",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 9,
+      "supplied_title": "Accurately Measuring Nonconscious Processing Using a Generative Bayesian Framework",
+      "doi": "10.1037/cns0000316",
+      "reported_pmid": null,
+      "resolved_title": "Accurately measuring nonconscious processing using a generative Bayesian framework.",
+      "resolved_pmid": null,
+      "provider": "Crossref",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 10,
+      "supplied_title": "Raising awareness about measurement error in research on unconscious mental processes",
+      "doi": "10.3758/s13423-021-01923-y",
+      "reported_pmid": "34131891",
+      "resolved_title": "Raising awareness about measurement error in research on unconscious mental processes.",
+      "resolved_pmid": "34131891",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 11,
+      "supplied_title": "Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses",
+      "doi": "10.1177/1948550617697177",
+      "reported_pmid": "28736600",
+      "resolved_title": "Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses.",
+      "resolved_pmid": "28736600",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 12,
+      "supplied_title": "Advancing research on unconscious priming: When can scientists claim an indirect task advantage?",
+      "doi": "10.1037/xge0001065",
+      "reported_pmid": "34264714",
+      "resolved_title": "Advancing research on unconscious priming: When can scientists claim an indirect task advantage?",
+      "resolved_pmid": "34264714",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 13,
+      "supplied_title": "Unconscious cognition without post hoc selection artifacts: From selective analysis to functional dissociations",
+      "doi": "10.3758/s13428-025-02926-6",
+      "reported_pmid": "41545763",
+      "resolved_title": "Unconscious cognition without post hoc selection artifacts: From selective analysis to functional dissociations.",
+      "resolved_pmid": "41545763",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 14,
+      "supplied_title": "Increasing power for detecting awareness: a new approach to test group level objective performance",
+      "doi": "10.1093/nc/niag039",
+      "reported_pmid": "42524410",
+      "resolved_title": "Increasing power for detecting awareness: a new approach to test group level objective performance.",
+      "resolved_pmid": "42524410",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 15,
+      "supplied_title": "Neural correlates of unconscious processing in functional magnetic resonance imaging: does brain activity contain more information than can be consciously reported?",
+      "doi": "10.1093/nc/niaf042",
+      "reported_pmid": "41230018",
+      "resolved_title": "Neural correlates of unconscious processing in functional magnetic resonance imaging: does brain activity contain more information than can be consciously reported?",
+      "resolved_pmid": "41230018",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 16,
+      "supplied_title": "Studying unconscious processing: Contention and consensus",
+      "doi": "10.1017/S0140525X25101489",
+      "reported_pmid": "40692329",
+      "resolved_title": "Studying unconscious processing: Contention and consensus.",
+      "resolved_pmid": "40692329",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 17,
+      "supplied_title": "Different time courses for visual perception and action priming",
+      "doi": "10.1073/pnas.0931489100",
+      "reported_pmid": "12719543",
+      "resolved_title": "Different time courses for visual perception and action priming.",
+      "resolved_pmid": "12719543",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 18,
+      "supplied_title": "Human observers have optimal introspective access to perceptual processes even for visually masked stimuli",
+      "doi": "10.7554/eLife.09651",
+      "reported_pmid": "26433023",
+      "resolved_title": "Human observers have optimal introspective access to perceptual processes even for visually masked stimuli.",
+      "resolved_pmid": "26433023",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 19,
+      "supplied_title": "Binocular Rivalry: Frontal Activity Relates to Introspection and Action But Not to Perception",
+      "doi": "10.1523/JNEUROSCI.4403-13.2014",
+      "reported_pmid": "24478356",
+      "resolved_title": "Binocular rivalry: frontal activity relates to introspection and action but not to perception.",
+      "resolved_pmid": "24478356",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 20,
+      "supplied_title": "Distinguishing the Neural Correlates of Perceptual Awareness and Postperceptual Processing",
+      "doi": "10.1523/JNEUROSCI.0120-20.2020",
+      "reported_pmid": "32409620",
+      "resolved_title": "Distinguishing the Neural Correlates of Perceptual Awareness and Postperceptual Processing.",
+      "resolved_pmid": "32409620",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 21,
+      "supplied_title": "Subliminal syntactic priming",
+      "doi": "10.1016/j.cogpsych.2018.12.001",
+      "reported_pmid": "30593889",
+      "resolved_title": "Subliminal syntactic priming.",
+      "resolved_pmid": "30593889",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 22,
+      "supplied_title": "Number processing outside awareness? Systematically testing sensitivities of direct and indirect measures of consciousness",
+      "doi": "10.3758/s13414-021-02312-2",
+      "reported_pmid": "33973133",
+      "resolved_title": "Number processing outside awareness? Systematically testing sensitivities of direct and indirect measures of consciousness.",
+      "resolved_pmid": "33973133",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 23,
+      "supplied_title": "Unconscious Processing Contaminates Objective Measures of Conscious Perception: Evidence From the Liminal Prime Paradigm",
+      "doi": "10.5334/joc.402",
+      "reported_pmid": "39372100",
+      "resolved_title": "Unconscious Processing Contaminates Objective Measures of Conscious Perception: Evidence From the Liminal Prime Paradigm.",
+      "resolved_pmid": "39372100",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 24,
+      "supplied_title": "The Conscious Side of ‘Subliminal’ Linguistic Priming: A Systematic Review With Meta-Analysis and Reliability Analysis of Visibility Measures",
+      "doi": "10.5334/joc.419",
+      "reported_pmid": "39803184",
+      "resolved_title": "The Conscious Side of 'Subliminal' Linguistic Priming: A Systematic Review With Meta-Analysis and Reliability Analysis of Visibility Measures.",
+      "resolved_pmid": "39803184",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 25,
+      "supplied_title": "New approaches to subliminal perception: exploring the unconscious perception of masked primes with Bayesian regression models and General Recognition Theory (GRT)",
+      "doi": "10.1016/j.concog.2026.104018",
+      "reported_pmid": "41762559",
+      "resolved_title": "New approaches to subliminal perception: exploring the unconscious perception of masked primes with Bayesian regression models and General Recognition Theory (GRT).",
+      "resolved_pmid": "41762559",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 26,
+      "supplied_title": "Replicating the unconscious working memory effect: a multisite Registered Report",
+      "doi": "10.1093/nc/niaf046",
+      "reported_pmid": "41561361",
+      "resolved_title": "Replicating the unconscious working memory effect: a multisite Registered Report.",
+      "resolved_pmid": "41561361",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 27,
+      "supplied_title": "Evidence for unconscious priming using a Bayesian single-subject approach",
+      "doi": "10.1093/nc/niag052",
+      "reported_pmid": "42626369",
+      "resolved_title": "Evidence for unconscious priming using a Bayesian single-subject approach.",
+      "resolved_pmid": "42626369",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 28,
+      "supplied_title": "Is it possible to make unconscious inferences? The limits of the influence of unconsciously perceived stimuli on conscious decisions",
+      "doi": "10.1093/nc/niag068",
+      "reported_pmid": null,
+      "resolved_title": "Is it possible to make unconscious inferences? The limits of the influence of unconsciously perceived stimuli on conscious decisions.",
+      "resolved_pmid": "42936783",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 29,
+      "supplied_title": "Measuring and predicting eyelid spectral transmittance",
+      "doi": "10.1117/1.3593151",
+      "reported_pmid": "21721832",
+      "resolved_title": "Measuring and predicting eyelid spectral transmittance.",
+      "resolved_pmid": "21721832",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 30,
+      "supplied_title": "Classification of binary intentions for individuals with impaired oculomotor function: 'eyes-closed' SSVEP-based brain-computer interface (BCI)",
+      "doi": "10.1088/1741-2560/10/2/026021",
+      "reported_pmid": "23528484",
+      "resolved_title": "Classification of binary intentions for individuals with impaired oculomotor function: 'eyes-closed' SSVEP-based brain-computer interface (BCI).",
+      "resolved_pmid": "23528484",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 31,
+      "supplied_title": "No attentional capture from invisible flicker",
+      "doi": "10.1038/srep29296",
+      "reported_pmid": "27377759",
+      "resolved_title": "No attentional capture from invisible flicker.",
+      "resolved_pmid": "27377759",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 32,
+      "supplied_title": "The elicitation of steady-state visual evoked potentials during sleep",
+      "doi": "10.1111/psyp.12807",
+      "reported_pmid": "28098351",
+      "resolved_title": "The elicitation of steady-state visual evoked potentials during sleep.",
+      "resolved_pmid": "28098351",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 33,
+      "supplied_title": "Attenuated Fast Steady-State Visual Evoked Potentials During Human Sleep",
+      "doi": "10.1093/cercor/bhx043",
+      "reported_pmid": "28334175",
+      "resolved_title": "Attenuated Fast Steady-State Visual Evoked Potentials During Human Sleep.",
+      "resolved_pmid": "28334175",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 34,
+      "supplied_title": "Application of rapid invisible frequency tagging for brain computer interfaces",
+      "doi": "10.1016/j.jneumeth.2022.109726",
+      "reported_pmid": "36228894",
+      "resolved_title": "Application of rapid invisible frequency tagging for brain computer interfaces.",
+      "resolved_pmid": "36228894",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 35,
+      "supplied_title": "A high-performance SSVEP-based BCI using imperceptible flickers",
+      "doi": "10.1088/1741-2552/acb50e",
+      "reported_pmid": "36669202",
+      "resolved_title": "A high-performance SSVEP-based BCI using imperceptible flickers.",
+      "resolved_pmid": "36669202",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 36,
+      "supplied_title": "Light-based gamma entrainment with novel invisible spectral flicker stimuli",
+      "doi": "10.1038/s41598-024-75448-4",
+      "reported_pmid": "39613776",
+      "resolved_title": "Light-based gamma entrainment with novel invisible spectral flicker stimuli.",
+      "resolved_pmid": "39613776",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 37,
+      "supplied_title": "40 Hz visual stimulation during sleep evokes neuronal gamma activity in NREM and REM stages",
+      "doi": "10.1093/sleep/zsae299",
+      "reported_pmid": "39700417",
+      "resolved_title": "40 Hz visual stimulation during sleep evokes neuronal gamma activity in NREM and REM stages.",
+      "resolved_pmid": "39700417",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 38,
+      "supplied_title": "Re-evaluating the choice of gamma stimulation frequency for the potential treatment of Alzheimer's disease: Novel invisible spectral flicker evokes gamma responses at various frequencies",
+      "doi": "10.1371/journal.pone.0321633",
+      "reported_pmid": "40392839",
+      "resolved_title": "Re-evaluating the choice of gamma stimulation frequency for the potential treatment of Alzheimer's disease: Novel invisible spectral flicker evokes gamma responses at various frequencies.",
+      "resolved_pmid": "40392839",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 39,
+      "supplied_title": "Near-infrared spatiotemporal color vision in humans enabled by upconversion contact lenses",
+      "doi": "10.1016/j.cell.2025.04.019",
+      "reported_pmid": "40409271",
+      "resolved_title": "Near-infrared spatiotemporal color vision in humans enabled by upconversion contact lenses.",
+      "resolved_pmid": "40409271",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 40,
+      "supplied_title": "Lexical word processing is unaffected by rapid invisible frequency tagging in reading: Evidence from eye movements",
+      "doi": "10.3758/s13423-026-02948-x",
+      "reported_pmid": "42380726",
+      "resolved_title": "Lexical word processing is unaffected by rapid invisible frequency tagging in reading: Evidence from eye movements.",
+      "resolved_pmid": "42380726",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 41,
+      "supplied_title": "Cortex-specific inversion of visual responses during sleep",
+      "doi": "10.1038/s41467-026-73997-y",
+      "reported_pmid": "42270639",
+      "resolved_title": "Cortex-specific inversion of visual responses during sleep.",
+      "resolved_pmid": "42270639",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 42,
+      "supplied_title": "Real-time dialogue between experimenters and dreamers during REM sleep",
+      "doi": "10.1016/j.cub.2021.01.026",
+      "reported_pmid": "33607035",
+      "resolved_title": "Real-time dialogue between experimenters and dreamers during REM sleep.",
+      "resolved_pmid": "33607035",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 43,
+      "supplied_title": "Behavioral and brain responses to verbal stimuli reveal transient periods of cognitive integration of the external world during sleep",
+      "doi": "10.1038/s41593-023-01449-7",
+      "reported_pmid": "37828228",
+      "resolved_title": "Behavioral and brain responses to verbal stimuli reveal transient periods of cognitive integration of the external world during sleep.",
+      "resolved_pmid": "37828228",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 44,
+      "supplied_title": "Humans can learn new information during sleep",
+      "doi": "10.1038/nn.3193",
+      "reported_pmid": "22922782",
+      "resolved_title": "Humans can learn new information during sleep.",
+      "resolved_pmid": "22922782",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 45,
+      "supplied_title": "Inducing task-relevant responses to speech in the sleeping brain",
+      "doi": "10.1016/j.cub.2014.08.016",
+      "reported_pmid": "25220055",
+      "resolved_title": "Inducing task-relevant responses to speech in the sleeping brain.",
+      "resolved_pmid": "25220055",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 46,
+      "supplied_title": "Implicit vocabulary learning during sleep is bound to slow-wave peaks",
+      "doi": "10.1016/j.cub.2018.12.038",
+      "reported_pmid": "30713104",
+      "resolved_title": "Implicit Vocabulary Learning during Sleep Is Bound to Slow-Wave Peaks.",
+      "resolved_pmid": "30713104",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 47,
+      "supplied_title": "Learning new vocabulary implicitly during sleep transfers with cross-modal generalization into wakefulness",
+      "doi": "10.3389/fnins.2022.801666",
+      "reported_pmid": "35356055",
+      "resolved_title": "Learning New Vocabulary Implicitly During Sleep Transfers With Cross-Modal Generalization Into Wakefulness.",
+      "resolved_pmid": "35356055",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 48,
+      "supplied_title": "Episodic long-term memory formation during slow-wave sleep",
+      "doi": "10.7554/eLife.89601.3",
+      "reported_pmid": "38661727",
+      "resolved_title": "Episodic long-term memory formation during slow-wave sleep.",
+      "resolved_pmid": "38661727",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true,
+      "identifier_note": "The supplied version-3 DOI has the same title as the unversioned eLife DOI in PubMed; this is one study, not an identity conflict or replication."
+    },
+    {
+      "number": 49,
+      "supplied_title": "Unlearning implicit social biases during sleep",
+      "doi": "10.1126/science.aaa3841",
+      "reported_pmid": "26023137",
+      "resolved_title": "Cognitive neuroscience. Unlearning implicit social biases during sleep.",
+      "resolved_pmid": "26023137",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 50,
+      "supplied_title": "Unlearning implicit social biases during sleep: A failure to replicate",
+      "doi": "10.1371/journal.pone.0211416",
+      "reported_pmid": "30682167",
+      "resolved_title": "Unlearning implicit social biases during sleep: A failure to replicate.",
+      "resolved_pmid": "30682167",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 51,
+      "supplied_title": "Updating social evaluation during sleep",
+      "doi": "10.1038/s41539-025-00356-9",
+      "reported_pmid": "40885761",
+      "resolved_title": "Updating social evaluation during sleep.",
+      "resolved_pmid": "40885761",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 52,
+      "supplied_title": "Moving time zones in a flash with light therapy during sleep",
+      "doi": "10.1038/s41598-023-41742-w",
+      "reported_pmid": "37660233",
+      "resolved_title": "Moving time zones in a flash with light therapy during sleep.",
+      "resolved_pmid": "37660233",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    },
+    {
+      "number": 53,
+      "supplied_title": "Sound asleep, yet still listening: auditory processing during human sleep",
+      "doi": "10.1016/j.tics.2026.09.009",
+      "reported_pmid": "42850138",
+      "resolved_title": "Sound asleep, yet still listening: auditory processing during human sleep.",
+      "resolved_pmid": "42850138",
+      "provider": "PubMed connector",
+      "title_token_overlap": 1.0,
+      "identity_matched": true
+    }
+  ],
+  "main_identities_matched": 53,
+  "identifier_version_aliases": 1,
+  "title_identifier_conflicts": [],
+  "identity_check_limit": "Title and DOI/PMID relationships checked; complete author lists, every journal field, all numerical table entries, registry histories, and correction/retraction status were not exhaustively reaudited.",
+  "doi_resolver_urls_in_update": 58,
+  "doi_resolver_metadata_resolved": 58,
+  "pubmed_records_retrieved": 53,
+  "pubmed_lookup_limit": "The PMC identifier converter did not map every DOI; that is not evidence of an invalid DOI. PubMed records and registration-agency metadata supplied the identity checks.",
+  "primary_text_retrievals": [
+    {
+      "pmcid": "PMC12814970",
+      "pmid": "41561361",
+      "doi": "10.1093/nc/niaf046",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12814970/",
+      "available": true,
+      "text_offset": 0,
+      "characters_returned": 40000,
+      "total_text_chars": 70881,
+      "truncated": true,
+      "private_response_sha256": "a378dfa16ab2cbcd8ed41026cf17f591fdc76fdc640c97921db0d6d5e03b5849"
+    },
+    {
+      "pmcid": "PMC11606973",
+      "pmid": "39613776",
+      "doi": "10.1038/s41598-024-75448-4",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11606973/",
+      "available": true,
+      "text_offset": 0,
+      "characters_returned": 40000,
+      "total_text_chars": 68864,
+      "truncated": true,
+      "private_response_sha256": "18e3bc9287152b269c0664e602c79c32f68d6d9891583ffc92857f2552b37de5"
+    },
+    {
+      "pmcid": "PMC11893540",
+      "pmid": "39700417",
+      "doi": "10.1093/sleep/zsae299",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11893540/",
+      "available": true,
+      "text_offset": 0,
+      "characters_returned": 38921,
+      "total_text_chars": 38921,
+      "truncated": false,
+      "private_response_sha256": "18e3bc9287152b269c0664e602c79c32f68d6d9891583ffc92857f2552b37de5"
+    },
+    {
+      "pmcid": "PMC13492662",
+      "pmid": "42626369",
+      "doi": "10.1093/nc/niag052",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13492662/",
+      "available": true,
+      "text_offset": 0,
+      "characters_returned": 40000,
+      "total_text_chars": 59914,
+      "truncated": true,
+      "private_response_sha256": "f48f6abb6c2d35c68646c673d0e407d10f5b1a220fc1ddfc37a3997f16d729e7"
+    },
+    {
+      "pmcid": "PMC12811327",
+      "pmid": "41545763",
+      "doi": "10.3758/s13428-025-02926-6",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12811327/",
+      "available": true,
+      "text_offset": 0,
+      "characters_returned": 40000,
+      "total_text_chars": 82578,
+      "truncated": true,
+      "private_response_sha256": "f48f6abb6c2d35c68646c673d0e407d10f5b1a220fc1ddfc37a3997f16d729e7"
+    },
+    {
+      "pmcid": "PMC11606973",
+      "pmid": "39613776",
+      "doi": "10.1038/s41598-024-75448-4",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11606973/",
+      "available": true,
+      "text_offset": 40000,
+      "characters_returned": 28864,
+      "total_text_chars": 68864,
+      "truncated": false,
+      "private_response_sha256": "a578b75100764bef3327768750b2729ddd9eca9b6a4544f1797d2f1f335c5f03"
+    },
+    {
+      "pmcid": "PMC13492662",
+      "pmid": "42626369",
+      "doi": "10.1093/nc/niag052",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13492662/",
+      "available": true,
+      "text_offset": 40000,
+      "characters_returned": 19914,
+      "total_text_chars": 59914,
+      "truncated": false,
+      "private_response_sha256": "a578b75100764bef3327768750b2729ddd9eca9b6a4544f1797d2f1f335c5f03"
+    }
+  ],
+  "selected_claim_checks": [
+    {
+      "id": "registered-report",
+      "pmid": "41561361",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41561361/",
+      "checked": "Primary text agrees with 19 laboratories, 617 recruited, 531 complete datasets, 525 in the unseen-trial analysis, accuracy .552 with a one-sided interval, and overall detection sensitivity above zero.",
+      "scope": "Selected methods/results checked in the first 40,000 body characters; remaining text and supplements not exhaustively inspected."
+    },
+    {
+      "id": "individual-priming",
+      "pmid": "42626369",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42626369/",
+      "checked": "Primary abstract and body support the conditional indirect-task advantage in three of six participants; the awareness-task sensitivity assumption and variation across timings remain explicit.",
+      "scope": "Body retrieved in two segments; selected relevant results inspected, not raw data or every analysis."
+    },
+    {
+      "id": "spectral-visibility",
+      "pmid": "39613776",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39613776/",
+      "checked": "The primary comparison table confirms ISF minus control perceived-flicker difference 3.4 with 95% CI 2.7–4.1, alongside SNR difference 4.3 with CI 3.4–5.3. The technique label does not establish zero visibility.",
+      "scope": "Body retrieved in two segments; selected comparison table and surrounding methods/results inspected."
+    },
+    {
+      "id": "sleep-ssvep",
+      "pmid": "39700417",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39700417/",
+      "checked": "Primary text supports 30 adults, sleep-stage evoked responses, a powered but optically blocked control, unblinded experimenters, and fixed condition order. These endpoints do not test semantic comprehension.",
+      "scope": "Body available in one retrieval; selected methods and results inspected."
+    },
+    {
+      "id": "selection-critique",
+      "pmid": "41545763",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41545763/",
+      "checked": "Primary abstract and retrieved text explicitly criticize post hoc lowest-visibility selection and distinguish sensitivity from response bias; this is a methodological argument, not a blanket refutation of every positive result.",
+      "scope": "Abstract and first 40,000 body characters; full argument and supplements not exhaustively rechecked."
+    },
+    {
+      "id": "two-editorial-leads",
+      "pmids": [
+        "41762559",
+        "39803184"
+      ],
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41762559/",
+        "https://pubmed.ncbi.nlm.nih.gov/39803184/"
+      ],
+      "checked": "PubMed identities match the Jimenez 2026 model-comparison article and the Hernandez-Gutierrez 2025 systematic review/reanalysis. They remain editorial leads, with no recovered mapping to turn3file2.",
+      "scope": "Metadata/abstract identity and role; not new full-text verification of every underlying result."
+    }
+  ],
+  "access_label_policy": "FT/PFT/A and prior search/inspection statements in the four supplied artifacts describe their reviewer, not a claim that this intake independently read every full paper. Newly retrieved body segments and selected checks are separately enumerated.",
+  "link_audit": {
+    "report": "sources/link-audit.json",
+    "source_urls": 873,
+    "http_summary": {
+      "reachable": 386,
+      "access_restricted": 144,
+      "http_error": 3,
+      "redirect_landing": 55,
+      "access_challenge": 278,
+      "request_failed": 7
+    },
+    "metadata_summary": {
+      "not_applicable": 310,
+      "api_identity_resolved": 562,
+      "prior_independent_identity_resolved_after_index_miss": 1
+    },
+    "new_access_limit": "The supplied Meyen author PDF returned HTTP 503. Its DOI and PubMed alternatives remain available as identity routes; a transient failure is not a missing study."
+  },
+  "transformations": "Public derivatives prepend provenance, retain substantive supplied content, convert three repository self-links in the full review to local navigation, and normalize extra blank lines at EOF in three files. Recorded link and newline transformations are reversed for original-byte verification. The proposed wiki file remains a supplied proposal; the topic page is the editorial adoption.",
+  "conceptual_clarification": "Correct meaning choices already demonstrate objective content access; the further claim can concern subjective experience or an indirect/direct sensitivity comparison under explicit assumptions.",
+  "original_citation_identity_recovered": false,
+  "original_upload_bytes_recovered": false,
+  "new_experiments_or_simulations_run": false,
+  "private_receipts": {
+    "intake.json": "33d644a186ece25f92f903795e9ee3efaa26c75ba7b4519c668770e9f42ab4e0",
+    "pubmed-id-conversion.json": "b80c57e96791645c60cb64203db7febbd0a4cd6f6d011eea44d63084d903dbe4",
+    "pubmed-metadata.json": "129f08827a7f61e4997ce4675900c168f7e3e571be5d023ae0285c70e84b9e52",
+    "bibliographic-identity-comparison.json": "579bed7af64c26a1e342618b1e414ceb5281f8502b66b46b908ffa78aca50f28",
+    "refreshed-link-audit.json": "736a8eebd44913533238379ac1ed36f843d44c8606f47d65a347d4170284a816"
+  }
+}

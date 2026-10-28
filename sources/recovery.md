@@ -34,3 +34,7 @@ The deeper pass adds 16 records, bringing the collection to 144. It screens 172 
 Grouped “additional sources” were expanded selectively, not exhaustively. Search is bounded and branch-sensitive; not every historical revision, inactive branch, attachment, or chat under an unrelated title is guaranteed recovered. The October 28 [lossless-backup follow-up](lossless-backup-audit.md) retrieved and verified all 16 parts and searched all 253 archive files. It restored the 36 identified Codex attachments privately, but did not identify the target ChatGPT upload or resolve the remaining reference. No full ChatGPT account export was obtained. No experiments or simulations were rerun.
 
 The checked-in manifest records the original six recovery receipts and the exact IDs of all supplementary records. Private capture files stay outside the public repository.
+
+## Supplied continuation literature update
+
+The October 28 continuation request now has four supplied research artifacts: the full review, 30-entry evidence appendix, 53-entry annotated bibliography, and proposed wiki text. These bring the collection to 148 records. The [intake report](awareness-update-intake.md) records original artifact hashes, limited publication transformations, reference-identity checks, selected primary-text checks, and refreshed link access results. This is a new literature update, not recovery of the original `turn3file2` source or uploaded file. The conceptual research design remains unexecuted.

@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Coverage](coverage.md)
 
+Current integration: the [supplied awareness literature update](awareness-update-intake.md) brings the collection to 148 records and refreshes the source-URL audit through October 28. The dated checks below preserve the sequence of earlier work and its limits.
+
 Initial collection checks, October 27, 2026:
 
 - `python3 tools/verify_collection.py` — passed: 91 catalogued records; published SHA-256 digests match; 563 local Markdown links resolve; no uncatalogued research files or matched private backup URLs/credential patterns.
@@ -69,3 +71,14 @@ Working inference and continuation prompt, October 28, 2026:
 - `python3 tools/reindex_collection.py`, `python3 tools/verify_collection.py`, and `PYTHONPYCACHEPREFIX=/private/tmp/mind-control-continuation-pycache python3 -m py_compile tools/verify_collection.py tools/reindex_collection.py` passed. The verifier checks the prompt digest, its drafted status, documentation targets, confidence consistency, and preservation of the original source gap alongside the existing collection checks.
 
 No research record or citation disposition is promoted by this working inference. The prompt’s DOI list consists of search leads requiring verification in the future review. Existing external access-audit results remain dated October 27; drafting did not refetch the scientific literature or imply a new full-text appraisal.
+
+Supplied continuation-review integration, October 28, 2026:
+
+- Preserved the four supplied Markdown originals privately with byte counts and SHA-256 digests. Published four catalogued derivatives with provenance headers and three repository self-links converted to local navigation. The staged whitespace check identified extra EOF blank lines in three supplied files; those were normalized with reversible newline counts recorded. The verifier reconstructs the supplied bytes by removing the wrapper and reversing the recorded link/newline transformations, then compares original hashes.
+- Confirmed 30 selected evidence rows and 53 sequential numbered bibliography entries. All 53 reference titles and DOI/PMID relationships matched primary metadata, with one explicitly recorded eLife version/base-DOI alias. All 58 DOI-resolver URLs in the new records resolved metadata. These counts are documents, entries, and URL identities, not independent studies or participant cohorts.
+- Retrieved 53 PubMed metadata records and primary text segments for five selected papers. Checked the multisite orientation result and its nonzero overall detection sensitivity; conditional individual priming; the spectral-flicker visibility contrast; sleep-response/control details; and the selection critique. The two earlier editorial leads were also matched by identity. [The intake receipt](awareness-update-intake.json) records retrieval truncation, selected-check scope, and private capture hashes. It does not claim a fresh full-text audit of every reference or numerical cell.
+- Refreshed direct-access/API attempts for all 873 research/wiki source URLs: 386 reachable, 278 challenges, 144 restricted, 55 redirect landing pages, seven request failures, and three other HTTP errors. Earlier independent identity, registry, and web-content checks retain their October 27 dates; they were not silently represented as rerun. The new author-PDF 503 remains explicit, with DOI/PubMed alternatives already supplied.
+- Integrated the current awareness synthesis and cross-links. The original prompt is retained with a status note pointing to the supplied outputs; its manifest digest was updated. Current continuation status is `supplied_literature_update_integrated`. Original source identity and file-byte recovery flags remain false. No new experiment, simulation, or participant intervention was performed.
+- `python3 tools/reindex_collection.py` and `python3 tools/verify_collection.py` passed for 148 record digests, local links, original recovery receipts, citation dispositions, source/report coverage, the four reversible source derivatives, and the new intake record. The generated research-source index contains 869 URLs; four wiki-only URLs bring the access-audit scope to 873.
+
+The supplied documents’ FT/PFT/A labels describe their reviewer. Independent intake checks are separately scoped, with no certification of every supplied quantitative or interpretive claim. The original `turn3file2` mapping and old uploaded-file bytes remain unrecovered. No files, chats, histories, caches, or backups were deleted.

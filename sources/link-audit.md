@@ -1,51 +1,49 @@
 # Source-link and publication-identity audit
 
-[Home](../README.md) · [Citation recovery](citation-audit.md) · [Bibliography](bibliography.md) · [Machine results](link-audit.json)
+[Home](../README.md) · [Citation recovery](citation-audit.md) · [Bibliography](bibliography.md) · [Machine results](link-audit.json) · [New literature intake](awareness-update-intake.md)
 
-Checked October 27, 2026, America/New_York. All **746 distinct source URLs** in `research/` and `wiki/` were included. URL variants can identify the same publication; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded. The generated bibliography indexes research-record URLs; the audit additionally covers wiki-only sources.
+Checked October 28, 2026, America/New_York. All **873 distinct source URLs** in `research/` and `wiki/` received fresh direct-access and metadata attempts. This includes the four supplied awareness-review artifacts and current topic-page links. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
 
 ## Direct access results
 
 | Result | URLs | Meaning |
 |---|---:|---|
-| Reachable | 339 | HTTP success with no recognized challenge in the sampled response; not full-text certification. |
-| Access challenge | 230 | A browser/human-verification response, sometimes returned with HTTP 200. |
-| Access restricted | 120 | HTTP 401, 403, or 429. |
-| Redirect landing | 48 | An intermediary page rather than verified article content. |
+| Reachable | 386 | HTTP success without a recognized challenge in the sample; not full-text certification. |
+| Access challenge | 278 | A browser or human-verification response, sometimes returned with HTTP 200. |
+| Access restricted | 144 | HTTP 401, 403, or 429. |
+| Redirect landing | 55 | An intermediary page rather than verified article content. |
 | Request failed | 7 | TLS validation or another request error; verification was not disabled. |
-| Other HTTP error | 2 | Two official guidance URLs returned 404 directly despite content retrieval through another channel. |
+| Other HTTP error | 3 | Two official guidance URLs returned 404; a supplied author-PDF route returned 503. |
 
-The [JSON report](link-audit.json) records the URL, contexts, observed status, redirect destination, available title, and metadata. HTTP 200 is not evidence that a scientific claim is true. Blocking is not evidence that an identifier is fictitious.
+The JSON report records each URL, research/wiki context paths, attempt time, status, redirect destination, sampled title, and available metadata. HTTP success does not establish scientific support for a claim; blocking does not establish an invalid identifier.
 
-## Independent identity checks
+## Publication identities and separately dated checks
 
-- **467 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata services. These are URL identities, not distinct studies or full-text reviews.
-- **Three index misses** were independently matched through primary institutional or official records: Bauer’s cookie-banner study, van den Hout’s checking meta-analysis, and the generalizable speech-neuroprosthesis preprint. The failed API matches remain in the raw results alongside the successful checks.
-- **All six NCT identifiers** were retrieved from ClinicalTrials.gov. The [registry receipt](trial-identity-checks.json) records titles, statuses, and source update dates. Other registry fields were not comprehensively reviewed; registration does not establish efficacy.
-- Crossref identifies the `.sa2` eLife DOI as an **Assessment**. It is retained for the peer-review qualification, separately from the experimental article.
+- **562 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata in this refresh. These are URL identities, not independent studies or complete full-text reviews.
+- **1 remaining API index miss** retains a separately dated independent identity check from October 27. Earlier independent checks remain recorded even where a fresh API lookup now resolves the identity.
+- **All 53 numbered references in the supplied continuation bibliography** passed title and DOI/PMID relationship checks. All 58 DOI-resolver URLs in those new records resolved bibliographic metadata. The version-3 eLife DOI and PubMed's base DOI identify one study; their alias is explicit in the [intake receipt](awareness-update-intake.json).
+- The supplied update received selected primary-text checks, not a complete independent rereading of every paper or numerical table entry. Its FT/PFT/A labels describe the supplied reviewer. New independent checks are enumerated in the [intake report](awareness-update-intake.md).
+- The **six ClinicalTrials.gov identity receipts remain dated October 27**. Their direct source URLs were included in this refresh, but the earlier connector retrievals and trial fields were not rerun. See the [registry receipt](trial-identity-checks.json).
+- Earlier independent web-content checks for Apple Focus guidance and the FTC privacy guide retain their October 27 dates. Their direct requests still returned 404; these are separately dated observations from different access routes.
 
-These checks support identification. Only selected claims received fresh substantive checks; historical estimates and conclusions remain subject to their original limitations.
+## Repairs and remaining access limits
 
-## Repairs and access discrepancies
+The [repair ledger](citation-recovery.json) preserves earlier original targets, replacements, and reasons. This refresh does not silently rewrite historical source claims or remove failed access attempts. The newly supplied Meyen author-PDF route returned HTTP 503; the bibliography also provides DOI and PubMed identity alternatives. A transient author-copy failure does not establish a missing or invalid study.
 
-The [repair ledger](citation-recovery.json) preserves original targets and reasons. Changes include an encoded trailing space in a DOI, malformed Apple navigation, an outdated FTC page, a failed Folia mirror replaced by its publication DOI, and a removed Wikipedia draft-policy route replaced by current guidance. An Evans paper also received a separately verified PubMed access alternative, with the original mirror retained.
+Seven endpoints failed direct requests in this pass:
 
-Apple’s Focus guidance and the FTC privacy guide were retrieved as official page content by the web source tool, while direct requests returned HTTP 404. Both observations are recorded; neither route is represented as uniformly accessible. The failed Folia mirror and old Wikipedia draft URL are historical failures in the repair ledger, not current source targets.
+- [https://sleepdata.org/about](https://sleepdata.org/about) — URLError
+- [https://sleepdata.org/datasets](https://sleepdata.org/datasets) — URLError
+- [https://www.psych.upenn.edu/history/orne/evansetal1969jnmd467476.html](https://www.psych.upenn.edu/history/orne/evansetal1969jnmd467476.html) — URLError
+- [https://www.psych.upenn.edu/history/orne/evansetal1970jnmd171187.html](https://www.psych.upenn.edu/history/orne/evansetal1970jnmd171187.html) — URLError
+- [https://www.psych.upenn.edu/history/orne/orneetal1968jpsp189196.html](https://www.psych.upenn.edu/history/orne/orneetal1968jpsp189196.html) — URLError
+- [https://www.psych.upenn.edu/history/orne/orneholland1968ijp282293.html](https://www.psych.upenn.edu/history/orne/orneholland1968ijp282293.html) — URLError
+- [https://www.psych.upenn.edu/history/orne/sheehanetal1968jnmd209220.html](https://www.psych.upenn.edu/history/orne/sheehanetal1968jnmd209220.html) — URLError
 
-Seven legacy endpoints still failed direct TLS validation:
-
-- [https://sleepdata.org/about](https://sleepdata.org/about)
-- [https://sleepdata.org/datasets](https://sleepdata.org/datasets)
-- [https://www.psych.upenn.edu/history/orne/evansetal1969jnmd467476.html](https://www.psych.upenn.edu/history/orne/evansetal1969jnmd467476.html)
-- [https://www.psych.upenn.edu/history/orne/evansetal1970jnmd171187.html](https://www.psych.upenn.edu/history/orne/evansetal1970jnmd171187.html)
-- [https://www.psych.upenn.edu/history/orne/orneetal1968jpsp189196.html](https://www.psych.upenn.edu/history/orne/orneetal1968jpsp189196.html)
-- [https://www.psych.upenn.edu/history/orne/orneholland1968ijp282293.html](https://www.psych.upenn.edu/history/orne/orneholland1968ijp282293.html)
-- [https://www.psych.upenn.edu/history/orne/sheehanetal1968jnmd209220.html](https://www.psych.upenn.edu/history/orne/sheehanetal1968jnmd209220.html)
-
-Some Penn text was retrievable through indexed primary-source results, but live direct access remains unverified. A failed mirror does not remove the underlying historical study; it limits the available retrieval route.
+These failures limit live direct access. They do not erase identifiable underlying studies or certify another access route. Earlier manual identity and web-content checks have not been relabeled as newly performed work.
 
 ## Reproduce
 
-Run `python3 tools/audit_source_links.py --output sources/link-audit.json --refresh` for fresh HTTP/metadata checks, `python3 tools/reindex_collection.py` to refresh indexes and audit-report digests, then `python3 tools/verify_collection.py` for corpus coverage and integrity. Without `--refresh`, the auditor reuses same-day results and checks new URLs. It verifies TLS, limits response samples to 128 KiB, and uses bounded concurrency. Manual web and connector identity checks are separately dated and require repeating those retrievals; a CLI refresh alone does not reproduce them.
+Run `python3 tools/audit_source_links.py --output sources/link-audit.json --refresh` for fresh HTTP/metadata checks, `python3 tools/reindex_collection.py` for indexes and audit-report digests, and `python3 tools/verify_collection.py` for corpus coverage and integrity. The auditor verifies TLS, caps samples at 128 KiB, and uses bounded concurrency. Without `--refresh`, it reuses same-day results. Manual and connector checks are separately dated; a CLI refresh does not reproduce them.
 
-A full scientific audit would additionally inspect corrected publications, methods, outcome definitions, numerical claims, replication, and contrary findings. This report does not claim that work has been completed for every source.
+Scientific verification still requires methods, corrected publications, numerical extraction, replication, and disconfirming evidence. This access report does not certify all substantive claims.

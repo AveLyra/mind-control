@@ -2,7 +2,7 @@
 
 [Wiki home](../README.md) · [Awareness topic](../wiki/awareness.md) · [Source provenance](../sources/upload-recovery.md#working-inference-and-chronology)
 
-Drafted October 28, 2026. Status: ready to use; the review has not been executed. Copy the prompt below into a new research session.
+Drafted October 28, 2026. A [supplied continuation review and companion files](../sources/awareness-update-intake.md) have now been received and integrated into the [awareness topic page](../wiki/awareness.md). The original request below is retained for provenance and reuse; it does not recover the unidentified original citation.
 
 ---
 

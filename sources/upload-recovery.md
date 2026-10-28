@@ -85,7 +85,7 @@ The most useful distinction is between three claims:
 
 A different report quoting the optical review, another retrieved document or past chat, and an invalid citation handle remain plausible alternatives. The token’s numbering alone does not establish a filename, extension, attachment count, or user-turn number. A valid original citation mapping or identifiable original attachment would change the source-identity assessment.
 
-The [awareness topic page](../wiki/awareness.md) organizes the high-confidence subject. The [continuation prompt](../prompts/awareness-optical-deep-research.md) commissions a new primary-source review to fill possible substantive gaps. It does not reconstruct an unknown original document, and newly found papers must retain their status as new research rather than recovered original citations.
+The [awareness topic page](../wiki/awareness.md) organizes the high-confidence subject. The [continuation prompt](../prompts/awareness-optical-deep-research.md) has now produced a supplied [literature update and companion artifacts](awareness-update-intake.md), integrated with separately scoped identity and primary-claim checks. This fills substantive research context without reconstructing an unknown original document or reclassifying new papers as recovered original citations.
 
 ## Original-file and backup checks
 

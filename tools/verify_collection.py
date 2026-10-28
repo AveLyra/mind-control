@@ -276,12 +276,12 @@ inference = unidentified['working_inference']
 prompt_path = root / continuation['prompt']
 if hashlib.sha256(prompt_path.read_bytes()).hexdigest() != continuation['prompt_sha256']:
     errors.append('Continuation prompt digest disagrees with manifest')
-if (continuation['execution_status'] != 'draft_only_not_executed'
+if (continuation['execution_status'] != 'supplied_literature_update_integrated'
         or inference['continuation_status'] != continuation['execution_status']
         or continuation['citation_identity_recovered'] is not False
         or inference['citation_identity_recovered'] is not False
         or inference['original_upload_bytes_recovered'] is not False):
-    errors.append('Working inference or drafted prompt has been promoted to recovered source or completed research')
+    errors.append('Supplied continuation status is inconsistent or the original source gap has been lost')
 for manifest_key, inference_key in [('topic_page', 'topic_page'), ('prompt', 'continuation_prompt')]:
     if continuation[manifest_key] != inference[inference_key] or not (root / continuation[manifest_key]).is_file():
         errors.append('Continuation documentation target is missing or inconsistent: ' + manifest_key)
@@ -290,6 +290,58 @@ if (continuation['topic_confidence'] != inference['subject_confidence']
     errors.append('Working inference confidence levels disagree across reports')
 if any(event['record_id'] not in record_by_id for event in inference['chronology']['events']):
     errors.append('Inference chronology cites an unknown source record')
+
+update = manifest['awareness_literature_update']
+intake_path = root / update['intake_report']
+intake = json.loads(intake_path.read_text())
+if hashlib.sha256(intake_path.read_bytes()).hexdigest() != update['intake_report_sha256']:
+    errors.append('Awareness update intake digest disagrees with manifest')
+update_ids = update['record_ids']
+if (len(update_ids) != 4 or len(set(update_ids)) != 4
+        or any(record_id not in record_by_id for record_id in update_ids)
+        or update_ids != intake['record_ids'] or update_ids != continuation['review_record_ids']):
+    errors.append('Expected four distinct supplied continuation artifacts with consistent IDs')
+if (update['execution_status'] != continuation['execution_status']
+        or continuation['intake_report'] != update['intake_report']
+        or inference['continuation_update']['intake_report'] != update['intake_report']):
+    errors.append('Continuation artifacts are not linked to the same intake record')
+roles = {}
+for record_id in update_ids:
+    record = record_by_id[record_id]
+    roles[record['literature_update_role']] = record
+    supplied = record['supplied_artifact']
+    published = (root / record['path']).read_text()
+    parts = published.split('\n---\n\n', 1)
+    if len(parts) != 2:
+        errors.append('Missing provenance/source boundary: ' + record_id)
+        continue
+    reconstructed = parts[1]
+    for repair in record['publication_transformations']['repository_links_made_local']:
+        reconstructed = reconstructed.replace(repair['replacement'], repair['original'])
+    reconstructed += '\n' * record['publication_transformations'].get('extra_trailing_newlines_removed', 0)
+    original_bytes = reconstructed.encode()
+    if (len(original_bytes) != supplied['bytes']
+            or hashlib.sha256(original_bytes).hexdigest() != supplied['sha256']):
+        errors.append('Supplied artifact cannot be reconstructed from the documented derivative: ' + record_id)
+    if supplied not in intake['supplied_files']:
+        errors.append('Supplied artifact digest is absent from intake record: ' + record_id)
+if set(roles) != {'review', 'evidence', 'bibliography', 'proposed-wiki'}:
+    errors.append('Continuation artifact roles are incomplete')
+else:
+    evidence_text = (root / roles['evidence']['path']).read_text()
+    bibliography_text = (root / roles['bibliography']['path']).read_text()
+    if len(re.findall(r'^\| \*\*(?:A|O|S)\d+\.', evidence_text, re.M)) != 30:
+        errors.append('Expected 30 selected evidence rows')
+    if [int(n) for n in re.findall(r'^\*\*(\d+)\.', bibliography_text, re.M)] != list(range(1, 54)):
+        errors.append('Expected 53 sequential numbered bibliography entries')
+if (intake['main_identities_matched'] != 53 or len(intake['bibliographic_identities']) != 53
+        or intake['title_identifier_conflicts'] or intake['doi_resolver_metadata_resolved'] != 58
+        or len(intake['selected_claim_checks']) != update['selected_claim_checks']):
+    errors.append('Awareness intake identity/claim-check coverage is inconsistent')
+if (intake['original_citation_identity_recovered'] is not False
+        or intake['original_upload_bytes_recovered'] is not False
+        or intake['new_experiments_or_simulations_run'] is not False):
+    errors.append('New literature synthesis has been confused with source recovery or new experiments')
 
 new_ids = manifest['deep_research_discovery']['new_record_ids']
 if len(new_ids) != 16 or len(set(new_ids)) != 16 or any(i not in record_by_id for i in new_ids):
@@ -324,4 +376,4 @@ for path in (root / 'research').rglob('*'):
 if errors:
     print('\n'.join(errors))
     raise SystemExit(1)
-print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts; 471 citation dispositions; 49 upload-ancestry mappings / three matched excerpts / one unidentified source; verified lossless-backup receipt (16 parts / 253 files / 105664 metadata rows); drafted continuation prompt verified; {len(current_urls)} audited source URLs; six registry identities; no uncatalogued research or matched private URLs/credentials.")
+print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts; 471 citation dispositions; 49 upload-ancestry mappings / three matched excerpts / one unidentified source; verified lossless-backup receipt (16 parts / 253 files / 105664 metadata rows); supplied literature update (four artifacts / 30 evidence rows / 53 references); {len(current_urls)} audited source URLs; six registry identities; no uncatalogued research or matched private URLs/credentials.")

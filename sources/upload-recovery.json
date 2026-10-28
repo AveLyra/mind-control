@@ -355,7 +355,18 @@
       ],
       "topic_page": "wiki/awareness.md",
       "continuation_prompt": "prompts/awareness-optical-deep-research.md",
-      "continuation_status": "draft_only_not_executed"
+      "continuation_status": "supplied_literature_update_integrated",
+      "continuation_update": {
+        "date": "2026-10-28",
+        "intake_report": "sources/awareness-update-intake.json",
+        "record_ids": [
+          "awareness-update-2026-10-28-review",
+          "awareness-update-2026-10-28-evidence",
+          "awareness-update-2026-10-28-bibliography",
+          "awareness-update-2026-10-28-proposed-wiki"
+        ],
+        "original_mapping_recovered": false
+      }
     }
   },
   "backup_checks": {

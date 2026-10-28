@@ -1,6 +1,6 @@
 # Sleep, Hypnosis, and Influence Research Wiki
 
-A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; upload-source investigation updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
+A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery and supplied-literature integration updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
 
 ## Explore
 
@@ -21,7 +21,8 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 144 recovered research records, with origins and status.
+- [Source catalog](sources/catalog.md): 148 research records, including four supplied continuation-review artifacts, with origins and status.
+- [Awareness literature update](sources/awareness-update-intake.md): new review, 30 evidence entries, 53 numbered references, and scoped source/claim checks.
 - [Recovery report](sources/recovery.md): all six original truncated answers restored, plus 37 additional research records.
 - [Citation recovery and deeper discovery](sources/citation-audit.md): 172 deep-research search results screened; 16 more records added; all 471 old citation markers accounted for.
 - [Uploaded-reference recovery](sources/upload-recovery.md): retained excerpts trace 49 references to the optical review; one source identity remains unresolved. Original upload bytes remain unavailable.
@@ -36,7 +37,7 @@ Topic pages are editorial navigation and synthesis. `research/` preserves select
 
 ## Continue research
 
-The [Deep Research continuation prompt](prompts/awareness-optical-deep-research.md) commissions a fresh review of awareness measurement and unconscious visual processing, with optical and sleep applications. It is a drafted research request, not a completed review or a recovered original citation. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
+The [original Deep Research prompt](prompts/awareness-optical-deep-research.md) now has a supplied [continuation review and companion files](sources/awareness-update-intake.md), integrated into the [awareness topic page](wiki/awareness.md). The result addresses awareness measurement and unconscious visual processing, with optical and sleep applications. It is new literature synthesis, with the original citation gap preserved. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
 
 ## Maintain
 
