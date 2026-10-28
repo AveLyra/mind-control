@@ -26,3 +26,9 @@ The second conditioning chat corrects an earlier omission by identifying a histo
 Historical drug and funding claims remain source-specific. Chemical similarity or a shared receptor cannot demonstrate equivalent psychological effects, historical use, or present exposure. Personal symptom discussions, procurement, and medical testing logistics are excluded from the public collection.
 
 See the selected **Research conditioning and hypnosis — continuation** and **Research conditioning and hypnosis (2)** answers in the [catalog](../sources/catalog.md). Citations there are historical leads unless separately listed as checked in [corrections](../sources/corrections.md).
+
+## Additional historical records recovered
+
+A [historical correction inside Summarize Ring of Gyges](../research/chats/supplement-962e882d-5cc7-417c-9ad1-a233c870d5de.md) collects BLUEBIRD/ARTICHOKE record leads. The unrelated hypothetical surveillance budgets from that conversation were excluded. The [intervention-history review](../research/chats/supplement-b731e964-4813-4a9b-8c32-9d99ae6d0c0b.md) and [military-research connections review](../research/chats/supplement-4ee6aad7-ea3a-4dad-8899-5fb1117a8751.md) retain their distinctions among documented sponsorship, experimental findings, and speculative capability.
+
+The [RFK section](../research/chats/supplement-rfk-hypnosis.md) records an earlier account of releases and a court's treatment of submitted hypnosis evidence. It is a narrow historical legal-research excerpt, not a new finding about the assassination or a fresh legal assessment. Unsupported individual attribution is not established by these records.

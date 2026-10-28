@@ -19,7 +19,8 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 91 recovered research records, with origins and status.
+- [Source catalog](sources/catalog.md): 128 recovered research records, with origins and status.
+- [Recovery report](sources/recovery.md): all six original truncated answers restored, plus 37 additional research records.
 - [Coverage and recovery gaps](sources/coverage.md): what was searched, exclusions, and limits.
 - [Citation corrections](sources/corrections.md): errors and unresolved citation markers.
 - [Public source leads](sources/bibliography.md): primary studies and historical records.

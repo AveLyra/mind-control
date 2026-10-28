@@ -19,6 +19,18 @@ for record in manifest['records']:
     elif hashlib.sha256(path.read_bytes()).hexdigest() != record['sha256']:
         errors.append('Digest mismatch: ' + record['path'])
 
+receipts = manifest.get('supplementary_recovery', {}).get('original_truncations_recovered', [])
+if len(receipts) != 6 or len({r['message_id'] for r in receipts}) != 6:
+    errors.append('Expected recovery receipts for six distinct original truncated messages')
+for receipt in receipts:
+    record = next((r for r in manifest['records'] if r['id'] == receipt['record_id']), None)
+    if record is None or 'TRUNCATED' in record['status']:
+        errors.append('Missing or still-truncated recovery: ' + receipt['record_id'])
+    if not receipt.get('cutoff_tail_matched') or receipt.get('normalized_characters_beyond_cutoff', 0) <= 0:
+        errors.append('No recorded continuation beyond old cutoff: ' + receipt['record_id'])
+    if receipt.get('shared_opening_normalized_characters', 0) < 3500:
+        errors.append('Insufficient recorded opening comparison: ' + receipt['record_id'])
+
 checked = 0
 for path in root.rglob('*.md'):
     if '.git' in path.parts:
@@ -44,4 +56,4 @@ for path in (root / 'research').rglob('*'):
 if errors:
     print('\n'.join(errors))
     raise SystemExit(1)
-print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; no uncatalogued research or matched private URLs/credentials.")
+print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts complete; no uncatalogued research or matched private URLs/credentials.")

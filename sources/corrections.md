@@ -24,6 +24,6 @@ The failed replication of sleep-cued counter-bias learning is not a direct repli
 
 ## Citation and text recovery
 
-Unresolved ChatGPT citation markers remain explicit in archived answers. Bibliographic strings in generated wiki drafts are recovered leads. The collection does not certify every DOI, PMID, sample size, or effect estimate in those drafts. Truncated answers remain visibly truncated; no missing text was invented.
+Unresolved ChatGPT citation markers remain explicit in archived answers. Bibliographic strings in generated wiki drafts are recovered leads. The collection does not certify every DOI, PMID, sample size, or effect estimate in those drafts. All six initially truncated answers have now been recovered from their rendered conversations; no missing text was invented. See the [recovery report](recovery.md) for the retrieval checks and limits on grouped citations.
 
 During this pass, metadata/search results were checked for the lucid-dream citation correction, Kirsch and Lynn's theory review (PMID 9461855), Woods et al.'s cortical-stimulator study (PMID 38608028; DOI 10.1126/sciadv.adn0858), and the Senate's official 1977 hearing page. Attempts to retrieve the closed-eyelid SSVEP and spectral-flicker sources did not yield usable substantive text; their claims remain inherited research leads.

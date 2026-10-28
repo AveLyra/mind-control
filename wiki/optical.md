@@ -19,4 +19,10 @@ The open question retained in the archived note is whether a prespecified semant
 
 The original note's lucid-REM citation points to commentary; use [Konkoly et al., primary study](https://doi.org/10.1016/j.cub.2021.01.026) for the experiment. Its trained response channel and lucid experiences cannot establish unconscious optical communication. See the correction record before reusing quantitative claims.
 
-One long ChatGPT answer ends mid-discussion because the account reader truncated it. The archive marks this; missing conclusions and citations have not been reconstructed.
+The previously truncated [full optical answer](../research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md) has now been recovered from its rendered conversation, including its ending and visible source links. The [recovery report](../sources/recovery.md) records the message match and remaining citation limits.
+
+## Recovered experiment proposal
+
+The [Invisible Signals Experiment proposal](../research/chats/supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a.md) separates electronic reception, a classifier recovering information from EEG, and a participant independently identifying a symbol. It proposes perceptible controls, matched sham, delivery measurement, artifact checks, blinded assignment, and awareness tests. It is an unexecuted research design.
+
+The [expanded literature review](../research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md) and a [separate sleeping-brain review](../research/chats/supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb.md) connect optical processing with sleep learning and memory effects. Both newly discovered long answers were recovered in full. Their synthesis remains inherited research; distinct component results do not demonstrate a combined covert communication system.

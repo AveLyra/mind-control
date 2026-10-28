@@ -21,3 +21,9 @@ The [semantic and kinesthetic note](../research/notes/vindication-semantic-kines
 These are research questions about measured responses. They do not establish an explanation for a particular person's experiences or an actor's intent. A result explained equally well by intensity, expectancy, ordinary learning, or selective recall would narrow the proposed mechanism.
 
 Read the first five selected answers from **Research conditioning and hypnosis** in the [catalog](../sources/catalog.md) for the original citations and qualifications.
+
+## Imagery and involuntary memory
+
+The newly recovered [mental-focus review](../research/chats/supplement-4d344059-64d6-4a61-8749-6ffa673c3947.md) collects motor imagery, voluntary versus hypnotic experience, attention, and neural comparisons. Its reader truncation was resolved before publication. The [imagery and source-monitoring review](../research/chats/supplement-61ab65d6-91b2-414d-a69f-599e081abc03.md) discusses prior processing and later involuntary memories, while separating awareness of a stimulus from awareness of an intention.
+
+The [specific missing-combination assessment](../research/chats/supplement-9371b8a4-f8fe-49e9-a800-993bbf738a44.md) reports that the reviewed work did not cleanly demonstrate the proposed combination of immersive imagery, unnoticed speech, and a later specified response. Combining related studies is a hypothesis-generating synthesis, not an independent replication of that chain.

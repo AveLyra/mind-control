@@ -25,4 +25,6 @@ A proposed 30-second update rate was a design choice, not measured performance. 
 
 The ChatGPT **Research sleep influence benefits** answers explore an intraoral stimulus dosimeter and physiological sensor. The [tooth-mounted sensing note](../research/notes/vindication-tooth-mounted-sensing-power.md) separates dental-crown geometry and power constraints from larger mouthguards. An experimental oral EEG result or a large intraoral sensor does not establish equivalent performance inside a crown. Measuring local exposure also does not identify a message, source, or intent.
 
-**Research Brain Computer Interfaces** surveys decoding intended actions and speech with different recording systems. Its long answer is truncated. Instrumented implanted decoding, wearable EEG, and unrestricted transcription of inner thought must remain separate capability claims; see [magnetic and neural interfaces](magnetic.md).
+The [complete Research Brain Computer Interfaces answer](../research/chats/6ab14c04-9864-83ea-a250-b495d6f19c23-1-2.md) has been recovered, including its final sections on validation, EMG, and mental privacy. It distinguishes noise/language-only baselines, separate-session evaluation, muscle artifacts, and unintended activations. Historical hardware prices and vendor terms in the source have not been rechecked.
+
+Instrumented implanted decoding, wearable EEG, and unrestricted transcription of inner thought must remain separate capability claims; see [magnetic and neural interfaces](magnetic.md).
