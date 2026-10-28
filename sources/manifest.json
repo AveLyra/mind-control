@@ -1,0 +1,743 @@
+{
+  "collection_date": "2026-10-27",
+  "records": [
+    {
+      "id": "1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4",
+      "title": "Research conditioning and hypnosis \u2014 research extract 4",
+      "path": "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI`, rollout ordinal `93`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "ed9e4f7e2ac7253c7020d836acfa020437f36c27c44a676edd7339edc944e1b7"
+    },
+    {
+      "id": "1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-7",
+      "title": "Research conditioning and hypnosis \u2014 research extract 7",
+      "path": "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-7.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI`, rollout ordinal `135`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "098ed0ea715b16a991d6da2aab8d2301cbf14449fc938ebf89e39660b5fe5930"
+    },
+    {
+      "id": "1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-10",
+      "title": "Research conditioning and hypnosis \u2014 research extract 10",
+      "path": "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-10.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI`, rollout ordinal `163`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "5cd0f7666a95b2b468556dc894e2e1df0bec0734827e97afad5b412a9b3607d5"
+    },
+    {
+      "id": "1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-14",
+      "title": "Research conditioning and hypnosis \u2014 research extract 14",
+      "path": "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-14.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI`, rollout ordinal `213`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "d22fd120bf178ce1e200a9d5680edae986bec8fd516e6c73827dde26d657ae76"
+    },
+    {
+      "id": "1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-18",
+      "title": "Research conditioning and hypnosis \u2014 research extract 18",
+      "path": "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-18.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI`, rollout ordinal `314`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "db63eced82a22cd382e661a23d1e2c138eff041e366fbb4c2c6399cb5d319163"
+    },
+    {
+      "id": "1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI-11",
+      "title": "Research conditioning and hypnosis \u2014 continuation \u2014 research extract 11",
+      "path": "research/chats/1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI-11.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI`, rollout ordinal `924`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "42beed409b41e07e00939cdb54d3684211efec373fff9edfeae74d75e69cf51d"
+    },
+    {
+      "id": "1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI-14",
+      "title": "Research conditioning and hypnosis \u2014 continuation \u2014 research extract 14",
+      "path": "research/chats/1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI-14.md",
+      "origin": "Codex thread `01a0d3a4-34b5-7c23-9a96-c4ff88c975b4`, backup section `1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI`, rollout ordinal `973`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "adcf37e662fb45df19b2a81da27e4a3225b58db3cfb1b5af4ede7845bac52063"
+    },
+    {
+      "id": "16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-27",
+      "title": "Research conditioning and hypnosis (2) \u2014 research extract 27",
+      "path": "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-27.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `16KygPB085yEuff_qEYN8Lw-JoTAGJYjt`, rollout ordinal `351`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "e3cb29e810a5124d42fc8b618252574fb8ff1b3ca358f96effce840927c4d0a5"
+    },
+    {
+      "id": "16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-31",
+      "title": "Research conditioning and hypnosis (2) \u2014 research extract 31",
+      "path": "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-31.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `16KygPB085yEuff_qEYN8Lw-JoTAGJYjt`, rollout ordinal `427`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "21dfe1dd90990f460cec224368e71885e108d6ccc80fa29bc2581f70a4d2f810"
+    },
+    {
+      "id": "16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-34",
+      "title": "Research conditioning and hypnosis (2) \u2014 research extract 34",
+      "path": "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-34.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `16KygPB085yEuff_qEYN8Lw-JoTAGJYjt`, rollout ordinal `456`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "1df1aa75d0c67e8bce48f3827342361dbd445c389894184042e470e7226ec35f"
+    },
+    {
+      "id": "16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-38",
+      "title": "Research conditioning and hypnosis (2) \u2014 research extract 38",
+      "path": "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-38.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `16KygPB085yEuff_qEYN8Lw-JoTAGJYjt`, rollout ordinal `505`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "e98478e3aacc43bfa12b53320c54b5beab588ab4b3bbfc7d2259de2ebc1e60a8"
+    },
+    {
+      "id": "16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-41",
+      "title": "Research conditioning and hypnosis (2) \u2014 research extract 41",
+      "path": "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-41.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `16KygPB085yEuff_qEYN8Lw-JoTAGJYjt`, rollout ordinal `524`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "63ac2ea8b1b44bad126e1bafdd65d1442e16fb2c6ef10697b9a513064bc666be"
+    },
+    {
+      "id": "1nNX3pYFg8q1y1zVJp8GGbfJEZrQl0RBj-4",
+      "title": "Research conditioning and hypnosis \u2014 continuation \u2014 research extract 4",
+      "path": "research/chats/1nNX3pYFg8q1y1zVJp8GGbfJEZrQl0RBj-4.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `1nNX3pYFg8q1y1zVJp8GGbfJEZrQl0RBj`, rollout ordinal `638`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "8479411ccdbe081e7fff31a26cd91650f1840e4933899e3f0388e5dc619c2d2c"
+    },
+    {
+      "id": "1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M-3",
+      "title": "Assess linked application option (2) \u2014 research extract 3",
+      "path": "research/chats/1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M-3.md",
+      "origin": "Codex thread `01a0cec8-9f0c-7cf3-a611-55f24153c568`, backup section `1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M`, rollout ordinal `371`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "fca727e71b1b83d711da6927aa3cfe4d5212219fcc66063787b7a2470f63e3f6"
+    },
+    {
+      "id": "1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M-5",
+      "title": "Assess linked application option (2) \u2014 research extract 5",
+      "path": "research/chats/1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M-5.md",
+      "origin": "Codex thread `01a0cec8-9f0c-7cf3-a611-55f24153c568`, backup section `1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M`, rollout ordinal `384`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "5aa5cb29aa3238f1553a8ba58b52fe29d9647934bb8162963066115a16c08d54"
+    },
+    {
+      "id": "1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M-17",
+      "title": "Assess linked application option (2) \u2014 research extract 17",
+      "path": "research/chats/1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M-17.md",
+      "origin": "Codex thread `01a0cec8-9f0c-7cf3-a611-55f24153c568`, backup section `1eQjrOtpEWM4DeEh-eiTaJwpVA5z5cM7M`, rollout ordinal `619`",
+      "status": "Historical assistant research; citations not comprehensively reverified; BACKUP SECTION ENDS HERE, answer may continue in next section",
+      "sha256": "2b069c1d7ae7ce8ac658c266eb6ddc27bbae7233093156a5390aed7515de85b6"
+    },
+    {
+      "id": "1EDYnOOWNCgWCA4J2HpjBY7Dryeb41ciy-12",
+      "title": "Assess linked application option \u2014 research extract 12",
+      "path": "research/chats/1EDYnOOWNCgWCA4J2HpjBY7Dryeb41ciy-12.md",
+      "origin": "Codex thread `01a0ce55-fdd6-71e0-8876-254172fd33bd`, backup section `1EDYnOOWNCgWCA4J2HpjBY7Dryeb41ciy`, rollout ordinal `345`",
+      "status": "Historical assistant research; citations not comprehensively reverified; BACKUP SECTION ENDS HERE, answer may continue in next section",
+      "sha256": "a8723374fb19ac662aca3869895bfd6ea86e0c560b84918e17a47d7974d1d5fb"
+    },
+    {
+      "id": "1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-10",
+      "title": "Choose experiment candidate \u2014 research extract 10",
+      "path": "research/chats/1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-10.md",
+      "origin": "Codex thread `01a0eefb-a30c-7802-8976-ee55d7675887`, backup section `1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn`, rollout ordinal `142`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "994f1a1db403ae34eacec8d457ea77508cca058201241a6d9ab78a23d42a87a7"
+    },
+    {
+      "id": "1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-21",
+      "title": "Choose experiment candidate \u2014 research extract 21",
+      "path": "research/chats/1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-21.md",
+      "origin": "Codex thread `01a0eefb-a30c-7802-8976-ee55d7675887`, backup section `1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn`, rollout ordinal `248`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "bd1b99d0920451b9ba6527a47c0ea9719a5e5b7131d23a9f59bdf095b72aa14a"
+    },
+    {
+      "id": "1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-30",
+      "title": "Choose experiment candidate \u2014 research extract 30",
+      "path": "research/chats/1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-30.md",
+      "origin": "Codex thread `01a0eefb-a30c-7802-8976-ee55d7675887`, backup section `1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn`, rollout ordinal `331`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "0560a7bd8151c7e94d9a40bf3873aef609121c0d2a172961338edab274791b21"
+    },
+    {
+      "id": "1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-3",
+      "title": "Research conditioning and hypnosis \u2014 continuation \u2014 research extract 3",
+      "path": "research/chats/1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-3.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G`, rollout ordinal `568`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "447e6caca6586fef0ff498fe6602e0d7ac56951bdcaf0cc0f775a542997280de"
+    },
+    {
+      "id": "1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-6",
+      "title": "Research conditioning and hypnosis \u2014 continuation \u2014 research extract 6",
+      "path": "research/chats/1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-6.md",
+      "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G`, rollout ordinal `606`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "2eefd83068f142e1e87f852bd477219f556050d576a1efaa15230fdc96653974"
+    },
+    {
+      "id": "1T8eXdTADZADNJG_F682ZzExgSSSPi_KG-4",
+      "title": "Update experiment proposal \u2014 research extract 4",
+      "path": "research/chats/1T8eXdTADZADNJG_F682ZzExgSSSPi_KG-4.md",
+      "origin": "Codex thread `01a10e8d-d629-7302-8464-5e6d053cab15`, backup section `1T8eXdTADZADNJG_F682ZzExgSSSPi_KG`, rollout ordinal `112`",
+      "status": "Historical assistant research; citations not comprehensively reverified; BACKUP SECTION ENDS HERE, answer may continue in next section",
+      "sha256": "4f1328fad5d30d52d294f77eca6b26bb27df3766363b1892035ea81e618e6b4a"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-1-9",
+      "title": "Summarize dream induction techniques \u2014 answer 1",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-1-9.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa167507e5c87d18f2397386a52b35a`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "0035f5be495205ba579204ffe32baa40fa4cfa491219d48898a9dc5d26d4e6cd"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-2-6",
+      "title": "Summarize dream induction techniques \u2014 answer 2",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-2-6.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa167af213887d1a509c3869232c142`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "3d55fe87084848b8749934105cf1cc25f151914f0e69aaedda12c44ca3a6dd4f"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-3-8",
+      "title": "Summarize dream induction techniques \u2014 answer 3",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-3-8.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa17de6920887d1bf9ff8c8651823f9`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "993a763c5120a8492467abb92e051a66234d4f45aa88fbb2eea7b9f0fe4a8d81"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-7-3",
+      "title": "Summarize dream induction techniques \u2014 answer 7",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-7-3.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa40d8eee8087d1b1bd7d4b87f0bd2f`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "c476bae6c6a4aac12c75e10d0949c299517e9bb7a7a1e62824d23d89c53a0bac"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-9-13",
+      "title": "Summarize dream induction techniques \u2014 answer 9",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-9-13.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa43d0e73d087d1bfd132181e896009`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "c7b009c3f3a8ac316bd72897468956ec319f4fe603e1df6552355bfc90ff723f"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-16-2",
+      "title": "Summarize dream induction techniques \u2014 answer 16",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-16-2.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa4450fe19c87d195b93fe0aed53d59`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "6de60f4545ad8813fa3720d614784daf7209d6f7bac1418052a0d92aaf6ea209"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-17-2",
+      "title": "Summarize dream induction techniques \u2014 answer 17",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-17-2.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa445943fe887d1b96f1c8d01f8e533`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "e92873bea0cba723bcb6345dbdc32278b8d1355d38853aa96b32434cc23c86b8"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-18-2",
+      "title": "Summarize dream induction techniques \u2014 answer 18",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-18-2.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa44648530c87d1b519dfd34dae5512`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "0a4bd52d97060ceac44103854ce2092a212ae62d6baf6f424e0059ecfee242ca"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-20-2",
+      "title": "Summarize dream induction techniques \u2014 answer 20",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-20-2.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa44f8a823887d19e78f9620893e730`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "1d50cc25ea57ea88cd488efcda5cb87095b013459a99c78f28aa020c5c445dd7"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-21-16",
+      "title": "Summarize dream induction techniques \u2014 answer 21",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-21-16.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa56ce3ad6087d1a2c3e5f4e38a3ee0`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "f9f84ad992c12ea1a7c2db96dac61149d4ad38fd7598d96caea974ccf77358e5"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-22-6",
+      "title": "Summarize dream induction techniques \u2014 answer 22",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-22-6.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa56dcaa4c087d1a04039b4fbd4735a`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "8b0d016a5cd863c2ab996337dec0d830c944abfd458dff5d67bfb8f69af0ce44"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-24-2",
+      "title": "Summarize dream induction techniques \u2014 answer 24",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-24-2.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa57456635887d19e288591880b7d72`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "de615dd6db6d181cc7a37f148e4cfaace7de2dd4c22c74e6979a45e2b02d1c04"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-34-3",
+      "title": "Summarize dream induction techniques \u2014 answer 34",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-34-3.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa7360c726c87d196b02b840a85bbcb`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "a960b084d980b9e1af2a06232d38c2d322d79f21a99b88631a0428b1926b7bdb"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-44-13",
+      "title": "Summarize dream induction techniques \u2014 answer 44",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-44-13.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab161d11ec487d1b6d01f00c9608ab5`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "44ed31ca4e93c3d27c293028d9e6c1cb567db86586885712196e5ee208d6c0af"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-52-28",
+      "title": "Summarize dream induction techniques \u2014 answer 52",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-52-28.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab3ce5f159487d19a1ddc353f40f195`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "081af72f867051aa3a063bbfab24bc7f18be75a3a8f582fbfef5371343b740aa"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-53-13",
+      "title": "Summarize dream induction techniques \u2014 answer 53",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-53-13.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab3cf2b0d9887d1b451514f23df4db0`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "fcb79c42844bfacc16ce0db2e9d538927db269ebd9b130de1f94cf6eb2ebc0e2"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-54-16",
+      "title": "Summarize dream induction techniques \u2014 answer 54",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-54-16.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab3d0ce78cc87d1ac5d38461301718a`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "9f72d73b6697333783c9c18edf32321227afd805600b96dd8a44142d9a1132a8"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-55-36",
+      "title": "Summarize dream induction techniques \u2014 answer 55",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-55-36.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab3d49f1f9087d1866126d9272f50ff`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "3b9e737e33cea4834a9d348079d660016dab1a3d07c54cbff02994096addf49d"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-60-77",
+      "title": "Summarize dream induction techniques \u2014 answer 60",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab41b76377c87d19d1cdbb68d8384a6`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "60757194822c3e540b77ed07b5e594e66f7385e9f09b4e2b3ba7671969cd1f01"
+    },
+    {
+      "id": "01a08679-d665-7a92-9c20-ce1843c10a68-62-58",
+      "title": "Summarize dream induction techniques \u2014 answer 62",
+      "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-62-58.md",
+      "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016ab42206da1887d19af24f986a93bc4d`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "133796d3c006b0c4289b1c7ee4378895dd15d28ec71014bc4ca2ac0a15ab335e"
+    },
+    {
+      "id": "01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-1-15",
+      "title": "Summarize mind-control techniques \u2014 answer 1",
+      "path": "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-1-15.md",
+      "origin": "codex thread `01a0fe4a-fb16-7c80-8813-ed1a6d85cbae`, item `msg_02e5ceba5988a6da016ac013bc3a9487d29dd97963fc64b67c`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "96f019e8617a8e6846f1f01c77392fdfd6fc5e747691b629858554a7850e31a7"
+    },
+    {
+      "id": "01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45",
+      "title": "Summarize mind-control techniques \u2014 answer 2",
+      "path": "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45.md",
+      "origin": "codex thread `01a0fe4a-fb16-7c80-8813-ed1a6d85cbae`, item `msg_02e5ceba5988a6da016ac015ab885487d291cae331f2db29d2`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "33df50536e61f66b5d8f0a361b6922d063657c818c84c0e463e514bae69cd652"
+    },
+    {
+      "id": "01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29",
+      "title": "Summarize mind-control techniques \u2014 answer 3",
+      "path": "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
+      "origin": "codex thread `01a0fe4a-fb16-7c80-8813-ed1a6d85cbae`, item `msg_02e5ceba5988a6da016ac017187a4887d2bee68871a5be70bd`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "64c35abd8287ac9224a958a7998315715cb0d50843409cc61b196e8efdd38a6f"
+    },
+    {
+      "id": "01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32",
+      "title": "Summarize mind-control techniques \u2014 answer 4",
+      "path": "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md",
+      "origin": "codex thread `01a0fe4a-fb16-7c80-8813-ed1a6d85cbae`, item `msg_02e5ceba5988a6da016ac029a4066c87d2a20d220cc9c1bff7`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "080fc7cadb22ef9325ad0504c08f703c916e61196c3073013e54512bd55d52b1"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-1-14",
+      "title": "Find research on sleep hypnosis \u2014 answer 1",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-1-14.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac2f3eeef0087d2b2e45e3d79bc9615`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "81d82ad20f74fb60c5e59baa864051921f8150a7990d867a9be2113121500d56"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-2-20",
+      "title": "Find research on sleep hypnosis \u2014 answer 2",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-2-20.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac2f82e17cc87d2b3f38d77b4d36c12`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "5e97705d90d7de23d0f34933aef3ac9b4939fd9a84a00f5df41d5677d5590ee1"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-3-14",
+      "title": "Find research on sleep hypnosis \u2014 answer 3",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-3-14.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac2fcd8bfac87d291a47fde1f69b281`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "aac56767fbffff18657e6d3f1a4067b15d04f639d0d8cb13ec2e62603f010f64"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-4-14",
+      "title": "Find research on sleep hypnosis \u2014 answer 4",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-4-14.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac2fe24d3d887d292b2fd6e85e8dec3`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "b7e9987e1912578018b07391058bffd2a4a43721c1e3cc880077c14eec3283fa"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-7-3",
+      "title": "Find research on sleep hypnosis \u2014 answer 7",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-7-3.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac30ab7aa1c87d29665e844284501c3`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "29b1f7805c58df3d6b9e0626131f019c5314d5e11c509c35f6807af77228be70"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-8-5",
+      "title": "Find research on sleep hypnosis \u2014 answer 8",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-8-5.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac30bcc1af887d2af7b11693e48c908`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "476a064e9dff735b5e3de33b941a62c3a280387c6a05449e1aa64d658d546d07"
+    },
+    {
+      "id": "01a10987-2751-7340-a64b-fa22acae50de-9-7",
+      "title": "Find research on sleep hypnosis \u2014 answer 9",
+      "path": "research/chats/01a10987-2751-7340-a64b-fa22acae50de-9-7.md",
+      "origin": "codex thread `01a10987-2751-7340-a64b-fa22acae50de`, item `msg_0c917477b5b2e817016ac30d1143d087d2bf09ddef9e00896b`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "a3684afcb29ba7b1229700ec306b355cfbdf067f9f433fe657ae86e17b4727d5"
+    },
+    {
+      "id": "01a17ed2-0854-78d1-ac1a-8f9a169b6717-1-5",
+      "title": "Assess breathing-based sleep staging \u2014 answer 1",
+      "path": "research/chats/01a17ed2-0854-78d1-ac1a-8f9a169b6717-1-5.md",
+      "origin": "codex thread `01a17ed2-0854-78d1-ac1a-8f9a169b6717`, item `msg_08a3a06302c68a6f016ae0fad3abf88190b46c811d50e14141`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "d664d6bd8010ea0fc7ce428dd4536c4e92b1d6186753affcc7eccfab55fc49b5"
+    },
+    {
+      "id": "01a17ed2-0854-78d1-ac1a-8f9a169b6717-2-6",
+      "title": "Assess breathing-based sleep staging \u2014 answer 2",
+      "path": "research/chats/01a17ed2-0854-78d1-ac1a-8f9a169b6717-2-6.md",
+      "origin": "codex thread `01a17ed2-0854-78d1-ac1a-8f9a169b6717`, item `msg_08a3a06302c68a6f016ae0fbc76e3881908cd8b3c7437914ca`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "03d513300cdd65a15a05a9c7822d860cf8eb2c3e210f05a84d1493bc99e8785f"
+    },
+    {
+      "id": "01a17ed2-0854-78d1-ac1a-8f9a169b6717-3-22",
+      "title": "Assess breathing-based sleep staging \u2014 answer 3",
+      "path": "research/chats/01a17ed2-0854-78d1-ac1a-8f9a169b6717-3-22.md",
+      "origin": "codex thread `01a17ed2-0854-78d1-ac1a-8f9a169b6717`, item `msg_08a3a06302c68a6f016ae103c506948190988af4ee84af3210`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "f2e12e5bd3228a7293412f85ad841b4e7156f308195dcea3f24bd129d52b47f7"
+    },
+    {
+      "id": "6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2",
+      "title": "Research Sleep Influence Techniques \u2014 answer 1",
+      "path": "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md",
+      "origin": "chatgpt thread `6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37`, item `b5680872-0685-490f-bde5-7dd917bc4940`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "a59ae0f34a77069ab3d5e4d92d283ec40b13bba27da5b91fab6193669d04bfea"
+    },
+    {
+      "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-2-2",
+      "title": "Explain Sleep Influence \u2014 answer 2",
+      "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-2-2.md",
+      "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `16c62503-c2ad-4add-949a-99e1bd1954a8`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "ba19881da2f09a9b5d6a5ae43f1fd8ca11812518fde659b2a21b5f5f152df4eb"
+    },
+    {
+      "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-3-2",
+      "title": "Explain Sleep Influence \u2014 answer 3",
+      "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-3-2.md",
+      "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `e77ac8aa-741f-48b9-bf2d-37305a838e6b`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "9384fcbae2c38c221777d66f6a34e85a842292f7caa3037eb4d2658467ff31e4"
+    },
+    {
+      "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-4-2",
+      "title": "Explain Sleep Influence \u2014 answer 4",
+      "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-4-2.md",
+      "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `b410d5b1-ba0a-4857-8246-76fba2f910a7`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "b3912eebf3de05282de102d994e3157c2a18b4436b9cfdaee27c2eb04535873c"
+    },
+    {
+      "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-5-2",
+      "title": "Explain Sleep Influence \u2014 answer 5",
+      "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-5-2.md",
+      "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `10b048f5-712f-4704-88f2-827bda10efc4`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "b9d9a440fbee18822cc196f5e48cfc392d8057b06e1751d12b8a5d98f1e39b32"
+    },
+    {
+      "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2",
+      "title": "Research sleep influence benefits \u2014 answer 1",
+      "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2.md",
+      "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `068d8910-bf42-401c-9122-7bf5b899baf4`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "49f853e9eefdd81dcc857de13e93df63a812caf208e32c0dd98a31aaed1a4738"
+    },
+    {
+      "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2",
+      "title": "Research sleep influence benefits \u2014 answer 2",
+      "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2.md",
+      "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `edd12a02-4ab9-4d1f-b745-239e2e3b4816`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "0ebf6bc4518bf6a074349ca20577ce8d29ccb1e59f18622189dce08ce589097c"
+    },
+    {
+      "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-3-2",
+      "title": "Research sleep influence benefits \u2014 answer 3",
+      "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-3-2.md",
+      "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `86d8cbc2-5e77-4bd1-a7f7-d8753ffe19bc`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "e2a6f14d401865faa6ed354ece085a95234444c020a9728297321497c100fe08"
+    },
+    {
+      "id": "6ab14c04-9864-83ea-a250-b495d6f19c23-1-2",
+      "title": "Research Brain Computer Interfaces \u2014 answer 1",
+      "path": "research/chats/6ab14c04-9864-83ea-a250-b495d6f19c23-1-2.md",
+      "origin": "chatgpt thread `6ab14c04-9864-83ea-a250-b495d6f19c23`, item `5e7bf587-ef5e-41dc-82d8-9d03329d4bfe`",
+      "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
+      "sha256": "0f55c7489b99c4f80b03162e93fc5fc4d2703f6e7e6e46d69f04d06674535ebf"
+    },
+    {
+      "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-1-2",
+      "title": "Magnetoreception Applications Research \u2014 answer 1",
+      "path": "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-1-2.md",
+      "origin": "chatgpt thread `6ab15d29-9edc-83e9-9692-e20add2c6825`, item `0ffc2d6d-e0d1-4c3f-b91c-4b2ea8c90748`",
+      "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
+      "sha256": "1dc6bd3b0946596d6517994e6e6fc528a7fafab21b38084e146a947bb1776cd7"
+    },
+    {
+      "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-2-2",
+      "title": "Magnetoreception Applications Research \u2014 answer 2",
+      "path": "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-2.md",
+      "origin": "chatgpt thread `6ab15d29-9edc-83e9-9692-e20add2c6825`, item `50351eac-a5b0-4361-8703-9eac39484601`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "38534f15dd8370c8f525745470011f47b48edd3bb32b9c9a5b9673c42f164dcd"
+    },
+    {
+      "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-2-3",
+      "title": "Magnetoreception Applications Research \u2014 answer 2",
+      "path": "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-3.md",
+      "origin": "chatgpt thread `6ab15d29-9edc-83e9-9692-e20add2c6825`, item `64a20424-4998-4106-9f64-cb5723573fa2`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "417e584286cc5c9b4741ceb8ee49f598e83fd9b70e7153c5e99fbd2d4134e2d9"
+    },
+    {
+      "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-2-4",
+      "title": "Magnetoreception Applications Research \u2014 answer 2",
+      "path": "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-4.md",
+      "origin": "chatgpt thread `6ab15d29-9edc-83e9-9692-e20add2c6825`, item `f038ca4f-0d30-4f21-b72f-e81003f051e3`",
+      "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
+      "sha256": "559ed22426c4856a9e70ea138a699ce6a2d7bb3d2b38542c6789cf409924ec14"
+    },
+    {
+      "id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-2",
+      "title": "Invisible Wavelengths Feasibility \u2014 answer 1",
+      "path": "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-2.md",
+      "origin": "chatgpt thread `6ab16b83-0630-83ea-9a2b-95f44ca83bb6`, item `3b932253-1b5c-4de4-96b5-7483a7b9820e`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "d9ad63f56e78155afb661f4354bc3c6d020756496949c329ccd0949de767ce03"
+    },
+    {
+      "id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "title": "Invisible Wavelengths Feasibility \u2014 answer 1",
+      "path": "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+      "origin": "chatgpt thread `6ab16b83-0630-83ea-9a2b-95f44ca83bb6`, item `8a5c27b1-08bc-490a-9518-25e2b4066c27`",
+      "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
+      "sha256": "44c1bc0c4ef7abaaf67dba99fedfb8c05ffd30200275a91e1e63608e6e26e0d6"
+    },
+    {
+      "id": "6abd4417-0258-83e9-80c7-4cae17968083-1-2",
+      "title": "wiki pages on hypnosis \u2014 answer 1",
+      "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-1-2.md",
+      "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `45faa6be-e7ec-48e8-a181-587080845807`",
+      "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
+      "sha256": "9250b9c2a9c960fce4c7506fdfeba39424055733fe797e5bee103ad048dfcf19"
+    },
+    {
+      "id": "6abd4417-0258-83e9-80c7-4cae17968083-2-2",
+      "title": "wiki pages on hypnosis \u2014 answer 2",
+      "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-2-2.md",
+      "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `40c48c66-2e3c-4115-825a-5d542c7e35c5`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "178efd1229685f13a71dee8dddf5aeda5708128157264df8d3da75fcde4f2047"
+    },
+    {
+      "id": "6abd4417-0258-83e9-80c7-4cae17968083-3-2",
+      "title": "wiki pages on hypnosis \u2014 answer 3",
+      "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-3-2.md",
+      "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `04cd82fa-3e3a-47b3-a4aa-e92228e0600a`",
+      "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
+      "sha256": "42670377a3b5975d1c4f1ed3d00ba642439e8dd64915dd5056ca68f3d1fc9c21"
+    },
+    {
+      "id": "6abd4417-0258-83e9-80c7-4cae17968083-4-2",
+      "title": "wiki pages on hypnosis \u2014 answer 4",
+      "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-4-2.md",
+      "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `f542f0aa-c9bf-4972-bcf0-18eaaaa3b287`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "cc5d0cd154e35847303b41678e0df7e606ca587f0d7efc7ff93e6d7de0d13dc3"
+    },
+    {
+      "id": "6abd4417-0258-83e9-80c7-4cae17968083-5-2",
+      "title": "wiki pages on hypnosis \u2014 answer 5",
+      "path": "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-5-2.md",
+      "origin": "chatgpt thread `6abd4417-0258-83e9-80c7-4cae17968083`, item `8ae5b2b9-f197-4c0f-a1a6-2e544571a126`",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "b2ecaf5256a8eff19fc7155963ad064d12f02760127f1bd5e97cd3145324710e"
+    },
+    {
+      "id": "vindication-acoustic-feature-sleep-state-coding",
+      "title": "Acoustic Feature By Sleep-State Coding",
+      "path": "research/notes/vindication-acoustic-feature-sleep-state-coding.md",
+      "origin": "Faraday named component workspace, docs/vindication-acoustic-feature-sleep-state-coding.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "c5e36245900a9f43a94384efd2bc7bd8a96ce750b5cdc81e50e08b7826caa502",
+      "sha256": "672e73918f38b461dda43b7fcb1eea5f86a3f1c7ed018d31b306d0351eeffb29"
+    },
+    {
+      "id": "vindication-optical-sleep-influence-research",
+      "title": "Optical Input And Sleep-State Influence",
+      "path": "research/notes/vindication-optical-sleep-influence-research.md",
+      "origin": "Faraday named component workspace, docs/vindication-optical-sleep-influence-research.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "2ba077493b7f8e6ad91c4381ce1a407216d15ed999a91b1deb12afb7cf0df23d",
+      "sha256": "7d648c3362a3c28134805b89151964e0a63d721f7b6ab1f854a788c118144598"
+    },
+    {
+      "id": "vindication-magnetic-effects-research",
+      "title": "Magnetic Effects And Neural Interfaces",
+      "path": "research/notes/vindication-magnetic-effects-research.md",
+      "origin": "Faraday named component workspace, docs/vindication-magnetic-effects-research.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "a8ebb4c7fd5aefaea82e8c5c85a9f4b4fce8c478f6dcd059eaf06cf12833f0ea",
+      "sha256": "3ed35e5c8a197009d74b6d732994e0e802d3f738ef02addcaaec9699d03293fa"
+    },
+    {
+      "id": "vindication-sleep-dry-run",
+      "title": "Sleep And Pink-Noise Dry Run",
+      "path": "research/notes/vindication-sleep-dry-run.md",
+      "origin": "Faraday named component workspace, docs/vindication-sleep-dry-run.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "f57db5d22f819bec35cecd142d41aebcf1e864920c5c7d93ff01e7c78a3f95d2",
+      "sha256": "9e06006ee69c80f8cc74e62627cec8907ff0407c08be7e07837e4ebb4f0de6ed"
+    },
+    {
+      "id": "vindication-sleep-dry-run-results",
+      "title": "Sleep-EDF Pink-Noise Dry Run Results",
+      "path": "research/notes/vindication-sleep-dry-run-results.md",
+      "origin": "Faraday named component workspace, docs/vindication-sleep-dry-run-results.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "fc9b0748ca93aa6dbccf97d3d40dc5aaf67e372ee3d43b49de015a2302c3c31a",
+      "sha256": "15743316acd721be3b6b23c780baaf34967faaaa511e45fae3c563a710f3b8a1"
+    },
+    {
+      "id": "vindication-interaction-dry-run",
+      "title": "State Cue By Associative Pairing Dry Run",
+      "path": "research/notes/vindication-interaction-dry-run.md",
+      "origin": "Faraday named component workspace, docs/vindication-interaction-dry-run.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "bd4595a53bc65ef5c2b6356d47351666c21c5d10bd870b5ba8b264ec2a44ae44",
+      "sha256": "f5e3f3f8bd55d8365ade741b371a7ce9ef5772b6d04f43c086f2a465bca65fca"
+    },
+    {
+      "id": "vindication-interaction-dry-run-results",
+      "title": "State Cue By Associative Pairing Results",
+      "path": "research/notes/vindication-interaction-dry-run-results.md",
+      "origin": "Faraday named component workspace, docs/vindication-interaction-dry-run-results.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "f6799575b654e2542b758e2657355404c3469e82cd654a8f0157f62c35e4d5a4",
+      "sha256": "d7b395d5843b705cff9c2ececdd6623453d6e38f517d878578e395f0ffc8511c"
+    },
+    {
+      "id": "vindication-semantic-kinesthetic-association",
+      "title": "Semantic And Kinesthetic Association Pathway",
+      "path": "research/notes/vindication-semantic-kinesthetic-association.md",
+      "origin": "Faraday named component workspace, docs/vindication-semantic-kinesthetic-association.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "e3a932f497841c46e302cab8403f2293d0d66a530db5c8ca7c33f19eeed87a07",
+      "sha256": "562073447d057f05c3d1fe91c3c78e1e4866b2d5b7d3fd1e236d5fabb07e6c28"
+    },
+    {
+      "id": "vindication-population-influence-agenda",
+      "title": "Population Influence Agenda",
+      "path": "research/notes/vindication-population-influence-agenda.md",
+      "origin": "Faraday named component workspace, docs/vindication-population-influence-agenda.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "9542a09f075bf9691cb6704234a9fe19650a86406e84388e9704930f87c88f14",
+      "sha256": "34476d034d41375e26cfaabcedd3a02c33ca6088cc04acff45df2afa60368604"
+    },
+    {
+      "id": "vindication-tooth-mounted-sensing-power",
+      "title": "Tooth-Mounted Sensing And Power Pathway",
+      "path": "research/notes/vindication-tooth-mounted-sensing-power.md",
+      "origin": "Faraday named component workspace, docs/vindication-tooth-mounted-sensing-power.md",
+      "status": "Archived note; hypotheses and simulations retain original claim ceilings",
+      "source_sha256": "d09b45f0fc6c61762502f8c92773ce8776a490e968ecfbc20d1935cb1ab9fe37",
+      "sha256": "080424b28644bce0f231ffb1572c8e5e96c0b4ea369bea8096728e9a93662dd4"
+    },
+    {
+      "id": "cross-project-dossier",
+      "title": "Cross-project research dossier \u2014 evidence sections",
+      "path": "research/chats/cross-project-dossier.md",
+      "origin": "Sthetiquea SLEEP_INFLUENCE_RESEARCH.md, reviewed 2026-10-15; matching Cod\u00e6mons dossier located",
+      "status": "Historical assistant research; citations not comprehensively reverified",
+      "sha256": "c8d57dfec4ef48f8a47aef53864a1318c968f8a996b776873256be6d9f2aa98b"
+    },
+    {
+      "id": "campaign-README.md",
+      "title": "Sleep acoustic campaign: README.md",
+      "path": "research/notes/sleep-acoustic-campaign/README.md",
+      "origin": "vindication-research-machine/campaigns/sleep_acoustic/README.md",
+      "status": "Development reference; not registered human study",
+      "sha256": "85b81fe672991aece98527b408a25dd4f480e6766ea07ca8484cd6671d539f5f"
+    },
+    {
+      "id": "campaign-hypotheses.json",
+      "title": "Sleep acoustic campaign: hypotheses.json",
+      "path": "research/notes/sleep-acoustic-campaign/hypotheses.json",
+      "origin": "vindication-research-machine/campaigns/sleep_acoustic/hypotheses.json",
+      "status": "Development reference; not registered human study",
+      "sha256": "2ad9f4bf9aaf4fe688e7b3096ccc6212cf6cd4d8759f5513b0a551a0aa582038"
+    },
+    {
+      "id": "campaign-protocols/confirmatory_association.json",
+      "title": "Sleep acoustic campaign: protocols/confirmatory_association.json",
+      "path": "research/notes/sleep-acoustic-campaign/protocols/confirmatory_association.json",
+      "origin": "vindication-research-machine/campaigns/sleep_acoustic/protocols/confirmatory_association.json",
+      "status": "Development reference; not registered human study",
+      "sha256": "f2e210e42d5a827029ce1c842f21d337ce030731690d718c1296b101283d4b19"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "experiment_id": "sleep-acoustic-confirmatory-association-v1",
+  "title": "Registered latent-state to acoustic-onset association",
+  "protocol_version": "1.0.0",
+  "hypotheses_tested": ["H-STATE-ASSOCIATION"],
+  "analysis_mode": "confirmatory",
+  "dataset_role": "confirmation",
+  "primary_outcome": "Within-night difference in independently recorded acoustic-onset probability between the predefined physiology target window and matched control windows",
+  "secondary_outcomes": ["Unadjusted association", "Negative-control decoy association"],
+  "independent_variables": ["Target versus matched control window"],
+  "randomization_plan": "Control offsets and any target remapping are fixed before confirmation data are inspected.",
+  "random_seed_commitment": "7420cdf158332ed98d7efa6b0cb5ca8e48d3e03ef7627767c7fc4196ade39526",
+  "blinding_plan": "Event extraction is frozen; condition labels remain masked until data quality gates pass.",
+  "sampling_unit": "night",
+  "sample_size_or_stopping_rule": {
+    "minimum_nights": 8,
+    "stopping_rule": "Collect the preregistered number of usable nights; do not stop for significance."
+  },
+  "inclusion_rules": ["All required channels and calibration records are present", "Clock uncertainty passes the registered gate"],
+  "exclusion_rules": ["Registered missing or corrupted interval", "Registered movement or respiration confound near target"],
+  "sensor_requirements": ["eeg", "audio", "movement", "respiration", "decoy"],
+  "calibration_requirements": ["Shared timing marker", "Audio onset validation", "Movement/contact validation"],
+  "clock_accuracy_requirement_ms": 50.0,
+  "preprocessing_pipeline": ["Immutable raw ingest", "Frozen event extraction", "Registered temporal join", "Within-night matched analysis"],
+  "statistical_model": "Within-night target-minus-control risk difference with exact sign test across nights",
+  "control_windows_seconds": [60.0],
+  "multiple_testing_policy": "One primary target, outcome, lag, and effect threshold; decoy analyses are negative controls.",
+  "missing_data_policy": "Exclude only preregistered corrupt intervals; fail if required channels or calibrations are absent.",
+  "failure_conditions": ["Analysis code hash mismatch", "Dataset role mismatch", "Clock or channel quality gate failure", "Positive control failure before human confirmation"],
+  "safety_constraints": ["No unconsented stimulation", "Any intervention must be hearing-safe and independently reviewed", "Synthetic fixtures cannot be scientific evidence"],
+  "analysis_code_hash": "c4fc39d344c2719650393793e45f0ad1f765e10892a8c497e4951d6d12c5bbb8",
+  "analysis": {
+    "target_event_type": "neural_target",
+    "outcome_event_type": "sound",
+    "lag_window_seconds": [0.2, 2.0],
+    "confound_event_types": ["movement", "respiration"],
+    "confound_window_seconds": [-1.0, 2.0],
+    "negative_control_target_types": ["decoy_target"],
+    "minimum_risk_difference": 0.5,
+    "confound_attenuation_ratio": 0.5,
+    "alpha": 0.05
+  },
+  "metadata": {
+    "inferential_ceiling": "statistical_association",
+    "required_prerequisites": ["positive_control"],
+    "mechanism_not_tested": true,
+    "intent_not_tested": true
+  }
+}
