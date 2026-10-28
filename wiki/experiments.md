@@ -1,6 +1,6 @@
 # Experiment plans and simulations
 
-[Home](../README.md) · [Measurement](measurement.md) · [Evidence ledger](evidence-ledger.md)
+[Home](../README.md) · [Measurement](measurement.md) · [Evidence ledger](evidence-ledger.md) · [Research network](research-horizon.md)
 
 ## Sleep-EDF scheduling dry run
 

@@ -1,6 +1,6 @@
 # Population influence and fictional extrapolation
 
-[Home](../README.md) · [Conditioning](conditioning.md) · [Experiments](experiments.md)
+[Home](../README.md) · [Conditioning](conditioning.md) · [Experiments](experiments.md) · [Research network](research-horizon.md)
 
 The [population influence agenda](../research/notes/vindication-population-influence-agenda.md) maps questions about polarization, demobilization, shared salience, commercial activation, timing, semantic self-generation, and notification interruption. It is an agenda, not an empirical finding that a particular actor manipulated anyone.
 

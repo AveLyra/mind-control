@@ -1,6 +1,6 @@
 # Sleep measurement, models, and datasets
 
-[Home](../README.md) · [Experiments](experiments.md)
+[Home](../README.md) · [Experiments](experiments.md) · [Research network](research-horizon.md)
 
 The Codex **Assess breathing-based sleep staging** conversation explored a bedside smartphone research app. It distinguished breathing measurement from sleep-stage inference and causal real-time prediction from retrospective classification.
 

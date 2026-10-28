@@ -1,6 +1,6 @@
 # Optical signaling and sleep
 
-[Home](../README.md) · [Sleep](sleep.md) · [Citation corrections](../sources/corrections.md)
+[Home](../README.md) · [Sleep](sleep.md) · [Citation corrections](../sources/corrections.md) · [Research network](research-horizon.md)
 
 The ChatGPT **Invisible Wavelengths Feasibility** discussion and the [Faraday optical note](../research/notes/vindication-optical-sleep-influence-research.md) distinguish optical wavelength from temporal modulation, and a measurable response from an understood message.
 

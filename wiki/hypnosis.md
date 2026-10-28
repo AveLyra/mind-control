@@ -1,6 +1,6 @@
 # Hypnosis and agency
 
-[Home](../README.md) · [Conditioning](conditioning.md) · [Evidence ledger](evidence-ledger.md)
+[Home](../README.md) · [Conditioning](conditioning.md) · [Evidence ledger](evidence-ledger.md) · [Research network](research-horizon.md)
 
 The recovered ChatGPT **wiki pages on hypnosis** conversation contains research and draft material on **hypnotic involuntariness** and **dissociated control theory**. These are explanations of hypnotic responding and subjective agency, not demonstrations of unrestricted control over another person.
 

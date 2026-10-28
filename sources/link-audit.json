@@ -3,12 +3,12 @@
   "auditor_version": 3,
   "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
   "summary": {
-    "reachable": 386,
+    "access_challenge": 281,
     "access_restricted": 144,
-    "http_error": 3,
+    "reachable": 386,
     "redirect_landing": 55,
-    "access_challenge": 278,
-    "request_failed": 7
+    "request_failed": 7,
+    "http_error": 3
   },
   "links": [
     {
@@ -11365,6 +11365,7 @@
       "record_paths": [
         "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md",
         "research/chats/cross-project-dossier.md",
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/conditioning.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:38+00:00",
@@ -11538,7 +11539,8 @@
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45.md",
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
-        "research/chats/deeper-hypnosis-evidence-archive.md"
+        "research/chats/deeper-hypnosis-evidence-archive.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:17+00:00",
       "auditor_version": 3,
@@ -11945,6 +11947,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/20158291/",
       "record_paths": [
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/evidence-ledger.md",
         "wiki/history-and-drugs.md"
       ],
@@ -12466,7 +12469,8 @@
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45.md",
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md",
         "research/chats/supplement-a063061a-c55e-4c3c-bf77-375a9e186442.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:17+00:00",
       "auditor_version": 3,
@@ -12630,6 +12634,34 @@
         "journalTitle": "Hum Psychopharmacol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23776033+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23888038/",
+      "record_paths": [
+        "research/updates/2026-10-28-horizon-source-checks.md"
+      ],
+      "checked_at_utc": "2026-10-28T17:43:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23888038/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Checking your browser - reCAPTCHA",
+      "bytes_sampled": 21461,
+      "status": "access_challenge",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23888038",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1126/science.1239073",
+        "title": "Creating a false memory in the hippocampus.",
+        "authorString": "Ramirez S, Liu X, Lin PA, Suh J, Pignatelli M, Redondo RL, Ryan TJ, Tonegawa S.",
+        "pubYear": "2013",
+        "journalTitle": "Science",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23888038+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13162,7 +13194,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/26023137/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-55-36.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:17+00:00",
       "auditor_version": 3,
@@ -14020,7 +14053,8 @@
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45.md",
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
         "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:14+00:00",
       "auditor_version": 3,
@@ -14159,6 +14193,34 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30792903+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30992474/",
+      "record_paths": [
+        "research/updates/2026-10-28-horizon-source-checks.md"
+      ],
+      "checked_at_utc": "2026-10-28T17:43:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30992474/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Checking your browser - reCAPTCHA",
+      "bytes_sampled": 21457,
+      "status": "access_challenge",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30992474",
+        "source": "MED",
+        "pmcid": "PMC6467884",
+        "doi": "10.1038/s41598-019-41895-7",
+        "title": "BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains.",
+        "authorString": "Jiang L, Stocco A, Losey DM, Abernethy JA, Prat CS, Rao RPN.",
+        "pubYear": "2019",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30992474+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14405,7 +14467,8 @@
         "research/chats/supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb.md",
         "research/chats/supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc.md",
         "research/chats/supplement-92060796-96e7-421a-a090-bc6e03558358.md",
-        "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md"
+        "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:20+00:00",
       "auditor_version": 3,
@@ -14521,7 +14584,8 @@
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-2-6.md",
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-7-3.md",
-        "research/chats/deeper-hypnosis-evidence-archive.md"
+        "research/chats/deeper-hypnosis-evidence-archive.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:24+00:00",
       "auditor_version": 3,
@@ -14673,7 +14737,8 @@
         "research/chats/supplement-92060796-96e7-421a-a090-bc6e03558358.md",
         "research/chats/supplement-b8be0aa7-0415-4911-9632-87fd4b913af0.md",
         "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:24+00:00",
       "auditor_version": 3,
@@ -14955,7 +15020,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/35356055/",
       "record_paths": [
         "research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:58+00:00",
       "auditor_version": 3,
@@ -15306,9 +15372,38 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37085518/",
+      "record_paths": [
+        "research/updates/2026-10-28-horizon-source-checks.md"
+      ],
+      "checked_at_utc": "2026-10-28T17:43:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37085518/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Checking your browser - reCAPTCHA",
+      "bytes_sampled": 21457,
+      "status": "access_challenge",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37085518",
+        "source": "MED",
+        "pmcid": "PMC10121656",
+        "doi": "10.1038/s41467-023-38046-y",
+        "title": "Cross-stage neural pattern similarity in the hippocampus predicts false memory derived from post-event inaccurate information.",
+        "authorString": "Shao X, Li A, Chen C, Loftus EF, Zhu B.",
+        "pubYear": "2023",
+        "journalTitle": "Nat Commun",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37085518+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/37127759/",
       "record_paths": [
         "research/chats/deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f.md",
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/memory.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:50+00:00",
@@ -15577,7 +15672,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/37828228/",
       "record_paths": [
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:59:49+00:00",
       "auditor_version": 3,
@@ -15692,7 +15788,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38608028/",
       "record_paths": [
-        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-2.md"
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-2.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:52+00:00",
       "auditor_version": 3,
@@ -16160,6 +16257,7 @@
         "research/chats/supplement-b8be0aa7-0415-4911-9632-87fd4b913af0.md",
         "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/awareness.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:24+00:00",
@@ -16189,6 +16287,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/39700417/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/awareness.md"
       ],
       "checked_at_utc": "2026-10-28T14:59:48+00:00",
@@ -16370,7 +16469,8 @@
         "research/chats/supplement-92060796-96e7-421a-a090-bc6e03558358.md",
         "research/chats/supplement-b8be0aa7-0415-4911-9632-87fd4b913af0.md",
         "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:24+00:00",
       "auditor_version": 3,
@@ -16399,6 +16499,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40499302/",
       "record_paths": [
         "research/chats/deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f.md",
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/evidence-ledger.md",
         "wiki/memory.md"
       ],
@@ -16601,7 +16702,8 @@
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
         "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md",
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:52+00:00",
       "auditor_version": 3,
@@ -16940,7 +17042,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41545763/",
       "record_paths": [
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:59:42+00:00",
       "auditor_version": 3,
@@ -16969,6 +17072,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41561361/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/awareness.md"
       ],
       "checked_at_utc": "2026-10-28T14:59:48+00:00",
@@ -17734,6 +17838,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/9461855/",
       "record_paths": [
+        "research/updates/2026-10-28-horizon-source-checks.md",
         "wiki/hypnosis.md"
       ],
       "checked_at_utc": "2026-10-28T14:59:52+00:00",
@@ -20822,10 +20927,20 @@
       "identity_check_category": "not_applicable"
     }
   ],
+  "prior_checks_note": "All direct HTTP/API attempts were refreshed on 2026-10-28. Separately recorded identity, registry, and web-content checks retain their original 2026-10-27 dates; they were preserved, not rerun by this CLI refresh.",
   "metadata_summary": {
     "not_applicable": 310,
-    "api_identity_resolved": 562,
+    "api_identity_resolved": 565,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
-  "prior_checks_note": "All direct HTTP/API attempts were refreshed on 2026-10-28. Separately recorded identity, registry, and web-content checks retain their original 2026-10-27 dates; they were preserved, not rerun by this CLI refresh."
+  "horizon_incremental_check": {
+    "date": "2026-10-28",
+    "prior_same_day_results_reused": 873,
+    "new_source_urls_checked": 3,
+    "new_url_http_summary": {
+      "access_challenge": 3
+    },
+    "new_url_metadata_identities_resolved": 3,
+    "scope": "New source URLs and updated context paths; earlier same-day outcomes and separately dated checks preserved."
+  }
 }

@@ -1,6 +1,6 @@
 # Awareness and unconscious visual processing
 
-[Home](../README.md) · [Optical signaling](optical.md) · [Sleep](sleep.md) · [Memory and awareness](memory.md) · [Continuation prompt](../prompts/awareness-optical-deep-research.md)
+[Home](../README.md) · [Optical signaling](optical.md) · [Sleep](sleep.md) · [Memory and awareness](memory.md) · [Continuation prompt](../prompts/awareness-optical-deep-research.md) · [Research network](research-horizon.md)
 
 The research question is **how to distinguish processing without awareness from weak conscious perception, guessing, response bias, and measurement error**. This is the subject identified with high confidence from the passage containing the unresolved `turn3file2` citation. Its original source identity remains unresolved. A supplied continuation review, with a reported search cutoff of October 28, 2026, is now integrated below. Its source artifacts and the scope of independent intake checks remain separate.
 

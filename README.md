@@ -1,11 +1,12 @@
 # Sleep, Hypnosis, and Influence Research Wiki
 
-A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery and supplied-literature integration updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
+A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery, supplied-literature integration, and the research network updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
 
 ## Explore
 
 | Topic | Contents |
 |---|---|
+| [Research network and science-fiction horizon](wiki/research-horizon.md) | 16 capabilities, 13 connections, six larger scenarios, contrary evidence, and milestones that would move the boundary |
 | [Sleep techniques and learning](wiki/sleep.md) | Targeted memory reactivation, dream incubation, sleep conditioning, pink noise, masked speech |
 | [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
 | [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
@@ -21,7 +22,8 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 148 research records, including four supplied continuation-review artifacts, with origins and status.
+- [Source catalog](sources/catalog.md): 149 research records, including four supplied continuation-review artifacts and the new network source checks, with origins and status.
+- [Network source checks](research/updates/2026-10-28-horizon-source-checks.md): 24 selected publications, with bounded claims and explicit abstract/full-text access limits.
 - [Awareness literature update](sources/awareness-update-intake.md): new review, 30 evidence entries, 53 numbered references, and scoped source/claim checks.
 - [Recovery report](sources/recovery.md): all six original truncated answers restored, plus 37 additional research records.
 - [Citation recovery and deeper discovery](sources/citation-audit.md): 172 deep-research search results screened; 16 more records added; all 471 old citation markers accounted for.
@@ -36,6 +38,8 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 Topic pages are editorial navigation and synthesis. `research/` preserves selected historical assistant answers and project research notes. Primary publications and original records control factual claims; a chat summary cannot independently establish them. Simulations establish only their stated computational results. Fiction and research proposals remain proposals.
 
 ## Continue research
+
+Start with the [research horizon](wiki/research-horizon.md): it connects topic findings to the missing steps toward broader capabilities. Its manual watchlist tracks transfer, durability, awareness, receiver requirements, and end-to-end information content. No recurring monitor is active.
 
 The [original Deep Research prompt](prompts/awareness-optical-deep-research.md) now has a supplied [continuation review and companion files](sources/awareness-update-intake.md), integrated into the [awareness topic page](wiki/awareness.md). The result addresses awareness measurement and unconscious visual processing, with optical and sleep applications. It is new literature synthesis, with the original citation gap preserved. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
 

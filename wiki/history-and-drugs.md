@@ -1,6 +1,6 @@
 # Historical programs and drug research
 
-[Home](../README.md) · [Source leads](../sources/bibliography.md)
+[Home](../README.md) · [Source leads](../sources/bibliography.md) · [Research network](research-horizon.md)
 
 The collection separates documented programs, research objectives, observed impairment, and claims of successful control. A program's interest in a technique does not establish that it achieved its objective.
 

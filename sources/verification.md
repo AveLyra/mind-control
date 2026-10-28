@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Coverage](coverage.md)
 
-Current integration: the [supplied awareness literature update](awareness-update-intake.md) brings the collection to 148 records and refreshes the source-URL audit through October 28. The dated checks below preserve the sequence of earlier work and its limits.
+Current integration: the [research network](../wiki/research-horizon.md) and its [source checks](../research/updates/2026-10-28-horizon-source-checks.md) bring the collection to 149 records after the supplied awareness update. The dated checks below preserve the sequence of earlier work and its limits.
 
 Initial collection checks, October 27, 2026:
 
@@ -82,3 +82,14 @@ Supplied continuation-review integration, October 28, 2026:
 - `python3 tools/reindex_collection.py` and `python3 tools/verify_collection.py` passed for 148 record digests, local links, original recovery receipts, citation dispositions, source/report coverage, the four reversible source derivatives, and the new intake record. The generated research-source index contains 869 URLs; four wiki-only URLs bring the access-audit scope to 873.
 
 The supplied documents’ FT/PFT/A labels describe their reviewer. Independent intake checks are separately scoped, with no certification of every supplied quantitative or interpretive claim. The original `turn3file2` mapping and old uploaded-file bytes remain unrecovered. No files, chats, histories, caches, or backups were deleted.
+
+Research network and horizon mapping, October 28, 2026:
+
+- Added the [research network](../wiki/research-horizon.md), linked from all 12 existing topic pages and the home page. It distinguishes 16 capabilities, 13 connections, and six larger scenarios, with conditions, contrary evidence, missing bridges, and discriminating milestones. These are editorial assessments; no combined system was experimentally validated.
+- Added one catalogued [source-check record](../research/updates/2026-10-28-horizon-source-checks.md). All 24 selected PMID/DOI pairs matched retrieved metadata and complete abstracts. Two PMC bodies were retrieved in contiguous segments: BrainNet, 38,603 characters, and lucid-dream dialogue, 55,773 characters. Selected relevant sections were inspected; figures, code, and participant data were not reanalyzed. Raz full-text attempts failed and remain labeled as abstract-only checks.
+- Four publication-discovery queries were bounded title/topic lookups. Unread result pages do not support claims of literature absence. The direct counterbias replication is paired with its original procedure; it is not misrepresented as a replication of the different 2025 social-evaluation study. The dream-dialogue result retains its 29/158 response denominator, trained-code limitation, and frequent lack of response.
+- Ran `python3 tools/audit_source_links.py` against a private staged copy of the same-day report: three new URLs checked, 873 earlier results reused, and context paths updated. All three direct routes returned access challenges; all three publication identities resolved through metadata. Earlier separately dated checks were preserved. The final audit contains 876 URLs; the generated research index contains 874, with two remaining wiki-only URLs.
+- `python3 tools/reindex_collection.py` and `python3 tools/verify_collection.py` passed for 149 record digests, existing recovery/intake receipts, local links, citation dispositions, and complete URL/context coverage. An additional consistency check passed for capability/bridge/scenario/source IDs, all new source anchors, the 24 PMID/DOI relationships, complete abstracts, and contiguous PMC text coverage. `gitave diff --check` passed. No scientific result is certified solely by these structural checks.
+- Confirmed the AveLyra CLI account, public `AveLyra/mind-control` destination, and remote `main` at the pre-update local base, `7f5233dade0e430f13d505e0dffc7d536b0ace61`, before publication. Public selection contains research synthesis and receipts; raw tool responses remain private. No prior research record, supplied artifact, recovery gap, or original citation disposition was rewritten by the network addition. No files, chats, histories, caches, dependencies, or backups were deleted.
+
+The horizon watchlist is manual. Its assessments change when a source establishes a specific new endpoint or closes a named connection; a plausible combination of separately demonstrated components remains a hypothesis until tested as a system.

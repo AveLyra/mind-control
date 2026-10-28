@@ -2202,6 +2202,14 @@
         "extra_trailing_newlines_removed": 1
       },
       "literature_update_role": "proposed-wiki"
+    },
+    {
+      "id": "horizon-network-source-checks-2026-10-28",
+      "title": "Research horizon network — bounded primary-source and synthesis checks",
+      "path": "research/updates/2026-10-28-horizon-source-checks.md",
+      "origin": "New editorial literature check connecting collected research; PubMed lookups dated 2026-10-28",
+      "status": "24 selected citation/abstract checks; two complete PMC bodies retrieved with selected sections checked; cross-field bridges remain editorial inferences",
+      "sha256": "c03144b824cd6411f654b3b43702bd6f1fd3d993c8fbeb924cd7347796a475f2"
     }
   ],
   "supplementary_recovery": {
@@ -2399,22 +2407,22 @@
   },
   "source_link_audit": {
     "date": "2026-10-28",
-    "unique_source_urls": 873,
+    "unique_source_urls": 876,
     "http_summary": {
-      "reachable": 386,
+      "access_challenge": 281,
       "access_restricted": 144,
-      "http_error": 3,
+      "reachable": 386,
       "redirect_landing": 55,
-      "access_challenge": 278,
-      "request_failed": 7
+      "request_failed": 7,
+      "http_error": 3
     },
     "metadata_summary": {
       "not_applicable": 310,
-      "api_identity_resolved": 562,
+      "api_identity_resolved": 565,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "66a3e9fa6a6d76068faeb376085c80c8a0260f4d707938fe600994b66e03a6ab",
+    "report_sha256": "1f6606e19ecb4ec9fec5428f31883aa4efb209283f22606c53281693ceb332a0",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },

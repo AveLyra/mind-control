@@ -2,14 +2,14 @@
 
 [Home](../README.md) · [Citation recovery](citation-audit.md) · [Bibliography](bibliography.md) · [Machine results](link-audit.json) · [New literature intake](awareness-update-intake.md)
 
-Checked October 28, 2026, America/New_York. All **873 distinct source URLs** in `research/` and `wiki/` received fresh direct-access and metadata attempts. This includes the four supplied awareness-review artifacts and current topic-page links. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
+Checked October 28, 2026, America/New_York. All **876 distinct source URLs** in `research/` and `wiki/` have direct-access and metadata attempts recorded for that date. The horizon-network addition checked three newly cited URLs and reused the 873 earlier same-day results, updating their context paths. This includes the supplied awareness-review artifacts, the [network source checks](../research/updates/2026-10-28-horizon-source-checks.md), and topic-page links. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
 
 ## Direct access results
 
 | Result | URLs | Meaning |
 |---|---:|---|
 | Reachable | 386 | HTTP success without a recognized challenge in the sample; not full-text certification. |
-| Access challenge | 278 | A browser or human-verification response, sometimes returned with HTTP 200. |
+| Access challenge | 281 | A browser or human-verification response, sometimes returned with HTTP 200. |
 | Access restricted | 144 | HTTP 401, 403, or 429. |
 | Redirect landing | 55 | An intermediary page rather than verified article content. |
 | Request failed | 7 | TLS validation or another request error; verification was not disabled. |
@@ -19,10 +19,11 @@ The JSON report records each URL, research/wiki context paths, attempt time, sta
 
 ## Publication identities and separately dated checks
 
-- **562 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata in this refresh. These are URL identities, not independent studies or complete full-text reviews.
+- **565 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata in the same-day audits, including all three new URLs. These are URL identities, not independent studies or complete full-text reviews.
 - **1 remaining API index miss** retains a separately dated independent identity check from October 27. Earlier independent checks remain recorded even where a fresh API lookup now resolves the identity.
 - **All 53 numbered references in the supplied continuation bibliography** passed title and DOI/PMID relationship checks. All 58 DOI-resolver URLs in those new records resolved bibliographic metadata. The version-3 eLife DOI and PubMed's base DOI identify one study; their alias is explicit in the [intake receipt](awareness-update-intake.json).
 - The supplied update received selected primary-text checks, not a complete independent rereading of every paper or numerical table entry. Its FT/PFT/A labels describe the supplied reviewer. New independent checks are enumerated in the [intake report](awareness-update-intake.md).
+- The research network separately checked 24 selected citation/abstract identities through the PubMed connector, retrieved two complete PMC bodies, and inspected selected relevant sections. The three added URLs met direct-browser challenges despite successful metadata and connector retrievals. The [source-check record](../research/updates/2026-10-28-horizon-source-checks.md) preserves the full-text scope and failed Raz retrieval.
 - The **six ClinicalTrials.gov identity receipts remain dated October 27**. Their direct source URLs were included in this refresh, but the earlier connector retrievals and trial fields were not rerun. See the [registry receipt](trial-identity-checks.json).
 - Earlier independent web-content checks for Apple Focus guidance and the FTC privacy guide retain their October 27 dates. Their direct requests still returned 404; these are separately dated observations from different access routes.
 
