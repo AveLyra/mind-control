@@ -6,6 +6,8 @@ The recovered work examines several distinct techniques. They should be evaluate
 
 The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-monitoring.md#sleep) examines sleep's roles in stabilization, updating, and memory for context. Spatial source benefits, task-dependent interference, and a registered false-recall report oppose treating sleep as a uniform amplifier of misinformation. Direct combinations with AI content remain a separate question.
 
+The [prediction-error follow-up](prediction-error-and-suggestibility.md#sleep) adds recent auditory studies: preserved feature anticipation, restricted higher-order tracking, and a dissociation between ERP amplitude and encoded information. These sensory endpoints do not establish later misinformation susceptibility or a joined hypnosis/AI effect.
+
 | Technique | Research question | Main evidential limit |
 |---|---|---|
 | Targeted memory reactivation (TMR) | Does replaying a cue associated with waking learning change later retention? | Consolidating an existing association differs from teaching new instructions. |

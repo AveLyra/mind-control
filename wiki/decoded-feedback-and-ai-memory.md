@@ -8,6 +8,8 @@ Assessed October 28, 2026. This is a bounded follow-up to CT3–CT4, with 26 sel
 
 The next [mechanism follow-up](reconsolidation-and-source-monitoring.md) examines reconsolidation, source monitoring, recoverability, and the opposing predictions sleep can make for AI-related memory errors. It preserves the modality and replication distinctions established here.
 
+The [prediction-error/RES review](prediction-error-and-suggestibility.md) further separates mismatch, initial retrieval, and later learning/evaluation. It retains protective findings and direct-combination gaps.
+
 <a id="modalities"></a>
 ## Which technique is being combined?
 

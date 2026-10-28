@@ -6,6 +6,8 @@
 
 Assessed October 28, 2026. This bounded follow-up selects 34 source entries: 33 PubMed publications and one AI-intervention preprint. They include primary experiments, theory, and synthesis, not 34 independent replications. Access and study relationships are recorded separately in the source checks.
 
+The [prediction-error/RES follow-up](prediction-error-and-suggestibility.md) now checks the mismatch and retrieval pathways more closely, including protective testing results, mixed sensory findings, and a correction to the 2021 fMRI report. This page's dated source record remains preserved.
+
 <a id="distinctions"></a>
 ## Two mechanisms that can look alike in a memory test
 
@@ -32,6 +34,8 @@ The accounts can coexist: updating concerns changes to a memory, while source mo
 | Episodic-memory meta-analysis | The synthesis found reactivation-related interference and intrusions. | This 2017 synthesis does not incorporate all subsequent replication work; its intrusion endpoint also needs mechanistic interpretation. [M05](../research/updates/2026-10-28-reconsolidation-source-monitoring.md#m05) |
 
 Prediction error is a plausible boundary condition. Sinclair and Barense's video experiments linked interrupted, surprising reminders to later intrusions and tested a time-course prediction. The often-cited **N = 408** sample rated stimuli; the memory experiments had **N = 48 and N = 24**. A later same-network fMRI study connected prediction errors, hippocampal representation changes, and updating. These are converging behavioral/neural results, not a direct measurement of trace erasure or an independent replication of an AI intervention. [M10–M11](../research/updates/2026-10-28-reconsolidation-source-monitoring.md#m10)
+
+**Current correction status:** the fMRI report has a June 2026 preprocessing correction. The authors report revised numerical results/figures with key conclusions unchanged. The [complete-notice check](prediction-error-and-suggestibility.md#correction) distinguishes this from independent data reanalysis or a new experiment.
 
 The strongest objection to a general rewriting account is **non-unique explanation**: new learning, context binding, retrieval competition, reporting criteria, and source confusion can produce overlapping outcomes. Positive time-dependent results constrain alternatives; they do not make every later error diagnostic of reconsolidation.
 

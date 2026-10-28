@@ -3,9 +3,9 @@
   "auditor_version": 3,
   "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
   "summary": {
-    "reachable": 463,
-    "access_restricted": 146,
+    "reachable": 490,
     "access_challenge": 281,
+    "access_restricted": 148,
     "redirect_landing": 55,
     "request_failed": 7,
     "http_error": 3
@@ -5267,6 +5267,38 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.11144/Javeriana.upsy25.resf",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:10+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://revistas.javeriana.edu.co/index.php/revPsycho/article/view/42453",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Sugestibilidad potenciada por recuperación en contextos forenses: metaanálisis de efectos prácticos en la contaminación mnésica testifical\n\t\t\t\t\t\t\t| Universitas Psychologica",
+      "bytes_sampled": 96246,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "doi": "10.11144/javeriana.upsy25.resf",
+        "title": "Retrieval-Enhanced Suggestibility in Forensic Contexts: A meta-analysis of practice effects on eyewitness memory contamination; Sugestibilidad potenciada por recuperación en contextos forenses: metaanálisis de efectos prácticos en la contaminación mnésica testifical",
+        "authorString": "Alberto Barea Ver",
+        "publication_date": [
+          [
+            2026,
+            8,
+            27
+          ]
+        ],
+        "journalTitle": "Universitas Psychologica",
+        "type": "journal-article",
+        "metadata_provider": "Crossref",
+        "metadata_url": "https://api.crossref.org/works/10.11144%2FJaveriana.upsy25.resf"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1117/1.3593151",
       "record_paths": [
         "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
@@ -6565,6 +6597,30 @@
       "bytes_sampled": 131072,
       "status": "reachable",
       "pdf_signature": true,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://escholarship.org/content/qt31b6p60j/qt31b6p60j.pdf",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:09+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://escholarship.org/content/qt31b6p60j/qt31b6p60j.pdf",
+      "status": "access_restricted",
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://escholarship.org/uc/item/31b6p60j",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:09+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://escholarship.org/uc/item/31b6p60j",
+      "status": "access_restricted",
       "identity_check_category": "not_applicable"
     },
     {
@@ -11910,6 +11966,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16182937/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:11+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/16182937/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Changes in mismatch negativity across pre-hypnosis, hypnosis and post-hypnosis conditions distinguish high from low hypnotic susceptibility groups - PubMed",
+      "bytes_sampled": 126664,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "16182937",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.brainresbull.2005.06.033",
+        "title": "Changes in mismatch negativity across pre-hypnosis, hypnosis and post-hypnosis conditions distinguish high from low hypnotic susceptibility groups.",
+        "authorString": "Jamieson GA, Dwivedi P, Gruzelier JH.",
+        "pubYear": "2005",
+        "journalTitle": "Brain Res Bull",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A16182937+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/16207870/",
       "record_paths": [
         "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-31.md"
@@ -12572,6 +12656,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20919785/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:05+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/20919785/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Paradoxical effects of testing: retrieval enhances both accurate recall and suggestibility in eyewitnesses - PubMed",
+      "bytes_sampled": 128398,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "20919785",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/a0021204",
+        "title": "Paradoxical effects of testing: retrieval enhances both accurate recall and suggestibility in eyewitnesses.",
+        "authorString": "Chan JC, Langley MM.",
+        "pubYear": "2011",
+        "journalTitle": "J Exp Psychol Learn Mem Cogn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20919785+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/20960003/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -12766,6 +12878,34 @@
         "journalTitle": "J Biomed Opt",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21721832+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21859229/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/21859229/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The dark side of testing memory: repeated retrieval can enhance eyewitness suggestibility - PubMed",
+      "bytes_sampled": 116296,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21859229",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/a0025147",
+        "title": "The dark side of testing memory: repeated retrieval can enhance eyewitness suggestibility.",
+        "authorString": "Chan JC, Lapaglia JA.",
+        "pubYear": "2011",
+        "journalTitle": "J Exp Psychol Appl",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21859229+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13121,6 +13261,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23413355/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23413355/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Prediction error governs pharmacologically induced amnesia for learned fear - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23413355",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1126/science.1231357",
+        "title": "Prediction error governs pharmacologically induced amnesia for learned fear.",
+        "authorString": "Sevenster D, Beckers T, Kindt M.",
+        "pubYear": "2013",
+        "journalTitle": "Science",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23413355+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/23528484/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -13314,6 +13482,62 @@
         "journalTitle": "Conscious Cogn",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23958795+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24000960/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:05+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/24000960/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Retrieval enhances eyewitness suggestibility to misinformation in free and cued recall - PubMed",
+      "bytes_sampled": 121183,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "24000960",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/xap0000001",
+        "title": "Retrieval enhances eyewitness suggestibility to misinformation in free and cued recall.",
+        "authorString": "Wilford MM, Chan JC, Tuhn SJ.",
+        "pubYear": "2014",
+        "journalTitle": "J Exp Psychol Appl",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A24000960+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24027043/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:06+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/24027043/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Testing potentiates new learning in the misinformation paradigm - PubMed",
+      "bytes_sampled": 117765,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "24027043",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.3758/s13421-013-0361-2",
+        "title": "Testing potentiates new learning in the misinformation paradigm.",
+        "authorString": "Gordon LT, Thomas AK.",
+        "pubYear": "2014",
+        "journalTitle": "Mem Cognit",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A24027043+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13641,6 +13865,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25320349/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/25320349/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Prediction error demarcates the transition from retrieval, to reconsolidation, to new learning - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "25320349",
+        "source": "MED",
+        "pmcid": "PMC4201815",
+        "doi": "10.1101/lm.035493.114",
+        "title": "Prediction error demarcates the transition from retrieval, to reconsolidation, to new learning.",
+        "authorString": "Sevenster D, Beckers T, Kindt M.",
+        "pubYear": "2014",
+        "journalTitle": "Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25320349+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/25392505/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -13783,6 +14035,34 @@
         "journalTitle": "Cogn Emot",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25648156+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25737555/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:10+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/25737555/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Disruption of hierarchical predictive coding during sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "25737555",
+        "source": "MED",
+        "pmcid": "PMC4371991",
+        "doi": "10.1073/pnas.1501026112",
+        "title": "Disruption of hierarchical predictive coding during sleep.",
+        "authorString": "Strauss M, Sitt JD, King JR, Elbaz M, Azizi L, Buiatti M, Naccache L, van Wassenhove V, Dehaene S.",
+        "pubYear": "2015",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25737555+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14685,6 +14965,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28899262/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:07+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28899262/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Discrepancy detection in the retrieval-enhanced suggestibility paradigm - PubMed",
+      "bytes_sampled": 121758,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28899262",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658211.2017.1371193",
+        "title": "Discrepancy detection in the retrieval-enhanced suggestibility paradigm.",
+        "authorString": "Butler BJ, Loftus EF.",
+        "pubYear": "2018",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28899262+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28989977/",
       "record_paths": [
         "research/updates/2026-10-28-decoded-ai-replications.md"
@@ -15176,6 +15484,62 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30265011/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:09+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30265011/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Retrieval potentiates new learning: A theoretical and meta-analytic review - PubMed",
+      "bytes_sampled": 120273,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30265011",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/bul0000166",
+        "title": "Retrieval potentiates new learning: A theoretical and meta-analytic review.",
+        "authorString": "Chan JCK, Meissner CA, Davis SD.",
+        "pubYear": "2018",
+        "journalTitle": "Psychol Bull",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30265011+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30415000/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30415000/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Visuospatial word search task only effective at disrupting declarative memory when prediction error is present during retrieval - PubMed",
+      "bytes_sampled": 126976,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30415000",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.nlm.2018.11.003",
+        "title": "Visuospatial word search task only effective at disrupting declarative memory when prediction error is present during retrieval.",
+        "authorString": "Gotthard GH, Gura H.",
+        "pubYear": "2018",
+        "journalTitle": "Neurobiol Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30415000+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/30473202/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -15237,7 +15601,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/30604989/",
       "record_paths": [
-        "research/chats/supplement-6e8ca28b-c37e-4391-89bc-b8159bf3e0df.md"
+        "research/chats/supplement-6e8ca28b-c37e-4391-89bc-b8159bf3e0df.md",
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:11+00:00",
       "auditor_version": 3,
@@ -15356,6 +15721,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30789952/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:06+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30789952/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Telling a good story: The effects of memory retrieval and context processing on eyewitness suggestibility - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30789952",
+        "source": "MED",
+        "pmcid": "PMC6383884",
+        "doi": "10.1371/journal.pone.0212592",
+        "title": "Telling a good story: The effects of memory retrieval and context processing on eyewitness suggestibility.",
+        "authorString": "LaPaglia JA, Chan JCK.",
+        "pubYear": "2019",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30789952+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/30790634/",
       "record_paths": [
         "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md"
@@ -15408,6 +15801,34 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30792903+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30939087/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:11+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30939087/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "THE EFFECTS OF HYPNOSIS AND HYPNOTIC SUGGESTIONS ON THE MISMATCH NEGATIVITY IN HIGHLY HYPNOTIZABLE SUBJECTS - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30939087",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207144.2019.1580966",
+        "title": "THE EFFECTS OF HYPNOSIS AND HYPNOTIC SUGGESTIONS ON THE MISMATCH NEGATIVITY IN HIGHLY HYPNOTIZABLE SUBJECTS.",
+        "authorString": "Hiltunen S, Virta M, Kallio S, Paavilainen P.",
+        "pubYear": "2019",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30939087+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15524,6 +15945,62 @@
         "journalTitle": "Neurophotonics",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31259198+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31385240/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:07+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31385240/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "How prior testing impacts misinformation processing: A dual-task approach - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31385240",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.3758/s13421-019-00970-0",
+        "title": "How prior testing impacts misinformation processing: A dual-task approach.",
+        "authorString": "Gordon LT, Bilolikar VK, Hodhod T, Thomas AK.",
+        "pubYear": "2020",
+        "journalTitle": "Mem Cognit",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31385240+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31561745/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:08+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31561745/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Protective effects of testing across misinformation formats in the household scene paradigm - PubMed",
+      "bytes_sampled": 124366,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31561745",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/1747021819881948",
+        "title": "Protective effects of testing across misinformation formats in the household scene paradigm.",
+        "authorString": "Pereverseff RS, Bodner GE, Huff MJ.",
+        "pubYear": "2020",
+        "journalTitle": "Q J Exp Psychol (Hove)",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31561745+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16025,6 +16502,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/33277601/",
       "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md",
         "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
       ],
       "checked_at_utc": "2026-10-28T20:21:09+00:00",
@@ -16457,6 +16935,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/34911768/",
       "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md",
         "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
       ],
       "checked_at_utc": "2026-10-28T20:21:04+00:00",
@@ -16479,6 +16958,34 @@
         "journalTitle": "Proc Natl Acad Sci U S A",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34911768+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34990152/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:08+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34990152/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Warning weakens retrieval-enhanced suggestibility only when it is given shortly after misinformation: The critical importance of timing - PubMed",
+      "bytes_sampled": 111447,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34990152",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/xap0000394",
+        "title": "Warning weakens retrieval-enhanced suggestibility only when it is given shortly after misinformation: The critical importance of timing.",
+        "authorString": "Chan JCK, O'Donnell R, Manley KD.",
+        "pubYear": "2022",
+        "journalTitle": "J Exp Psychol Appl",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34990152+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16508,6 +17015,34 @@
         "journalTitle": "Pain",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35082248+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35145138/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35145138/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Demarcating the boundary conditions of memory reconsolidation: An unsuccessful replication - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35145138",
+        "source": "MED",
+        "pmcid": "PMC8831535",
+        "doi": "10.1038/s41598-022-06119-5",
+        "title": "Demarcating the boundary conditions of memory reconsolidation: An unsuccessful replication.",
+        "authorString": "Stemerding LE, Stibbe D, van Ast VA, Kindt M.",
+        "pubYear": "2022",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35145138+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17095,6 +17630,34 @@
         "journalTitle": "Sci Rep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37188795+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37248232/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37248232/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The effect of prediction error on episodic memory encoding is modulated by the outcome of the predictions - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37248232",
+        "source": "MED",
+        "pmcid": "PMC10226026",
+        "doi": "10.1038/s41539-023-00166-x",
+        "title": "The effect of prediction error on episodic memory encoding is modulated by the outcome of the predictions.",
+        "authorString": "Pupillo F, Ortiz-Tudela J, Bruckner R, Shing YL.",
+        "pubYear": "2023",
+        "journalTitle": "NPJ Sci Learn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37248232+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18260,6 +18823,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40039246/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:11+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40039246/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Using EEG to measure MMN during hypnosis: A preliminary study - PubMed",
+      "bytes_sampled": 113803,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40039246",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1109/embc53108.2024.10781626",
+        "title": "Using EEG to measure MMN during hypnosis: A preliminary study.",
+        "authorString": "Devillez H, Bonnet S, Sid-Ahmed H, Langar L, Planat-Chretien A, Anglade D, Auboiroux V.",
+        "pubYear": "2024",
+        "journalTitle": "Annu Int Conf IEEE Eng Med Biol Soc",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40039246+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/40125477/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-44-13.md",
@@ -18285,6 +18876,34 @@
         "journalTitle": "Front Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40125477+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40245865/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:10+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40245865/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Selective preservation of prediction-related signals in human sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40245865",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.cub.2025.03.064",
+        "title": "Selective preservation of prediction-related signals in human sleep.",
+        "authorString": "Topalidis PI, Demarchi G, Reisinger L, Schubert J, Ameen MS, Weisz N, Schabus M.",
+        "pubYear": "2025",
+        "journalTitle": "Curr Biol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40245865+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18469,6 +19088,34 @@
         "journalTitle": "J Exp Psychol Learn Mem Cogn",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40569728+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40571834/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40571834/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Prediction error is out of context: The dominance of contextual stability in structuring episodic memories - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40571834",
+        "source": "MED",
+        "pmcid": "PMC12627157",
+        "doi": "10.3758/s13423-025-02723-4",
+        "title": "Prediction error is out of context: The dominance of contextual stability in structuring episodic memories.",
+        "authorString": "Güler B, Serin F, Günseli E.",
+        "pubYear": "2025",
+        "journalTitle": "Psychon Bull Rev",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40571834+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18700,6 +19347,34 @@
         "journalTitle": "Anaesthesia",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40991959+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41023107/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:09+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41023107/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Examining the impact of warnings on eyewitness memory - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41023107",
+        "source": "MED",
+        "pmcid": "PMC12480538",
+        "doi": "10.1038/s41598-025-17377-4",
+        "title": "Examining the impact of warnings on eyewitness memory.",
+        "authorString": "Torrance MG, Karanian JM, Race E, Thomas AK.",
+        "pubYear": "2025",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41023107+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -19159,6 +19834,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41714145/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:10+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41714145/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Delayed, Reduced, and Redundant: Information Processing of Prediction Errors during Human Sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41714145",
+        "source": "MED",
+        "pmcid": "PMC13000989",
+        "doi": "10.1523/jneurosci.1648-25.2026",
+        "title": "Delayed, Reduced, and Redundant: Information Processing of Prediction Errors during Human Sleep.",
+        "authorString": "Blume C, Dauphin M, Niedernhuber M, Spitschan M, Meyer MP, Cajochen C, Bekinschtein T, Canales-Johnson A.",
+        "pubYear": "2026",
+        "journalTitle": "J Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41714145+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41716911/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-2-6.md"
@@ -19438,6 +20141,62 @@
         "journalTitle": "Nat Commun",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42270639+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42296742/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:12+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42296742/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Trust the machine or the human? A dynamic neuro-cognitive model of AIGC credibility assessment - PubMed",
+      "bytes_sampled": 128853,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42296742",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.actpsy.2026.107222",
+        "title": "Trust the machine or the human? A dynamic neuro-cognitive model of AIGC credibility assessment.",
+        "authorString": "Liu J, Sun M, Xu T.",
+        "pubYear": "2026",
+        "journalTitle": "Acta Psychol (Amst)",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42296742+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330295/",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42330295/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Correction for Sinclair et al., Prediction errors disrupt hippocampal representations and update episodic memories - PubMed",
+      "bytes_sampled": 114384,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42330295",
+        "source": "MED",
+        "pmcid": "PMC13321185",
+        "doi": "10.1073/pnas.2618281123",
+        "title": "Correction for Sinclair et al., Prediction errors disrupt hippocampal representations and update episodic memories.",
+        "authorString": null,
+        "pubYear": "2026",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42330295+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20192,6 +20951,22 @@
       "content_type": "text/html;charset=UTF-8",
       "title": "Transcranial photobiomodulation with 1064-nm laser modulates brain electroencephalogram rhythms\n      -  New Jersey Institute of Technology",
       "bytes_sampled": 51544,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://revistas.javeriana.edu.co/files-articulos/UPSY/25%20%282026%29/6972857014/index.html",
+      "record_paths": [
+        "research/updates/2026-10-28-prediction-error-retrieval.md"
+      ],
+      "checked_at_utc": "2026-10-28T22:22:10+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://revistas.javeriana.edu.co/files-articulos/UPSY/25%20%282026%29/6972857014/index.html",
+      "content_type": "text/html",
+      "title": "Retrieval-Enhanced Suggestibility in Forensic Contexts: A meta-analysis of practice effects on eyewitness memory contamination\r\n*",
+      "bytes_sampled": 88912,
       "status": "reachable",
       "pdf_signature": null,
       "identity_check_category": "not_applicable"
@@ -23036,8 +23811,8 @@
     "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
   },
   "metadata_summary": {
-    "not_applicable": 321,
-    "api_identity_resolved": 633,
+    "not_applicable": 324,
+    "api_identity_resolved": 659,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
   "decoded_ai_incremental_check": {
@@ -23060,5 +23835,16 @@
     },
     "new_url_metadata_identities_resolved": 33,
     "scope": "New reconsolidation/source-monitoring source URLs only; all older outcomes/checks preserved apart from context paths. Primary-text access separately scoped in the new source record."
+  },
+  "prediction_error_retrieval_incremental_check": {
+    "date": "2026-10-28",
+    "prior_same_day_results_preserved": 955,
+    "new_source_urls_checked": 29,
+    "new_url_http_summary": {
+      "reachable": 27,
+      "access_restricted": 2
+    },
+    "new_url_metadata_identities_resolved": 26,
+    "scope": "New prediction-error/RES source URLs; all older outcomes/checks preserved apart from context paths. Primary-text scope, correction-notice role and alternate dissertation access are recorded separately."
   }
 }

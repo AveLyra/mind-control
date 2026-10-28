@@ -24,6 +24,8 @@ Preserve what a participant reported before seeing a generated reconstruction. L
 
 The [reconsolidation/source-monitoring review](reconsolidation-and-source-monitoring.md) follows the next inference: a changed memory report can reflect changed content, source judgment, retrieval access, or reporting criteria. Positive time-dependent updating results sit beside failed replications and recoverability tests; none makes a wrong answer a unique marker of trace rewriting.
 
+The [prediction-error/retrieval review](prediction-error-and-suggestibility.md) distinguishes a mnemonic mismatch from sensory responses and model-derived learning errors. Retrieval can benefit original details while potentiating later misinformation; context, discrepancy detection, and the placement of delays help explain the differences.
+
 ## Awareness needs its own measurement
 
 The recovered [awareness-transition proposal](../research/chats/deeper-d3e91e42-862c-48b0-9142-8237714a614d.md) treats hypothesis disclosure as an experimental intervention. Knowing the hypothesis, believing it, perceiving the stimulus, recognizing a cue pairing, and remembering afterward are separate variables. Awareness questions can themselves reveal the hypothesis; excluding people who guessed can introduce post-treatment bias.

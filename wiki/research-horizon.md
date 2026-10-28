@@ -6,6 +6,8 @@ The [replication and modality follow-up](decoded-feedback-and-ai-memory.md) trac
 
 The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-monitoring.md) examines possible mechanisms around C04/C09/C14 and B10/B14. It distinguishes changed content from changed access or source judgment, includes supportive and failed replications, and preserves the missing direct AI–sleep–hypnosis combination. No new capability is inferred solely from joining those literatures.
 
+The [prediction-error/RES follow-up](prediction-error-and-suggestibility.md) tests that inference more closely: mismatch types, context, new learning, protective testing, sensory limits, and correction status. The existing capability/bridge/scenario IDs stay unchanged.
+
 **Real results exist on both sides of the brain–environment interface: changing some responses, learning some associations, decoding some information, and delivering some stimulation. The frontier lies in the missing connections between these capabilities.** A result about one response, species, state, or device does not establish the whole system suggested by a science-fiction scenario.
 
 This is a curated network of the collection, assessed October 28, 2026. It adds targeted source checks for connections across fields; it is not an exhaustive review or a forecast of when a technology will arrive. Primary papers control their reported results. The connections and horizon judgments below are editorial inferences, open to revision.
@@ -144,6 +146,8 @@ Connects to **B10** and [memory](memory.md). Altered answers about studied mater
 The [CT4 follow-up](combined-techniques.md#ct4) identifies direct human evidence involving generated feedback. It supports detail-level contamination while leaving integration with brain-derived autobiographical reconstructions untested.
 
 The [mechanism review](reconsolidation-and-source-monitoring.md#ai) separates reconsolidation from new learning, context/source confusion, and reporting effects. Its sleep and hypnosis links concern restricted endpoints; the combined personal-memory scenario remains open. Positive replications and recoverability findings must be evaluated together.
+
+The [retrieval follow-up](prediction-error-and-suggestibility.md#retrieval) adds direct evidence that initial retrieval can help uncontaminated information while changing learning of later misinformation. A retrieved answer, a discrepancy signal, and a durable source error are distinct links.
 
 ### C15 — An engineered false association in mice
 

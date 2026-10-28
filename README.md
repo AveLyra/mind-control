@@ -10,6 +10,7 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 | [Combining techniques: evidence for and against](wiki/combined-techniques.md) | Four focused combinations, direct studies, null outcomes, and the distinction between integration, added benefit, and synergy |
 | [Decoded feedback and AI memory: replications and combinations](wiki/decoded-feedback-and-ai-memory.md) | Cohort/replication tracing, modality differences, deepfake/text comparisons, and direct versus adjacent sleep/hypnosis evidence |
 | [Reconsolidation and source monitoring](wiki/reconsolidation-and-source-monitoring.md) | Competing memory-update mechanisms, positive/negative replications, source/context judgments, sleep and hypnosis links, and remaining AI combination gaps |
+| [Prediction error and retrieval-enhanced suggestibility](wiki/prediction-error-and-suggestibility.md) | Mismatch definitions, test-potentiated learning, protective results, sleep/hypnosis signals, and a checked correction notice |
 | [Sleep techniques and learning](wiki/sleep.md) | Targeted memory reactivation, dream incubation, sleep conditioning, pink noise, masked speech |
 | [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
 | [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
@@ -25,7 +26,8 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 152 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Source catalog](sources/catalog.md): 153 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Prediction-error/retrieval checks](research/updates/2026-10-28-prediction-error-retrieval.md): 30 source entries, 15 bounded queries, competing mechanisms, correction status, and scoped inspection.
 - [Reconsolidation/source-monitoring checks](research/updates/2026-10-28-reconsolidation-source-monitoring.md): 34 source entries, 19 bounded PubMed queries, replication distinctions, and scoped primary-text inspection.
 - [Decoded-feedback/AI replication checks](research/updates/2026-10-28-decoded-ai-replications.md): 26 source entries, study relationships, 14 bounded PubMed queries, and scoped primary-text inspection.
 - [Combined-technique source checks](research/updates/2026-10-28-combined-techniques.md): 16 selected publications, bounded discovery, source versions, and retrieval limits.
