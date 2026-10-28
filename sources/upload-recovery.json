@@ -1,0 +1,327 @@
+{
+  "recovery_date": "2026-10-28",
+  "base_commit": "7786432b79a57d53e304d95a6436d3cc525d13e9",
+  "summary": {
+    "references_reviewed": 50,
+    "high_confidence_text_ancestry_identified": 49,
+    "source_identity_unresolved": 1,
+    "original_file_bytes_unavailable_references": 50,
+    "original_uploaded_files_fully_restored": 0,
+    "answers_with_matching_retained_excerpts": 5,
+    "distinct_matching_excerpts": 3
+  },
+  "interpretation": "Forty-nine file citations have high-confidence shared text ancestry with an existing optical review. This does not establish the entire upload, its file identity, or the exact passage behind each citation. One separate file-style reference remains unidentified. No original file bytes were recovered.",
+  "ancestral_source": {
+    "record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+    "path": "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+    "message_id": "8a5c27b1-08bc-490a-9518-25e2b4066c27",
+    "conversation_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6",
+    "published_sha256": "18dae25d0bc4633a76a48f8434528dbeae31d4f38886e9dd28e1c857971ef826"
+  },
+  "excerpts": [
+    {
+      "id": "excerpt-1",
+      "plain_text": "Overall assessment Yes: a person’s visual system can respond to modulation they do not consciously see. Waking imperceptible-flicker interfaces and invisible spectral flicker provide direct human evidence. Yes: an externally invisible infrared signal can be received through closed eyelids with an optical conversion device. Experimental contact lenses have demonstrated that physical route, but the signal becomes perceptible to the wearer.",
+      "plain_text_sha256": "e78fc391802a5d86dabfb771817d36e1666469f8f19c343b3194d276f6cc5795",
+      "normalized_characters": 373,
+      "normalized_offset_in_published_source": 18152,
+      "retained_original_citation_indices": [
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "normalization": "Remove rendered citation controls and Markdown link targets, then remove Unicode non-word characters and lowercase; offsets refer to the complete published source record, including its provenance header."
+    },
+    {
+      "id": "excerpt-2",
+      "plain_text": "6. What changes when the person is asleep? ### Closed eyelids do not completely block temporal signals The 2017 Norton, Umunna, and Bretl study you cited involved eight participants and demonstrated steady-state visual evoked potentials through closed eyelids during both light and deep non-REM sleep. That establishes stimulus-linked neural activity during sleep. It did not test message comprehension.",
+      "plain_text_sha256": "903c6ba3efa7cfd8018e755d28084a89fa4a312b18cfe30756bce8f44571f905",
+      "normalized_characters": 333,
+      "normalized_offset_in_published_source": 11348,
+      "retained_original_citation_indices": [
+        "29"
+      ],
+      "normalization": "Remove rendered citation controls and Markdown link targets, then remove Unicode non-word characters and lowercase; offsets refer to the complete published source record, including its provenance header."
+    },
+    {
+      "id": "excerpt-3",
+      "plain_text": "For the particular possibility you are investigating— transmitting information through closed eyelids without conscious visual awareness —the crucial distinctions are between: > Light reaching the brain, the brain distinguishing a pattern, the person understanding that pattern, and the person retaining or acting on its meaning. Those are separate experimental achievements. The studies below establish different parts of that sequence, not an end-to-end system.",
+      "plain_text_sha256": "dd6b7951bf052c78efc944f568e5396acbc952cde477c2cde65f9bb083a8d81d",
+      "normalized_characters": 388,
+      "normalized_offset_in_published_source": 978,
+      "retained_original_citation_indices": [],
+      "normalization": "Remove rendered citation controls and Markdown link targets, then remove Unicode non-word characters and lowercase; offsets refer to the complete published source record, including its provenance header."
+    }
+  ],
+  "answers": [
+    {
+      "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+      "displayed_file_name": "Pasted text.txt",
+      "files_listed_in_answer_source_panel": 1,
+      "citation_indices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "excerpt_id": "excerpt-1",
+      "private_source_panel_text_sha256": "caf71c9f374b41f759689302773969fec72fa15234b5e74d7e27f7ab864684cb",
+      "private_source_panel_html_sha256": "e3e2b1638acf9afbb1d1e8b860d3be975ae1d3d0090f200cb3caabb963256192",
+      "private_snapshot_file_sha256": "b11c5248190d74000fe0b4ad104e092abe45e0388bfe7a1587954367e615b619",
+      "confidence": "high for shared text ancestry; insufficient for complete file identity or byte recovery",
+      "original_file_bytes_recovered": false,
+      "original_citation_controls": {
+        "indices": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "count": 19,
+        "all_preview_labels": "Open preview of Pasted text.txt",
+        "private_source_text_sha256": "0d511ec48eb8a8104825b1f3177ba271b282df98921989a542053dce4b028c7f",
+        "private_source_html_sha256": "271b311239e4464a4c5e088f9bd772ae7471d32fb28f5809b494f56fcbb604d0"
+      }
+    },
+    {
+      "record_id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+      "displayed_file_name": "Pasted text.txt",
+      "files_listed_in_answer_source_panel": 1,
+      "citation_indices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "excerpt_id": "excerpt-2",
+      "private_source_panel_text_sha256": "ef49ad1f24c8022405d72fc5d615f30a7b9ebc1c7ea722502bdaa40d057443a4",
+      "private_source_panel_html_sha256": "e31637c71c1089a77bc21c071c6a6c0ea549fa75afcfff1bbc646dfa521da368",
+      "private_snapshot_file_sha256": "4cbd372d54d68e7e0e2ea3c39166fdc9b16aa428016a91714c2a765294747f0b",
+      "confidence": "high for shared text ancestry; insufficient for complete file identity or byte recovery",
+      "original_file_bytes_recovered": false,
+      "original_citation_controls": {
+        "indices": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "count": 5,
+        "all_preview_labels": "Open preview of Pasted text.txt",
+        "private_source_text_sha256": "0baefa68bae90a2ebb560810d7beba4fca59ccc456a4d4bb8bbd1c7ff1a2c570",
+        "private_source_html_sha256": "38af0c3707e889c8501fca6e054197f966c3e7e48ab16f6f94c6614b39719b1b"
+      }
+    },
+    {
+      "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+      "displayed_file_name": "Pasted text.txt",
+      "files_listed_in_answer_source_panel": 1,
+      "citation_indices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "excerpt_id": "excerpt-3",
+      "private_source_panel_text_sha256": "ab7c188f2eadb8e5a8f46fc8f90c8fd01fe1930b993d516f31cfd275c873ed80",
+      "private_source_panel_html_sha256": "03f5ff70f55aa218128d53c9bb690ee443dbe3adc195b6ba036614280b0773d8",
+      "private_snapshot_file_sha256": "c0ea733195893f2e43b2cd30b2bb329da64caad3939f6b84dc3ad98f2767207a",
+      "confidence": "high for shared text ancestry; insufficient for complete file identity or byte recovery",
+      "original_file_bytes_recovered": false,
+      "original_citation_controls": {
+        "indices": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "count": 9,
+        "all_preview_labels": "Open preview of Pasted text.txt",
+        "private_source_text_sha256": "3338c2851173fae9e0406ccace59fe134ff18c2ae6c3e22bc4fef31dc8131043",
+        "private_source_html_sha256": "fc3843adc167c63856d86bca1ebc0955de5694a80629d8a3ad4b6733f0f465d5"
+      }
+    },
+    {
+      "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+      "displayed_file_name": "Pasted text.txt",
+      "files_listed_in_answer_source_panel": 1,
+      "citation_indices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "excerpt_id": "excerpt-3",
+      "private_source_panel_text_sha256": "ab7c188f2eadb8e5a8f46fc8f90c8fd01fe1930b993d516f31cfd275c873ed80",
+      "private_source_panel_html_sha256": "8c7b5095c4c2c2f4790fc68bed24212bba9e150853a3189d4f158fd2800ee48a",
+      "private_snapshot_file_sha256": "db432fe93470da9d15aced4badae82abe343665c06c1b28ba6da8f3a9308f183",
+      "confidence": "high for shared text ancestry; insufficient for complete file identity or byte recovery",
+      "original_file_bytes_recovered": false,
+      "original_citation_controls": {
+        "indices": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "count": 8,
+        "all_preview_labels": "Open preview of Pasted text.txt",
+        "private_source_text_sha256": "476d543b4ba9bc0d983f22bc5717348ef974d6c376f1c864cf7ed5f316c29e64",
+        "private_source_html_sha256": "393c132692da2325ac0b2978d13fd16bd3955b27c0f38fbc08e6031da47af280"
+      }
+    },
+    {
+      "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
+      "message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
+      "displayed_file_name": "Pasted text.txt",
+      "files_listed_in_answer_source_panel": 1,
+      "citation_indices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "excerpt_id": "excerpt-1",
+      "private_source_panel_text_sha256": "caf71c9f374b41f759689302773969fec72fa15234b5e74d7e27f7ab864684cb",
+      "private_source_panel_html_sha256": "cca0ea28cb6daf3b70b08b13949c2673fca7e9d5247fb1f3cb473e1ca9c68895",
+      "private_snapshot_file_sha256": "3c37cbc22ff98e80b49c05c7c4cf3ad4516f3fd5e3b6d6281eb459e96fac3d51",
+      "confidence": "high for shared text ancestry; insufficient for complete file identity or byte recovery",
+      "original_file_bytes_recovered": false,
+      "original_citation_controls": {
+        "indices": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "count": 8,
+        "all_preview_labels": "Open preview of Pasted text.txt",
+        "private_source_text_sha256": "ffe0250d57c5c6cb5561d9fd646b08249f554efb2ecc0bdf2b6c03e4cd813865",
+        "private_source_html_sha256": "f4af80651f532f161d0cc83fca5fc5287a72a4510756400c461171d837e4581a"
+      }
+    }
+  ],
+  "unidentified_reference": {
+    "record_id": "supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
+    "message_id": "38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
+    "conversation_id": "6ab16e89-dda4-83ea-9b00-17522496c389",
+    "ledger_source_index": "attachment-turn3file2",
+    "raw_reference": "turn3file2",
+    "rendered_reference_index": "2",
+    "rendered_reference_text": "",
+    "context": "Conversely, someone might answer above chance while saying they were guessing. The appropriate initial conclusion would be “discrimination with low reported awareness,” not automatically “unconscious comprehension.” Published experiments illustrate how difficult it is to separate genuinely unconscious performance from residual conscious perception and task-specific effects.",
+    "past_chat_source_titles": [
+      "Invisible Wavelengths Feasibility",
+      "Research Brain Computer Interfaces"
+    ],
+    "web_sources_listed": 24,
+    "mapping_to_specific_source_observed": false,
+    "private_empty_citation_snapshot_sha256": "c6eff5058da8dc76931c1ddcdc066e4202a53f87a62c4d39eb2fc3fcf566ee02",
+    "private_expanded_source_panel_sha256": "7d5ae5231ad891087008bbf4fe9df690f8d2c54a1d64114182678da21a0941ea"
+  },
+  "backup_checks": {
+    "snapshot_date": "2026-10-11",
+    "snapshot_scope": "Codex; not a ChatGPT account export",
+    "indexed_attachment_originals_read": 36,
+    "attachment_digests_matching_inventory": 36,
+    "text_attachments": 35,
+    "other_text_attachment": "goal.md",
+    "matching_optical_phrases_in_attachments": 0,
+    "cached_readable_backup_and_catalog_files_searched": 333,
+    "matching_optical_phrases_in_readable_cache": 0,
+    "optical_phrases": [
+      "transmitting information through closed eyelids without conscious visual awareness",
+      "Norton, Umunna, and Bretl",
+      "For the particular possibility you are investigating",
+      "Waking imperceptible-flicker interfaces and invisible spectral flicker"
+    ],
+    "private_verification_receipt_sha256": "9172627f105259269c098c982485fb17fb3a20dea066e11fb4e97ae152e6aa1c",
+    "lossless_multipart_archive_downloaded": false,
+    "limit": "Negative phrase searches cover identified attachment originals and cached readable text, not every tool record or unprojected archive fragment."
+  },
+  "original_upload_access": {
+    "original_user_message_id": "3d9ed183-960e-411f-aad8-9f61f2013a91",
+    "displayed_name": "Pasted text.txt",
+    "preview_result": "Couldn't load this file",
+    "text_download_result": "Timed out after 10000ms waiting for download",
+    "private_original_upload_card_sha256": "c6f5d798b143c72980ab2254fc62aadb26bc8895c7b0144d42d71f6220b50cb5",
+    "private_download_attempt_receipt_sha256": "9f99edb8a604f371eaae4ce916ab3f95a49f4fcce95ceb0d809c4e915327c441",
+    "file_id_or_original_bytes_recovered": false
+  },
+  "library_check": {
+    "exact_query": "Pasted text",
+    "returned_document_results": 13,
+    "result_list_exhaustion_observed": true,
+    "conclusion": "Filename matches were insufficient; checked candidates were unrelated. No library file was identified as this upload.",
+    "private_inventory_sha256": "a0c5e90f3a18781749e88e3744aa3fbe69c1eb31b7d24fe9df875f78c439287e"
+  },
+  "publication_scope": "Research-only excerpts, identifiers, and hashes. Other library contents, private backup locations, and unrelated personal material are excluded. No files or histories were deleted."
+}

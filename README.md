@@ -1,6 +1,6 @@
 # Sleep, Hypnosis, and Influence Research Wiki
 
-A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
+A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; upload-source investigation updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
 
 ## Explore
 
@@ -23,6 +23,7 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 - [Source catalog](sources/catalog.md): 144 recovered research records, with origins and status.
 - [Recovery report](sources/recovery.md): all six original truncated answers restored, plus 37 additional research records.
 - [Citation recovery and deeper discovery](sources/citation-audit.md): 172 deep-research search results screened; 16 more records added; all 471 old citation markers accounted for.
+- [Uploaded-reference recovery](sources/upload-recovery.md): retained excerpts trace 49 references to the optical review; one source identity remains unresolved. Original upload bytes remain unavailable.
 - [Source-link audit](sources/link-audit.md): access results, publication identities, verified alternatives, and remaining access limits.
 - [Coverage and recovery gaps](sources/coverage.md): what was searched, exclusions, and limits.
 - [Citation corrections](sources/corrections.md): bibliographic errors, editorial repairs, and source boundaries.
@@ -35,4 +36,4 @@ Topic pages are editorial navigation and synthesis. `research/` preserves select
 
 Preserve provenance when adding research. Record negative findings and corrections alongside positive results. Keep personal medical discussions, credentials, private correspondence, and account backup URLs out of public commits. Do not silently fill missing text or turn a research objective into an achieved capability.
 
-Run `python3 tools/reindex_collection.py` after changing research records, then `python3 tools/verify_collection.py`. These check navigation, source digests, citation-ledger consistency, and audit coverage. `python3 tools/audit_source_links.py` checks external access and publication metadata; access challenges remain explicit. Fifty original uploaded-file references remain unavailable and have visibly labeled editorial supplements. These checks do not certify every scientific claim.
+Run `python3 tools/reindex_collection.py` after changing research records, then `python3 tools/verify_collection.py`. These check navigation, source digests, citation-ledger consistency, upload-excerpt matches, and audit coverage. `python3 tools/audit_source_links.py` checks external access and publication metadata; access challenges remain explicit. Of 50 investigated file references, 49 have identified text ancestry and one has no identified source. Original upload bytes remain unavailable; editorial supplements remain separately labeled. These checks do not certify every scientific claim.

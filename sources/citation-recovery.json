@@ -1,5 +1,5 @@
 {
-  "audit_date": "2026-10-27",
+  "audit_date": "2026-10-28",
   "original_marker_count": 471,
   "summary": {
     "original_public_link_recovered": 411,
@@ -7,9 +7,10 @@
     "original_generated_artifact_recovered": 3,
     "empty_nonbibliographic_equipment_widget": 1,
     "editorial_registry_replacement": 1,
-    "editorial_cross_reference_original_attachment_unavailable": 50
+    "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 49,
+    "editorial_cross_reference_original_attachment_unavailable": 1
   },
-  "limits": "Resolved public links, explicit DOI resolutions, recovered artifact, UI-widget dispositions, and editorial replacements are separate categories. Fifty original uploaded-file references remain unrecovered; related evidence is supplied without claiming original-file recovery. Link access is not claim verification.",
+  "limits": "Forty-nine file citations have high-confidence shared text ancestry with an existing optical review. This does not establish the entire upload, its file identity, or the exact passage behind each citation. One separate file-style reference remains unidentified. No original file bytes were recovered. Public-link recovery, DOI resolutions, generated artifacts, empty widgets, editorial supplements, and upload text ancestry remain distinct. Link access is not claim verification.",
   "markers": [
     {
       "record_id": "6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2",
@@ -4695,7 +4696,7 @@
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "0",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -4703,30 +4704,48 @@
         "https://pubmed.ncbi.nlm.nih.gov/22564396/",
         "https://pubmed.ncbi.nlm.nih.gov/37660233/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "1",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/29788219/",
         "https://pubmed.ncbi.nlm.nih.gov/35998110/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "2",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -4735,59 +4754,95 @@
         "https://pubmed.ncbi.nlm.nih.gov/35570490/",
         "https://pubmed.ncbi.nlm.nih.gov/39613776/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "3",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/40409271/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "4",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/28334175/",
         "https://www.nature.com/articles/s41467-026-73997-y"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "5",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/33607035/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "6",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -4795,58 +4850,93 @@
         "https://doi.org/10.1038/s41539-024-00244-8",
         "https://pubmed.ncbi.nlm.nih.gov/32027149/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
       "source_index": "7",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "0",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615063/",
         "https://pubmed.ncbi.nlm.nih.gov/36669202/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "1",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/40409271/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "2",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -4854,15 +4944,24 @@
         "https://pubmed.ncbi.nlm.nih.gov/28334175/",
         "https://www.nature.com/articles/s41467-026-73997-y"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "3",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -4871,523 +4970,841 @@
         "https://pubmed.ncbi.nlm.nih.gov/22564396/",
         "https://pubmed.ncbi.nlm.nih.gov/37660233/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "4",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1038/s41539-025-00356-9"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "5",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/33607035/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "6",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1016/j.concog.2026.104018"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "7",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/33607035/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-710556a1-7594-4b91-b9b4-03d2dca491d5",
       "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
       "source_index": "8",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "0",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "1",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615063/",
         "https://pubmed.ncbi.nlm.nih.gov/36669202/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "2",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/35570490/",
         "https://pubmed.ncbi.nlm.nih.gov/39613776/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "3",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/40409271/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "4",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC10561787/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC12698097/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "5",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/28098351/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "6",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/28334175/",
         "https://www.nature.com/articles/s41467-026-73997-y"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "7",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/29788219/",
         "https://pubmed.ncbi.nlm.nih.gov/35998110/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "8",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/22564396/",
         "https://pubmed.ncbi.nlm.nih.gov/37660233/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "9",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/31259198/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "10",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1038/s41539-025-00356-9"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "11",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1038/s41539-024-00244-8",
         "https://pubmed.ncbi.nlm.nih.gov/32027149/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "12",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/33607035/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "13",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/33607035/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "14",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1016/j.concog.2026.104018"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "15",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "16",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://ehs.berkeley.edu/node/515",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC11606973/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "17",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
       "source_index": "18",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "0",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/28098351/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "1",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/22564396/",
         "https://pubmed.ncbi.nlm.nih.gov/37660233/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "2",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615063/",
         "https://pubmed.ncbi.nlm.nih.gov/36669202/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "3",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/40409271/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "4",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1038/s41539-025-00356-9"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "5",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/33607035/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "6",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [],
       "targets": [
-        "wiki/evidence-ledger.md"
+        "wiki/evidence-ledger.md",
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
       ],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-92060796-96e7-421a-a090-bc6e03558358",
       "message_id": "92060796-96e7-421a-a090-bc6e03558358",
       "source_index": "7",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://doi.org/10.1038/s41539-024-00244-8",
         "https://pubmed.ncbi.nlm.nih.gov/32027149/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "92060796-96e7-421a-a090-bc6e03558358",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "source_index": "0",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615063/",
         "https://pubmed.ncbi.nlm.nih.gov/36669202/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "source_index": "1",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/35570490/",
         "https://pubmed.ncbi.nlm.nih.gov/39613776/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "source_index": "2",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
         "https://pubmed.ncbi.nlm.nih.gov/40409271/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "source_index": "3",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -5396,15 +5813,24 @@
         "https://pubmed.ncbi.nlm.nih.gov/22564396/",
         "https://pubmed.ncbi.nlm.nih.gov/37660233/"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
       "source_index": "4",
-      "status": "editorial_cross_reference_original_attachment_unavailable",
+      "status": "retained_upload_excerpt_ancestry_identified_original_file_unavailable",
       "original_citation_recovered": false,
       "original_source_label": "Pasted text.txt",
       "urls": [
@@ -5412,9 +5838,18 @@
         "https://pubmed.ncbi.nlm.nih.gov/28334175/",
         "https://www.nature.com/articles/s41467-026-73997-y"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md",
+        "sources/upload-recovery.md"
+      ],
+      "method": "The answer source panel lists one file named Pasted text.txt. Its retained excerpt exactly matches normalized text in the independently recovered optical answer. This identifies text ancestry, not complete upload contents or a byte-identical file.",
+      "support_scope": "Ancestral review is derivative research. Existing URLs and editorial synthesis remain separately labeled supplements; no citation-specific upload passage was restored.",
+      "previous_status": "editorial_cross_reference_original_attachment_unavailable",
+      "original_file_bytes_recovered": false,
+      "source_text_ancestry_identified": true,
+      "ancestral_record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+      "ancestry_receipt_message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a",
+      "ancestry_report": "sources/upload-recovery.json"
     },
     {
       "record_id": "supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
@@ -5422,14 +5857,20 @@
       "source_index": "attachment-turn3file2",
       "status": "editorial_cross_reference_original_attachment_unavailable",
       "original_citation_recovered": false,
-      "original_source_label": "turn3file2 (unidentified upload)",
+      "original_source_label": "turn3file2 (unidentified file-style reference; upload versus past-chat source unknown)",
       "urls": [
         "https://journalofcognition.org/articles/10.5334/joc.419",
         "https://doi.org/10.1016/j.concog.2026.104018"
       ],
-      "targets": [],
-      "method": "Editorial supplementation from independently identifiable publications or explicitly labeled synthesis; not a reconstruction of the missing upload",
-      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain"
+      "targets": [
+        "sources/upload-recovery.md"
+      ],
+      "method": "Raw file-style reference persists, but rendered citation index 2 is empty. Sources lists two past chats and 24 web results; no visible mapping identifies turn3file2. Original source identity remains unresolved. Earlier editorial publications are retained as supplements.",
+      "support_scope": "Related empirical result or methodological limitation; no single source establishes the entire inference chain",
+      "previous_original_source_label": "turn3file2 (unidentified upload)",
+      "source_identity_unresolved": true,
+      "original_file_bytes_recovered": false,
+      "ancestry_report": "sources/upload-recovery.json"
     }
   ],
   "link_repairs": [
@@ -5487,5 +5928,18 @@
     "index_or_primary_url_mismatches": 0,
     "method": "Matched conversation ID, message ID, citation index, and normalized primary URL against private rendered snapshots; grouped links retain visible-primary overlap",
     "private_verification_receipt_sha256": "0b402e44f82eb0f3a927d987fe187e25fece7140ae07a1280bf43f9151481edf"
+  },
+  "upload_ancestry_recovery": {
+    "date": "2026-10-28",
+    "report": "sources/upload-recovery.json",
+    "summary": {
+      "references_reviewed": 50,
+      "high_confidence_text_ancestry_identified": 49,
+      "source_identity_unresolved": 1,
+      "original_file_bytes_unavailable_references": 50,
+      "original_uploaded_files_fully_restored": 0,
+      "answers_with_matching_retained_excerpts": 5,
+      "distinct_matching_excerpts": 3
+    }
   }
 }

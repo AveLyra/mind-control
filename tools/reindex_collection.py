@@ -12,7 +12,7 @@ catalog = '''# Source catalog
 
 [Wiki home](../README.md) · [Coverage and gaps](coverage.md) · [Citation audit](citation-audit.md) · [Link audit](link-audit.md) · [Recovery report](recovery.md)
 
-These are research records, not independent replications. IDs preserve provenance without publishing private backup URLs. The six original reader truncations are recovered. Unavailable uploaded references, editorial supplements, and source-answer boundaries are recorded in the citation audit. Exact published derivatives are hashed in [manifest.json](manifest.json).
+These are research records, not independent replications. IDs preserve provenance without publishing private backup URLs. The six original reader truncations are recovered. Retained upload excerpts trace shared text behind 49 references; one source identity and all original upload bytes remain unavailable. See the [upload receipts](upload-recovery.md) for that boundary, and the citation audit for other dispositions and editorial supplements. Exact published derivatives are hashed in [manifest.json](manifest.json).
 
 | ID / recovered research | Origin | Status |
 |---|---|---|

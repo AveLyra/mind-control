@@ -1423,12 +1423,12 @@
       "path": "research/chats/supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `8349b528-8aa3-4ce7-928b-a6bfe15f92bc`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "ce9d08c9875e8862e66f7cca3d7f4901250173549ce0cc77d1e56f14f86aa6f6",
+      "sha256": "2d4ee3897674ca29cb5018a5389064a428f50e2a5fb3d3b7aab7f58f939161e5",
       "citation_audit": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "original_marker_count": 8,
         "dispositions": {
-          "editorial_cross_reference_original_attachment_unavailable": 8
+          "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 8
         },
         "source_snapshot": {
           "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
@@ -1436,6 +1436,10 @@
           "rendered_text_sha256": "476d543b4ba9bc0d983f22bc5717348ef974d6c376f1c864cf7ed5f316c29e64",
           "rendered_html_sha256": "393c132692da2325ac0b2978d13fd16bd3955b27c0f38fbc08e6031da47af280"
         }
+      },
+      "upload_ancestry_receipt": {
+        "report": "sources/upload-recovery.json",
+        "message_id": "8349b528-8aa3-4ce7-928b-a6bfe15f92bc"
       }
     },
     {
@@ -1444,12 +1448,12 @@
       "path": "research/chats/supplement-710556a1-7594-4b91-b9b4-03d2dca491d5.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `710556a1-7594-4b91-b9b4-03d2dca491d5`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "6b092d23c1f29dacdb3d62f499ec3e7ceb41a34908cff6eb688bb13c466e74dd",
+      "sha256": "0b63b896a2dbb471361b97ac217ab0415fb4261e9478956aaa2f45a6db9be8e8",
       "citation_audit": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "original_marker_count": 9,
         "dispositions": {
-          "editorial_cross_reference_original_attachment_unavailable": 9
+          "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 9
         },
         "source_snapshot": {
           "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
@@ -1457,6 +1461,10 @@
           "rendered_text_sha256": "3338c2851173fae9e0406ccace59fe134ff18c2ae6c3e22bc4fef31dc8131043",
           "rendered_html_sha256": "fc3843adc167c63856d86bca1ebc0955de5694a80629d8a3ad4b6733f0f465d5"
         }
+      },
+      "upload_ancestry_receipt": {
+        "report": "sources/upload-recovery.json",
+        "message_id": "710556a1-7594-4b91-b9b4-03d2dca491d5"
       }
     },
     {
@@ -1465,7 +1473,7 @@
       "path": "research/chats/supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `1a6c75ff-4601-4f88-b959-4cdec13997eb`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "497cd612627088b6c22a400d37e3e02583141c6928f6b646192f4dd9b1b3a62e",
+      "sha256": "f65af59bc076e2a5ead406544d55bf8245787b623fc629f9de59a1c74b30848d",
       "recovery": {
         "method": "signed-in rendered DOM",
         "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb",
@@ -1475,10 +1483,10 @@
         "prior_reader_characters": 20000
       },
       "citation_audit": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "original_marker_count": 19,
         "dispositions": {
-          "editorial_cross_reference_original_attachment_unavailable": 19
+          "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 19
         },
         "source_snapshot": {
           "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
@@ -1486,6 +1494,10 @@
           "rendered_text_sha256": "0d511ec48eb8a8104825b1f3177ba271b282df98921989a542053dce4b028c7f",
           "rendered_html_sha256": "271b311239e4464a4c5e088f9bd772ae7471d32fb28f5809b494f56fcbb604d0"
         }
+      },
+      "upload_ancestry_receipt": {
+        "report": "sources/upload-recovery.json",
+        "message_id": "1a6c75ff-4601-4f88-b959-4cdec13997eb"
       }
     },
     {
@@ -1494,12 +1506,12 @@
       "path": "research/chats/supplement-92060796-96e7-421a-a090-bc6e03558358.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `92060796-96e7-421a-a090-bc6e03558358`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "1888cebc6d695e8b386c8ddbdd84ad4faaef51dfe566c5251aa09fd393d23694",
+      "sha256": "0a6ec1bee12847ff320b6251648182205aadaa0f71d8cfd381c4070996b22b2d",
       "citation_audit": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "original_marker_count": 8,
         "dispositions": {
-          "editorial_cross_reference_original_attachment_unavailable": 8
+          "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 8
         },
         "source_snapshot": {
           "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
@@ -1507,6 +1519,10 @@
           "rendered_text_sha256": "ffe0250d57c5c6cb5561d9fd646b08249f554efb2ecc0bdf2b6c03e4cd813865",
           "rendered_html_sha256": "f4af80651f532f161d0cc83fca5fc5287a72a4510756400c461171d837e4581a"
         }
+      },
+      "upload_ancestry_receipt": {
+        "report": "sources/upload-recovery.json",
+        "message_id": "92060796-96e7-421a-a090-bc6e03558358"
       }
     },
     {
@@ -1515,12 +1531,12 @@
       "path": "research/chats/supplement-5a68e43a-789c-474b-8761-83e97c4fcf5a.md",
       "origin": "chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `5a68e43a-789c-474b-8761-83e97c4fcf5a`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "dc04e83348dd6d01a56fe01df5d33dea8e80b289ca423ebb8f61363ebc50aab3",
+      "sha256": "569469181999a44b5aa679d24b39fdc922ee20fc2d19ef4850bb8972b13c3541",
       "citation_audit": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "original_marker_count": 5,
         "dispositions": {
-          "editorial_cross_reference_original_attachment_unavailable": 5
+          "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 5
         },
         "source_snapshot": {
           "conversation_id": "6ab16651-0ce0-83ea-bca2-ab25d91d4d73",
@@ -1528,6 +1544,10 @@
           "rendered_text_sha256": "0baefa68bae90a2ebb560810d7beba4fca59ccc456a4d4bb8bbd1c7ff1a2c570",
           "rendered_html_sha256": "38af0c3707e889c8501fca6e054197f966c3e7e48ab16f6f94c6614b39719b1b"
         }
+      },
+      "upload_ancestry_receipt": {
+        "report": "sources/upload-recovery.json",
+        "message_id": "5a68e43a-789c-474b-8761-83e97c4fcf5a"
       }
     },
     {
@@ -1536,7 +1556,7 @@
       "path": "research/chats/supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a.md",
       "origin": "chatgpt thread `6ab16e89-dda4-83ea-9b00-17522496c389`, item `38f265c2-ea46-4b51-8a4c-ca4e80526c4a`",
       "status": "Historical research recovered in supplementary search; not independently reverified",
-      "sha256": "9f70fb080280cc47d7cfe1ebdde9ddffc84bdafd74a01736db25f47223bde38e",
+      "sha256": "94548da5516f02f33cdd9019507316ecc1e9fbba3e8cfd8c0eaff16778de31ae",
       "citation_recovery": {
         "recovered_marker_count": 6,
         "remaining_source_indices": [],
@@ -1544,7 +1564,7 @@
         "basis": "source-message and citation-index match; see citation audit"
       },
       "citation_audit": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "original_marker_count": 7,
         "dispositions": {
           "original_public_link_recovered": 6,
@@ -2238,7 +2258,7 @@
     "method": "Account reader plus signed-in rendered conversation DOM and bounded content search"
   },
   "citation_audit": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "original_marker_count": 471,
     "dispositions": {
       "original_public_link_recovered": 411,
@@ -2246,11 +2266,15 @@
       "original_generated_artifact_recovered": 3,
       "empty_nonbibliographic_equipment_widget": 1,
       "editorial_registry_replacement": 1,
-      "editorial_cross_reference_original_attachment_unavailable": 50
+      "retained_upload_excerpt_ancestry_identified_original_file_unavailable": 49,
+      "editorial_cross_reference_original_attachment_unavailable": 1
     },
     "original_uploaded_file_references_unrecovered": 50,
     "report": "sources/citation-recovery.json",
-    "ledger_sha256": "7d96047406abad276533e529a4f9a2817aa62be6bf0755c7a73455a6ff192206"
+    "ledger_sha256": "560553002d4c03f981607d23e75a3456bad5b5aca37f8b1a14a57d158b5061a3",
+    "upload_text_ancestry_identified": 49,
+    "file_style_source_identity_unresolved": 1,
+    "unrecovered_count_basis": "49 original upload citations plus one unidentified file-style reference; ancestry matches are not complete-file recovery"
   },
   "deep_research_discovery": {
     "date": "2026-10-27",
@@ -2299,5 +2323,19 @@
     "report_sha256": "35cc5f51092b5f4ca2a9a545a3e924d6ca2dc854cb3f084c434042eb3527c225",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
+  },
+  "upload_ancestry_recovery": {
+    "date": "2026-10-28",
+    "report": "sources/upload-recovery.json",
+    "report_sha256": "ffff6a39c4890518b1af7915bf642e6f66a2cf9658db147d097bd7be077f0355",
+    "summary": {
+      "references_reviewed": 50,
+      "high_confidence_text_ancestry_identified": 49,
+      "source_identity_unresolved": 1,
+      "original_file_bytes_unavailable_references": 50,
+      "original_uploaded_files_fully_restored": 0,
+      "answers_with_matching_retained_excerpts": 5,
+      "distinct_matching_excerpts": 3
+    }
   }
 }

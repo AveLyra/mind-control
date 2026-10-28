@@ -4,7 +4,7 @@
 
 Source: chatgpt thread `6ab16e89-dda4-83ea-9b00-17522496c389`, item `38f265c2-ea46-4b51-8a4c-ca4e80526c4a`
 
-Citation provenance: The original answer cites an unavailable uploaded file (`turn3file2`). Links labeled **editorial source** or **editorial synthesis** were added during this audit. They supply related published evidence or an explicitly labeled interpretation; they are not recovered links from that upload. See the [attachment gap](../../sources/citation-audit.md#unavailable-upload).
+Citation provenance: The raw file-style reference `turn3file2` has no readable target in rendered citation index 2. The answer’s Sources panel lists two past chats, but does not map either to this reference; an uploaded file has not been established. The **editorial source** links remain supplements. See the [remaining source gap](../../sources/upload-recovery.md#the-50th-reference).
 
 Selection: Complete research answer; source citations and limitations retained. Personal prompts and unrelated correspondence are excluded.
 

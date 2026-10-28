@@ -4,7 +4,7 @@
 
 Source: chatgpt thread `6ab16651-0ce0-83ea-bca2-ab25d91d4d73`, item `1a6c75ff-4601-4f88-b959-4cdec13997eb`
 
-Citation provenance: The original answer cites the unavailable uploaded summary `Pasted text.txt`. Links labeled **editorial source** or **editorial synthesis** were added during this audit. They supply related published evidence or an explicitly labeled interpretation; they are not recovered links from that upload. See the [attachment gap](../../sources/citation-audit.md#unavailable-upload).
+Citation provenance: The answer’s Sources panel retains an excerpt from `Pasted text.txt` that matches the independently recovered [optical review](6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md). Links labeled **upload ancestry** document that shared text; the original upload bytes and citation-specific passages remain unavailable. **Editorial source** and **editorial synthesis** links remain additions from the earlier audit. See the [matching receipt](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb).
 
 Source boundary: The original rendered answer itself ends mid-sentence; no continuation was visible.
 
@@ -36,7 +36,7 @@ These are not equivalent.
 
 For example, rapid visible flicker can be consciously experienced as completely steady while the brain nevertheless follows its modulation. Infrared can be physically invisible but become consciously perceptible after conversion into visible light. And a sleeper can consciously experience an external stimulus inside a dream yet remember nothing about it the next morning.
 
-Consequently, "the person didn't see it" does not by itself establish subconscious processing.  [editorial synthesis 0](../../wiki/evidence-ledger.md)
+Consequently, "the person didn't see it" does not by itself establish subconscious processing.  [upload ancestry 0](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial synthesis 0](../../wiki/evidence-ledger.md)
 
 ## The brain can detect visual changes people cannot consciously see
 
@@ -46,7 +46,7 @@ In a 2022 study, researchers presented visible objects flickering at 56 and 60 H
 
 More importantly, participants could deliberately attend to different apparently steady objects and thereby change their neural responses. Seven of eight participants were able to use those signals to control a Pong game.
 
-A subsequent 2023 experiment developed a four-target EEG brain–computer interface using 60-Hz imperceptible flicker.  [editorial source 1a](https://pmc.ncbi.nlm.nih.gov/articles/PMC7615063/) [editorial source 1b](https://pubmed.ncbi.nlm.nih.gov/36669202/)
+A subsequent 2023 experiment developed a four-target EEG brain–computer interface using 60-Hz imperceptible flicker.  [upload ancestry 1](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 1a](https://pmc.ncbi.nlm.nih.gov/articles/PMC7615063/) [editorial source 1b](https://pubmed.ncbi.nlm.nih.gov/36669202/)
 
 This establishes an important fact:
 
@@ -64,7 +64,7 @@ Instead of making a light rapidly turn brighter and darker, researchers alternat
 
 The person therefore sees something resembling steady white light even though its physical spectrum is changing.
 
-A 2022 experiment involving 13 participants found that this produced a measurable 40-Hz neural response. Subsequent experiments found responses across approximately 36–44 Hz while participants experienced substantially less visible flickering than with conventional stimulation.  [editorial source 2a](https://pubmed.ncbi.nlm.nih.gov/35570490/) [editorial source 2b](https://pubmed.ncbi.nlm.nih.gov/39613776/)
+A 2022 experiment involving 13 participants found that this produced a measurable 40-Hz neural response. Subsequent experiments found responses across approximately 36–44 Hz while participants experienced substantially less visible flickering than with conventional stimulation.  [upload ancestry 2](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 2a](https://pubmed.ncbi.nlm.nih.gov/35570490/) [editorial source 2b](https://pubmed.ncbi.nlm.nih.gov/39613776/)
 
 Again, this demonstrates hidden **neural stimulation**, not hidden semantic communication.
 
@@ -76,7 +76,7 @@ Another line of research removes visible light altogether.
 
 In 2025, researchers reported experimental contact lenses containing upconversion particles. These particles absorb near-infrared radiation, which humans ordinarily cannot see, and emit visible light.
 
-Participants wearing the lenses could distinguish temporally encoded infrared signals. Researchers demonstrated Morse-code-like flashing patterns, and reception could actually improve with the eyes closed because eyelids blocked interfering visible light more strongly than the infrared signal.  [editorial source 3a](https://pubmed.ncbi.nlm.nih.gov/40409271/)
+Participants wearing the lenses could distinguish temporally encoded infrared signals. Researchers demonstrated Morse-code-like flashing patterns, and reception could actually improve with the eyes closed because eyelids blocked interfering visible light more strongly than the infrared signal.  [upload ancestry 3](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 3a](https://pubmed.ncbi.nlm.nih.gov/40409271/)
 
 The sequence was essentially:
 
@@ -96,7 +96,7 @@ Human vision is normally described as insensitive to infrared, but there is an i
 
 Under carefully controlled conditions, two infrared photons can jointly activate a visual pigment in a way that produces a visible sensation.
 
-Researchers have demonstrated the phenomenon at the photoreceptor level, and a 2025 experiment demonstrated a prototype infrared display capable of producing several perceived colors using two-photon stimulation.  [editorial source 4a](https://pmc.ncbi.nlm.nih.gov/articles/PMC10561787/) [editorial source 4b](https://pmc.ncbi.nlm.nih.gov/articles/PMC12698097/)
+Researchers have demonstrated the phenomenon at the photoreceptor level, and a 2025 experiment demonstrated a prototype infrared display capable of producing several perceived colors using two-photon stimulation.  [upload ancestry 4](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 4a](https://pmc.ncbi.nlm.nih.gov/articles/PMC10561787/) [editorial source 4b](https://pmc.ncbi.nlm.nih.gov/articles/PMC12698097/)
 
 This expands what is physically possible but does not provide a practical subliminal communication system. These experiments require specialized optical arrangements and controlled illumination.
 
@@ -108,7 +108,7 @@ The sleep research is particularly important because closed eyelids are surprisi
 
 A 2017 experiment demonstrated steady-state visual evoked responses to flickering light through closed eyelids during both light and deep non-REM sleep.
 
-In other words, the experimenter's signal remained detectable in the sleeper's brain even though the participant's eyes were closed and the participant remained asleep.  [editorial source 5a](https://pubmed.ncbi.nlm.nih.gov/28098351/)
+In other words, the experimenter's signal remained detectable in the sleeper's brain even though the participant's eyes were closed and the participant remained asleep.  [upload ancestry 5](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 5a](https://pubmed.ncbi.nlm.nih.gov/28098351/)
 
 This establishes the first stage of a potential communication pathway:
 
@@ -130,7 +130,7 @@ Responses to approximately 8–10 Hz flicker became weaker during non-REM and RE
 
 A 2026 simultaneous EEG/fMRI study involving 15 participants found another striking effect. During N1 and N2 sleep, light-related responses remained detectable in the visual thalamus, while early visual cortex showed strong negative rather than positive fMRI responses.
 
-The researchers interpreted this as evidence consistent with cortical inhibition contributing to sensory disconnection during sleep. They also cautioned that reduced fMRI activity does not prove that all information processing at that location has stopped.  [editorial source 6a](https://pubmed.ncbi.nlm.nih.gov/28334175/) [editorial source 6b](https://www.nature.com/articles/s41467-026-73997-y)
+The researchers interpreted this as evidence consistent with cortical inhibition contributing to sensory disconnection during sleep. They also cautioned that reduced fMRI activity does not prove that all information processing at that location has stopped.  [upload ancestry 6](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 6a](https://pubmed.ncbi.nlm.nih.gov/28334175/) [editorial source 6b](https://www.nature.com/articles/s41467-026-73997-y)
 
 This undermines a tempting assumption:
 
@@ -148,7 +148,7 @@ Researchers have designed lighting conditions that appear similarly colored and 
 
 A 2018 crossover experiment involving 11 participants produced differences in melatonin and reported sleepiness even though participants did not report significant differences in color or glare.
 
-A later experiment involving 29 participants again found differences in melatonin suppression between visually matched conditions, although the hormonal changes were not accompanied by corresponding changes in sleep, vigilance, or basic sensory performance.  [editorial source 7a](https://pubmed.ncbi.nlm.nih.gov/29788219/) [editorial source 7b](https://pubmed.ncbi.nlm.nih.gov/35998110/)
+A later experiment involving 29 participants again found differences in melatonin suppression between visually matched conditions, although the hormonal changes were not accompanied by corresponding changes in sleep, vigilance, or basic sensory performance.  [upload ancestry 7](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 7a](https://pubmed.ncbi.nlm.nih.gov/29788219/) [editorial source 7b](https://pubmed.ncbi.nlm.nih.gov/35998110/)
 
 That second result is particularly instructive.
 
@@ -162,7 +162,7 @@ Researchers have also delivered light directly through closed eyelids while peop
 
 A 2023 placebo-controlled crossover experiment used brief flashes delivered through goggles during sleep. The stimulation shifted participants' circadian timing while producing relatively little alteration of overall sleep architecture, although there was some evidence of increased sleep instability.
 
-Earlier experiments likewise demonstrated circadian phase shifts using individually tailored flashing light through closed eyelids.  [editorial source 8a](https://pubmed.ncbi.nlm.nih.gov/22564396/) [editorial source 8b](https://pubmed.ncbi.nlm.nih.gov/37660233/)
+Earlier experiments likewise demonstrated circadian phase shifts using individually tailored flashing light through closed eyelids.  [upload ancestry 8](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 8a](https://pubmed.ncbi.nlm.nih.gov/22564396/) [editorial source 8b](https://pubmed.ncbi.nlm.nih.gov/37660233/)
 
 This is genuine manipulation of a sleeping person's physiology through an external signal.
 
@@ -184,7 +184,7 @@ There is another relevant field called **transcranial photobiomodulation**.
 
 Here near-infrared radiation is directed at the head for proposed biological effects rather than being treated as a visual communication channel.
 
-For example, a sham-controlled experiment involving 20 participants reported changes in EEG alpha and beta activity following controlled near-infrared stimulation of the forehead.  [editorial source 9a](https://pubmed.ncbi.nlm.nih.gov/31259198/)
+For example, a sham-controlled experiment involving 20 participants reported changes in EEG alpha and beta activity following controlled near-infrared stimulation of the forehead.  [upload ancestry 9](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 9a](https://pubmed.ncbi.nlm.nih.gov/31259198/)
 
 This means it would be incorrect to claim that invisible wavelengths cannot affect neural physiology.
 
@@ -204,7 +204,7 @@ The sleeping brain is capable of more sophisticated processing than older models
 
 There is evidence that previously learned associations can sometimes be reactivated during sleep. Rather than teaching the brain an entirely new symbolic language, researchers can exploit associations established while the participant was awake.
 
-The source review also identified a 2025 experiment in which researchers presented names paired with positive personality traits during sleep. Subsequent testing found changes in aspects of participants' social evaluations compared with a control condition involving names without those positive traits.  [editorial source 10a](https://doi.org/10.1038/s41539-025-00356-9)
+The source review also identified a 2025 experiment in which researchers presented names paired with positive personality traits during sleep. Subsequent testing found changes in aspects of participants' social evaluations compared with a control condition involving names without those positive traits.  [upload ancestry 10](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 10a](https://doi.org/10.1038/s41539-025-00356-9)
 
 This is much closer to psychological influence than changing melatonin.
 
@@ -228,7 +228,7 @@ The second requires:
 
 **signal detection → symbol discrimination → decoding → language comprehension → memory formation → integration with existing knowledge.**
 
-Evidence for the first cannot be treated as evidence for the second.  [editorial source 11a](https://doi.org/10.1038/s41539-024-00244-8) [editorial source 11b](https://pubmed.ncbi.nlm.nih.gov/32027149/)
+Evidence for the first cannot be treated as evidence for the second.  [upload ancestry 11](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 11a](https://doi.org/10.1038/s41539-024-00244-8) [editorial source 11b](https://pubmed.ncbi.nlm.nih.gov/32027149/)
 
 This is one reason targeted memory reactivation and related approaches are considerably more scientifically plausible than science-fiction-style "sleep programming."
 
@@ -240,7 +240,7 @@ In a 2021 study involving 36 participants, experimenters successfully obtained 2
 
 Researchers used auditory, tactile, and visual communication methods.
 
-In one particularly relevant case, an experienced lucid dreamer received a Morse-coded arithmetic problem using flashes, interpreted the question, calculated an answer, and communicated that answer through predetermined eye movements.  [editorial source 12a](https://pubmed.ncbi.nlm.nih.gov/33607035/) [editorial source 12b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/)
+In one particularly relevant case, an experienced lucid dreamer received a Morse-coded arithmetic problem using flashes, interpreted the question, calculated an answer, and communicated that answer through predetermined eye movements.  [upload ancestry 12](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 12a](https://pubmed.ncbi.nlm.nih.gov/33607035/) [editorial source 12b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/)
 
 That establishes something extraordinary but quite specific:
 
@@ -258,7 +258,7 @@ Participants in interactive-dreaming experiments sometimes reported that experim
 
 The Morse-code example therefore does not demonstrate an unconscious brain silently decoding hidden instructions.
 
-It demonstrates communication with a conscious person who happens to be asleep.  [editorial source 13a](https://pubmed.ncbi.nlm.nih.gov/33607035/) [editorial source 13b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/)
+It demonstrates communication with a conscious person who happens to be asleep.  [upload ancestry 13](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 13a](https://pubmed.ncbi.nlm.nih.gov/33607035/) [editorial source 13b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8162929/)
 
 This distinction also exposes a major problem with using morning memory as a measure of awareness.
 
@@ -276,7 +276,7 @@ Research on masked visual stimuli shows that the brain can process some informat
 
 But researchers continue to debate how sophisticated that processing can become.
 
-A 2026 study of masked visual shapes found evidence consistent with unconscious processing under some analytical definitions but not others. Results depended partly on whether unconscious perception meant the absence of reported subjective awareness or objectively chance-level discrimination.  [editorial source 14a](https://doi.org/10.1016/j.concog.2026.104018)
+A 2026 study of masked visual shapes found evidence consistent with unconscious processing under some analytical definitions but not others. Results depended partly on whether unconscious perception meant the absence of reported subjective awareness or objectively chance-level discrimination.  [upload ancestry 14](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 14a](https://doi.org/10.1016/j.concog.2026.104018)
 
 That methodological problem matters enormously for claims about manipulation.
 
@@ -316,7 +316,7 @@ Limited effects involving memory, associations, social evaluations, circadian ph
 
 Reliable arbitrary behavioral control does not.
 
-These distinctions are the core of the evidence.  [editorial synthesis 15](../../wiki/evidence-ledger.md)
+These distinctions are the core of the evidence.  [upload ancestry 15](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial synthesis 15](../../wiki/evidence-ledger.md)
 
 ## The most plausible form of subconscious influence is therefore not "mind control"
 
@@ -344,7 +344,7 @@ There is also an important safety misconception.
 
 Radiation being invisible or stimulation being imperceptible says nothing about whether it is biologically harmless.
 
-Near-infrared radiation can damage the retina under inappropriate exposure conditions. Other infrared wavelengths can injure anterior eye structures. Flickering illumination can provoke adverse symptoms in susceptible individuals. Specialized two-photon experiments use optical conditions that should not be reproduced casually.  [editorial source 16a](https://ehs.berkeley.edu/node/515) [editorial source 16b](https://pmc.ncbi.nlm.nih.gov/articles/PMC11606973/)
+Near-infrared radiation can damage the retina under inappropriate exposure conditions. Other infrared wavelengths can injure anterior eye structures. Flickering illumination can provoke adverse symptoms in susceptible individuals. Specialized two-photon experiments use optical conditions that should not be reproduced casually.  [upload ancestry 16](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial source 16a](https://ehs.berkeley.edu/node/515) [editorial source 16b](https://pmc.ncbi.nlm.nih.gov/articles/PMC11606973/)
 
 The absence of sensation is therefore not a safety mechanism.
 
@@ -364,7 +364,7 @@ Finally, if the claim concerned psychological manipulation, investigators would 
 
 The research reviewed here has demonstrated **individual pieces of this chain**.
 
-It has not demonstrated the complete chain for arbitrary subliminal messages during ordinary sleep.  [editorial synthesis 17](../../wiki/evidence-ledger.md)
+It has not demonstrated the complete chain for arbitrary subliminal messages during ordinary sleep.  [upload ancestry 17](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial synthesis 17](../../wiki/evidence-ledger.md)
 
 ## The overall picture
 
@@ -384,7 +384,7 @@ Previously learned associations can sometimes be modified or reactivated during 
 
 And in the unusual state of lucid dreaming, people have sometimes received, understood, and answered genuinely novel external questions.
 
-Those findings collectively demonstrate that **sleep does not prevent external influence, and conscious perception is not required for every biological or neural effect**.  [editorial synthesis 18](../../wiki/evidence-ledger.md)
+Those findings collectively demonstrate that **sleep does not prevent external influence, and conscious perception is not required for every biological or neural effect**.  [upload ancestry 18](../../sources/upload-recovery.md#receipt-1a6c75ff-4601-4f88-b959-4cdec13997eb) [editorial synthesis 18](../../wiki/evidence-ledger.md)
 
 But they do not establish a technology for secretly writing arbitrary information into someone's mind.
 
