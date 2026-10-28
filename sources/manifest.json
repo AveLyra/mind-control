@@ -143,7 +143,7 @@
       "path": "research/chats/1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-10.md",
       "origin": "Codex thread `01a0eefb-a30c-7802-8976-ee55d7675887`, backup section `1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn`, rollout ordinal `142`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "994f1a1db403ae34eacec8d457ea77508cca058201241a6d9ab78a23d42a87a7"
+      "sha256": "32e9a99d50191eef1b4d03abe33676bd349fcab9a6ba7ab12d413653aa774e46"
     },
     {
       "id": "1T5a3geqQsyKNQ9xsg7J3m5Pq3O9l-hWn-21",
@@ -167,7 +167,7 @@
       "path": "research/chats/1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-3.md",
       "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G`, rollout ordinal `568`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "447e6caca6586fef0ff498fe6602e0d7ac56951bdcaf0cc0f775a542997280de"
+      "sha256": "1b5c2d1bf3123d9d75d0a936cfabd5e550228beda4f759aa4dde956a3c831e9d"
     },
     {
       "id": "1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-6",
@@ -175,7 +175,7 @@
       "path": "research/chats/1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G-6.md",
       "origin": "Codex thread `01a0e3b3-9d4b-7421-9b77-597484f0be68`, backup section `1yUAq8YcwYv5Sw9D7Sjspq6jarbxo1y1G`, rollout ordinal `606`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "2eefd83068f142e1e87f852bd477219f556050d576a1efaa15230fdc96653974"
+      "sha256": "3c3ac3ce569782e6bdc54670b1dc4b54a2b4b64681bc5a59c91415796a38a667"
     },
     {
       "id": "1T8eXdTADZADNJG_F682ZzExgSSSPi_KG-4",
@@ -215,7 +215,7 @@
       "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-7-3.md",
       "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa40d8eee8087d1b1bd7d4b87f0bd2f`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "c476bae6c6a4aac12c75e10d0949c299517e9bb7a7a1e62824d23d89c53a0bac"
+      "sha256": "28e80951a4d3dd4e2abcd3be3a9f87c287926ee8b4a18da02ad63216ff569ab9"
     },
     {
       "id": "01a08679-d665-7a92-9c20-ce1843c10a68-9-13",
@@ -255,7 +255,7 @@
       "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-20-2.md",
       "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa44f8a823887d19e78f9620893e730`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "1d50cc25ea57ea88cd488efcda5cb87095b013459a99c78f28aa020c5c445dd7"
+      "sha256": "ca581c74fbf6576b1813c6ae422b05ec99b1f9f44cde4eed2cd03cbea0d76617"
     },
     {
       "id": "01a08679-d665-7a92-9c20-ce1843c10a68-21-16",
@@ -287,7 +287,7 @@
       "path": "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-34-3.md",
       "origin": "codex thread `01a08679-d665-7a92-9c20-ce1843c10a68`, item `msg_06dfe489cf25aa13016aa7360c726c87d196b02b840a85bbcb`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "a960b084d980b9e1af2a06232d38c2d322d79f21a99b88631a0428b1926b7bdb"
+      "sha256": "42f7b1acb80d59a2653905d696aff76f167b9652b9f3ef3d5cd9c75442984990"
     },
     {
       "id": "01a08679-d665-7a92-9c20-ce1843c10a68-44-13",
@@ -447,7 +447,7 @@
       "path": "research/chats/01a17ed2-0854-78d1-ac1a-8f9a169b6717-2-6.md",
       "origin": "codex thread `01a17ed2-0854-78d1-ac1a-8f9a169b6717`, item `msg_08a3a06302c68a6f016ae0fbc76e3881908cd8b3c7437914ca`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "03d513300cdd65a15a05a9c7822d860cf8eb2c3e210f05a84d1493bc99e8785f"
+      "sha256": "5b7f6e9234c25c75c1dc93db4fc727ec18334c82ecf3be6f74c91eb4da265580"
     },
     {
       "id": "01a17ed2-0854-78d1-ac1a-8f9a169b6717-3-22",
@@ -471,7 +471,7 @@
       "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-2-2.md",
       "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `16c62503-c2ad-4add-949a-99e1bd1954a8`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "ba19881da2f09a9b5d6a5ae43f1fd8ca11812518fde659b2a21b5f5f152df4eb"
+      "sha256": "ffc41b4479c7e9c72e390231b5a4e487c785defdc2e130a9632ea8ec06fc23b2"
     },
     {
       "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-3-2",
@@ -479,7 +479,7 @@
       "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-3-2.md",
       "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `e77ac8aa-741f-48b9-bf2d-37305a838e6b`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "9384fcbae2c38c221777d66f6a34e85a842292f7caa3037eb4d2658467ff31e4"
+      "sha256": "0f2683a37cd60d7a0e0b0c2f173df43b6c2f5aa461e03d47e303b8ed557e469e"
     },
     {
       "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-4-2",
@@ -487,7 +487,7 @@
       "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-4-2.md",
       "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `b410d5b1-ba0a-4857-8246-76fba2f910a7`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "b3912eebf3de05282de102d994e3157c2a18b4436b9cfdaee27c2eb04535873c"
+      "sha256": "afb6da9e02e1626be95185b85c9b6a19a27cb724947680654367653af93d4ecb"
     },
     {
       "id": "6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-5-2",
@@ -495,7 +495,7 @@
       "path": "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-5-2.md",
       "origin": "chatgpt thread `6aa60cc7-7cac-83ea-a1d0-7490b03e66a6`, item `10b048f5-712f-4704-88f2-827bda10efc4`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "b9d9a440fbee18822cc196f5e48cfc392d8057b06e1751d12b8a5d98f1e39b32"
+      "sha256": "a423680f9f2a462e066b37a141673dd6b414b0fe709a45e5ee7ab1dc0c525107"
     },
     {
       "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2",
@@ -503,7 +503,7 @@
       "path": "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2.md",
       "origin": "chatgpt thread `6aad7f39-7bdc-83e9-b0ae-417765a78db0`, item `068d8910-bf42-401c-9122-7bf5b899baf4`",
       "status": "Historical assistant research; citations not comprehensively reverified",
-      "sha256": "49f853e9eefdd81dcc857de13e93df63a812caf208e32c0dd98a31aaed1a4738"
+      "sha256": "70ae0088d4ef4598fe179215a319089e964d2b5a8bf70e3051eb62e8020263e3"
     },
     {
       "id": "6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2",
@@ -527,7 +527,7 @@
       "path": "research/chats/6ab14c04-9864-83ea-a250-b495d6f19c23-1-2.md",
       "origin": "chatgpt thread `6ab14c04-9864-83ea-a250-b495d6f19c23`, item `5e7bf587-ef5e-41dc-82d8-9d03329d4bfe`",
       "status": "Historical assistant research; citations not comprehensively reverified; SOURCE MESSAGE TRUNCATED by reader",
-      "sha256": "0f55c7489b99c4f80b03162e93fc5fc4d2703f6e7e6e46d69f04d06674535ebf"
+      "sha256": "64a2c833ce9eba471351da04b59208f6d2d0c7c66d7694690cd174bd67194534"
     },
     {
       "id": "6ab15d29-9edc-83e9-9692-e20add2c6825-1-2",

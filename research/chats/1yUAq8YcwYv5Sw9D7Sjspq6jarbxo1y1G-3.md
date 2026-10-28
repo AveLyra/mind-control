@@ -29,7 +29,7 @@ A larger study could be costly and inconclusive if the cueing procedure disrupts
 
 GOALS
 We will assess cue-delivery fidelity, sleep disruption, the proportion of awakenings that yield usable dream reports, cue-awareness responses, and agreement between blinded scorers. Before data collection, the team will define how each measure will inform a proceed, revise, or stop decision. We will report these findings, document protocol changes, and use the results to plan—or decline—a larger study. Any cue-related pattern in this small pilot will be treated as exploratory, not evidence of efficacy.
-::: 
+:::
 
 Then update these parts of the project:
 

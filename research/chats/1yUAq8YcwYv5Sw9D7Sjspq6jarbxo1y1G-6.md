@@ -29,7 +29,7 @@ A memory study can be hard to interpret if cues are mistimed, disturb sleep, or 
 
 GOALS
 We will pair selected learning items with sounds, replay a subset of those sounds during a sleep stage defined in advance with the lab, and compare next-day memory for cued and comparison items. We will assess cue-delivery success, sleep disruption, completion of the memory test, and awareness of sounds. Before data collection, we will define criteria for proceeding, revising, or stopping. Any memory difference observed in this pilot will be considered preliminary; the main deliverable is a documented feasibility assessment and a justified plan for the next study.
-::: 
+:::
 
 For the rest of the page, remove dream-content incorporation as a goal or main outcome. Keep dream reports only if Julia and the lab think they add value as a clearly secondary measure. If you keep the masked-cue idea, call it **low-intensity** or **low-awareness** cueing and measure awareness directly; not remembering a sound afterward does not prove it was imperceptible. Participants must be informed that sleep cueing may occur, and the exact procedure needs IRB approval.
 
