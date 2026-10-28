@@ -285,7 +285,78 @@
     "web_sources_listed": 24,
     "mapping_to_specific_source_observed": false,
     "private_empty_citation_snapshot_sha256": "c6eff5058da8dc76931c1ddcdc066e4202a53f87a62c4d39eb2fc3fcf566ee02",
-    "private_expanded_source_panel_sha256": "7d5ae5231ad891087008bbf4fe9df690f8d2c54a1d64114182678da21a0941ea"
+    "private_expanded_source_panel_sha256": "7d5ae5231ad891087008bbf4fe9df690f8d2c54a1d64114182678da21a0941ea",
+    "working_inference": {
+      "documented_date": "2026-10-28",
+      "subject": "Measurement of awareness and distinguishing unconscious visual processing from weak or partial conscious perception, guessing, and task-specific effects",
+      "subject_confidence": "high",
+      "subject_basis": "Recovered citation context and close thematic discussion in section 8 of the earlier optical review",
+      "source_route_hypothesis": "The citation may retrieve a passage from the earlier Invisible Wavelengths Feasibility chat, while text from that research was separately reused as a pasted attachment in the sleeping-brain chat",
+      "source_route_confidence": "moderate",
+      "source_route_basis": [
+        "The proposal Sources panel explicitly lists the earlier optical chat",
+        "That report discusses subjective versus objective awareness and masked visual processing",
+        "Recorded optical and proposal turns are about four minutes apart",
+        "The proposal initiating user message contains a pasted summary with four Pasted text.txt labels"
+      ],
+      "citation_identity_recovered": false,
+      "original_upload_bytes_recovered": false,
+      "user_provided_context": {
+        "date": "2026-10-28",
+        "statement": "The pasted text was almost certainly a research report produced in another chat on the same subject",
+        "evidence_role": "User-provided context consistent with the captures; not independent verification of file identity, citation mapping, or product mode"
+      },
+      "alternatives": [
+        "A different report quoting or compiling the same optical material",
+        "Another retrieved document or past chat",
+        "An invalid citation handle that did not resolve to a valid source"
+      ],
+      "not_inferred_from_numbering": [
+        "filename",
+        "extension",
+        "number of uploads",
+        "user-turn number"
+      ],
+      "chronology": {
+        "date": "2026-10-28",
+        "timezone": "America/New_York",
+        "events": [
+          {
+            "title": "Invisible Wavelengths Feasibility",
+            "conversation_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6",
+            "reader_turn_id": "5a6c87ba-0723-4e96-8907-97955221c029",
+            "record_id": "6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3",
+            "started_at": "2026-09-21T13:38:25.227000-04:00",
+            "completed_at": "2026-09-21T13:47:08.285040-04:00",
+            "private_reader_snapshot_sha256": "97f0f241a72b259c248541f9fe74ce26228f03c77f75d39fe9607f4796c2069e",
+            "time_basis": "Account-reader turn timestamps, not independent per-message or file-creation timestamps"
+          },
+          {
+            "title": "Invisible Signals Experiment",
+            "conversation_id": "6ab16e89-dda4-83ea-9b00-17522496c389",
+            "reader_turn_id": "2e83a2b9-1715-4ac8-9e0b-5cecb3901dc8",
+            "record_id": "supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a",
+            "started_at": "2026-09-21T13:51:04.936000-04:00",
+            "completed_at": "2026-09-21T13:55:15.024767-04:00",
+            "private_reader_snapshot_sha256": "311f8fbbe2ba78576f137da5ce03c59c4b9fba00612089db57ef84f4323126e8",
+            "time_basis": "Account-reader turn timestamps, not independent per-message or file-creation timestamps",
+            "pasted_filename_label_count": 4,
+            "private_user_prompt_text_sha256": "80930080907186e2ccd199efdb30e4fb6845e27a82adffd4c39d82c25e0999be"
+          }
+        ],
+        "gap_seconds_between_turns": 236.65096,
+        "caution": "Chronology supports a copying/reuse hypothesis but does not identify turn3file2, establish file identity, or establish the product mode used."
+      },
+      "private_chronology_receipt_sha256": "728505da6bd15000b50ff32dfdad91f3bb3c6baf5372d188f3c5d6c258d58a4a",
+      "evidence_that_would_change_source_identity": [
+        "An original citation-to-source mapping",
+        "An identifiable attachment with original bytes and provenance",
+        "A reliable account export connecting the reference to a source"
+      ],
+      "topic_page": "wiki/awareness.md",
+      "continuation_prompt": "prompts/awareness-optical-deep-research.md",
+      "continuation_status": "draft_only_not_executed"
+    }
   },
   "backup_checks": {
     "snapshot_date": "2026-10-11",

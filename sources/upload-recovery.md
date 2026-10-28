@@ -64,6 +64,29 @@ The [Invisible Signals Experiment proposal](../research/chats/supplement-38f265c
 
 Its Sources panel lists **Invisible Wavelengths Feasibility**, **Research Brain Computer Interfaces**, and 24 web sources. The two past-chat entries are useful context, but the visible panel does not map either to `turn3file2`. The reference may concern retrieved chat material rather than a user upload. Its source identity therefore remains unresolved. The previous description of it as a definite uploaded file was too strong.
 
+## Working inference and chronology
+
+Documented October 28, 2026. The user supplied the context that the pasted text was almost certainly a research report from another chat on the same subject. That account is consistent with the retained excerpts and the recorded chronology. It does not independently establish the original file identity, citation mapping, or whether a particular research product mode was used.
+
+The account-reader snapshots record the following turns on September 21, 2026, in **America/New_York**:
+
+| Recorded turn | Started | Completed | Relevant observation |
+|---|---|---|---|
+| Invisible Wavelengths Feasibility | 1:38:25 p.m. | 1:47:08 p.m. | Contains the complete optical review whose text matches the retained upload excerpts. |
+| Invisible Signals Experiment | 1:51:04 p.m. | 1:55:15 p.m. | Its initiating user message pastes a research summary containing four `Pasted text.txt` labels. |
+
+The gap between the optical turn’s completion and the proposal turn’s start is about four minutes. These are reader **turn timestamps**, not independent timestamps for each answer, paste, upload, or file creation. The timing supports reuse between chats but cannot prove a particular transfer sequence.
+
+The most useful distinction is between three claims:
+
+- **High confidence — subject:** `turn3file2` is placed after a discussion of low reported awareness, above-chance discrimination, residual conscious perception, and task-specific effects. Section 8 of the [optical review](../research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-3.md) discusses the same methodological issue through masked visual processing and subjective/objective awareness measures.
+- **High confidence — shared text:** three different retained upload passages match the complete optical review, including original citation indices. This supports the pasted-report explanation for the 49 file citations, with the complete-file limit already stated above.
+- **Moderate confidence — route for the unresolved reference:** `turn3file2` may retrieve a passage from the same earlier optical chat. That chat is named in the proposal’s Sources panel, its contents fit the cited claim, and the recorded turns are close in time. This remains a working hypothesis; the original source mapping is unknown.
+
+A different report quoting the optical review, another retrieved document or past chat, and an invalid citation handle remain plausible alternatives. The token’s numbering alone does not establish a filename, extension, attachment count, or user-turn number. A valid original citation mapping or identifiable original attachment would change the source-identity assessment.
+
+The [awareness topic page](../wiki/awareness.md) organizes the high-confidence subject. The [continuation prompt](../prompts/awareness-optical-deep-research.md) commissions a new primary-source review to fill possible substantive gaps. It does not reconstruct an unknown original document, and newly found papers must retain their status as new research rather than recovered original citations.
+
 ## Original-file and backup checks
 
 - Located the original user upload card in the sleeping-brain chat. It displays `Pasted text.txt`, followed by the request to summarize its findings on invisible signals. Opening it still produces **“Couldn't load this file.”** The text-download attempt timed out waiting for a download. Neither operation yielded the original bytes or a stable file identifier.

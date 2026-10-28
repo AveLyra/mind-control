@@ -2332,7 +2332,7 @@
   "upload_ancestry_recovery": {
     "date": "2026-10-28",
     "report": "sources/upload-recovery.json",
-    "report_sha256": "7f30e252e78408678b9e47106fe19636c78f4dac41cc197905218666ba0f2987",
+    "report_sha256": "58e7050b0ad7fe04f733ee6cff09ef2d82246379af5d6fff16a3704f15146edd",
     "summary": {
       "references_reviewed": 50,
       "high_confidence_text_ancestry_identified": 49,
@@ -2358,5 +2358,17 @@
       "unidentified_reference_matches": 0,
       "source_identity_unresolved": 1
     }
+  },
+  "research_continuation": {
+    "date": "2026-10-28",
+    "topic": "Measurement of awareness and distinguishing unconscious visual processing from weak or partial conscious perception, guessing, and task-specific effects",
+    "topic_confidence": "high",
+    "provenance_route_confidence": "moderate",
+    "citation_identity_recovered": false,
+    "provenance_report": "sources/upload-recovery.json",
+    "topic_page": "wiki/awareness.md",
+    "prompt": "prompts/awareness-optical-deep-research.md",
+    "prompt_sha256": "24c8c55dbf185e79b8a40114256b000d633aa8892d0b1029889e29d975822c7e",
+    "execution_status": "draft_only_not_executed"
   }
 }

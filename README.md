@@ -10,6 +10,7 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 | [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
 | [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
 | [Memory reconstruction and awareness](wiki/memory.md) | Neural decoding, generated reconstructions, false-memory risks, and awareness measures |
+| [Awareness and unconscious visual processing](wiki/awareness.md) | The high-confidence subject of `turn3file2`, awareness methods, competing interpretations, and the next research questions |
 | [Historical programs and drugs](wiki/history-and-drugs.md) | CHATTER, BLUEBIRD, ARTICHOKE, MKULTRA, later programs, memory and suggestibility research |
 | [Optical signaling](wiki/optical.md) | Closed eyelids, spectral flicker, infrared receivers, EEG detection versus comprehension |
 | [Magnetism and neural interfaces](wiki/magnetic.md) | Natural magnetoreception, TMS, engineered receivers, instrumented decoding |
@@ -32,6 +33,10 @@ A topic-based collection of research recovered from Codex, ChatGPT, and associat
 - [Machine-readable manifest](sources/manifest.json): record IDs, paths, and SHA-256 digests.
 
 Topic pages are editorial navigation and synthesis. `research/` preserves selected historical assistant answers and project research notes. Primary publications and original records control factual claims; a chat summary cannot independently establish them. Simulations establish only their stated computational results. Fiction and research proposals remain proposals.
+
+## Continue research
+
+The [Deep Research continuation prompt](prompts/awareness-optical-deep-research.md) commissions a fresh review of awareness measurement and unconscious visual processing, with optical and sleep applications. It is a drafted research request, not a completed review or a recovered original citation. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
 
 ## Maintain
 

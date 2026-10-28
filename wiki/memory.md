@@ -27,3 +27,5 @@ Preserve what a participant reported before seeing a generated reconstruction. L
 The recovered [awareness-transition proposal](../research/chats/deeper-d3e91e42-862c-48b0-9142-8237714a614d.md) treats hypothesis disclosure as an experimental intervention. Knowing the hypothesis, believing it, perceiving the stimulus, recognizing a cue pairing, and remembering afterward are separate variables. Awareness questions can themselves reveal the hypothesis; excluding people who guessed can introduce post-treatment bias.
 
 This is a proposed analysis framework, not a validated detector of consciousness. Its strongest test is a randomized comparison that can separate actual stimulation, disclosure, expectancy, and later reports.
+
+The focused [awareness and unconscious visual-processing page](awareness.md) organizes the unresolved optical citation’s subject and the [continuation research prompt](../prompts/awareness-optical-deep-research.md). It distinguishes awareness of flicker, patterns, and meaning, and asks how subjective reports and objective tasks should be compared. That new review remains unexecuted.

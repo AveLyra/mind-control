@@ -30,3 +30,7 @@ The later [complete lossless-backup search](../sources/lossless-backup-audit.md)
 The [Invisible Signals Experiment proposal](../research/chats/supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a.md) separates electronic reception, a classifier recovering information from EEG, and a participant independently identifying a symbol. It proposes perceptible controls, matched sham, delivery measurement, artifact checks, blinded assignment, and awareness tests. It is an unexecuted research design.
 
 The [expanded literature review](../research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md) and a [separate sleeping-brain review](../research/chats/supplement-1a6c75ff-4601-4f88-b959-4cdec13997eb.md) connect optical processing with sleep learning and memory effects. Both newly discovered long answers were recovered in full. Their synthesis remains inherited research; distinct component results do not demonstrate a combined covert communication system.
+
+## Continue the awareness question
+
+The proposal’s unresolved `turn3file2` reference concerns how to distinguish unconscious processing from weak conscious perception. Its likely relationship to the earlier optical chat is documented as a working inference in the [source chronology](../sources/upload-recovery.md#working-inference-and-chronology), with the original source identity still open. The [awareness topic page](awareness.md) and [Deep Research prompt](../prompts/awareness-optical-deep-research.md) organize the next literature review; no new review or experiment has been performed.

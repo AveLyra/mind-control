@@ -271,6 +271,26 @@ if (gaps['source_identity_unresolved'] != 1
         or lossless['deletions_performed'] != 0):
     errors.append('Lossless archive recovery outcome or preservation boundary is misstated')
 
+continuation = manifest['research_continuation']
+inference = unidentified['working_inference']
+prompt_path = root / continuation['prompt']
+if hashlib.sha256(prompt_path.read_bytes()).hexdigest() != continuation['prompt_sha256']:
+    errors.append('Continuation prompt digest disagrees with manifest')
+if (continuation['execution_status'] != 'draft_only_not_executed'
+        or inference['continuation_status'] != continuation['execution_status']
+        or continuation['citation_identity_recovered'] is not False
+        or inference['citation_identity_recovered'] is not False
+        or inference['original_upload_bytes_recovered'] is not False):
+    errors.append('Working inference or drafted prompt has been promoted to recovered source or completed research')
+for manifest_key, inference_key in [('topic_page', 'topic_page'), ('prompt', 'continuation_prompt')]:
+    if continuation[manifest_key] != inference[inference_key] or not (root / continuation[manifest_key]).is_file():
+        errors.append('Continuation documentation target is missing or inconsistent: ' + manifest_key)
+if (continuation['topic_confidence'] != inference['subject_confidence']
+        or continuation['provenance_route_confidence'] != inference['source_route_confidence']):
+    errors.append('Working inference confidence levels disagree across reports')
+if any(event['record_id'] not in record_by_id for event in inference['chronology']['events']):
+    errors.append('Inference chronology cites an unknown source record')
+
 new_ids = manifest['deep_research_discovery']['new_record_ids']
 if len(new_ids) != 16 or len(set(new_ids)) != 16 or any(i not in record_by_id for i in new_ids):
     errors.append('Deep-research discovery must identify 16 distinct included records')
@@ -304,4 +324,4 @@ for path in (root / 'research').rglob('*'):
 if errors:
     print('\n'.join(errors))
     raise SystemExit(1)
-print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts; 471 citation dispositions; 49 upload-ancestry mappings / three matched excerpts / one unidentified source; verified lossless-backup receipt (16 parts / 253 files / 105664 metadata rows); {len(current_urls)} audited source URLs; six registry identities; no uncatalogued research or matched private URLs/credentials.")
+print(f"PASS: {len(ids)} records; SHA-256 digests match; {checked} local links resolve; six recovery receipts; 471 citation dispositions; 49 upload-ancestry mappings / three matched excerpts / one unidentified source; verified lossless-backup receipt (16 parts / 253 files / 105664 metadata rows); drafted continuation prompt verified; {len(current_urls)} audited source URLs; six registry identities; no uncatalogued research or matched private URLs/credentials.")
