@@ -1,6 +1,6 @@
 # Sleep techniques and learning
 
-[Home](../README.md) · [Sources](../sources/catalog.md) · [Measurement](measurement.md) · [Research network](research-horizon.md)
+[Home](../README.md) · [Sources](../sources/catalog.md) · [Measurement](measurement.md) · [Research network](research-horizon.md) · [Combined techniques](combined-techniques.md)
 
 The recovered work examines several distinct techniques. They should be evaluated by what was learned beforehand, the verified sleep state, and the measured outcome.
 

@@ -2210,6 +2210,14 @@
       "origin": "New editorial literature check connecting collected research; PubMed lookups dated 2026-10-28",
       "status": "24 selected citation/abstract checks; two complete PMC bodies retrieved with selected sections checked; cross-field bridges remain editorial inferences",
       "sha256": "c03144b824cd6411f654b3b43702bd6f1fd3d993c8fbeb924cd7347796a475f2"
+    },
+    {
+      "id": "combined-technique-source-checks-2026-10-28",
+      "title": "Combined techniques — positive studies, null outcomes, and interaction limits",
+      "path": "research/updates/2026-10-28-combined-techniques.md",
+      "origin": "New editorial research review; bounded PubMed and primary HCI/AI source checks dated 2026-10-28",
+      "status": "16 selected publications; 13 complete PubMed abstracts; three complete PMC bodies retrieved with selected sections inspected; additional published PDF/primary HTML checks and version limits explicit",
+      "sha256": "0f9b72bb1f43514411944c6b7d4874aa883ff64ad06be13d995baa16ea5d3117"
     }
   ],
   "supplementary_recovery": {
@@ -2407,22 +2415,22 @@
   },
   "source_link_audit": {
     "date": "2026-10-28",
-    "unique_source_urls": 876,
+    "unique_source_urls": 896,
     "http_summary": {
       "access_challenge": 281,
-      "access_restricted": 144,
-      "reachable": 386,
+      "reachable": 405,
+      "access_restricted": 145,
       "redirect_landing": 55,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
-      "not_applicable": 310,
-      "api_identity_resolved": 565,
+      "not_applicable": 317,
+      "api_identity_resolved": 578,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "1f6606e19ecb4ec9fec5428f31883aa4efb209283f22606c53281693ceb332a0",
+    "report_sha256": "4f92e1298fa0480966d00d550d76dcf83132d439e9319814f80bac2d1d1bf33d",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },

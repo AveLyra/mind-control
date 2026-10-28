@@ -4,8 +4,8 @@
   "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
   "summary": {
     "access_challenge": 281,
-    "access_restricted": 144,
-    "reachable": 386,
+    "reachable": 405,
+    "access_restricted": 145,
     "redirect_landing": 55,
     "request_failed": 7,
     "http_error": 3
@@ -240,6 +240,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://archive-ouverte.unige.ch/unige:165230",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:17:21+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://archive-ouverte.unige.ch/unige:165230",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Enhancing imagery rehearsal thera... | Archive ouverte UNIGE",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://arxiv.org/abs/2211.14139",
       "record_paths": [
         "research/chats/deeper-d3e91e42-862c-48b0-9142-8237714a614d.md"
@@ -251,6 +267,86 @@
       "content_type": "text/html; charset=utf-8",
       "title": "[2211.14139] hmmTMB: hidden Markov models with flexible covariate effects in R",
       "bytes_sampled": 42960,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04681",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2408.04681",
+      "content_type": "text/html; charset=utf-8",
+      "title": "[2408.04681] Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews",
+      "bytes_sampled": 43710,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28820",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2609.28820",
+      "content_type": "text/html; charset=utf-8",
+      "title": "[2609.28820] AI-Enabled Human Memory Manipulation: Misleading AI-Generated Summaries Distort Human Memory",
+      "bytes_sampled": 44313,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://arxiv.org/html/2408.04681v1",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/html/2408.04681v1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://arxiv.org/html/2409.08895v1",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:53+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/html/2409.08895v1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.28820v1",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://arxiv.org/html/2609.28820v1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "AI-Enabled Human Memory Manipulation:Misleading AI-Generated Summaries Distort Human Memory",
+      "bytes_sampled": 131072,
       "status": "reachable",
       "pdf_signature": null,
       "identity_check_category": "not_applicable"
@@ -5322,6 +5418,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1145/3706598.3713697",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:53+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://dl.acm.org/doi/10.1145/3706598.3713697",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "doi": "10.1145/3706598.3713697",
+        "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+        "authorString": "Pat Pataranutaporn; Chayapatr Archiwaranguprok; Samantha W. T. Chan; Elizabeth Loftus; Pattie Maes",
+        "publication_date": [
+          [
+            2025,
+            4,
+            25
+          ]
+        ],
+        "journalTitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+        "type": "proceedings-article",
+        "metadata_provider": "Crossref",
+        "metadata_url": "https://api.crossref.org/works/10.1145%2F3706598.3713697"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1159/000072883",
       "record_paths": [
         "research/chats/deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b.md"
@@ -6159,6 +6283,22 @@
         "metadata_url": "https://api.crossref.org/works/10.7554%2FeLife.89601.3"
       },
       "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://dspace.mit.edu/entities/publication/7d46de1f-6a49-42ab-9700-c37efa0ba991",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:53+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://dspace.mit.edu/entities/publication/7d46de1f-6a49-42ab-9700-c37efa0ba991",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
     },
     {
       "url": "https://dxe.pubpub.org/pub/dreamadvertising/release/1",
@@ -7577,6 +7717,34 @@
         "journalTitle": "J Clin Sleep Med",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC10758568&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866193/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866193/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Unconscious Manipulation of Conceptual Representations with Decoded Neurofeedback Impacts Search Behavior - PMC",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37985180",
+        "source": "MED",
+        "pmcid": "PMC10866193",
+        "doi": "10.1523/jneurosci.1235-23.2023",
+        "title": "Unconscious Manipulation of Conceptual Representations with Decoded Neurofeedback Impacts Search Behavior.",
+        "authorString": "Margolles P, Elosegi P, Mei N, Soto D.",
+        "pubYear": "2024",
+        "journalTitle": "J Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC10866193&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -12865,7 +13033,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/24882909/",
       "record_paths": [
         "research/chats/01a10987-2751-7340-a64b-fa22acae50de-1-14.md",
-        "research/chats/deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d.md"
+        "research/chats/deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d.md",
+        "research/updates/2026-10-28-combined-techniques.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:42+00:00",
       "auditor_version": 3,
@@ -13337,6 +13506,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27374335/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27374335/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Learning to Associate Orientation with Color in Early Visual Areas by Associative Decoded fMRI Neurofeedback - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27374335",
+        "source": "MED",
+        "pmcid": "PMC4961545",
+        "doi": "10.1016/j.cub.2016.05.014",
+        "title": "Learning to Associate Orientation with Color in Early Visual Areas by Associative Decoded fMRI Neurofeedback.",
+        "authorString": "Amano K, Shibata K, Kawato M, Sasaki Y, Watanabe T.",
+        "pubYear": "2016",
+        "journalTitle": "Curr Biol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27374335+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/27377418/",
       "record_paths": [
         "research/chats/supplement-4ee6aad7-ea3a-4dad-8899-5fb1117a8751.md"
@@ -13389,6 +13586,34 @@
         "journalTitle": "Sci Rep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27377759+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27445775/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27445775/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Re-presentation of Olfactory Exposure Therapy Success Cues during Non-Rapid Eye Movement Sleep did not Increase Therapy Outcome but Increased Sleep Spindles - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27445775",
+        "source": "MED",
+        "pmcid": "PMC4928007",
+        "doi": "10.3389/fnhum.2016.00340",
+        "title": "Re-presentation of Olfactory Exposure Therapy Success Cues during Non-Rapid Eye Movement Sleep did not Increase Therapy Outcome but Increased Sleep Spindles.",
+        "authorString": "Rihm JS, Sollberger SB, Soravia LM, Rasch B.",
+        "pubYear": "2016",
+        "journalTitle": "Front Hum Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27445775+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13485,6 +13710,34 @@
         "journalTitle": "Psychophysiology",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28098351+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28163140/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28163140/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Decoded fMRI neurofeedback can induce bidirectional confidence changes within single participants - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28163140",
+        "source": "MED",
+        "pmcid": "PMC5755700",
+        "doi": "10.1016/j.neuroimage.2017.01.069",
+        "title": "Decoded fMRI neurofeedback can induce bidirectional confidence changes within single participants.",
+        "authorString": "Cortese A, Amano K, Koizumi A, Lau H, Kawato M.",
+        "pubYear": "2017",
+        "journalTitle": "Neuroimage",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28163140+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13748,6 +14001,34 @@
         "journalTitle": "J Pers Soc Psychol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2926631+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29511106/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29511106/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Towards an unconscious neural reinforcement intervention for common fears - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29511106",
+        "source": "MED",
+        "pmcid": "PMC5879705",
+        "doi": "10.1073/pnas.1721572115",
+        "title": "Towards an unconscious neural reinforcement intervention for common fears.",
+        "authorString": "Taschereau-Dumouchel V, Cortese A, Chiba T, Knotts JD, Kawato M, Lau H.",
+        "pubYear": "2018",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29511106+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14399,6 +14680,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31914371/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31914371/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "HYPNOTIC SUGGESTIONS GIVEN BEFORE NIGHTTIME SLEEP EXTEND SLOW-WAVE SLEEP AS COMPARED TO A CONTROL TEXT IN HIGHLY HYPNOTIZABLE SUBJECTS - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31914371",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207144.2020.1687260",
+        "title": "HYPNOTIC SUGGESTIONS GIVEN BEFORE NIGHTTIME SLEEP EXTEND SLOW-WAVE SLEEP AS COMPARED TO A CONTROL TEXT IN HIGHLY HYPNOTIZABLE SUBJECTS.",
+        "authorString": "Cordi MJ, Rossier L, Rasch B.",
+        "pubYear": "2020",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31914371+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/31946344/",
       "record_paths": [
         "research/chats/01a17ed2-0854-78d1-ac1a-8f9a169b6717-1-5.md",
@@ -14904,6 +15213,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34393533/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34393533/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Hypnotic Suggestions Increase Slow-Wave Parameters but Decrease Slow-Wave Spindle Coupling - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34393533",
+        "source": "MED",
+        "pmcid": "PMC8355552",
+        "doi": "10.2147/nss.s316997",
+        "title": "Hypnotic Suggestions Increase Slow-Wave Parameters but Decrease Slow-Wave Spindle Coupling.",
+        "authorString": "Beck J, Cordi MJ, Rasch B.",
+        "pubYear": "2021",
+        "journalTitle": "Nat Sci Sleep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34393533+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/34649047/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-3-8.md"
@@ -15108,6 +15445,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35845468/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35845468/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Targeted Memory Reactivation During REM Sleep in Patients With Social Anxiety Disorder - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35845468",
+        "source": "MED",
+        "pmcid": "PMC9281560",
+        "doi": "10.3389/fpsyt.2022.904704",
+        "title": "Targeted Memory Reactivation During REM Sleep in Patients With Social Anxiety Disorder.",
+        "authorString": "Borghese F, Henckaerts P, Guy F, Perez Mayo C, Delplanque S, Schwartz S, Perogamvros L.",
+        "pubYear": "2022",
+        "journalTitle": "Front Psychiatry",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35845468+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/35903805/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -15285,7 +15650,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/36306786/",
       "record_paths": [
-        "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-18.md"
+        "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-18.md",
+        "research/updates/2026-10-28-combined-techniques.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:08+00:00",
       "auditor_version": 3,
@@ -15699,6 +16065,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37985180/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37985180/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Unconscious Manipulation of Conceptual Representations with Decoded Neurofeedback Impacts Search Behavior - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37985180",
+        "source": "MED",
+        "pmcid": "PMC10866193",
+        "doi": "10.1523/jneurosci.1235-23.2023",
+        "title": "Unconscious Manipulation of Conceptual Representations with Decoded Neurofeedback Impacts Search Behavior.",
+        "authorString": "Margolles P, Elosegi P, Mei N, Soto D.",
+        "pubYear": "2024",
+        "journalTitle": "J Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37985180+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38107593/",
       "record_paths": [
         "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md"
@@ -16077,6 +16471,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39116885/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39116885/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Targeted memory reactivation to augment treatment in post-traumatic stress disorder - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39116885",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.cub.2024.07.019",
+        "title": "Targeted memory reactivation to augment treatment in post-traumatic stress disorder.",
+        "authorString": "van der Heijden AC, van der Werf YD, van den Heuvel OA, Talamini LM, van Marle HJF.",
+        "pubYear": "2024",
+        "journalTitle": "Curr Biol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39116885+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/39208441/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-9-13.md"
@@ -16101,6 +16523,34 @@
         "journalTitle": "Sleep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39208441+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39221769/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39221769/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A double-blind trial of decoded neurofeedback intervention for specific phobias - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39221769",
+        "source": "MED",
+        "pmcid": "PMC11531993",
+        "doi": "10.1111/pcn.13726",
+        "title": "A double-blind trial of decoded neurofeedback intervention for specific phobias.",
+        "authorString": "Cushing CA, Lau H, Kawato M, Craske MG, Taschereau-Dumouchel V.",
+        "pubYear": "2024",
+        "journalTitle": "Psychiatry Clin Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39221769+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17521,6 +17971,34 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42626369+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42714131/",
+      "record_paths": [
+        "research/updates/2026-10-28-combined-techniques.md"
+      ],
+      "checked_at_utc": "2026-10-28T18:11:51+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42714131/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Reactivating a Relaxation Exercise During Sleep to Influence Cortical Hyperarousal in Individuals With Frequent Nightmares - PubMed",
+      "bytes_sampled": 114812,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42714131",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/jsr.70443",
+        "title": "Reactivating a Relaxation Exercise During Sleep to Influence Cortical Hyperarousal in Individuals With Frequent Nightmares.",
+        "authorString": "Sayk C, Probst A, Lange F, Eickemeier S, Amores J, Ngo HV, Ehsanifard M, Junghanns K, Wilhelm I.",
+        "pubYear": "2026",
+        "journalTitle": "J Sleep Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42714131+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20928,11 +21406,6 @@
     }
   ],
   "prior_checks_note": "All direct HTTP/API attempts were refreshed on 2026-10-28. Separately recorded identity, registry, and web-content checks retain their original 2026-10-27 dates; they were preserved, not rerun by this CLI refresh.",
-  "metadata_summary": {
-    "not_applicable": 310,
-    "api_identity_resolved": 565,
-    "prior_independent_identity_resolved_after_index_miss": 1
-  },
   "horizon_incremental_check": {
     "date": "2026-10-28",
     "prior_same_day_results_reused": 873,
@@ -20942,5 +21415,21 @@
     },
     "new_url_metadata_identities_resolved": 3,
     "scope": "New source URLs and updated context paths; earlier same-day outcomes and separately dated checks preserved."
+  },
+  "metadata_summary": {
+    "not_applicable": 317,
+    "api_identity_resolved": 578,
+    "prior_independent_identity_resolved_after_index_miss": 1
+  },
+  "combined_technique_incremental_check": {
+    "date": "2026-10-28",
+    "prior_same_day_results_preserved": 876,
+    "new_source_urls_checked": 20,
+    "new_url_http_summary": {
+      "reachable": 19,
+      "access_restricted": 1
+    },
+    "new_url_metadata_identities_resolved": 13,
+    "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
   }
 }
