@@ -1,6 +1,6 @@
 # Sleep, Hypnosis, and Influence Research Wiki
 
-A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery, supplied-literature integration, and the research network updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
+A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery, supplied-literature integration, and the research network updated October 28, with posthypnotic/sleep-conditioning research added October 29. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
 
 ## Research focus
 
@@ -20,6 +20,7 @@ AI misinformation, source monitoring, general memory theory, and neural interfac
 |---|---|
 | [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
 | [Sleep techniques and learning](wiki/sleep.md) | Targeted memory reactivation, dream incubation, sleep conditioning, pink noise, masked speech |
+| [Posthypnotic suggestion, sleep conditioning, and pink noise](wiki/posthypnotic-sleep-and-pink-noise.md) | Lasting cued responses, waking behavior, independent and failed replications, noise as stimulation/masking/cue, and direct combinations |
 | [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
 | [Historical programs and drugs](wiki/history-and-drugs.md) | CHATTER, BLUEBIRD, ARTICHOKE, MKULTRA, later programs, memory and suggestibility research |
 | [Research network and science-fiction horizon](wiki/research-horizon.md) | 17 capabilities, 14 connections, six larger scenarios, contrary evidence, and milestones that would move the boundary |
@@ -39,7 +40,8 @@ AI misinformation, source monitoring, general memory theory, and neural interfac
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 154 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Source catalog](sources/catalog.md): 155 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Posthypnotic/sleep/pink-noise checks](research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md): 39 source entries, 17 bounded queries, durability contrasts, behavioral outcomes, reused data, negative replications, and a retraction exclusion.
 - [Context/detection checks](research/updates/2026-10-28-context-reinstatement-detection.md): 26 source entries, 16 bounded queries, competing directions, reused data, and scoped inspection.
 - [Prediction-error/retrieval checks](research/updates/2026-10-28-prediction-error-retrieval.md): 30 source entries, 15 bounded queries, competing mechanisms, correction status, and scoped inspection.
 - [Reconsolidation/source-monitoring checks](research/updates/2026-10-28-reconsolidation-source-monitoring.md): 34 source entries, 19 bounded PubMed queries, replication distinctions, and scoped primary-text inspection.
@@ -62,6 +64,8 @@ Topic pages are editorial navigation and synthesis. `research/` preserves select
 ## Continue research
 
 Start with [hypnosis](wiki/hypnosis.md), [sleep influence](wiki/sleep.md), and [conditioning](wiki/conditioning.md). The next research priorities are posthypnotic behavior and its limits, sleep influence on later waking responses, and direct hypnosis–sleep combinations. Use the [research horizon](wiki/research-horizon.md) to track the missing steps from those techniques to broader control claims. Its manual watchlist includes transfer, durability, awareness, cooperation, and resistance. No recurring monitor is active.
+
+The [new durability and pink-noise review](wiki/posthypnotic-sleep-and-pink-noise.md) now addresses those priorities. Its remaining questions concern independent behavioral replication, persistence without renewed cues or exposure, and direct component comparisons for the proposed combinations.
 
 The [original Deep Research prompt](prompts/awareness-optical-deep-research.md) now has a supplied [continuation review and companion files](sources/awareness-update-intake.md), integrated into the [awareness topic page](wiki/awareness.md). The result addresses awareness measurement and unconscious visual processing, with optical and sleep applications. It is new literature synthesis, with the original citation gap preserved. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
 

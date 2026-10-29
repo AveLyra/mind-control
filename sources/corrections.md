@@ -65,6 +65,18 @@ Crossref identifies DOI `10.7554/eLife.89601.2.sa2` as an **eLife Assessment**. 
 
 The [2019 sleep-vocabulary article](https://pubmed.ncbi.nlm.nih.gov/30713104/) has a linked [erratum](https://pubmed.ncbi.nlm.nih.gov/31639343/). The erratum’s contents were not examined in this pass. The retrieved record did not indicate a retraction; a correction link alone cannot establish that the result was reversed. Quantitative reuse should consult the corrected publication.
 
+<a id="posthypnotic-and-acoustic-study-relationships"></a>
+## Durability reports and reused sleep datasets
+
+The [new technique checks](../research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md) distinguish methods papers, final outcomes, and reused data. The food methods/final reports are not two outcome replications; the neural sleep-learning and counter-bias papers reuse earlier data. The 2026 noise reports T28–T29 describe the same trial identifier and sample. The older durability studies share investigators, with a later failed attempt to reproduce a difficulty effect.
+
+The handgrip study's paired increase, mixed-ANOVA findings, and between-group time-point tests are different contrasts. The insight study's adverse numerical pattern had nonsignificant group comparisons. These are limits on editorial interpretation, not assertions that either publication was corrected or retracted. Reported estimates were not independently recalculated.
+
+<a id="acoustic-meta-analysis-retraction"></a>
+## Retracted acoustic synthesis
+
+The [retraction notice](https://pubmed.ncbi.nlm.nih.gov/40519131/) invalidates the conclusions of the [acoustic-stimulation meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34850995/), DOI `10.1111/jsr.13385`, citing errors including standard-error/standard-deviation substitution and sample sizes. Its pooled results are excluded from positive evidence in the new review. Other unretracted syntheses and primary experiments retain their own evidentiary status; the notice is not a new experiment or a retraction of the whole field.
+
 ## Access and link repairs
 
 Malformed Apple and DOI paths and an outdated FTC privacy link were replaced with identifiable official routes. A failed Folia mirror now points to the verified publication DOI. A historical Wikipedia draft-policy link now points to the live guidance page, with the original answer’s policy claims explicitly left historical. Original targets and reasons remain in the [repair ledger](citation-recovery.json).

@@ -4,6 +4,8 @@
 
 The [research focus](../README.md#research-focus) is hypnosis, sleep influence, and mind control. Start with C04–C09 and the behavioral-control question in F05. Use the broader network to test a specified influence pathway; memory reconstruction and AI misinformation are supporting branches.
 
+The [posthypnotic/sleep/pink-noise follow-up](posthypnotic-sleep-and-pink-noise.md) directly develops that focus: lasting behavior, renewed cue responsiveness, sleep-conditioned transfer, opposing cue effects, and acoustic replication limits. The capability, bridge, and scenario IDs remain stable.
+
 The [replication and modality follow-up](decoded-feedback-and-ai-memory.md) traces C17/B08 and B10 evidence by cohort, adds direct conventional-feedback combinations, and preserves the missing decoded-fMRI and AI-distortion interactions. The capability and bridge IDs remain stable.
 
 The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-monitoring.md) examines possible mechanisms around C04/C09/C14 and B10/B14. It distinguishes changed content from changed access or source judgment, includes supportive and failed replications, and preserves the missing direct AI–sleep–hypnosis combination. No new capability is inferred solely from joining those literatures.
@@ -109,11 +111,15 @@ Connects to **B01, B04** and [sleep](sleep.md). Sleep is not synonymous with abs
 
 Connects to **B06** and [conditioning](conditioning.md). A learned immune response does not establish drug replacement, arbitrary behavior, or a general susceptibility trait.
 
+The [sleep-conditioning follow-up](posthypnotic-sleep-and-pink-noise.md#sleep-conditioning) distinguishes new associations expressed after waking, the smoking behavior result, a separate alcohol-cue null, and failed counter-bias replication. These endpoints and study relationships qualify transfer to broader behavior.
+
 ### C09 — Suggestion can change a task response; agency needs its own measure
 
 **Measured:** a posthypnotic-suggestion study found altered Stroop-related behavior and neural activity in highly hypnotizable participants under specified task conditions. Theoretical accounts of dissociation propose different explanations for hypnotic responding. [S13–S14](../research/updates/2026-10-28-horizon-source-checks.md#s13)
 
 Connects to **B06, B09, B12** and [hypnosis](hypnosis.md). The Stroop study is not itself proof of subjective involuntariness or a particular dissociation theory. Task performance, experienced agency, compliance, and recall require separate measures and comparison conditions.
+
+The [durability follow-up](posthypnotic-sleep-and-pink-noise.md#posthypnotic) adds week-to-eight-week tests, waking-request controls, and modern cued outcomes. Repeated cueing and persistent unprompted action remain separate claims.
 
 Separate pre-sleep suggestion studies increased slow-wave sleep in selected participants. A reanalysis found no memory benefit and reduced slow-wave/spindle coupling. This motivates **B14**; it does not establish a causal mediator or an already-tested failure of hypnosis plus cueing. See [CT2](combined-techniques.md#ct2).
 

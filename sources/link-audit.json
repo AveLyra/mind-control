@@ -1,10 +1,10 @@
 {
-  "audit_date": "2026-10-28",
+  "audit_date": "2026-10-29",
   "auditor_version": 3,
-  "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
+  "scope": "Cumulative source access and identity audit. New URLs checked October 29, 2026; earlier URL outcomes retain their original October 28 check dates. Context paths updated. No claim-level certification.",
   "summary": {
-    "reachable": 512,
-    "access_restricted": 148,
+    "reachable": 541,
+    "access_restricted": 149,
     "access_challenge": 281,
     "redirect_landing": 55,
     "request_failed": 7,
@@ -11619,6 +11619,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11417143/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/11417143/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Efficacy of induction and difficulty level in durability of post-hypnotic suggestions - PubMed",
+      "bytes_sampled": 120223,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "11417143",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00029157.2001.10403452",
+        "title": "Efficacy of induction and difficulty level in durability of post-hypnotic suggestions.",
+        "authorString": "Calandrino JG, Kurtz RM, Strube MJ.",
+        "pubYear": "2001",
+        "journalTitle": "Am J Clin Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A11417143+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/12009043/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -11704,6 +11732,34 @@
         "journalTitle": "FASEB J",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A12468450+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12470132/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:55+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/12470132/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Hypnotic suggestion and the modulation of Stroop interference - PubMed",
+      "bytes_sampled": 128560,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "12470132",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1001/archpsyc.59.12.1155",
+        "title": "Hypnotic suggestion and the modulation of Stroop interference.",
+        "authorString": "Raz A, Shapiro T, Fan J, Posner MI.",
+        "pubYear": "2002",
+        "journalTitle": "Arch Gen Psychiatry",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A12470132+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -12515,7 +12571,8 @@
         "research/chats/supplement-1d807d80-b794-50e6-9c4e-9ef0dffc6209.md",
         "research/chats/supplement-235b91fa-5cab-58cd-bb2a-819a70248b5e.md",
         "research/chats/supplement-7348cd06-afd4-5bb0-8b1d-31b35fcdd34d.md",
-        "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md"
+        "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:30+00:00",
       "auditor_version": 3,
@@ -12623,6 +12680,34 @@
         "journalTitle": "Psychopharmacology (Berl)",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20179909+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20183735/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/20183735/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Behavioral persistence in carrying out a posthypnotic suggestion beyond the hypnotic context: a consideration of the role of perceived demand characteristics - PubMed",
+      "bytes_sampled": 124796,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "20183735",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207140903316201",
+        "title": "Behavioral persistence in carrying out a posthypnotic suggestion beyond the hypnotic context: a consideration of the role of perceived demand characteristics.",
+        "authorString": "Damaser E, Whitehouse WG, Orne MT, Orne EC, Dinges DF.",
+        "pubYear": "2010",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20183735+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13262,7 +13347,8 @@
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md",
         "research/chats/supplement-a063061a-c55e-4c3c-bf77-375a9e186442.md",
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
-        "research/updates/2026-10-28-horizon-source-checks.md"
+        "research/updates/2026-10-28-horizon-source-checks.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:17+00:00",
       "auditor_version": 3,
@@ -13429,6 +13515,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23583623/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:57+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23583623/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Auditory closed-loop stimulation of the sleep slow oscillation enhances memory - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23583623",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.neuron.2013.03.006",
+        "title": "Auditory closed-loop stimulation of the sleep slow oscillation enhances memory.",
+        "authorString": "Ngo HV, Martinetz T, Born J, Mölle M.",
+        "pubYear": "2013",
+        "journalTitle": "Neuron",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23583623+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/23678104/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -13482,6 +13596,34 @@
         "journalTitle": "Hum Psychopharmacol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23776033+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23778018/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:56+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23778018/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Hypnotic suggestibility predicts the magnitude of the imaginative word blindness suggestion effect in a non-hypnotic context - PubMed",
+      "bytes_sampled": 126441,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23778018",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.concog.2013.05.009",
+        "title": "Hypnotic suggestibility predicts the magnitude of the imaginative word blindness suggestion effect in a non-hypnotic context.",
+        "authorString": "Parris BA, Dienes Z.",
+        "pubYear": "2013",
+        "journalTitle": "Conscious Cogn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23778018+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13854,7 +13996,8 @@
       "record_paths": [
         "research/chats/01a10987-2751-7340-a64b-fa22acae50de-1-14.md",
         "research/chats/deeper-2d5f09ab-d475-4dd0-a981-8a1954c8af1d.md",
-        "research/updates/2026-10-28-combined-techniques.md"
+        "research/updates/2026-10-28-combined-techniques.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:42+00:00",
       "auditor_version": 3,
@@ -14095,7 +14238,8 @@
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45.md",
         "research/chats/deeper-hypnosis-evidence-archive.md",
         "research/chats/supplement-07fe3c23-2878-5ccb-aac3-a37c0d4960b9.md",
-        "research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md"
+        "research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:17+00:00",
       "auditor_version": 3,
@@ -14296,7 +14440,8 @@
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-55-36.md",
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
-        "research/updates/2026-10-28-horizon-source-checks.md"
+        "research/updates/2026-10-28-horizon-source-checks.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:17+00:00",
       "auditor_version": 3,
@@ -14318,6 +14463,34 @@
         "journalTitle": "Science",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26023137+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26071676/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:57+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26071676/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Exposure to extinction-associated contextual tone during slow-wave sleep and wakefulness differentially modulates fear expression - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26071676",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.nlm.2015.06.005",
+        "title": "Exposure to extinction-associated contextual tone during slow-wave sleep and wakefulness differentially modulates fear expression.",
+        "authorString": "Ai SZ, Chen J, Liu JF, He J, Xue YX, Bao YP, Han F, Tang XD, Lu L, Shi J.",
+        "pubYear": "2015",
+        "journalTitle": "Neurobiol Learn Mem",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26071676+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15415,6 +15588,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29467633/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29467633/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Closed-Loop Targeted Memory Reactivation during Sleep Improves Spatial Navigation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29467633",
+        "source": "MED",
+        "pmcid": "PMC5808124",
+        "doi": "10.3389/fnhum.2018.00028",
+        "title": "Closed-Loop Targeted Memory Reactivation during Sleep Improves Spatial Navigation.",
+        "authorString": "Shimizu RE, Connolly PM, Cellini N, Armstrong DM, Hernandez LT, Estrada R, Aguilar M, Weisend MP, Mednick SC, Simons SB.",
+        "pubYear": "2018",
+        "journalTitle": "Front Hum Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29467633+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/29511106/",
       "record_paths": [
         "research/updates/2026-10-28-combined-techniques.md",
@@ -15943,7 +16144,8 @@
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
         "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-2-2.md",
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
-        "research/updates/2026-10-28-horizon-source-checks.md"
+        "research/updates/2026-10-28-horizon-source-checks.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:14+00:00",
       "auditor_version": 3,
@@ -16347,7 +16549,8 @@
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
         "research/chats/deeper-hypnosis-evidence-archive.md",
-        "research/chats/supplement-07fe3c23-2878-5ccb-aac3-a37c0d4960b9.md"
+        "research/chats/supplement-07fe3c23-2878-5ccb-aac3-a37c0d4960b9.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:25+00:00",
       "auditor_version": 3,
@@ -16453,6 +16656,34 @@
         "journalTitle": "J Sleep Res",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31674096+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31690927/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:56+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31690927/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Neural Dynamics of Associative Learning during Human Sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31690927",
+        "source": "MED",
+        "pmcid": "PMC7132910",
+        "doi": "10.1093/cercor/bhz197",
+        "title": "Neural Dynamics of Associative Learning during Human Sleep.",
+        "authorString": "Canales-Johnson A, Merlo E, Bekinschtein TA, Arzi A.",
+        "pubYear": "2020",
+        "journalTitle": "Cereb Cortex",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31690927+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16754,6 +16985,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32765139/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:59+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/32765139/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Enhancing Slow Oscillations and Increasing N3 Sleep Proportion with Supervised, Non-Phase-Locked Pink Noise and Other Non-Standard Auditory Stimulation During NREM Sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "32765139",
+        "source": "MED",
+        "pmcid": "PMC7364346",
+        "doi": "10.2147/nss.s243204",
+        "title": "Enhancing Slow Oscillations and Increasing N3 Sleep Proportion with Supervised, Non-Phase-Locked Pink Noise and Other Non-Standard Auditory Stimulation During NREM Sleep.",
+        "authorString": "Schade MM, Mathew GM, Roberts DM, Gartenberg D, Buxton OM.",
+        "pubYear": "2020",
+        "journalTitle": "Nat Sci Sleep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A32765139+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/32868423/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -16872,7 +17131,8 @@
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-2-6.md",
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-9-13.md",
-        "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md"
+        "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:59+00:00",
       "auditor_version": 3,
@@ -16894,6 +17154,34 @@
         "journalTitle": "Sleep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33406249+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33423342/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:55+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33423342/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Look into my eyes: Pupillometry reveals that a post-hypnotic suggestion for word blindness reduces Stroop interference by marshalling greater effortful control - PubMed",
+      "bytes_sampled": 121965,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33423342",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/ejn.15105",
+        "title": "Look into my eyes: Pupillometry reveals that a post-hypnotic suggestion for word blindness reduces Stroop interference by marshalling greater effortful control.",
+        "authorString": "Parris BA, Hasshim N, Dienes Z.",
+        "pubYear": "2021",
+        "journalTitle": "Eur J Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33423342+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16960,6 +17248,34 @@
         "journalTitle": "Sci Data",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33623035+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33639484/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33639484/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Acoustic enhancement of slow wave sleep on consecutive nights improves alertness and attention in chronically short sleepers - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33639484",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.sleep.2021.01.044",
+        "title": "Acoustic enhancement of slow wave sleep on consecutive nights improves alertness and attention in chronically short sleepers.",
+        "authorString": "Diep C, Garcia-Molina G, Jasko J, Manousakis J, Ostrowski L, White D, Anderson C.",
+        "pubYear": "2021",
+        "journalTitle": "Sleep Med",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33639484+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17246,7 +17562,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/34393533/",
       "record_paths": [
-        "research/updates/2026-10-28-combined-techniques.md"
+        "research/updates/2026-10-28-combined-techniques.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T18:11:51+00:00",
       "auditor_version": 3,
@@ -17352,6 +17669,34 @@
         "journalTitle": "Curr Sleep Med Rep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34722123+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34850995/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34850995/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The impact of acoustic stimulation during sleep on memory and sleep architecture: A meta-analysis - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34850995",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/jsr.13385",
+        "title": "The impact of acoustic stimulation during sleep on memory and sleep architecture: A meta-analysis.",
+        "authorString": "Stanyer EC, Baniqued PDE, Awais M, Kouara L, Davies AG, Killan EC, Mushtaq F.",
+        "pubYear": "2022",
+        "journalTitle": "J Sleep Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34850995+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17470,6 +17815,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35166422/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35166422/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "No difference between slow oscillation up- and down-state cueing for memory consolidation during sleep - PubMed",
+      "bytes_sampled": 128239,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35166422",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/jsr.13562",
+        "title": "No difference between slow oscillation up- and down-state cueing for memory consolidation during sleep.",
+        "authorString": "Wang JY, Heck KL, Born J, Ngo HV, Diekelmann S.",
+        "pubYear": "2022",
+        "journalTitle": "J Sleep Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35166422+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/35321359/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-53-13.md"
@@ -17584,6 +17957,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35432045/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35432045/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Exposure to Olfactory Alcohol Cues During Non-rapid Eye Movement Sleep Did Not Decrease Craving in Patients With Alcohol Dependence - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35432045",
+        "source": "MED",
+        "pmcid": "PMC9010533",
+        "doi": "10.3389/fpsyt.2022.837573",
+        "title": "Exposure to Olfactory Alcohol Cues During Non-rapid Eye Movement Sleep Did Not Decrease Craving in Patients With Alcohol Dependence.",
+        "authorString": "Zhu R, Ni Z, Tao R, Cheng J, Pang L, Zhang S, Zhang Y, Xue Y, Ma Y, Sun W, Lu L, Deng J, Sun H.",
+        "pubYear": "2022",
+        "journalTitle": "Front Psychiatry",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35432045+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/35508568/",
       "record_paths": [
         "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
@@ -17644,6 +18045,62 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35600831/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35600831/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The Nature and Persistence of Posthypnotic Suggestions' Effects on Food Preferences: An Online Study - PubMed",
+      "bytes_sampled": 127157,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35600831",
+        "source": "MED",
+        "pmcid": "PMC9116029",
+        "doi": "10.3389/fnut.2022.859656",
+        "title": "The Nature and Persistence of Posthypnotic Suggestions' Effects on Food Preferences: An Online Study.",
+        "authorString": "Zahedi A, Öznur Akalin R, Lawrence JE, Baumann A, Sommer W.",
+        "pubYear": "2022",
+        "journalTitle": "Front Nutr",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35600831+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35603302/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35603302/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Auditory deep sleep stimulation in older adults at home: a randomized crossover trial - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35603302",
+        "source": "MED",
+        "pmcid": "PMC9053232",
+        "doi": "10.1038/s43856-022-00096-6",
+        "title": "Auditory deep sleep stimulation in older adults at home: a randomized crossover trial.",
+        "authorString": "Lustenberger C, Ferster ML, Huwiler S, Brogli L, Werth E, Huber R, Karlen W.",
+        "pubYear": "2022",
+        "journalTitle": "Commun Med (Lond)",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35603302+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/35637212/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-44-13.md",
@@ -17669,6 +18126,34 @@
         "journalTitle": "Sci Rep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35637212+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35762085/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:57+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35762085/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Optimising sounds for the driving of sleep oscillations by closed-loop auditory stimulation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35762085",
+        "source": "MED",
+        "pmcid": "PMC9788124",
+        "doi": "10.1111/jsr.13676",
+        "title": "Optimising sounds for the driving of sleep oscillations by closed-loop auditory stimulation.",
+        "authorString": "Debellemanière E, Pinaud C, Schneider J, Arnal PJ, Casson AJ, Chennaoui M, Galtier M, Navarrete M, Lewis PA.",
+        "pubYear": "2022",
+        "journalTitle": "J Sleep Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35762085+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17904,6 +18389,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36279449/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/36279449/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Shaping overnight consolidation via slow-oscillation closed-loop targeted memory reactivation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "36279449",
+        "source": "MED",
+        "pmcid": "PMC9636934",
+        "doi": "10.1073/pnas.2123428119",
+        "title": "Shaping overnight consolidation via slow-oscillation closed-loop targeted memory reactivation.",
+        "authorString": "Ngo HV, Staresina BP.",
+        "pubYear": "2022",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A36279449+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/36306786/",
       "record_paths": [
         "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-18.md",
@@ -17929,6 +18442,34 @@
         "journalTitle": "Curr Biol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A36306786+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36458473/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:56+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/36458473/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Targeted memory reactivation during sleep influences social bias as a function of slow-oscillation phase and delta power - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "36458473",
+        "source": "MED",
+        "pmcid": "PMC10085833",
+        "doi": "10.1111/psyp.14224",
+        "title": "Targeted memory reactivation during sleep influences social bias as a function of slow-oscillation phase and delta power.",
+        "authorString": "Xia T, Antony JW, Paller KA, Hu X.",
+        "pubYear": "2023",
+        "journalTitle": "Psychophysiology",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A36458473+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18018,6 +18559,34 @@
         "journalTitle": "Cell Rep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37014750+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37034940/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37034940/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The nature and persistence of the effects of posthypnotic suggestions on food preferences: The final report of an online study - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37034940",
+        "source": "MED",
+        "pmcid": "PMC10074491",
+        "doi": "10.3389/fpsyg.2023.1123907",
+        "title": "The nature and persistence of the effects of posthypnotic suggestions on food preferences: The final report of an online study.",
+        "authorString": "Zahedi A, Öznur Akalin R, Lawrence JE, Baumann A, Sommer W.",
+        "pubYear": "2023",
+        "journalTitle": "Front Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37034940+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18464,7 +19033,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38107593/",
       "record_paths": [
-        "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md"
+        "research/chats/6aa2ab16-0dfc-83ea-9ec6-8588b6ec3e37-1-2.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:52+00:00",
       "auditor_version": 3,
@@ -18486,6 +19056,34 @@
         "journalTitle": "Front Hum Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38107593+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38347065/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38347065/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Post-hypnotic safety suggestion improves stress coping with long-lasting effects - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38347065",
+        "source": "MED",
+        "pmcid": "PMC10861489",
+        "doi": "10.1038/s41598-024-54071-3",
+        "title": "Post-hypnotic safety suggestion improves stress coping with long-lasting effects.",
+        "authorString": "Schmidt B, Rohleder N, Engert V.",
+        "pubYear": "2024",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38347065+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18573,6 +19171,34 @@
         "journalTitle": "Cogn Affect Behav Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38504050+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38569321/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38569321/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Post-hypnotic suggestion improves confidence and speed of memory access with long-lasting effects - PubMed",
+      "bytes_sampled": 117393,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38569321",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.actpsy.2024.104240",
+        "title": "Post-hypnotic suggestion improves confidence and speed of memory access with long-lasting effects.",
+        "authorString": "Schmidt B, Böhmer J, Schnuerch M, Koch T, Michelmann S.",
+        "pubYear": "2024",
+        "journalTitle": "Acta Psychol (Amst)",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38569321+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -19122,6 +19748,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39402088/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39402088/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Increasing handgrip strength via post-hypnotic suggestions with lasting effects - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39402088",
+        "source": "MED",
+        "pmcid": "PMC11473724",
+        "doi": "10.1038/s41598-024-73117-0",
+        "title": "Increasing handgrip strength via post-hypnotic suggestions with lasting effects.",
+        "authorString": "Nieft U, Schlütz M, Schmidt B.",
+        "pubYear": "2024",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39402088+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/39448569/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-52-28.md"
@@ -19567,6 +20221,34 @@
         "journalTitle": "Neural Netw",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40499302+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40519131/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40519131/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "RETRACTION: The Impact of Acoustic Stimulation During Sleep on Memory and Sleep Architecture: A Meta-Analysis - PubMed",
+      "bytes_sampled": 99029,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40519131",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/jsr.70111",
+        "title": "RETRACTION: The Impact of Acoustic Stimulation During Sleep on Memory and Sleep Architecture: A Meta-Analysis.",
+        "authorString": null,
+        "pubYear": "2026",
+        "journalTitle": "J Sleep Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40519131+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20198,7 +20880,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41426467/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-9-13.md",
-        "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2.md"
+        "research/chats/6aad7f39-7bdc-83e9-b0ae-417765a78db0-1-2.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:58:00+00:00",
       "auditor_version": 3,
@@ -20248,6 +20931,34 @@
         "journalTitle": "Neurosci Biobehav Rev",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41513054+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41513961/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:58+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41513961/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Pink noise reduces impact of traffic noise on sleep and the blood metabolome: a cross-over pilot study - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41513961",
+        "source": "MED",
+        "pmcid": "PMC12901012",
+        "doi": "10.1038/s43856-026-01380-5",
+        "title": "Pink noise reduces impact of traffic noise on sleep and the blood metabolome: a cross-over pilot study.",
+        "authorString": "Vincens N, Nause A, Basner M, Fredriksson S, Malmodin D, Bay Nord A, Persson Waye K, Younes M, Zou D, Smith MG.",
+        "pubYear": "2026",
+        "journalTitle": "Commun Med (Lond)",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41513961+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20307,6 +21018,34 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41561361+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41627391/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:58+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41627391/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Efficacy of pink noise and earplugs for mitigating the effects of intermittent environmental noise exposure on sleep - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41627391",
+        "source": "MED",
+        "pmcid": "PMC13163165",
+        "doi": "10.1093/sleep/zsag001",
+        "title": "Efficacy of pink noise and earplugs for mitigating the effects of intermittent environmental noise exposure on sleep.",
+        "authorString": "Basner M, Smith MG, Cordoza M, Kayser MS, Carlin M, Ecker AJ, Gilad Y, Park-Chavar S, Rennie K, Schneller V, Walsh S, Shou H, Cao Q, Younes M, Aeschbach D, Jones CW.",
+        "pubYear": "2026",
+        "journalTitle": "Sleep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41627391+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20679,6 +21418,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42120238/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:59+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42120238/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The efficacy of pink noise and earplugs for mitigating sleep disruption induced by different environmental noise sources - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42120238",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.sleh.2026.03.009",
+        "title": "The efficacy of pink noise and earplugs for mitigating sleep disruption induced by different environmental noise sources.",
+        "authorString": "Basner M, Smith MG, Cordoza M, Kayser MS, Carlin M, Ecker AJ, Gilad Y, Park-Chavar S, Rennie K, Schneller V, Walsh S, Shou H, Cao Q, Younes M, Aeschbach D, Jones CW.",
+        "pubYear": "2026",
+        "journalTitle": "Sleep Health",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42120238+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/42158642/",
       "record_paths": [
         "research/chats/supplement-4d344059-64d6-4a61-8749-6ffa673c3947.md"
@@ -20990,6 +21757,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4682146/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/4682146/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Posthypnotic suggestion as higher-order conditioning: a methodological and experimental analysis - PubMed",
+      "bytes_sampled": 107293,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "4682146",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207147308409303",
+        "title": "Posthypnotic suggestion as higher-order conditioning: a methodological and experimental analysis.",
+        "authorString": "Barrios AA.",
+        "pubYear": "1973",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A4682146+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/6122188/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-52-28.md"
@@ -21213,6 +22008,34 @@
         "journalTitle": "Br J Psychol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A856373+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8917929/",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:34:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/8917929/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Durability of posthypnotic suggestions: type of suggestion and difficulty level - PubMed",
+      "bytes_sampled": 124038,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "8917929",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00029157.1996.10403363",
+        "title": "Durability of posthypnotic suggestions: type of suggestion and difficulty level.",
+        "authorString": "Trussell JE, Kurtz RM, Strube MJ.",
+        "pubYear": "1996",
+        "journalTitle": "Am J Clin Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8917929+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -24271,6 +25094,18 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00207147308409303",
+      "record_paths": [
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
+      ],
+      "checked_at_utc": "2026-10-29T14:35:04+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://www.tandfonline.com/doi/abs/10.1080/00207147308409303",
+      "status": "access_restricted",
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://www.tandfonline.com/doi/full/10.1080/00207144.2023.2226177",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -24362,7 +25197,8 @@
     {
       "url": "https://www.uni-muenster.de/imperia/md/content/psyifp/ae_lappe/freie_dokumente/arzi2012.pdf",
       "record_paths": [
-        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
+        "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
+        "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-28T14:59:49+00:00",
       "auditor_version": 3,
@@ -24431,8 +25267,8 @@
     "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
   },
   "metadata_summary": {
-    "not_applicable": 324,
-    "api_identity_resolved": 681,
+    "api_identity_resolved": 710,
+    "not_applicable": 325,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
   "decoded_ai_incremental_check": {
@@ -24485,5 +25321,17 @@
       "scope": "PubMed connector had no DOI; fresh Europe PMC record and independent Crossref title/author/journal match supply the identifier. No full-text inspection inferred."
     },
     "scope": "New context/detection source URLs; prior 984 records preserved apart from context paths. Nine complete PMC bodies with selected sections checked; failed body retrievals, same-data relationship and inconsistent sample accounting recorded separately."
+  },
+  "posthypnotic_sleep_pink_incremental_check": {
+    "date": "2026-10-29",
+    "prior_report_date": "2026-10-28",
+    "prior_results_preserved_with_original_dates": 1006,
+    "new_source_urls_checked": 30,
+    "new_url_http_summary": {
+      "reachable": 29,
+      "access_restricted": 1
+    },
+    "new_url_metadata_identities_resolved": 29,
+    "scope": "Posthypnotic/sleep-conditioning/pink-noise source URLs. Prior access, identity and manual receipts preserved apart from context paths; no global refresh or scientific data reanalysis."
   }
 }

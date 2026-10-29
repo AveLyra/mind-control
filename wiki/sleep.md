@@ -4,6 +4,8 @@
 
 The recovered work examines several distinct techniques. They should be evaluated by what was learned beforehand, the verified sleep state, and the measured outcome.
 
+The [sleep-conditioning and pink-noise review](posthypnotic-sleep-and-pink-noise.md#sleep-conditioning) checks carryover into waking behavior and lasting outcomes. Its [pink-noise comparison](posthypnotic-sleep-and-pink-noise.md#pink-noise) separates learned cues from physiological stimulation and environmental masking, including negative replications and competing effects on sleep.
+
 The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-monitoring.md#sleep) examines sleep's roles in stabilization, updating, and memory for context. Spatial source benefits, task-dependent interference, and a registered false-recall report oppose treating sleep as a uniform amplifier of misinformation. Direct combinations with AI content remain a separate question.
 
 The [prediction-error follow-up](prediction-error-and-suggestibility.md#sleep) adds recent auditory studies: preserved feature anticipation, restricted higher-order tracking, and a dissociation between ERP amplitude and encoded information. These sensory endpoints do not establish later misinformation susceptibility or a joined hypnosis/AI effect.

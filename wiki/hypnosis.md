@@ -4,6 +4,8 @@
 
 The recovered ChatGPT **wiki pages on hypnosis** conversation contains research and draft material on **hypnotic involuntariness** and **dissociated control theory**. These are explanations of hypnotic responding and subjective agency, not demonstrations of unrestricted control over another person.
 
+The [posthypnotic durability review](posthypnotic-sleep-and-pink-noise.md#posthypnotic) now follows cue responsiveness across later visits, daily behavior outside the session, task-specific replications, and failed durability determinants. It distinguishes a retained response from autonomous behavior and separates subjective, objective, and control-group outcomes.
+
 ## Concepts
 
 | Concept | Distinction preserved in the research |

@@ -4,6 +4,8 @@
 
 The original **Research conditioning and hypnosis** conversation distinguishes learning a response from obeying an instruction. Its recovered answers cover fear learning, anticipatory nausea, conditioned immune responses, repetition, familiarity, memory confidence, and false recollection.
 
+The [new direct-technique review](posthypnotic-sleep-and-pink-noise.md) adds sleep-conditioned carryover, smoking and alcohol-cue outcomes, a learned pink-noise context, and the historical hypnosis–conditioning bridge. It identifies which combinations were tested and which lasting behavioral claims still require replication.
+
 ## Separate mechanisms
 
 - Classical conditioning pairs a cue with an event or response. A cue's acquired emotional or bodily effect does not encode an arbitrary command.

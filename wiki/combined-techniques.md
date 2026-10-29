@@ -37,6 +37,8 @@ These are counterexamples to universal additivity, not failed direct replication
 <a id="ct2"></a>
 ## CT2 — Hypnosis, sleep depth, and consolidation
 
+The [posthypnotic/sleep/pink-noise follow-up](posthypnotic-sleep-and-pink-noise.md#combinations) now distinguishes retained cued responses, direct sleep-conditioning outcomes, learned pink-noise contexts, and phase-targeted memory cues. It preserves the gap for the full combined method and does not equate a phase-targeted learned cue with adding a separate noise stimulus.
+
 **For the components.** Pre-sleep hypnotic suggestions increased slow-wave sleep in a controlled nap study in selected responsive participants; a later study extended the comparison to nighttime sleep. Neither establishes an effect in everyone, and the nighttime abstract explicitly leaves improvement above a no-intervention night unresolved. [D06–D07](../research/updates/2026-10-28-combined-techniques.md#d06)
 
 **A direct obstacle.** Beck et al. reanalyzed 33 highly hypnotizable participants from earlier nap/night datasets. Slow-wave sleep increased, but word-pair retention did not improve: reported retention was 98.44% after hypnosis versus 99.42% after the control text, relative to pre-sleep learning; the condition comparison was p = .81. Slow-wave/spindle coupling decreased. These are reused datasets, not an independent third replication. [D08](../research/updates/2026-10-28-combined-techniques.md#d08)

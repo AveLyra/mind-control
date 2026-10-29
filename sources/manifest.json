@@ -2250,6 +2250,14 @@
       "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-28",
       "status": "26 PubMed identities and complete provided abstracts; 25 connector DOIs plus K22 DOI independently matched through Europe PMC/Crossref; nine complete PMC bodies with selected sections checked; same-data relationship, sample-accounting discrepancy and access limits explicit",
       "sha256": "0fdabb3432940f7ce2a4cdf4aa5a43b3ad1fe7a2b115d411bdb94c6e5faae490"
+    },
+    {
+      "id": "posthypnotic-sleep-pink-noise-checks-2026-10-29",
+      "title": "Posthypnotic suggestion, sleep conditioning, and pink noise — durability, replications and direct combinations",
+      "path": "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md",
+      "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-29",
+      "status": "39 PubMed identities/DOIs; 38 complete provided abstracts plus one primary-publisher abstract extract; 16 complete PMC bodies with selected sections inspected; durability contrasts, data reuse, negative replications, retraction and access limits explicit",
+      "sha256": "46e241bdb549e879c4f8f65c95428982ffc4174f576eab382b0f5279bcebae16"
     }
   ],
   "supplementary_recovery": {
@@ -2446,23 +2454,23 @@
     "private_search_inventory_sha256": "f9db908f96d68f26f885cff239d6061cf203b4fccd2ea533503d7db14854dd3a"
   },
   "source_link_audit": {
-    "date": "2026-10-28",
-    "unique_source_urls": 1006,
+    "date": "2026-10-29",
+    "unique_source_urls": 1036,
     "http_summary": {
-      "reachable": 512,
-      "access_restricted": 148,
+      "reachable": 541,
+      "access_restricted": 149,
       "access_challenge": 281,
       "redirect_landing": 55,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
-      "not_applicable": 324,
-      "api_identity_resolved": 681,
+      "api_identity_resolved": 710,
+      "not_applicable": 325,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "e4c7580ad2f4931845b2468f6006c4b4761f967f3712bc3dd3cc39a58047ebfa",
+    "report_sha256": "135fec980f5472b2c309cd6e41ac671bb4edcd321d5ac50fc2e9b836e481ceeb",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },
