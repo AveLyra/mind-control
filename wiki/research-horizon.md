@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Combined-technique review](combined-techniques.md) · [Evidence ledger](evidence-ledger.md) · [Source checks](../research/updates/2026-10-28-horizon-source-checks.md)
 
+The [research focus](../README.md#research-focus) is hypnosis, sleep influence, and mind control. Start with C04–C09 and the behavioral-control question in F05. Use the broader network to test a specified influence pathway; memory reconstruction and AI misinformation are supporting branches.
+
 The [replication and modality follow-up](decoded-feedback-and-ai-memory.md) traces C17/B08 and B10 evidence by cohort, adds direct conventional-feedback combinations, and preserves the missing decoded-fMRI and AI-distortion interactions. The capability and bridge IDs remain stable.
 
 The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-monitoring.md) examines possible mechanisms around C04/C09/C14 and B10/B14. It distinguishes changed content from changed access or source judgment, includes supportive and failed replications, and preserves the missing direct AI–sleep–hypnosis combination. No new capability is inferred solely from joining those literatures.
@@ -209,12 +211,14 @@ These scenario labels are organizing devices. They are neither predictions nor e
 
 ## What to track next
 
-The most informative near-term work concerns **better discrimination between explanations**, rather than a new all-purpose “control” score:
+The next work follows the user's [research focus](../README.md#research-focus). These are research questions, not additional demonstrated capabilities:
 
-1. **Sleep content and awareness:** does an effect transfer to genuinely new content, and which awareness claim survives an appropriate measure? Track B01–B03 alongside [awareness](awareness.md), [optics](optical.md), and [sleep](sleep.md).
-2. **Durability and generalization:** do cueing or suggestion effects survive an exact replication, delayed tests, and a changed setting? Keep failures beside positive reports. Track B04–B06 and B13.
-3. **Interface information content:** what information crosses the whole system, at what error rate, with which receiver, calibration, and cooperation requirements? Track B07–B09 and B11.
-4. **Memory accuracy versus persuasion:** does a reconstruction add independently verified information or mainly alter confidence and later reports? Track B08 and B10 alongside [memory](memory.md).
+1. **Hypnosis and posthypnotic behavior:** which suggestions change perception, action, or experienced agency; how long do effects persist; and how do responsiveness, cooperation, resistance, and setting affect the outcome? Start with C09 and [hypnosis](hypnosis.md).
+2. **Influence during sleep:** distinguish cueing prior learning, forming new associations, influencing dreams, and changing later waking responses. Which effects survive replication and adequate sleep/awareness measurement? Start with C04–C07, B01–B05, and [sleep](sleep.md).
+3. **Hypnosis–sleep–conditioning combinations:** does a direct combination change the intended outcome beyond its components, or introduce interference? Prioritize [CT1–CT2](combined-techniques.md#ct1) and C08–C09.
+4. **Control beyond the laboratory task:** do effects generalize to later actions, preferences, habits, or goals, including when the person resists? Keep subjective involuntariness, compliance, impairment, and independently observed behavior separate. Track F05, B06, B12, and [historical records](history-and-drugs.md).
+
+Pursue AI, memory theory, or interface engineering when it answers one of those questions. A new finding in a supporting branch alone does not set the next research priority.
 
 This is a manual watchlist; no recurring monitoring has been activated. To update it, add a dated source-check record, identify the exact capability and bridge affected, state the observed endpoint and conditions, include the strongest contrary result, and explain the resulting scope change. Retain earlier assessments in Git rather than silently replacing uncertainty with a success label. Never count a review, correction, reanalysis, and its underlying experiment as independent replications.
 

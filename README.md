@@ -2,22 +2,34 @@
 
 A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery, supplied-literature integration, and the research network updated October 28. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
 
+## Research focus
+
+The central subjects are **hypnosis, influence during sleep, and mind control**. Research should start with a specified technique and the perception, experience, decision, or behavior it is claimed to change.
+
+- **Hypnosis:** suggestion, altered perception and agency, posthypnotic behavior, amnesia, responsiveness, resistance, and effects outside the original testing setting.
+- **Sleep influence:** pre-sleep suggestion, targeted memory reactivation, sleep conditioning and new learning, dream influence, and effects on later waking responses.
+- **Mind control and behavioral influence:** what actions, preferences, habits, or goals can actually be changed; with what reliability, duration, awareness, cooperation, and resistance; and what historical programs demonstrably achieved.
+
+Prioritize direct human studies, independent replications, failures, and combinations of hypnosis with sleep or conditioning. Distinguish reported experience, a physiological response, and a change in behavior. Track the science–science-fiction boundary against those specific outcomes.
+
+AI misinformation, source monitoring, general memory theory, and neural interfaces are supporting topics when they explain or test a specified influence pathway. Their presence in the collection should not make them the default direction for further research. This focus was reaffirmed by the user on October 28, 2026.
+
 ## Explore
 
 | Topic | Contents |
 |---|---|
+| [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
+| [Sleep techniques and learning](wiki/sleep.md) | Targeted memory reactivation, dream incubation, sleep conditioning, pink noise, masked speech |
+| [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
+| [Historical programs and drugs](wiki/history-and-drugs.md) | CHATTER, BLUEBIRD, ARTICHOKE, MKULTRA, later programs, memory and suggestibility research |
 | [Research network and science-fiction horizon](wiki/research-horizon.md) | 17 capabilities, 14 connections, six larger scenarios, contrary evidence, and milestones that would move the boundary |
 | [Combining techniques: evidence for and against](wiki/combined-techniques.md) | Four focused combinations, direct studies, null outcomes, and the distinction between integration, added benefit, and synergy |
 | [Decoded feedback and AI memory: replications and combinations](wiki/decoded-feedback-and-ai-memory.md) | Cohort/replication tracing, modality differences, deepfake/text comparisons, and direct versus adjacent sleep/hypnosis evidence |
 | [Reconsolidation and source monitoring](wiki/reconsolidation-and-source-monitoring.md) | Competing memory-update mechanisms, positive/negative replications, source/context judgments, sleep and hypnosis links, and remaining AI combination gaps |
 | [Prediction error and retrieval-enhanced suggestibility](wiki/prediction-error-and-suggestibility.md) | Mismatch definitions, test-potentiated learning, protective results, sleep/hypnosis signals, and a checked correction notice |
 | [Context reinstatement and discrepancy detection](wiki/context-reinstatement-and-detection.md) | Context can support accuracy or source errors; noticing versus remembering change, reused warning data, sleep nulls, and hypnosis components |
-| [Sleep techniques and learning](wiki/sleep.md) | Targeted memory reactivation, dream incubation, sleep conditioning, pink noise, masked speech |
-| [Hypnosis and agency](wiki/hypnosis.md) | Hypnotic involuntariness, dissociated control, cold control, posthypnotic responding, memory |
-| [Conditioning and suggestion](wiki/conditioning.md) | Learned physiological responses, repetition, awareness, semantic and bodily associations |
 | [Memory reconstruction and awareness](wiki/memory.md) | Neural decoding, generated reconstructions, false-memory risks, and awareness measures |
 | [Awareness and unconscious visual processing](wiki/awareness.md) | The high-confidence subject of `turn3file2`, awareness methods, competing interpretations, and the next research questions |
-| [Historical programs and drugs](wiki/history-and-drugs.md) | CHATTER, BLUEBIRD, ARTICHOKE, MKULTRA, later programs, memory and suggestibility research |
 | [Optical signaling](wiki/optical.md) | Closed eyelids, spectral flicker, infrared receivers, EEG detection versus comprehension |
 | [Magnetism and neural interfaces](wiki/magnetic.md) | Natural magnetoreception, TMS, engineered receivers, instrumented decoding |
 | [Sleep measurement and models](wiki/measurement.md) | Breathing, smartphone audio, datasets, real-time model constraints |
@@ -49,7 +61,7 @@ Topic pages are editorial navigation and synthesis. `research/` preserves select
 
 ## Continue research
 
-Start with the [research horizon](wiki/research-horizon.md): it connects topic findings to the missing steps toward broader capabilities. Its manual watchlist tracks transfer, durability, awareness, receiver requirements, and end-to-end information content. No recurring monitor is active.
+Start with [hypnosis](wiki/hypnosis.md), [sleep influence](wiki/sleep.md), and [conditioning](wiki/conditioning.md). The next research priorities are posthypnotic behavior and its limits, sleep influence on later waking responses, and direct hypnosis–sleep combinations. Use the [research horizon](wiki/research-horizon.md) to track the missing steps from those techniques to broader control claims. Its manual watchlist includes transfer, durability, awareness, cooperation, and resistance. No recurring monitor is active.
 
 The [original Deep Research prompt](prompts/awareness-optical-deep-research.md) now has a supplied [continuation review and companion files](sources/awareness-update-intake.md), integrated into the [awareness topic page](wiki/awareness.md). The result addresses awareness measurement and unconscious visual processing, with optical and sleep applications. It is new literature synthesis, with the original citation gap preserved. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
 

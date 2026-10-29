@@ -89,9 +89,12 @@ More ingredients also introduce possible interference: disrupted sleep, incompat
 
 ## Revised priorities
 
-- **Best grounded extension:** independently replicate the specific rescripting–cueing result and establish which endpoint and component account for the benefit. Track CT1 with [sleep](sleep.md).
-- **Best test of non-additivity:** evaluate whether sleep-depth enhancement preserves the processes needed for the claimed memory effect. The existing reanalysis is a warning about a proxy, not an already-tested failure of hypnosis plus TMR. Track CT2 with [hypnosis](hypnosis.md).
-- **Best intermediate read/write question:** distinguish target-pattern engagement from the intended transferred association and meaningful change outside the scanner. Track CT3 with [memory](memory.md) and [interfaces](magnetic.md).
-- **Best established contamination concern:** separate added information from added confidence in generated reconstructions. Richer feedback, sleep, hypnosis, and reinforcement should remain separate hypotheses until directly combined and tested. Track CT4 with [memory](memory.md).
+The user's [research focus](../README.md#research-focus) puts hypnosis, sleep influence, and behavioral control first:
+
+- **Direct hypnosis–sleep combinations:** evaluate the intended memory or behavioral outcome, beyond changes in sleep depth or EEG alone. The CT2 reanalysis supplies a reason to test non-additivity; it is not an already-tested failure of hypnosis plus TMR. Track with [hypnosis](hypnosis.md).
+- **Sleep influence and later responses:** independently replicate the CT1 rescripting–cueing result and establish which component accounts for the outcome. Extend the question to the particular learned response or waking behavior under study, without assuming transfer from a clinical endpoint. Track with [sleep](sleep.md).
+- **Suggestion and conditioning:** prioritize direct studies of combined effects, posthypnotic behavior, persistence, and generalization outside the original task. Specify the participant's awareness, cooperation, and resistance, alongside the observed outcome. Track with [conditioning](conditioning.md).
+
+CT3 and CT4 remain supporting evidence for specified influence pathways. Further work on decoding or AI misinformation should answer a concrete hypnosis, sleep, or behavioral-control question before taking priority over those techniques.
 
 Potential abuse is a question of consent, provenance, access, outcome, and intent, not a synonym for an impressive laboratory effect. Fictional extrapolations can explore a bounded, unreliable tool and still depict serious wrongdoing. They must not turn these papers into evidence that a particular person was targeted or that the complete speculative system exists.
