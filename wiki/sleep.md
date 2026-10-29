@@ -8,6 +8,8 @@ The [reconsolidation/source-monitoring follow-up](reconsolidation-and-source-mon
 
 The [prediction-error follow-up](prediction-error-and-suggestibility.md#sleep) adds recent auditory studies: preserved feature anticipation, restricted higher-order tracking, and a dissociation between ERP amplitude and encoded information. These sensory endpoints do not establish later misinformation susceptibility or a joined hypnosis/AI effect.
 
+The [context-reinstatement follow-up](context-reinstatement-and-detection.md#sleep) adds contextual spread to related uncued memories, a time-versus-sleep distinction, and semantic/odor/REM nulls. The TMR meta-analysis's false-memory subgroup found no detectable pooled effect; the general retention benefit cannot supply a missing misinformation or source-error result.
+
 | Technique | Research question | Main evidential limit |
 |---|---|---|
 | Targeted memory reactivation (TMR) | Does replaying a cue associated with waking learning change later retention? | Consolidating an existing association differs from teaching new instructions. |

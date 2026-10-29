@@ -46,6 +46,15 @@ The recovered evidence archive preserves an original heading that linked **Absor
 
 ## Publication type and version matter
 
+<a id="study-relationships-and-sample-accounting"></a>
+### Reused data and sample accounting
+
+The [2024 warning/encoding paper](https://pubmed.ncbi.nlm.nih.gov/38504050/) explicitly reuses fMRI data and behavioral results from the [2020 warning/retrieval report](https://pubmed.ncbi.nlm.nih.gov/32868423/). Its selected comparison comprises 21 prewarning and 22 no-warning participants (43 total), drawn from the reported 65-person fMRI sample. This is an additional analysis of a processing stage, not independent behavioral replication. The 2020 report also has a separate behavioral experiment with 81 reported participants.
+
+The fMRI participant-flow descriptions disagree: the 2020 methods report 80 recruited, 19 excluded, and 65 final, while the 2024 methods report 80 recruited, 15 excluded, and 65 final. The former arithmetic does not reconcile. This review preserves the discrepancy; it has not inspected participant records or established which exclusion count is correct. The [new source checks, K05–K06](../research/updates/2026-10-28-context-reinstatement-detection.md#k05) record the complete-body inspection and its limits. This issue is separate from the corrected 2021 hippocampal prediction-error study below.
+
+### Versions, notices and related reports
+
 The [2021 hippocampal prediction-error report](https://pubmed.ncbi.nlm.nih.gov/34911768/) has a [June 2026 correction](https://pubmed.ncbi.nlm.nih.gov/42330295/). The authors describe a preprocessing join error that wrongly excluded 4.8% of trials and mislabeled neural/behavioral pairings in 9.7%. They report revised values/figures with key conclusions unchanged. The new [notice check](../research/updates/2026-10-28-prediction-error-retrieval.md#p05) is complete-notice inspection, not independent data reanalysis; the notice is not a replication.
 
 The [reconsolidation/source-monitoring follow-up](../wiki/reconsolidation-and-source-monitoring.md) adds an interpretation correction: reporting misinformation after retrieval is not, by itself, evidence of original-trace erasure. Positive time-dependent replications coexist with interference accounts, qualified replications, and tests showing original details remain accessible. An AI intervention described as reconsolidation-informed does not establish that mechanism. These distinctions update the current synthesis without rewriting historical assistant research.

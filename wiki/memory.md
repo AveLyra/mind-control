@@ -26,6 +26,8 @@ The [reconsolidation/source-monitoring review](reconsolidation-and-source-monito
 
 The [prediction-error/retrieval review](prediction-error-and-suggestibility.md) distinguishes a mnemonic mismatch from sensory responses and model-derived learning errors. Retrieval can benefit original details while potentiating later misinformation; context, discrepancy detection, and the placement of delays help explain the differences.
 
+The [context/detection follow-up](context-reinstatement-and-detection.md) separates reinstating an event's context from identifying a detail's source. Matching context can increase true and false recognition. Noticing a discrepancy and later remembering which version was original are also separate outcomes.
+
 ## Awareness needs its own measurement
 
 The recovered [awareness-transition proposal](../research/chats/deeper-d3e91e42-862c-48b0-9142-8237714a614d.md) treats hypothesis disclosure as an experimental intervention. Knowing the hypothesis, believing it, perceiving the stimulus, recognizing a cue pairing, and remembering afterward are separate variables. Awareness questions can themselves reveal the hypothesis; excluding people who guessed can introduce post-treatment bias.

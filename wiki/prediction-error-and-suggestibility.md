@@ -6,6 +6,8 @@
 
 Assessed October 28, 2026. Thirty source entries include 28 PubMed publications, a doctoral dissertation, and a journal meta-analysis outside PubMed. One PubMed entry is a correction notice. These are publication/source entries, not 30 independent experiments. The new checks deepen the earlier mechanism review rather than replace its preserved source record.
 
+The [context/detection follow-up](context-reinstatement-and-detection.md) now examines which context returns, at what stage, and whether a discrepancy is later remembered. It pairs protective results with context-induced false recognition and separates repeated analyses from independent cohorts.
+
 <a id="distinctions"></a>
 ## Which prediction, which error, and which memory?
 

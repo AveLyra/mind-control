@@ -3,9 +3,9 @@
   "auditor_version": 3,
   "scope": "All source HTTP(S) URLs in research and wiki Markdown, excluding account/Drive URLs and literal-ellipsis examples; no claim-level certification",
   "summary": {
-    "reachable": 490,
-    "access_challenge": 281,
+    "reachable": 512,
     "access_restricted": 148,
+    "access_challenge": 281,
     "redirect_landing": 55,
     "request_failed": 7,
     "http_error": 3
@@ -11934,6 +11934,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15989121/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:47+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/15989121/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The cognitive interview: does it successfully avoid the dangers of forensic hypnosis? - PubMed",
+      "bytes_sampled": 128299,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "15989121",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.2307/30039056",
+        "title": "The cognitive interview: does it successfully avoid the dangers of forensic hypnosis?",
+        "authorString": "Whitehouse WG, Orne EC, Dinges DF, Bates BL, Nadon R, Orne MT.",
+        "pubYear": "2005",
+        "journalTitle": "Am J Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15989121+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/15994228/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -12273,6 +12301,34 @@
         "journalTitle": "J Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A18184778+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18808279/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:48+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/18808279/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "\"Don't know\" responding to answerable and unanswerable questions during misleading and hypnotic interviews - PubMed",
+      "bytes_sampled": 129738,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "18808279",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/1076-898x.14.3.255",
+        "title": "\"Don't know\" responding to answerable and unanswerable questions during misleading and hypnotic interviews.",
+        "authorString": "Scoboria A, Mazzoni G, Kirsch I.",
+        "pubYear": "2008",
+        "journalTitle": "J Exp Psychol Appl",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A18808279+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -12825,6 +12881,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21390976/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:47+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/21390976/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Enhancing witness memory with techniques derived from hypnotic investigative interviewing: focused meditation, eye-closure, and context reinstatement - PubMed",
+      "bytes_sampled": 127101,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21390976",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207144.2011.546180",
+        "title": "Enhancing witness memory with techniques derived from hypnotic investigative interviewing: focused meditation, eye-closure, and context reinstatement.",
+        "authorString": "Wagstaff GF, Wheatcroft JM, Caddick AM, Kirby LJ, Lamont E.",
+        "pubYear": "2011",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21390976+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/21655277/",
       "record_paths": [
         "research/chats/deeper-6ddd5ee5-8e07-443c-aa45-0e267e54a7f0.md",
@@ -13345,6 +13429,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23678104/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23678104/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Neural context reinstatement predicts memory misattribution - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23678104",
+        "source": "MED",
+        "pmcid": "PMC3686093",
+        "doi": "10.1523/jneurosci.0096-13.2013",
+        "title": "Neural context reinstatement predicts memory misattribution.",
+        "authorString": "Gershman SJ, Schapiro AC, Hupbach A, Norman KA.",
+        "pubYear": "2013",
+        "journalTitle": "J Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23678104+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/23776033/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-52-28.md",
@@ -13370,6 +13482,34 @@
         "journalTitle": "Hum Psychopharmacol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23776033+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23858954/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:43+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/23858954/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Reducing false memories via context reinstatement: the roles of encoding and retrieval contexts - PubMed",
+      "bytes_sampled": 113914,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "23858954",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.5406/amerjpsyc.126.2.0213",
+        "title": "Reducing false memories via context reinstatement: the roles of encoding and retrieval contexts.",
+        "authorString": "Goodwin KA.",
+        "pubYear": "2013",
+        "journalTitle": "Am J Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A23858954+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13654,6 +13794,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24498441/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:45+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/24498441/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Time, not sleep, unbinds contexts from item memory - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "24498441",
+        "source": "MED",
+        "pmcid": "PMC3912211",
+        "doi": "10.1371/journal.pone.0088307",
+        "title": "Time, not sleep, unbinds contexts from item memory.",
+        "authorString": "Cox R, Tijdens RR, Meeter MM, Sweegers CC, Talamini LM.",
+        "pubYear": "2014",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A24498441+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/24820248/",
       "record_paths": [
         "research/chats/supplement-28fbbc70-9907-4e7c-93a1-698850a0a6d5.md"
@@ -13794,6 +13962,34 @@
         "journalTitle": "Curr Biol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25220055+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25225474/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:46+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/25225474/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "No effect of odor-induced memory reactivation during REM sleep on declarative memory stability - PubMed",
+      "bytes_sampled": 126518,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "25225474",
+        "source": "MED",
+        "pmcid": "PMC4150443",
+        "doi": "10.3389/fnsys.2014.00157",
+        "title": "No effect of odor-induced memory reactivation during REM sleep on declarative memory stability.",
+        "authorString": "Cordi MJ, Diekelmann S, Born J, Rasch B.",
+        "pubYear": "2014",
+        "journalTitle": "Front Syst Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25225474+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14550,6 +14746,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27879321/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27879321/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "When Misinformation Improves Memory - PubMed",
+      "bytes_sampled": 116319,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27879321",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797616672268",
+        "title": "When Misinformation Improves Memory.",
+        "authorString": "Putnam AL, Sungkhasettee VW, Roediger HL.",
+        "pubYear": "2017",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27879321+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/27909466/",
       "record_paths": [
         "research/chats/supplement-28fbbc70-9907-4e7c-93a1-698850a0a6d5.md"
@@ -14965,8 +15189,37 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28816470/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28816470/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Effects of postwarning specificity on memory performance and confidence in the eyewitness misinformation paradigm - PubMed",
+      "bytes_sampled": 126312,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28816470",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/xap0000140",
+        "title": "Effects of postwarning specificity on memory performance and confidence in the eyewitness misinformation paradigm.",
+        "authorString": "Higham PA, Blank H, Luna K.",
+        "pubYear": "2017",
+        "journalTitle": "J Exp Psychol Appl",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28816470+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28899262/",
       "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md",
         "research/updates/2026-10-28-prediction-error-retrieval.md"
       ],
       "checked_at_utc": "2026-10-28T22:22:07+00:00",
@@ -15191,6 +15444,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29671680/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29671680/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The Dark Side of Context: Context Reinstatement Can Distort Memory - PubMed",
+      "bytes_sampled": 121712,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29671680",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797617749534",
+        "title": "The Dark Side of Context: Context Reinstatement Can Distort Memory.",
+        "authorString": "Doss MK, Picart JK, Gallo DA.",
+        "pubYear": "2018",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29671680+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/29788219/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -15393,6 +15674,34 @@
         "journalTitle": "J Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30037830+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30139301/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:43+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/30139301/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Putting false memories into context: the effects of odour contexts on correct and false recall - PubMed",
+      "bytes_sampled": 119395,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30139301",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658211.2018.1512632",
+        "title": "Putting false memories into context: the effects of odour contexts on correct and false recall<sup>.</sup>",
+        "authorString": "Woods JA, Dewhurst SA.",
+        "pubYear": "2019",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A30139301+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15723,6 +16032,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/30789952/",
       "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md",
         "research/updates/2026-10-28-prediction-error-retrieval.md"
       ],
       "checked_at_utc": "2026-10-28T22:22:06+00:00",
@@ -16272,6 +16582,7 @@
         "research/chats/supplement-8349b528-8aa3-4ce7-928b-a6bfe15f92bc.md",
         "research/chats/supplement-92060796-96e7-421a-a090-bc6e03558358.md",
         "research/chats/supplement-fe6be24c-cc9e-5350-961b-9a47437006c6.md",
+        "research/updates/2026-10-28-context-reinstatement-detection.md",
         "research/updates/2026-10-28-horizon-source-checks.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:20+00:00",
@@ -16439,6 +16750,34 @@
         "journalTitle": "Psychon Bull Rev",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A32671573+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32868423/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/32868423/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Protecting memory from misinformation: Warnings modulate cortical reinstatement during memory retrieval - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "32868423",
+        "source": "MED",
+        "pmcid": "PMC7502729",
+        "doi": "10.1073/pnas.2008595117",
+        "title": "Protecting memory from misinformation: Warnings modulate cortical reinstatement during memory retrieval.",
+        "authorString": "Karanian JM, Rabb N, Wulff AN, Torrance MG, Thomas AK, Race E.",
+        "pubYear": "2020",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A32868423+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16625,6 +16964,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33836273/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33836273/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Reinstatement of item-specific contextual details during retrieval supports recombination-related false memories - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33836273",
+        "source": "MED",
+        "pmcid": "PMC8375312",
+        "doi": "10.1016/j.neuroimage.2021.118033",
+        "title": "Reinstatement of item-specific contextual details during retrieval supports recombination-related false memories.",
+        "authorString": "Carpenter AC, Thakral PP, Preston AR, Schacter DL.",
+        "pubYear": "2021",
+        "journalTitle": "Neuroimage",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33836273+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/",
       "record_paths": [
         "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-27.md"
@@ -16677,6 +17044,34 @@
         "journalTitle": "Trends Cogn Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33879421+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33896371/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:48+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33896371/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Resisting misinformation via discrepancy detection: effects of an unaware suspicion cue - PubMed",
+      "bytes_sampled": 110712,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33896371",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658211.2021.1917618",
+        "title": "Resisting misinformation via discrepancy detection: effects of an unaware suspicion cue.",
+        "authorString": "Sheaffer R, Gal R, Pansky A.",
+        "pubYear": "2022",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33896371+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16789,6 +17184,34 @@
         "journalTitle": "Psychon Bull Rev",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34131891+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34211064/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:48+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34211064/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "In search of a Goldilocks zone for credible AI - PubMed",
+      "bytes_sampled": 129064,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34211064",
+        "source": "MED",
+        "pmcid": "PMC8249604",
+        "doi": "10.1038/s41598-021-93109-8",
+        "title": "In search of a Goldilocks zone for credible AI.",
+        "authorString": "Allan K, Oren N, Hutchison J, Martin D.",
+        "pubYear": "2021",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34211064+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17424,6 +17847,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36156388/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/36156388/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Litmus test of rich episodic representations: Context-induced false recognition - PubMed",
+      "bytes_sampled": 119646,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "36156388",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.cognition.2022.105287",
+        "title": "Litmus test of rich episodic representations: Context-induced false recognition.",
+        "authorString": "Szőllősi Á, Pajkossy P, Bencze D, Marián M, Racsmány M.",
+        "pubYear": "2023",
+        "journalTitle": "Cognition",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A36156388+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/36228894/",
       "record_paths": [
         "research/chats/supplement-38f265c2-ea46-4b51-8a4c-ca4e80526c4a.md",
@@ -17539,6 +17990,34 @@
         "journalTitle": "J Neural Eng",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A36669202+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37014750/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:44+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37014750/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Memory consolidation during sleep involves context reinstatement in humans - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37014750",
+        "source": "MED",
+        "pmcid": "PMC10545811",
+        "doi": "10.1016/j.celrep.2023.112331",
+        "title": "Memory consolidation during sleep involves context reinstatement in humans.",
+        "authorString": "Schechtman E, Heilberg J, Paller KA.",
+        "pubYear": "2023",
+        "journalTitle": "Cell Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37014750+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18070,6 +18549,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38504050/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:42+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38504050/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Warning before misinformation exposure modulates memory encoding - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38504050",
+        "source": "MED",
+        "pmcid": "PMC11078839",
+        "doi": "10.3758/s13415-024-01183-y",
+        "title": "Warning before misinformation exposure modulates memory encoding.",
+        "authorString": "Karanian JM, Thomas AK, Race E.",
+        "pubYear": "2024",
+        "journalTitle": "Cogn Affect Behav Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38504050+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38608028/",
       "record_paths": [
         "research/chats/6ab16b83-0630-83ea-9a2b-95f44ca83bb6-1-2.md",
@@ -18155,6 +18662,34 @@
         "journalTitle": "Elife",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38661727+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38713308/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:44+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38713308/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Memory and belief updating following complete and partial reminders of fake news - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38713308",
+        "source": "MED",
+        "pmcid": "PMC11076432",
+        "doi": "10.1186/s41235-024-00546-w",
+        "title": "Memory and belief updating following complete and partial reminders of fake news.",
+        "authorString": "Kemp PL, Sinclair AH, Adcock RA, Wahlheim CN.",
+        "pubYear": "2024",
+        "journalTitle": "Cogn Res Princ Implic",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38713308+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -19263,6 +19798,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40885484/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:45+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40885484/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "No evidence for a targeted memory reactivation effect on word-meaning priming - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40885484",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.neuropsychologia.2025.109264",
+        "title": "No evidence for a targeted memory reactivation effect on word-meaning priming.",
+        "authorString": "Ball LV, Kimel E, Keller VG, Ward E, Cairney SA, Mak MHC, Li L, Rodd JM, Gaskell MG.",
+        "pubYear": "2025",
+        "journalTitle": "Neuropsychologia",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40885484+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/40885761/",
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
@@ -19780,7 +20343,8 @@
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-1-15.md",
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-2-45.md",
-        "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md"
+        "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-3-29.md",
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:17+00:00",
       "auditor_version": 3,
@@ -20055,6 +20619,34 @@
         "journalTitle": "Neuron",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41999754+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42056461/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:44+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42056461/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Context reinstatement increases true and false recognition of associated words: Evidence from the Deese/Roediger-McDermott (DRM) illusion - PubMed",
+      "bytes_sampled": 112195,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42056461",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.3758/s13421-026-01892-4",
+        "title": "Context reinstatement increases true and false recognition of associated words: Evidence from the Deese/Roediger-McDermott (DRM) illusion.",
+        "authorString": "Bayoud A, Pierce BH, Gallo DA.",
+        "pubYear": "2026",
+        "journalTitle": "Mem Cognit",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42056461+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20621,6 +21213,34 @@
         "journalTitle": "Br J Psychol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A856373+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8991296/",
+      "record_paths": [
+        "research/updates/2026-10-28-context-reinstatement-detection.md"
+      ],
+      "checked_at_utc": "2026-10-29T01:21:46+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/8991296/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "The effects of hypnosis, context reinstatement, and anxiety on eyewitness memory - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "8991296",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207149708416106",
+        "title": "The effects of hypnosis, context reinstatement, and anxiety on eyewitness memory.",
+        "authorString": "Ready DJ, Bothwell RK, Brigham JC.",
+        "pubYear": "1997",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8991296+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -23812,7 +24432,7 @@
   },
   "metadata_summary": {
     "not_applicable": 324,
-    "api_identity_resolved": 659,
+    "api_identity_resolved": 681,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
   "decoded_ai_incremental_check": {
@@ -23846,5 +24466,24 @@
     },
     "new_url_metadata_identities_resolved": 26,
     "scope": "New prediction-error/RES source URLs; all older outcomes/checks preserved apart from context paths. Primary-text scope, correction-notice role and alternate dissertation access are recorded separately."
+  },
+  "context_detection_incremental_check": {
+    "date": "2026-10-28",
+    "prior_same_day_results_preserved": 984,
+    "new_source_urls_checked": 22,
+    "new_url_http_summary": {
+      "reachable": 22
+    },
+    "new_url_metadata_identities_resolved": 22,
+    "supplemental_identity_check": {
+      "pmid": "15989121",
+      "doi": "10.2307/30039056",
+      "providers": [
+        "Europe PMC",
+        "Crossref"
+      ],
+      "scope": "PubMed connector had no DOI; fresh Europe PMC record and independent Crossref title/author/journal match supply the identifier. No full-text inspection inferred."
+    },
+    "scope": "New context/detection source URLs; prior 984 records preserved apart from context paths. Nine complete PMC bodies with selected sections checked; failed body retrievals, same-data relationship and inconsistent sample accounting recorded separately."
   }
 }

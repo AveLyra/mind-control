@@ -24,6 +24,8 @@ The [source-monitoring follow-up](reconsolidation-and-source-monitoring.md#hypno
 
 The [prediction-error review](prediction-error-and-suggestibility.md#hypnosis) distinguishes theoretical predictive-coding accounts from mixed MMN findings. A suggested motor response, a sensory mismatch signal, and a mnemonic update require different evidence.
 
+The [context/interview follow-up](context-reinstatement-and-detection.md#hypnosis) compares induction, reinstatement, attention components, output quantity, and reporting criteria. A direct context/hypnosis study found no main factual-memory or suggestibility benefit, while a separate non-labelled component combination reported protection. These findings do not identify a unique hypnotic mechanism.
+
 The theory review [Kirsch and Lynn, 1998](https://pubmed.ncbi.nlm.nih.gov/9461855/) describes competing dissociation accounts. It supports the existence and content of the theories; it does not prove their mechanisms. The historical draft supplies additional DOI and PMID leads, including Bowers (1992), Weitzenhoffer (1974), and later Woody/Jamieson discussions. These leads have not all been reverified in this collection pass.
 
 ## Recovered material

@@ -8,6 +8,8 @@ Assessed October 28, 2026. This bounded follow-up selects 34 source entries: 33 
 
 The [prediction-error/RES follow-up](prediction-error-and-suggestibility.md) now checks the mismatch and retrieval pathways more closely, including protective testing results, mixed sensory findings, and a correction to the 2021 fMRI report. This page's dated source record remains preserved.
 
+The [context/detection follow-up](context-reinstatement-and-detection.md) adds competing reinstatement effects, the difference between noticing and remembering change, and source-related neural evidence. It also identifies a same-data warning analysis and preserves an unresolved published sample-accounting inconsistency. These checks qualify study counting without changing the earlier source record.
+
 <a id="distinctions"></a>
 ## Two mechanisms that can look alike in a memory test
 

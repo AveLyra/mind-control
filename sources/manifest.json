@@ -2242,6 +2242,14 @@
       "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-28",
       "status": "30 source entries; 28 PubMed identities / 27 complete abstracts and one complete correction; six other complete PMC research bodies with selected sections checked; selected primary dissertation PDF and journal-meta-analysis HTML; retrieval/replication limits explicit",
       "sha256": "6f5d4ac4c80efc642fb30897181d306ad4dbbca73599c660c9c97d6e51cdd0f5"
+    },
+    {
+      "id": "context-reinstatement-detection-checks-2026-10-28",
+      "title": "Context reinstatement and discrepancy detection — source, timing, sleep, hypnosis and AI links",
+      "path": "research/updates/2026-10-28-context-reinstatement-detection.md",
+      "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-28",
+      "status": "26 PubMed identities and complete provided abstracts; 25 connector DOIs plus K22 DOI independently matched through Europe PMC/Crossref; nine complete PMC bodies with selected sections checked; same-data relationship, sample-accounting discrepancy and access limits explicit",
+      "sha256": "0fdabb3432940f7ce2a4cdf4aa5a43b3ad1fe7a2b115d411bdb94c6e5faae490"
     }
   ],
   "supplementary_recovery": {
@@ -2439,22 +2447,22 @@
   },
   "source_link_audit": {
     "date": "2026-10-28",
-    "unique_source_urls": 984,
+    "unique_source_urls": 1006,
     "http_summary": {
-      "reachable": 490,
-      "access_challenge": 281,
+      "reachable": 512,
       "access_restricted": 148,
+      "access_challenge": 281,
       "redirect_landing": 55,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
       "not_applicable": 324,
-      "api_identity_resolved": 659,
+      "api_identity_resolved": 681,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "9b5364cc44795a017140c680602c25ff9e725b36a0c8ce33e6d5f7f435433ecb",
+    "report_sha256": "e4c7580ad2f4931845b2468f6006c4b4761f967f3712bc3dd3cc39a58047ebfa",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },
