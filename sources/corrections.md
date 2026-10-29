@@ -82,3 +82,24 @@ The [retraction notice](https://pubmed.ncbi.nlm.nih.gov/40519131/) invalidates t
 Malformed Apple and DOI paths and an outdated FTC privacy link were replaced with identifiable official routes. A failed Folia mirror now points to the verified publication DOI. A historical Wikipedia draft-policy link now points to the live guidance page, with the original answer’s policy claims explicitly left historical. Original targets and reasons remain in the [repair ledger](citation-recovery.json).
 
 Direct access and web retrieval disagree for some official pages. Publisher challenges, a redirect landing page, an HTTP error, and an invalid bibliographic identifier are different findings. No TLS verification was disabled, and no access-blocked page was reported as fully read. The [source-link report](link-audit.md) records those distinctions.
+
+<a id="documented-abuse-record-boundaries"></a>
+## Fictional examples are not recovered patient histories
+
+The eight earlier worst-case stories were invented examples. The [new crosswalk](../wiki/documented-abuse-and-evidence.md#scenario-crosswalk) identifies documentary parallels without assigning those biographies to named people. The Fine public filing marks the client affidavits sealed; only public motion material and the investigator's account were inspected. The retrieved 2015 order accepts resignation with disciplinary action pending; a later criminal judgment was not independently retrieved.
+
+The 1988 Orlikow opinion addresses summary-judgment defenses and leaves important causal questions for trial. The 2025 Quebec judgment authorizes a class action, rather than deciding final liability. The Trochym source is the court's official disposition/headnote bulletin; its full reasons were not retrieved. An evidentiary exclusion is distinct from proving every alleged event false or the accused factually innocent. Related case records are not independent mechanism replications.
+
+<a id="crime-memory-coding-and-correction"></a>
+## Crime-memory coding, correction, and reused footage
+
+The original crime-memory paper's 70% classification and the independent recoders' 26%-30% estimate use the same reports and different coding schemes. The separate 2018 corrigendum repairs numerical calculations, detail counts and confidence intervals; it does not substitute the recoders' rate. It is a correction, not a retraction. The 2020 video-judgment experiments add observers using earlier induction footage, rather than independently replicating memory induction. [D15-D17 and D26](../research/updates/2026-10-29-documented-abuse-cases.md#d15)
+
+The 2020 paper reports study-2 N=82 but lists 61 women, 21 men and one other participant, which sum to 83. This published participant-accounting discrepancy remains unresolved; no participant records were inspected or silently repaired.
+
+<a id="memory-persistence-and-harm"></a>
+## Memory persistence, emotional harm, and recovery are separate outcomes
+
+A recollective experience can persist after disbelief without demonstrating lasting psychological injury. The negative-picture experiments reported no notable emotional-state change. The 2021 reversal study had 52 final participants and 38 at follow-up; its complete package and true-event comparisons do not isolate an untreated reversal contrast. A different training intervention's null result is not an exact failed replication or proof that correction always fails. [D18-D22](../research/updates/2026-10-29-documented-abuse-cases.md#d18)
+
+The sleep-deprivation false-admission experiment used quasi-random assignment; its initial odds ratio of 4.5 is not a 4.5-fold risk. Signed admissions, internalized autobiographical guilt, and enduring impairment were different endpoints. Coercive sleep loss and drug-induced historical sleep treatments are distinct from sleep learning and pink-noise cueing. [D10-D11](../research/updates/2026-10-29-documented-abuse-cases.md#d10)

@@ -229,3 +229,7 @@ Pursue AI, memory theory, or interface engineering when it answers one of those 
 This is a manual watchlist; no recurring monitoring has been activated. To update it, add a dated source-check record, identify the exact capability and bridge affected, state the observed endpoint and conditions, include the strongest contrary result, and explain the resulting scope change. Retain earlier assessments in Git rather than silently replacing uncertainty with a success label. Never count a review, correction, reanalysis, and its underlying experiment as independent replications.
 
 The strongest objection to a categorical boundary is that capabilities can emerge through engineering combinations. The strongest objection to an optimistic combination is that its parts may depend on incompatible receivers, states, tasks, and representations. **The discriminating evidence is a working end-to-end system measured against its claimed outcome.** Absence of that evidence is a current gap, not a proof of impossibility.
+
+## Documentary harm and the fictional horizon
+
+The [documented-abuse synthesis](documented-abuse-and-evidence.md) adds case records and an [eight-example evidence crosswalk](documented-abuse-and-evidence.md#scenario-crosswalk). It does not add a demonstrated control capability. Professional exploitation, disrupted evidence, and reported treatment injury have different support from precise attachment programming or permanent behavioral override. The capability, bridge, and scenario identifiers above retain their existing meanings.

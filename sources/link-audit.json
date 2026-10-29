@@ -1,10 +1,10 @@
 {
   "audit_date": "2026-10-29",
   "auditor_version": 3,
-  "scope": "Cumulative source access and identity audit. New URLs checked October 29, 2026; earlier URL outcomes retain their original October 28 check dates. Context paths updated. No claim-level certification.",
+  "scope": "Cumulative source access and identity audit. New documented-abuse URLs checked October 29, 2026; earlier October 28 and October 29 outcomes retain their original check dates and receipts. Context paths updated. No global refresh or claim-level certification.",
   "summary": {
-    "reachable": 541,
-    "access_restricted": 149,
+    "reachable": 562,
+    "access_restricted": 153,
     "access_challenge": 281,
     "redirect_landing": 55,
     "request_failed": 7,
@@ -461,6 +461,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Frenda_SleepFalseConfess_PNAS2016.pdf",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Frenda_SleepFalseConfess_PNAS2016.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://brainflow.readthedocs.io/en/stable/SupportedBoards.html",
       "record_paths": [
         "research/chats/6ab14c04-9864-83ea-a250-b495d6f19c23-1-2.md"
@@ -538,6 +554,22 @@
       "bytes_sampled": 131072,
       "status": "reachable",
       "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://clg.org/pdf/9/1/0/2/Judgment-Granting-Authorization.pdf",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://clg.org/pdf/9/1/0/2/Judgment-Granting-Authorization.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
       "identity_check_category": "not_applicable"
     },
     {
@@ -815,6 +847,22 @@
       "auditor_version": 3,
       "http_status": 200,
       "final_url": "https://dam-prod.media.mit.edu/x/2025/08/25/IUI-2025-Slip%20Through%20the%20Chat.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://decisions.scc-csc.ca/scc-csc/bulletins/en/2480/1/document.do",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://decisions.scc-csc.ca/scc-csc/bulletins/en/2480/1/document.do",
       "content_type": "application/pdf",
       "title": null,
       "bytes_sampled": 131072,
@@ -6997,6 +7045,30 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://journals.sagepub.com/doi/10.1177/009318539502300305",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://journals.sagepub.com/doi/10.1177/009318539502300305",
+      "status": "access_restricted",
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/0956797618762341",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://journals.sagepub.com/doi/10.1177/0956797618762341",
+      "status": "access_restricted",
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://journals.sagepub.com/doi/pdf/10.1177/070674376701200219",
       "record_paths": [
         "research/chats/1nNX3pYFg8q1y1zVJp8GGbfJEZrQl0RBj-4.md"
@@ -7017,6 +7089,30 @@
       "auditor_version": 3,
       "http_status": 403,
       "final_url": "https://journals.sagepub.com/eprint/pid8iyWP5JRFAZSujypQ/full",
+      "status": "access_restricted",
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://law.counselstack.com/opinion/orlikow-v-united-states-dcd-1988",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 429,
+      "final_url": "https://law.counselstack.com/opinion/orlikow-v-united-states-dcd-1988",
+      "status": "access_restricted",
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://law.justia.com/cases/california/court-of-appeal/4th/57/107.html",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://law.justia.com/cases/california/court-of-appeal/4th/57/107.html",
       "status": "access_restricted",
       "identity_check_category": "not_applicable"
     },
@@ -7206,6 +7302,22 @@
       "bytes_sampled": 73293,
       "status": "reachable",
       "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://mediaassets.news5cleveland.com/uploads/michal-fine-filing.pdf",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://mediaassets.news5cleveland.com/uploads/michal-fine-filing.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
       "identity_check_category": "not_applicable"
     },
     {
@@ -11880,7 +11992,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/1500609/",
       "record_paths": [
-        "research/updates/2026-10-28-decoded-ai-replications.md"
+        "research/updates/2026-10-28-decoded-ai-replications.md",
+        "research/updates/2026-10-29-documented-abuse-cases.md"
       ],
       "checked_at_utc": "2026-10-28T18:53:24+00:00",
       "auditor_version": 3,
@@ -12656,6 +12769,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2016672/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/2016672/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Hypnosis and pseudomemories: the effects of prehypnotic expectancies - PubMed",
+      "bytes_sampled": 121803,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "2016672",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037//0022-3514.60.2.318",
+        "title": "Hypnosis and pseudomemories: the effects of prehypnotic expectancies.",
+        "authorString": "Lynn SJ, Milano M, Weekes JR.",
+        "pubYear": "1991",
+        "journalTitle": "J Pers Soc Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2016672+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/20179909/",
       "record_paths": [
         "research/chats/16KygPB085yEuff_qEYN8Lw-JoTAGJYjt-31.md"
@@ -12793,6 +12934,34 @@
         "journalTitle": "Science",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2063208+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20689053/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/20689053/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Nonbelieved memories - PubMed",
+      "bytes_sampled": 127337,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "20689053",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797610379865",
+        "title": "Nonbelieved memories.",
+        "authorString": "Mazzoni G, Scoboria A, Harvey L.",
+        "pubYear": "2010",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A20689053+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -13312,6 +13481,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2258245/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/2258245/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Sexual abuse and the abuse of hypnosis in the therapeutic relationship - PubMed",
+      "bytes_sampled": 120993,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "2258245",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/00207149008414528",
+        "title": "Sexual abuse and the abuse of hypnosis in the therapeutic relationship.",
+        "authorString": "Hoencamp E.",
+        "pubYear": "1990",
+        "journalTitle": "Int J Clin Exp Hypn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2258245+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/22883683/",
       "record_paths": [
         "research/updates/2026-10-28-reconsolidation-source-monitoring.md"
@@ -13336,6 +13533,34 @@
         "journalTitle": "Cognition",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22883683+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22905934/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/22905934/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Experimentally evoking nonbelieved memories for childhood events - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "22905934",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/a0029668",
+        "title": "Experimentally evoking nonbelieved memories for childhood events.",
+        "authorString": "Otgaar H, Scoboria A, Smeets T.",
+        "pubYear": "2013",
+        "journalTitle": "J Exp Psychol Learn Mem Cogn",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A22905934+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14350,6 +14575,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25589599/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/25589599/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Constructing rich false memories of committing crime - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "25589599",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797614562862",
+        "title": "Constructing rich false memories of committing crime.",
+        "authorString": "Shaw J, Porter S.",
+        "pubYear": "2015",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A25589599+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/25648156/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-60-77.md",
@@ -14469,6 +14722,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/26071676/",
       "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md",
         "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-29T14:34:57+00:00",
@@ -14635,6 +14889,34 @@
         "journalTitle": "Memory",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26754184+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26858426/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26858426/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Sleep deprivation and false confessions - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26858426",
+        "source": "MED",
+        "pmcid": "PMC4776459",
+        "doi": "10.1073/pnas.1521518113",
+        "title": "Sleep deprivation and false confessions.",
+        "authorString": "Frenda SJ, Berkowitz SR, Loftus EF, Fenn KM.",
+        "pubYear": "2016",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26858426+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15588,6 +15870,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315022/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29315022/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Deconstructing Rich False Memories of Committing Crime: Commentary on Shaw and Porter (2015) - PubMed",
+      "bytes_sampled": 109421,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29315022",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797617703667",
+        "title": "Deconstructing Rich False Memories of Committing Crime: Commentary on Shaw and Porter (2015).",
+        "authorString": "Wade KA, Garry M, Pezdek K.",
+        "pubYear": "2018",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29315022+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/29467633/",
       "record_paths": [
         "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
@@ -15641,6 +15951,34 @@
         "journalTitle": "Proc Natl Acad Sci U S A",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29511106+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29529385/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/29529385/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Corrigendum: Constructing Rich False Memories of Committing Crime - PubMed",
+      "bytes_sampled": 96209,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "29529385",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1177/0956797618762341",
+        "title": "Corrigendum: Constructing Rich False Memories of Committing Crime.",
+        "authorString": null,
+        "pubYear": "2018",
+        "journalTitle": "Psychol Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A29529385+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16632,6 +16970,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31670704/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/31670704/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Sleep deprivation does not work: Epidemiology, impacts and outcomes of incidental and systematic sleep deprivation in a sample of Palestinian detainees - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31670704",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.7146/torture.v29i2.115381",
+        "title": "Sleep deprivation does not work: Epidemiology, impacts and outcomes of incidental and systematic sleep deprivation in a sample of Palestinian detainees.",
+        "authorString": "Sehwail M, Pérez-Sales P, Rasras K, Sehwail W, Guasch A, Galan A.",
+        "pubYear": "2019",
+        "journalTitle": "Torture",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A31670704+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/31674096/",
       "record_paths": [
         "research/chats/deeper-bc78232e-6eec-4ca7-a114-1551a6eb58a4.md"
@@ -16892,6 +17258,34 @@
         "journalTitle": "Sci Adv",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A32300655+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32322232/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/32322232/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Do False Memories Look Real? Evidence That People Struggle to Identify Rich False Memories of Committing Crime and Other Emotional Events - PubMed",
+      "bytes_sampled": 113509,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "32322232",
+        "source": "MED",
+        "pmcid": "PMC7156606",
+        "doi": "10.3389/fpsyg.2020.00650",
+        "title": "Do False Memories Look Real? Evidence That People Struggle to Identify Rich False Memories of Committing Crime and Other Emotional Events.",
+        "authorString": "Shaw J.",
+        "pubYear": "2020",
+        "journalTitle": "Front Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A32322232+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -17276,6 +17670,34 @@
         "journalTitle": "Sleep Med",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33639484+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33753514/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/33753514/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Rich false memories of autobiographical events can be reversed - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "33753514",
+        "source": "MED",
+        "pmcid": "PMC8020801",
+        "doi": "10.1073/pnas.2026447118",
+        "title": "Rich false memories of autobiographical events can be reversed.",
+        "authorString": "Oeberst A, Wachendörfer MM, Imhoff R, Blank H.",
+        "pubYear": "2021",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A33753514+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18795,6 +19217,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37432570/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37432570/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Inducing emotionally negative nonbelieved memories using negative pictures - PubMed",
+      "bytes_sampled": 128235,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37432570",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.3758/s13421-023-01441-3",
+        "title": "Inducing emotionally negative nonbelieved memories using negative pictures.",
+        "authorString": "Li C, Otgaar H, Muris P, Zhang Y, Wang J.",
+        "pubYear": "2024",
+        "journalTitle": "Mem Cognit",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37432570+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/37528278/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -19177,6 +19627,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38569321/",
       "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md",
         "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-29T14:34:54+00:00",
@@ -20736,6 +21187,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41242760/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41242760/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Trained but still tricked: source sensitisation training fails to reduce false memory reports - PubMed",
+      "bytes_sampled": 130365,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41242760",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1080/09658211.2025.2585095",
+        "title": "Trained but still tricked: source sensitisation training fails to reduce false memory reports.",
+        "authorString": "Bücken CA, Riesthuis P, Caon G, Cucu A, Otgaar H.",
+        "pubYear": "2026",
+        "journalTitle": "Memory",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41242760+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41264677/",
       "record_paths": [
         "research/notes/vindication-magnetic-effects-research.md"
@@ -21024,6 +21503,7 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41627391/",
       "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md",
         "research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md"
       ],
       "checked_at_utc": "2026-10-29T14:34:58+00:00",
@@ -21815,7 +22295,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/6623094/",
       "record_paths": [
-        "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md"
+        "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md",
+        "research/updates/2026-10-29-documented-abuse-cases.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:39+00:00",
       "auditor_version": 3,
@@ -22225,6 +22706,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://pure.port.ac.uk/ws/portalfiles/portal/26903394/Oeberst_et_al._PNAS_REVsubmission_final.pdf",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pure.port.ac.uk/ws/portalfiles/portal/26903394/Oeberst_et_al._PNAS_REVsubmission_final.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://raz-lab.org/wp-content/uploads/2020/10/1-s2.0-S0149763416306339-main.pdf",
       "record_paths": [
         "research/chats/6abd4417-0258-83e9-80c7-4cae17968083-2-2.md"
@@ -22361,6 +22858,22 @@
       "content_type": "text/html;charset=UTF-8",
       "title": "Posthypnotic suggestion, response complexity, and amnesia\n      -  Macquarie University",
       "bytes_sampled": 41111,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://researchportal.port.ac.uk/en/publications/false-confessions-and-false-memories-a-model-for-understanding-re/",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://researchportal.port.ac.uk/en/publications/false-confessions-and-false-memories-a-model-for-understanding-re/",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "False confessions and false memories: a model for understanding retractors' experiences\n      -  University of Portsmouth",
+      "bytes_sampled": 51959,
       "status": "reachable",
       "pdf_signature": null,
       "identity_check_category": "not_applicable"
@@ -22552,6 +23065,22 @@
       "status": "request_failed",
       "error": "URLError",
       "error_detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)>",
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://studieinfo.liu.se/download/coursedocument/6bfc54b6-00ec-4a0b-a275-bed9843e12d6/Wade%202018%20Deconstructing%20Rich%20False%20Memories%20of%20Committing%20Crime%20Commentary%20on%20Shaw%20and%20Porter%20%282015%29.pdf",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://studieinfo.liu.se/download/coursedocument/6bfc54b6-00ec-4a0b-a275-bed9843e12d6/Wade%202018%20Deconstructing%20Rich%20False%20Memories%20of%20Committing%20Crime%20Commentary%20on%20Shaw%20and%20Porter%20%282015%29.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": true,
       "identity_check_category": "not_applicable"
     },
     {
@@ -25082,6 +25611,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2015/2015-Ohio-3265.pdf",
+      "record_paths": [
+        "research/updates/2026-10-29-documented-abuse-cases.md"
+      ],
+      "checked_at_utc": "2026-10-29T18:59:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2015/2015-Ohio-3265.pdf",
+      "content_type": "application/pdf",
+      "title": null,
+      "bytes_sampled": 19383,
+      "status": "reachable",
+      "pdf_signature": true,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://www.tandfonline.com/doi/abs/10.1080/00207144.2026.2669243",
       "record_paths": [
         "research/chats/supplement-4ee6aad7-ea3a-4dad-8899-5fb1117a8751.md"
@@ -25267,8 +25812,8 @@
     "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
   },
   "metadata_summary": {
-    "api_identity_resolved": 710,
-    "not_applicable": 325,
+    "api_identity_resolved": 723,
+    "not_applicable": 337,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
   "decoded_ai_incremental_check": {
@@ -25333,5 +25878,17 @@
     },
     "new_url_metadata_identities_resolved": 29,
     "scope": "Posthypnotic/sleep-conditioning/pink-noise source URLs. Prior access, identity and manual receipts preserved apart from context paths; no global refresh or scientific data reanalysis."
+  },
+  "documented_abuse_incremental_check": {
+    "date": "2026-10-29",
+    "prior_report_date": "2026-10-29",
+    "prior_results_preserved_with_original_dates": 1036,
+    "new_source_urls_checked": 25,
+    "new_url_http_summary": {
+      "access_restricted": 4,
+      "reachable": 21
+    },
+    "new_url_metadata_identities_resolved": 13,
+    "scope": "Documented-abuse case and scientific source URLs. Prior access, identity and manual receipts preserved apart from context paths; no global refresh or scientific data reanalysis."
   }
 }

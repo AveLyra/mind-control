@@ -6,6 +6,8 @@ The recovered ChatGPT **wiki pages on hypnosis** conversation contains research 
 
 The [posthypnotic durability review](posthypnotic-sleep-and-pink-noise.md#posthypnotic) now follows cue responsiveness across later visits, daily behavior outside the session, task-specific replications, and failed durability determinants. It distinguishes a retained response from autonomous behavior and separates subjective, objective, and control-group outcomes.
 
+The [documented-abuse review](documented-abuse-and-evidence.md#hypnosis-cases) checks a public professional-misconduct filing, an actual licensing order, an expert-witness case report, and forensic-memory failures. Allegations, subjective nonvolition, judicial decisions, and experimentally isolated control remain distinct. Its [scenario crosswalk](documented-abuse-and-evidence.md#scenario-crosswalk) marks the stronger fictional claims.
+
 ## Concepts
 
 | Concept | Distinction preserved in the research |

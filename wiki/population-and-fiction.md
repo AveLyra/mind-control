@@ -19,3 +19,7 @@ The [historical cultural-patronage discussion](../research/chats/supplement-158e
 The Codex [influence-protections discussion](../research/chats/supplement-msg_08ce3dae55b20fa9016ab3cb2d234c87d287c3abcdd719e371.md) organizes practical responses around ordinary exposure, notification timing, decision pauses, independent records, and explicit consent. It is preserved as historical advice; it does not imply that a covert campaign occurred.
 
 The [directional-drift results](../research/notes/vindication-loaded-dice-directional-drift-results.md) contain an important negative control: generic broadcast also crossed the broad target-vector gate in that simulation. A personalization-specific interpretation therefore needs a direct comparison rather than relying on drift alone. These are synthetic results and were not rerun in this recovery pass.
+
+## Documented parallels for the worst-case scenarios
+
+The [eight-scenario crosswalk](documented-abuse-and-evidence.md#scenario-crosswalk) traces invented guilt, family rupture, sleep-related fear, uncertainty about attachment, misread reactions, mistrust of help, and unrepaired losses to their closest primary evidence. It marks unsupported mechanisms and invented biographies explicitly. The fictional scenarios remain separate from the named people in case records and from established scientific capabilities.

@@ -38,3 +38,7 @@ The [RFK section](../research/chats/supplement-rfk-hypnosis.md) records an earli
 The deeper search recovered a [focused evidence review](../research/chats/deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b.md) covering controlled cognition studies, clinical reports, forensic exposure evidence, and competing explanations. Its individualized case discussion is excluded.
 
 In a [controlled human study](https://pubmed.ncbi.nlm.nih.gov/20158291/), scopolamine and triazolam impaired episodic memory and aspects of confidence calibration. The experiment measured memory and self-monitoring, not interpersonal obedience. Clinical reports of unusual cooperation raise a different question: other substances, general intoxication, social pressure, and retrospective reconstruction can confound causal attribution. Repeatedly citing the same case reports does not provide independent replication of a reliable obedience mechanism.
+
+## Documented case records
+
+The [case review](documented-abuse-and-evidence.md#sleep-and-treatment) checks the 1988 Orlikow opinion and 2025 Quebec class-action authorization against their actual procedural roles. Concealed funding, allegations of injury, mixed treatment exposures, and successful personality reconstruction are separate propositions. Authorization to litigate is not final liability, and related proceedings are not independent experiments.

@@ -2258,6 +2258,14 @@
       "origin": "New bounded primary-source and synthesis follow-up dated 2026-10-29",
       "status": "39 PubMed identities/DOIs; 38 complete provided abstracts plus one primary-publisher abstract extract; 16 complete PMC bodies with selected sections inspected; durability contrasts, data reuse, negative replications, retraction and access limits explicit",
       "sha256": "46e241bdb549e879c4f8f65c95428982ffc4174f576eab382b0f5279bcebae16"
+    },
+    {
+      "id": "documented-abuse-cases-2026-10-29",
+      "title": "Documented abuse and psychological harm — primary cases, experimental limits, and fictional-scenario crosswalk",
+      "path": "research/updates/2026-10-29-documented-abuse-cases.md",
+      "origin": "New bounded primary-record and publication follow-up dated 2026-10-29",
+      "status": "26 source entries; six legal-record entries; ten bounded queries; 18 PubMed identities and 16 complete abstracts; selected primary PDF/HTML inspection and one complete PMC XML body; allegations, clinical harm, procedural outcomes, corrections, reversibility and fictional extensions distinguished",
+      "sha256": "445b8c96ec9bb9956985d4ef4c86f4088422b126e73ea5667d9a6936d075530a"
     }
   ],
   "supplementary_recovery": {
@@ -2455,22 +2463,22 @@
   },
   "source_link_audit": {
     "date": "2026-10-29",
-    "unique_source_urls": 1036,
+    "unique_source_urls": 1061,
     "http_summary": {
-      "reachable": 541,
-      "access_restricted": 149,
+      "reachable": 562,
+      "access_restricted": 153,
       "access_challenge": 281,
       "redirect_landing": 55,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
-      "api_identity_resolved": 710,
-      "not_applicable": 325,
+      "api_identity_resolved": 723,
+      "not_applicable": 337,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "135fec980f5472b2c309cd6e41ac671bb4edcd321d5ac50fc2e9b836e481ceeb",
+    "report_sha256": "72b9899855db4067062dd2d39ff1b373aa8783ca4a0ded55017c0ba8e5ef2002",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },

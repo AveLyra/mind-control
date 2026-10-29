@@ -45,3 +45,9 @@ These are editorial evidence classifications, not new experimental results. Orig
 The evidence chain is: **delivery → detection → discrimination → learned meaning → comprehension → retention → specified behavior → source and intent**. Evidence at one step does not certify the next. Neural response, memory impairment, suggestion response, and subjective loss of agency should remain separate measurements.
 
 These classifications combine preserved research with the bounded primary-source checks described in the [citation audit](../sources/citation-audit.md). Bibliographic identity and successful HTTP access do not establish that every historical quantitative claim is correct.
+
+## Abuse records and clinical harm
+
+The [documented-abuse review](documented-abuse-and-evidence.md) distinguishes a filed allegation, firsthand observation, court disposition, retrospective report, measured laboratory response, and fictional consequence. A licensing resignation, testimony exclusion, or class-action authorization proves the specified legal event; it does not isolate a hypnotic or sleep-conditioning mechanism. Mixed historical interventions and coercive sleep deprivation cannot supply missing evidence for pink-noise behavioral programming.
+
+The strongest counterevidence includes variable pseudomemory results, a hypnosis-versus-hypnotizability distinction, no notable emotional-state change in negative nonbelieved-memory experiments, and substantial reversal in one longitudinal study. A different training null does not establish universal irreversibility. [D12-D25 source checks](../research/updates/2026-10-29-documented-abuse-cases.md#d12) preserve the designs and limits.
