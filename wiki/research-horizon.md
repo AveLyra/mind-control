@@ -233,3 +233,7 @@ The strongest objection to a categorical boundary is that capabilities can emerg
 ## Documentary harm and the fictional horizon
 
 The [documented-abuse synthesis](documented-abuse-and-evidence.md) adds case records and an [eight-example evidence crosswalk](documented-abuse-and-evidence.md#scenario-crosswalk). It does not add a demonstrated control capability. Professional exploitation, disrupted evidence, and reported treatment injury have different support from precise attachment programming or permanent behavioral override. The capability, bridge, and scenario identifiers above retain their existing meanings.
+
+## Supporting follow-up: cryptochrome and magnetic sensing
+
+The [protein/psi review](cryptochrome-magnetoreception-and-psi.md) examines molecular transduction and its missing steps to human perception or communication. It includes recent membrane/signaling work, competing mechanisms, replication disputes, and positive/negative psi findings. These refine interpretation of the existing magnetic/interface capability; they do not add a demonstrated hypnosis, sleep-influence, or natural thought-transfer capability to the network.

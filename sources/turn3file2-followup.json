@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-30",
+  "scope": "Bounded chat/account lookup and retained October 11 selected Codex snapshot; not a complete ChatGPT account export.",
+  "target": "turn3file2",
+  "original_citation_identity_recovered": false,
+  "original_file_bytes_recovered": false,
+  "original_filename": null,
+  "original_extension": null,
+  "original_mime_type": null,
+  "citation_claim_context": {
+    "subject": "Awareness measurement and interpretation of low-reported-awareness discrimination",
+    "confidence": "high",
+    "scope": "Claim beside the handle; not the whole document"
+  },
+  "whole_source_subject": {
+    "status": "unresolved",
+    "candidate_family": "Protein magnetism, magnetoreception and psychic interpretations",
+    "basis": "User recollection plus an existing matching magnetic report; no citation correspondence"
+  },
+  "side_chat": {
+    "status": "not_identified_in_inspected_sources",
+    "deletion_established": false
+  },
+  "recovered_report": {
+    "conversation_id": "69acfa94-73c8-8322-a0d5-24ced159ea62",
+    "title": "Deep Research Availability",
+    "message_id": "50938846-82af-4cdd-911b-8a445d163db0",
+    "reader_characters": 5113,
+    "source_text_sha256": "6e5a7016772dfc44e0b995d31607632396a7630404b88244915a3f246ed47f5d",
+    "rendered_receipt_sha256": "f1a3131e9f7cf107233c0d4f68c6ee82c16c4cfb7d36b9c5beba7965661761bc",
+    "citation_targets": [
+      {
+        "index": 0,
+        "url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+        "label": "Wikipedia"
+      },
+      {
+        "index": 1,
+        "url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+        "label": "Wikipedia"
+      },
+      {
+        "index": 2,
+        "url": "https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails",
+        "label": "Rupert Sheldrake"
+      },
+      {
+        "index": 3,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11134153/",
+        "label": "PMC"
+      },
+      {
+        "index": 4,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10414223/",
+        "label": "PubMed"
+      },
+      {
+        "index": 5,
+        "url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+        "label": "Wikipedia"
+      },
+      {
+        "index": 6,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153049",
+        "label": "PLOS"
+      },
+      {
+        "index": 7,
+        "url": "https://journals.lub.lu.se/jaex/article/view/25934",
+        "label": "OJLU"
+      },
+      {
+        "index": 8,
+        "url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+        "label": "Wikipedia"
+      }
+    ],
+    "all_nine_targets_matched": true,
+    "original_source_identity_recovered": false,
+    "publication_derivative_sha256": "3eea0e2052b7bd80dddde96307bf9546739f88c735534aaed455ec2d7a5363d2"
+  },
+  "candidate_conversations": [
+    {
+      "id": "6ab15d29-9edc-83e9-9692-e20add2c6825",
+      "title": "Magnetoreception Applications Research",
+      "observed_state": "live/pinned and readable",
+      "relationship": "strong topic match; target mapping unknown"
+    },
+    {
+      "id": "6ab14c04-9864-83ea-a250-b495d6f19c23",
+      "title": "Research Brain Computer Interfaces",
+      "observed_state": "archived and readable",
+      "relationship": "named in old Sources panel; target mapping unknown"
+    }
+  ],
+  "search_coverage": {
+    "archived_codex_local_host_entries": 38,
+    "archived_codex_local_host_pagination_exhausted": true,
+    "archived_chatgpt_pages": 6,
+    "archived_chatgpt_entries": 180,
+    "archived_chatgpt_pagination_exhausted": false,
+    "rendered_account_queries": [
+      "cryptochrome",
+      "psychic",
+      "telepathy"
+    ],
+    "further_ui_lookup_limited_by_input_timeouts": true,
+    "local_session_file_paths_searched": 4071,
+    "matching_local_session_files": 30,
+    "local_title_index_read_only": true,
+    "drive_small_index_and_selected_catalogs_followed": true,
+    "drive_provider_topic_search_results": 0,
+    "provider_search_is_exhaustive": false
+  },
+  "retained_archive": {
+    "snapshot_date": "2026-10-11",
+    "part_count": 16,
+    "archive_bytes": 1576145931,
+    "archive_sha256": "e19fd8ab9b5c366379e3fa6d268ff1c365a9acaeec4163f7ca7caf0f9cb05972",
+    "parts_reverified": true,
+    "members": 253,
+    "all_member_sizes_and_hashes_match_previous_inventory": true,
+    "session_jsonl_files": 179,
+    "session_jsonl_rows": 349488,
+    "metadata_rows": 105664,
+    "total_jsonl_rows": 455152,
+    "query_matching_lines": {
+      "cryptochrome": 0,
+      "telepathy": 54,
+      "telepathic": 192,
+      "precognition": 6,
+      "psychic": 319,
+      "magr": 2,
+      "isca1": 21,
+      "maglov": 0,
+      "radical pair": 0,
+      "turn3file2": 0,
+      "protein magnetism": 0,
+      "protein biocompass": 0,
+      "6ab15d29-9edc-83e9-9692-e20add2c6825": 0,
+      "6ab14c04-9864-83ea-a250-b495d6f19c23": 0
+    },
+    "interpretation": "Broad term matches did not identify the target. MagR/IscA1 short-string hits were code/encoded-data false positives; psychic terms were unrelated fiction, historical psychic-driving text, quotations or search snippets.",
+    "raw_search_receipt_sha256": "1b48d0e62e3d4dac6edb8fc31b0022a0450c4fcda1ad299253b10b6cd710efeb",
+    "private_hits_sha256": "19918bdea330d33419461d1aff65ab0094df37d2096ca0c4f35184b25c60014a",
+    "multipart_downloaded_again": false
+  },
+  "old_recovery_receipts_preserved": true,
+  "old_ancestry_matches": 49,
+  "source_identity_unresolved": 1,
+  "deletions_performed": 0,
+  "live_conversation_stores_modified": false,
+  "private_account_urls_published": false
+}

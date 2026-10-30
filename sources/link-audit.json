@@ -1,12 +1,12 @@
 {
-  "audit_date": "2026-10-29",
+  "audit_date": "2026-10-30",
   "auditor_version": 3,
-  "scope": "Cumulative source access and identity audit. New documented-abuse URLs checked October 29, 2026; earlier October 28 and October 29 outcomes retain their original check dates and receipts. Context paths updated. No global refresh or claim-level certification.",
+  "scope": "Cumulative source access and identity audit. New cryptochrome/psi and recovered telepathy URLs checked October 30, 2026; earlier outcomes retain their original dates and receipts. Context paths updated. No global refresh or claim-level certification.",
   "summary": {
-    "reachable": 562,
-    "access_restricted": 153,
+    "reachable": 616,
+    "access_restricted": 162,
     "access_challenge": 281,
-    "redirect_landing": 55,
+    "redirect_landing": 57,
     "request_failed": 7,
     "http_error": 3
   },
@@ -1087,6 +1087,34 @@
         "journalTitle": "Exp Brain Res",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1007%2Fs00221-004-2112-x%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1007/s00359-021-01537-8",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s00359-021-01537-8?error=cookies_not_supported&code=f58fc917-81c3-4f55-a2e7-2d55ceb83876",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Broadband 75–85 MHz radiofrequency fields disrupt magnetic compass orientation in night-migratory songbirds consistent with a flavin-based radical pair magnetoreceptor | Journal of Comparative Physiology A | Springer Nature Link",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35019998",
+        "source": "MED",
+        "pmcid": "PMC8918455",
+        "doi": "10.1007/s00359-021-01537-8",
+        "title": "Broadband 75-85 MHz radiofrequency fields disrupt magnetic compass orientation in night-migratory songbirds consistent with a flavin-based radical pair magnetoreceptor.",
+        "authorString": "Leberecht B, Kobylkov D, Karwinkel T, Döge S, Burnus L, Wong SY, Apte S, Haase K, Musielak I, Chetverikova R, Dautaj G, Bassetto M, Winklhofer M, Hore PJ, Mouritsen H.",
+        "pubYear": "2022",
+        "journalTitle": "J Comp Physiol A Neuroethol Sens Neural Behav Physiol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1007%2Fs00359-021-01537-8%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -2205,6 +2233,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1016/j.isci.2025.114015",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S258900422502276X",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Redirecting",
+      "bytes_sampled": 2999,
+      "status": "redirect_landing",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41488359",
+        "source": "MED",
+        "pmcid": "PMC12757563",
+        "doi": "10.1016/j.isci.2025.114015",
+        "title": "Structure of European robin cryptochrome 1 reveals a role in circadian rhythms, not magnetoreception.",
+        "authorString": "Wickramaratne AC, Rasmussen ES, Chelliah Y, Schuhmann F, Solov'yov IA, Mouritsen H, Green CB, Zoltowski BD, Takahashi JS.",
+        "pubYear": "2025",
+        "journalTitle": "iScience",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.isci.2025.114015%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1016/j.jneumeth.2022.109726",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
@@ -2701,6 +2757,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1016/j.str.2025.08.003",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:12+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0969212625003077",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Redirecting",
+      "bytes_sampled": 2992,
+      "status": "redirect_landing",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40882633",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.str.2025.08.003",
+        "title": "Light-induced conformational switching and magnetic sensitivity of Drosophila cryptochrome.",
+        "authorString": "Chandler SA, Gehrckens AS, Shah LMN, Buckton KE, Cao G, Sen N, Zollitsch T, Rodriguez R, Solov'yov IA, Schleicher E, Weber S, Hore PJ, Timmel CR, Mackenzie SR, Benesch JLP.",
+        "pubYear": "2025",
+        "journalTitle": "Structure",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.str.2025.08.003%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1016/j.tics.2025.07.010",
       "record_paths": [
         "research/chats/6aa60cc7-7cac-83ea-a1d0-7490b03e66a6-5-2.md"
@@ -2810,6 +2894,54 @@
         "journalTitle": "Behav Brain Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1017%2FS0140525X25101489%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1021/acschembio.4c00576",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:59+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://pubs.acs.org/doi/10.1021/acschembio.4c00576",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "39982451",
+        "source": "MED",
+        "pmcid": "PMC11934094",
+        "doi": "10.1021/acschembio.4c00576",
+        "title": "European Robin Cryptochrome-4a Associates with Lipid Bilayers in an Ordered Manner, Fulfilling a Molecular-Level Condition for Magnetoreception.",
+        "authorString": "Majewska M, Hanić M, Bartölke R, Schmidt J, Bożek J, Gerhards L, Mouritsen H, Koch KW, Solov'yov IA, Brand I.",
+        "pubYear": "2025",
+        "journalTitle": "ACS Chem Biol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1021%2Facschembio.4c00576%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1021/jacs.6c14527",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:03+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://pubs.acs.org/jacsat/article/148/39/42632/5437724/Coherent-Vibrational-Wave-Packet-Motion-in-ErCry4a",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "42937954",
+        "source": "MED",
+        "pmcid": "PMC13651507",
+        "doi": "10.1021/jacs.6c14527",
+        "title": "Coherent Vibrational Wave Packet Motion in ErCry4a Proteins Monitors the Redox State of the Flavin Chromophore.",
+        "authorString": "Kumar K, Timmer D, Khazani M, Dautaj G, Brinkmann S, Götze JP, Saalfrank P, Gribakin BF, De Sio A, Mouritsen H, Lienau C.",
+        "pubYear": "2026",
+        "journalTitle": "J Am Chem Soc",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1021%2Fjacs.6c14527%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -3014,6 +3146,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1037/0033-2909.125.4.387",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:11+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://psycnet.apa.org:443/doiLanding?doi=10.1037/0033-2909.125.4.387",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "APA PsycNet",
+      "bytes_sampled": 8161,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "10414223",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/0033-2909.125.4.387",
+        "title": "Does Psi exist? Lack of replication of an anomalous process of information transfer.",
+        "authorString": "Milton J, Wiseman R.",
+        "pubYear": "1999",
+        "journalTitle": "Psychol Bull",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2F0033-2909.125.4.387%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1037/0033-2909.129.1.74",
       "record_paths": [
         "research/chats/deeper-8f804713-457a-4482-b222-f9e23e0216be.md"
@@ -3094,6 +3254,34 @@
         "journalTitle": "J Exp Psychol Gen",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fa0019561%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1037/a0021524",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:06+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://psycnet.apa.org:443/doiLanding?doi=10.1037/a0021524",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "APA PsycNet",
+      "bytes_sampled": 8162,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21280961",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/a0021524",
+        "title": "Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect.",
+        "authorString": "Bem DJ.",
+        "pubYear": "2011",
+        "journalTitle": "J Pers Soc Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fa0021524%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -3268,6 +3456,62 @@
         "journalTitle": "NPJ Sci Learn",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41539-025-00356-9%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/ncomms1364",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/ncomms1364?error=cookies_not_supported&code=362ce99f-367c-438c-8cf4-89e02ec6eeb2",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Human cryptochrome exhibits light-dependent magnetosensitivity | Nature Communications",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21694704",
+        "source": "MED",
+        "pmcid": "PMC3128388",
+        "doi": "10.1038/ncomms1364",
+        "title": "Human cryptochrome exhibits light-dependent magnetosensitivity.",
+        "authorString": "Foley LE, Gegear RJ, Reppert SM.",
+        "pubYear": "2011",
+        "journalTitle": "Nat Commun",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fncomms1364%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/nmat4484",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:55+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/nmat4484?error=cookies_not_supported&code=9f8cefde-949b-47e8-ad44-5418c5a2c441",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A magnetic protein biocompass | Nature Materials",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26569474",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1038/nmat4484",
+        "title": "A magnetic protein biocompass.",
+        "authorString": "Qin S, Yin H, Yang C, Dou Y, Liu Z, Zhang P, Yu H, Huang Y, Feng J, Hao J, Hao J, Deng L, Yan X, Dong X, Zhao Z, Jiang T, Wang HW, Luo SJ, Xie C.",
+        "pubYear": "2016",
+        "journalTitle": "Nat Mater",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnmat4484%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -3598,6 +3842,146 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1038/s41586-021-03618-9",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-021-03618-9?error=cookies_not_supported&code=98b671e8-80ac-450a-8f21-21c60657f27d",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Magnetic sensitivity of cryptochrome 4 from a migratory songbird | Nature",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34163056",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1038/s41586-021-03618-9",
+        "title": "Magnetic sensitivity of cryptochrome 4 from a migratory songbird.",
+        "authorString": "Xu J, Jarocha LE, Zollitsch T, Konowalczyk M, Henbest KB, Richert S, Golesworthy MJ, Schmidt J, Déjean V, Sowood DJC, Bassetto M, Luo J, Walton JR, Fleming J, Wei Y, Pitcher TL, Moise G, Herrmann M, Yin H, Wu H, Bartölke R, Käsehagen SJ, Horst S, Dautaj G, Murton PDF, Gehrckens AS, Chelliah Y, Takahashi JS, Koch KW, Weber S, Solov'yov IA, Xie C, Mackenzie SR, Timmel CR, Mouritsen H, Hore PJ.",
+        "pubYear": "2021",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41586-021-03618-9%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/s41586-023-05735-z",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:52+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-023-05735-z?error=cookies_not_supported&code=03ba4bf2-59b4-40d1-8029-8b73b1d87490",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Essential elements of radical pair magnetosensitivity in Drosophila | Nature",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "36813962",
+        "source": "MED",
+        "pmcid": "PMC9977682",
+        "doi": "10.1038/s41586-023-05735-z",
+        "title": "Essential elements of radical pair magnetosensitivity in Drosophila.",
+        "authorString": "Bradlaugh AA, Fedele G, Munro AL, Hansen CN, Hares JM, Patel S, Kyriacou CP, Jones AR, Rosato E, Baines RA.",
+        "pubYear": "2023",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41586-023-05735-z%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/s41586-023-06397-7",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-023-06397-7?error=cookies_not_supported&code=7d0c95e7-695f-4526-a60d-15869adcb7b9",
+      "content_type": "text/html; charset=utf-8",
+      "title": "No evidence for magnetic field effects on the behaviour of Drosophila | Nature",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37558871",
+        "source": "MED",
+        "pmcid": "PMC10432270",
+        "doi": "10.1038/s41586-023-06397-7",
+        "title": "No evidence for magnetic field effects on the behaviour of Drosophila.",
+        "authorString": "Bassetto M, Reichl T, Kobylkov D, Kattnig DR, Winklhofer M, Hore PJ, Mouritsen H.",
+        "pubYear": "2023",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41586-023-06397-7%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/s41586-024-07319-x",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-024-07319-x?error=cookies_not_supported&code=e6c41a08-6ab3-4398-9e3d-c064e3c2ccd6",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Magnetic field effects on behaviour in Drosophila | Nature",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38693417",
+        "source": "MED",
+        "pmcid": "PMC11062911",
+        "doi": "10.1038/s41586-024-07319-x",
+        "title": "Magnetic field effects on behaviour in Drosophila.",
+        "authorString": "Reppert SM.",
+        "pubYear": "2024",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41586-024-07319-x%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/s41586-025-09971-3",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:59+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-025-09971-3?error=cookies_not_supported&code=b68f9323-6ca8-4e5b-a3f0-ae71e05c7711",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Quantum spin resonance in engineered proteins for multimodal sensing | Nature",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41565820",
+        "source": "MED",
+        "pmcid": "PMC12851924",
+        "doi": "10.1038/s41586-025-09971-3",
+        "title": "Quantum spin resonance in engineered proteins for multimodal sensing.",
+        "authorString": "Abrahams G, Štuhec A, Spreng V, Henry R, Kempf I, James J, Sechkar K, Stacey S, Trelles-Fernandez V, Antill LM, Timmel CR, Miller JJ, Ingaramo M, York AG, Tetienne JP, Steel H.",
+        "pubYear": "2026",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41586-025-09971-3%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1038/s41593-019-0475-3",
       "record_paths": [
         "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-1-2.md"
@@ -3740,6 +4124,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1038/s41598-019-41895-7",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:05+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41598-019-41895-7?error=cookies_not_supported&code=89d72b41-fae9-4cb2-b65a-ab0a25a1d5e1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains | Scientific Reports",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "30992474",
+        "source": "MED",
+        "pmcid": "PMC6467884",
+        "doi": "10.1038/s41598-019-41895-7",
+        "title": "BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains.",
+        "authorString": "Jiang L, Stocco A, Losey DM, Abernethy JA, Prat CS, Rao RPN.",
+        "pubYear": "2019",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41598-019-41895-7%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1038/s41598-022-09457-6",
       "record_paths": [
         "research/chats/deeper-c4968b66-f9ca-4abd-a986-b238d5aff2aa.md"
@@ -3764,6 +4176,34 @@
         "journalTitle": "Sci Rep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41598-022-09457-6%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1038/s41598-022-12460-6",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:53+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/s41598-022-12460-6?error=cookies_not_supported&code=9ebfe0dd-cf3c-40a7-a0c9-46298041f3eb",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Human magnetic sense is mediated by a light and magnetic field resonance-dependent mechanism | Scientific Reports",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35637212",
+        "source": "MED",
+        "pmcid": "PMC9151822",
+        "doi": "10.1038/s41598-022-12460-6",
+        "title": "Human magnetic sense is mediated by a light and magnetic field resonance-dependent mechanism.",
+        "authorString": "Chae KS, Kim SC, Kwon HJ, Kim Y.",
+        "pubYear": "2022",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41598-022-12460-6%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -3914,6 +4354,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1038/srep44906",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:52+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.nature.com/articles/srep44906?error=cookies_not_supported&code=31c66c81-cd15-4bdf-b6bc-05693776e926",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Vertebrate Cryptochromes are Vestigial Flavoproteins | Scientific Reports",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28317918",
+        "source": "MED",
+        "pmcid": "PMC5357904",
+        "doi": "10.1038/srep44906",
+        "title": "Vertebrate Cryptochromes are Vestigial Flavoproteins.",
+        "authorString": "Kutta RJ, Archipowa N, Johannissen LO, Jones AR, Scrutton NS.",
+        "pubYear": "2017",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fsrep44906%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1055/s-2007-995265",
       "record_paths": [
         "research/chats/deeper-1847723b-ba36-4f5e-b6b8-d22ad31a242b.md"
@@ -4059,6 +4527,30 @@
         "journalTitle": "Proc Natl Acad Sci U S A",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1073%2Fpnas.2400678121%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1073/pnas.2524093123",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:04+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://pnas.org/doi/10.1073/pnas.2524093123",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "41712640",
+        "source": "MED",
+        "pmcid": "PMC12933104",
+        "doi": "10.1073/pnas.2524093123",
+        "title": "A hybrid compass mechanism combining radical pairs and magnetite crystals.",
+        "authorString": "Hore PJ.",
+        "pubYear": "2026",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1073%2Fpnas.2524093123%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -4958,6 +5450,54 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1098/rsif.2025.0176",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:00+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://royalsocietypublishing.org/doi/10.1098/rsif.2025.0176",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "40829642",
+        "source": "MED",
+        "pmcid": "PMC12364574",
+        "doi": "10.1098/rsif.2025.0176",
+        "title": "Cryptochrome 4b protein is probably irrelevant for radical pair-based magnetoreception in the European robin.",
+        "authorString": "Xu J, Ameerjan ABP, Hungerland J, Langebrake G, Ravnsborg T, Jensen ON, Schmidt J, Bartölke R, Kasahara T, Satish B, Schwigon L, Dedek K, Nolte AW, Liedvogel M, Solovyov IA, Mouritsen H.",
+        "pubYear": "2025",
+        "journalTitle": "J R Soc Interface",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1098%2Frsif.2025.0176%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1098/rsif.2026.0129",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:04+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://royalsocietypublishing.org/rsif/article/23/240/20260129/482563/Disruption-of-magnetic-orientation-in-migratory",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "42481018",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1098/rsif.2026.0129",
+        "title": "Disruption of magnetic orientation in migratory songbirds by radiofrequency magnetic fields is mediated by a specialized sensory system.",
+        "authorString": "Kavokin K, Bojarinova J, Sannikov D, Cherbunin R, Pakhomov A, Fedorishcheva A, Chernetsov N.",
+        "pubYear": "2026",
+        "journalTitle": "J R Soc Interface",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1098%2Frsif.2026.0129%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1098/rsif.2026.0332",
       "record_paths": [
         "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-2.md",
@@ -5086,6 +5626,30 @@
         "type": "journal-article",
         "metadata_provider": "Crossref",
         "metadata_url": "https://api.crossref.org/works/10.1111%2F1467-9280.00052"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1111/febs.70425",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:00+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.70425",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "41603739",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/febs.70425",
+        "title": "A supramolecular assembly of cone-specific G-protein and cryptochrome 4a on lipid bilayer.",
+        "authorString": "Güzelsoy-Flügge Ü, Vujinović S, Scholten A, Koch KW.",
+        "pubYear": "2026",
+        "journalTitle": "FEBS J",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1111%2Ffebs.70425%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -5522,6 +6086,30 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1126/science.ady2486",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:05+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://www.science.org/doi/10.1126/science.ady2486",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "42207892",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1126/science.ady2486",
+        "title": "Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions.",
+        "authorString": "Lisowski C, Quetting M, Klaus D, Lazarevski L, Seep L, Germer M, Li J, Müller I, Zuniga D, Fiedler W, Dechmann DKN, Thorup K, Hasenauer J, Fester L, Kuerten S, Farle M, Wiedwald U, Wikelski M, Kurts C.",
+        "pubYear": "2026",
+        "journalTitle": "Science",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1126%2Fscience.ady2486%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1126/science.aea6425",
       "record_paths": [
         "research/chats/6ab15d29-9edc-83e9-9692-e20add2c6825-2-2.md"
@@ -5646,6 +6234,30 @@
         "journalTitle": "Neuropsychobiology",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1159%2F000118227%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1162/jocn.2008.20.1.182",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:12+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://direct.mit.edu/jocn/article/20/1/182/4439/Using-Neuroimaging-to-Resolve-the-Psi-Debate",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "18095790",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1162/jocn.2008.20.1.182",
+        "title": "Using neuroimaging to resolve the psi debate.",
+        "authorString": "Moulton ST, Kosslyn SM.",
+        "pubYear": "2008",
+        "journalTitle": "J Cogn Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1162%2Fjocn.2008.20.1.182%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -5776,6 +6388,62 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.12688/f1000research.51746.4",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:09+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://f1000research.com/articles/10-234/v4",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Stage 2 Registered Report: Anomalous perception... | F1000Research",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "PPR857619",
+        "source": "PPR",
+        "pmcid": null,
+        "doi": "10.12688/f1000research.51746.4",
+        "title": "Stage 2 Registered Report: Anomalous perception in a Ganzfeld condition - A meta-analysis of more than 40 years investigation",
+        "authorString": "Tressoldi PE, Storm L.",
+        "pubYear": "2024",
+        "journalTitle": null,
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.12688%2Ff1000research.51746.4%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.12688/f1000research.7177.2",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:07+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://f1000research.com/articles/4-1188/v2",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Feeling the future: A meta-analysis of 90... | F1000Research",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26834996",
+        "source": "MED",
+        "pmcid": "PMC4706048",
+        "doi": "10.12688/f1000research.7177.2",
+        "title": "Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events.",
+        "authorString": "Bem D, Tressoldi P, Rabeyron T, Duggan M.",
+        "pubYear": "2015",
+        "journalTitle": "F1000Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.12688%2Ff1000research.7177.2%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1371/journal.pbio.3002651",
       "record_paths": [
         "research/chats/1N4okvPl0-7qnT4CVBO8tXmkJcT0AF1qI-14.md"
@@ -5890,6 +6558,90 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.1371/journal.pone.0322930",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:09+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322930",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Behavioural and EEG correlates of forward and backward priming—An exploratory study | PLOS One",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40338855",
+        "source": "MED",
+        "pmcid": "PMC12061123",
+        "doi": "10.1371/journal.pone.0322930",
+        "title": "Behavioural and EEG correlates of forward and backward priming-An exploratory study.",
+        "authorString": "Wilson M, Wittmann M, Kornmeier J.",
+        "pubYear": "2025",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1371%2Fjournal.pone.0322930%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0335330",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:08+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335330",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Metascientific replication project with the advanced meta-experimental protocol of the transparent psi project procedures for testing the precognitive effect claimed by Bem | PLOS One",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41191630",
+        "source": "MED",
+        "pmcid": "PMC12588471",
+        "doi": "10.1371/journal.pone.0335330",
+        "title": "Metascientific replication project with the advanced meta-experimental protocol of the transparent psi project procedures for testing the precognitive effect claimed by Bem.",
+        "authorString": "Walleczek J, von Stillfried N, Schmidt S, Wittmann M, Kirmse KA, Moll J, Kekecs Z.",
+        "pubYear": "2025",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1371%2Fjournal.pone.0335330%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.1523/ENEURO.0483-18.2019",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:53+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.eneuro.org/content/6/2/ENEURO.0483-18.2019",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Transduction of the Geomagnetic Field as Evidenced from alpha-Band Activity in the Human Brain | eNeuro",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "31028046",
+        "source": "MED",
+        "pmcid": "PMC6494972",
+        "doi": "10.1523/eneuro.0483-18.2019",
+        "title": "Transduction of the Geomagnetic Field as Evidenced from alpha-Band Activity in the Human Brain.",
+        "authorString": "Wang CX, Hilburn IA, Wu DA, Mizuhara Y, Cousté CP, Abrahams JNH, Bernstein SE, Matani A, Shimojo S, Kirschvink JL.",
+        "pubYear": "2019",
+        "journalTitle": "eNeuro",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1523%2FENEURO.0483-18.2019%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.1523/JNEUROSCI.0120-20.2020",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
@@ -5940,6 +6692,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.3389/fncir.2017.00011",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:57+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2017.00011/full",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Frontiers | MagR Alone Is Insufficient to Confer Cellular Calcium Responses to Magnetic Stimulation",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28360843",
+        "source": "MED",
+        "pmcid": "PMC5352684",
+        "doi": "10.3389/fncir.2017.00011",
+        "title": "MagR Alone Is Insufficient to Confer Cellular Calcium Responses to Magnetic Stimulation.",
+        "authorString": "Pang K, You H, Chen Y, Chu P, Hu M, Shen J, Guo W, Xie C, Lu B.",
+        "pubYear": "2017",
+        "journalTitle": "Front Neural Circuits",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3389%2Ffncir.2017.00011%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.3389/fnins.2022.801666",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md",
@@ -5967,6 +6747,58 @@
         "journalTitle": "Front Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3389%2Ffnins.2022.801666%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.3389/fnins.2025.1497021",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1497021/full",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Frontiers | Magnetic sense-dependent probabilistic decision-making in humans",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40125477",
+        "source": "MED",
+        "pmcid": "PMC11925921",
+        "doi": "10.3389/fnins.2025.1497021",
+        "title": "Magnetic sense-dependent probabilistic decision-making in humans.",
+        "authorString": "Oh IT, Kim SC, Kim Y, Kim YH, Chae KS.",
+        "pubYear": "2025",
+        "journalTitle": "Front Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3389%2Ffnins.2025.1497021%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://doi.org/10.3390/brainsci16060547",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:55+00:00",
+      "auditor_version": 3,
+      "http_status": 403,
+      "final_url": "https://www.mdpi.com/2076-3425/16/6/547",
+      "status": "access_restricted",
+      "bibliographic_metadata": {
+        "id": "PMC13296945",
+        "source": "PMC",
+        "pmcid": "PMC13296945",
+        "doi": null,
+        "title": "Delayed Correlations Between Geomagnetic Activity and Human EEG Alpha and Theta Oscillations: Evidence from Archival and Experimental Data",
+        "authorString": null,
+        "pubYear": "2026",
+        "journalTitle": "Brain Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3390%2Fbrainsci16060547%22&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -6375,6 +7207,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://doi.org/10.7554/eLife.17210",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:56+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://elifesciences.org/articles/17210",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Physical limits to magnetogenetics | eLife",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27529126",
+        "source": "MED",
+        "pmcid": "PMC5016093",
+        "doi": "10.7554/elife.17210",
+        "title": "Physical limits to magnetogenetics.",
+        "authorString": "Meister M.",
+        "pubYear": "2016",
+        "journalTitle": "Elife",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.7554%2FeLife.17210%22&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://doi.org/10.7554/eLife.89601.2.sa2",
       "record_paths": [
         "research/chats/supplement-172221fe-3630-4d57-90ca-a6136d8663d5.md"
@@ -6594,6 +7454,22 @@
       "final_url": "https://en.wikipedia.org/wiki/Main_Page",
       "content_type": "text/html; charset=UTF-8",
       "title": "Wikipedia, the free encyclopedia",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+      "record_paths": [
+        "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Ganzfeld experiment - Wikipedia",
       "bytes_sampled": 131072,
       "status": "reachable",
       "pdf_signature": null,
@@ -6953,6 +7829,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://journals.lub.lu.se/jaex/article/view/25934",
+      "record_paths": [
+        "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:14+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://journals.lub.lu.se/jaex/article/view/25934",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Telecommunication Telepathy: A Meta-Analysis\n\t\t\t\t\t\t\t| Journal of Anomalous Experience and Cognition",
+      "bytes_sampled": 61002,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014263",
       "record_paths": [
         "research/chats/deeper-348ea0b2-0309-4af9-bab5-208c3f7a088f.md",
@@ -6999,6 +7891,22 @@
       "final_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0060711",
       "content_type": "text/html;charset=UTF-8",
       "title": "Oxytocin Enhances Social Persuasion during Hypnosis | PLOS One",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153049",
+      "record_paths": [
+        "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:14+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0153049",
+      "content_type": "text/html;charset=UTF-8",
+      "title": "Testing for Questionable Research Practices in a Meta-Analysis: An Example from Experimental Parapsychology | PLOS One",
       "bytes_sampled": 131072,
       "status": "reachable",
       "pdf_signature": null,
@@ -8149,6 +9057,34 @@
         "journalTitle": "Nature",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC11062911&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11134153/",
+      "record_paths": [
+        "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11134153/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Stage 2 Registered Report: Anomalous perception in a Ganzfeld condition - A meta-analysis of more than 40 years investigation - PMC",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38813059",
+        "source": "MED",
+        "pmcid": "PMC11134153",
+        "doi": "10.12688/f1000research.51746.4",
+        "title": "Stage 2 Registered Report: Anomalous perception in a Ganzfeld condition - A meta-analysis of more than 40 years investigation.",
+        "authorString": "Tressoldi PE, Storm L.",
+        "pubYear": "2021",
+        "journalTitle": "F1000Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC11134153&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -11587,6 +12523,35 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10414223/",
+      "record_paths": [
+        "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md",
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:10+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/10414223/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Does Psi exist? Lack of replication of an anomalous process of information transfer - PubMed",
+      "bytes_sampled": 114266,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "10414223",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/0033-2909.125.4.387",
+        "title": "Does Psi exist? Lack of replication of an anomalous process of information transfer.",
+        "authorString": "Milton J, Wiseman R.",
+        "pubYear": "1999",
+        "journalTitle": "Psychol Bull",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A10414223+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/10553310/",
       "record_paths": [
         "research/chats/cross-project-dossier.md"
@@ -12446,6 +13411,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18095790/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:11+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/18095790/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Using neuroimaging to resolve the psi debate - PubMed",
+      "bytes_sampled": 119740,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "18095790",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1162/jocn.2008.20.1.182",
+        "title": "Using neuroimaging to resolve the psi debate.",
+        "authorString": "Moulton ST, Kosslyn SM.",
+        "pubYear": "2008",
+        "journalTitle": "J Cogn Neurosci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A18095790+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/18184778/",
       "record_paths": [
         "research/chats/01a0fe4a-fb16-7c80-8813-ed1a6d85cbae-4-32.md"
@@ -13135,6 +14128,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21280961/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:06+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/21280961/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect - PubMed",
+      "bytes_sampled": 130323,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21280961",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1037/a0021524",
+        "title": "Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect.",
+        "authorString": "Bem DJ.",
+        "pubYear": "2011",
+        "journalTitle": "J Pers Soc Psychol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21280961+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/21390976/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -13188,6 +14209,34 @@
         "journalTitle": "PLoS One",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21655277+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21694704/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/21694704/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Human cryptochrome exhibits light-dependent magnetosensitivity - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "21694704",
+        "source": "MED",
+        "pmcid": "PMC3128388",
+        "doi": "10.1038/ncomms1364",
+        "title": "Human cryptochrome exhibits light-dependent magnetosensitivity.",
+        "authorString": "Foley LE, Gegear RJ, Reppert SM.",
+        "pubYear": "2011",
+        "journalTitle": "Nat Commun",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A21694704+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -14837,6 +15886,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26569474/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:55+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26569474/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A magnetic protein biocompass - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26569474",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1038/nmat4484",
+        "title": "A magnetic protein biocompass.",
+        "authorString": "Qin S, Yin H, Yang C, Dou Y, Liu Z, Zhang P, Yu H, Huang Y, Feng J, Hao J, Hao J, Deng L, Yan X, Dong X, Zhao Z, Jiang T, Wang HW, Luo SJ, Xie C.",
+        "pubYear": "2016",
+        "journalTitle": "Nat Mater",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26569474+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/26599991/",
       "record_paths": [
         "research/updates/2026-10-28-decoded-ai-replications.md"
@@ -14889,6 +15966,34 @@
         "journalTitle": "Memory",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26754184+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26834996/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:06+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/26834996/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events - PubMed",
+      "bytes_sampled": 123956,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "26834996",
+        "source": "MED",
+        "pmcid": "PMC4706048",
+        "doi": "10.12688/f1000research.7177.2",
+        "title": "Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events.",
+        "authorString": "Bem D, Tressoldi P, Rabeyron T, Duggan M.",
+        "pubYear": "2015",
+        "journalTitle": "F1000Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A26834996+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15141,6 +16246,34 @@
         "journalTitle": "Front Hum Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27445775+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27529126/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:56+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/27529126/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Physical limits to magnetogenetics - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "27529126",
+        "source": "MED",
+        "pmcid": "PMC5016093",
+        "doi": "10.7554/elife.17210",
+        "title": "Physical limits to magnetogenetics.",
+        "authorString": "Meister M.",
+        "pubYear": "2016",
+        "journalTitle": "Elife",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A27529126+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -15410,6 +16543,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28317918/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:52+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28317918/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Vertebrate Cryptochromes are Vestigial Flavoproteins - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28317918",
+        "source": "MED",
+        "pmcid": "PMC5357904",
+        "doi": "10.1038/srep44906",
+        "title": "Vertebrate Cryptochromes are Vestigial Flavoproteins.",
+        "authorString": "Kutta RJ, Archipowa N, Johannissen LO, Jones AR, Scrutton NS.",
+        "pubYear": "2017",
+        "journalTitle": "Sci Rep",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28317918+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/28334175/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -15499,6 +16660,34 @@
         "journalTitle": "Front Hum Neurosci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28337134+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28360843/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:57+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/28360843/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "MagR Alone Is Insufficient to Confer Cellular Calcium Responses to Magnetic Stimulation - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "28360843",
+        "source": "MED",
+        "pmcid": "PMC5352684",
+        "doi": "10.3389/fncir.2017.00011",
+        "title": "MagR Alone Is Insufficient to Confer Cellular Calcium Responses to Magnetic Stimulation.",
+        "authorString": "Pang K, You H, Chen Y, Chu P, Hu M, Shen J, Guo W, Xie C, Lu B.",
+        "pubYear": "2017",
+        "journalTitle": "Front Neural Circuits",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A28360843+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -16685,7 +17874,8 @@
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/30992474/",
       "record_paths": [
-        "research/updates/2026-10-28-horizon-source-checks.md"
+        "research/updates/2026-10-28-horizon-source-checks.md",
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
       ],
       "checked_at_utc": "2026-10-28T17:43:13+00:00",
       "auditor_version": 3,
@@ -16714,7 +17904,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/31028046/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-44-13.md",
-        "research/notes/vindication-magnetic-effects-research.md"
+        "research/notes/vindication-magnetic-effects-research.md",
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:02+00:00",
       "auditor_version": 3,
@@ -17926,6 +19117,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34163056/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/34163056/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Magnetic sensitivity of cryptochrome 4 from a migratory songbird - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "34163056",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1038/s41586-021-03618-9",
+        "title": "Magnetic sensitivity of cryptochrome 4 from a migratory songbird.",
+        "authorString": "Xu J, Jarocha LE, Zollitsch T, Konowalczyk M, Henbest KB, Richert S, Golesworthy MJ, Schmidt J, Déjean V, Sowood DJC, Bassetto M, Luo J, Walton JR, Fleming J, Wei Y, Pitcher TL, Moise G, Herrmann M, Yin H, Wu H, Bartölke R, Käsehagen SJ, Horst S, Dautaj G, Murton PDF, Gehrckens AS, Chelliah Y, Takahashi JS, Koch KW, Weber S, Solov'yov IA, Xie C, Mackenzie SR, Timmel CR, Mouritsen H, Hore PJ.",
+        "pubYear": "2021",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34163056+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/34211064/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -18176,6 +19395,34 @@
         "journalTitle": "J Exp Psychol Appl",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A34990152+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35019998/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/35019998/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Broadband 75-85 MHz radiofrequency fields disrupt magnetic compass orientation in night-migratory songbirds consistent with a flavin-based radical pair magnetoreceptor - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "35019998",
+        "source": "MED",
+        "pmcid": "PMC8918455",
+        "doi": "10.1007/s00359-021-01537-8",
+        "title": "Broadband 75-85 MHz radiofrequency fields disrupt magnetic compass orientation in night-migratory songbirds consistent with a flavin-based radical pair magnetoreceptor.",
+        "authorString": "Leberecht B, Kobylkov D, Karwinkel T, Döge S, Burnus L, Wong SY, Apte S, Haase K, Musielak I, Chetverikova R, Dautaj G, Bassetto M, Winklhofer M, Hore PJ, Mouritsen H.",
+        "pubYear": "2022",
+        "journalTitle": "J Comp Physiol A Neuroethol Sens Neural Behav Physiol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A35019998+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -18526,7 +19773,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/35637212/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-44-13.md",
-        "research/notes/vindication-magnetic-effects-research.md"
+        "research/notes/vindication-magnetic-effects-research.md",
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:02+00:00",
       "auditor_version": 3,
@@ -18957,6 +20205,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36813962/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:52+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/36813962/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Essential elements of radical pair magnetosensitivity in Drosophila - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "36813962",
+        "source": "MED",
+        "pmcid": "PMC9977682",
+        "doi": "10.1038/s41586-023-05735-z",
+        "title": "Essential elements of radical pair magnetosensitivity in Drosophila.",
+        "authorString": "Bradlaugh AA, Fedele G, Munro AL, Hansen CN, Hares JM, Patel S, Kyriacou CP, Jones AR, Rosato E, Baines RA.",
+        "pubYear": "2023",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A36813962+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/37014750/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -19269,6 +20545,34 @@
         "journalTitle": "Psychon Bull Rev",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37528278+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37558871/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/37558871/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "No evidence for magnetic field effects on the behaviour of Drosophila - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "37558871",
+        "source": "MED",
+        "pmcid": "PMC10432270",
+        "doi": "10.1038/s41586-023-06397-7",
+        "title": "No evidence for magnetic field effects on the behaviour of Drosophila.",
+        "authorString": "Bassetto M, Reichl T, Kobylkov D, Kattnig DR, Winklhofer M, Hore PJ, Mouritsen H.",
+        "pubYear": "2023",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A37558871+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -19743,6 +21047,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38693417/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:50+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38693417/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Magnetic field effects on behaviour in Drosophila - PubMed",
+      "bytes_sampled": 129399,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38693417",
+        "source": "MED",
+        "pmcid": "PMC11062911",
+        "doi": "10.1038/s41586-024-07319-x",
+        "title": "Magnetic field effects on behaviour in Drosophila.",
+        "authorString": "Reppert SM.",
+        "pubYear": "2024",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38693417+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/38713308/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -19799,6 +21131,34 @@
         "journalTitle": "J Neural Eng",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38812288+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38813059/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:09+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/38813059/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Stage 2 Registered Report: Anomalous perception in a Ganzfeld condition - A meta-analysis of more than 40 years investigation - PubMed",
+      "bytes_sampled": 128109,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "38813059",
+        "source": "MED",
+        "pmcid": "PMC11134153",
+        "doi": "10.12688/f1000research.51746.4",
+        "title": "Stage 2 Registered Report: Anomalous perception in a Ganzfeld condition - A meta-analysis of more than 40 years investigation.",
+        "authorString": "Tressoldi PE, Storm L.",
+        "pubYear": "2021",
+        "journalTitle": "F1000Res",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A38813059+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20463,6 +21823,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39982451/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:59+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/39982451/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "European Robin Cryptochrome-4a Associates with Lipid Bilayers in an Ordered Manner, Fulfilling a Molecular-Level Condition for Magnetoreception - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "39982451",
+        "source": "MED",
+        "pmcid": "PMC11934094",
+        "doi": "10.1021/acschembio.4c00576",
+        "title": "European Robin Cryptochrome-4a Associates with Lipid Bilayers in an Ordered Manner, Fulfilling a Molecular-Level Condition for Magnetoreception.",
+        "authorString": "Majewska M, Hanić M, Bartölke R, Schmidt J, Bożek J, Gerhards L, Mouritsen H, Koch KW, Solov'yov IA, Brand I.",
+        "pubYear": "2025",
+        "journalTitle": "ACS Chem Biol",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A39982451+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/40039246/",
       "record_paths": [
         "research/updates/2026-10-28-prediction-error-retrieval.md"
@@ -20494,7 +21882,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40125477/",
       "record_paths": [
         "research/chats/01a08679-d665-7a92-9c20-ce1843c10a68-44-13.md",
-        "research/notes/vindication-magnetic-effects-research.md"
+        "research/notes/vindication-magnetic-effects-research.md",
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
       ],
       "checked_at_utc": "2026-10-28T14:57:02+00:00",
       "auditor_version": 3,
@@ -20544,6 +21933,34 @@
         "journalTitle": "Curr Biol",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40245865+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40338855/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:08+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40338855/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Behavioural and EEG correlates of forward and backward priming-An exploratory study - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40338855",
+        "source": "MED",
+        "pmcid": "PMC12061123",
+        "doi": "10.1371/journal.pone.0322930",
+        "title": "Behavioural and EEG correlates of forward and backward priming-An exploratory study.",
+        "authorString": "Wilson M, Wittmann M, Kornmeier J.",
+        "pubYear": "2025",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40338855+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -20931,6 +22348,62 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40829642/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40829642/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Cryptochrome 4b protein is probably irrelevant for radical pair-based magnetoreception in the European robin - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40829642",
+        "source": "MED",
+        "pmcid": "PMC12364574",
+        "doi": "10.1098/rsif.2025.0176",
+        "title": "Cryptochrome 4b protein is probably irrelevant for radical pair-based magnetoreception in the European robin.",
+        "authorString": "Xu J, Ameerjan ABP, Hungerland J, Langebrake G, Ravnsborg T, Jensen ON, Schmidt J, Bartölke R, Kasahara T, Satish B, Schwigon L, Dedek K, Nolte AW, Liedvogel M, Solovyov IA, Mouritsen H.",
+        "pubYear": "2025",
+        "journalTitle": "J R Soc Interface",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40829642+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40882633/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:12+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/40882633/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Light-induced conformational switching and magnetic sensitivity of Drosophila cryptochrome - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "40882633",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1016/j.str.2025.08.003",
+        "title": "Light-induced conformational switching and magnetic sensitivity of Drosophila cryptochrome.",
+        "authorString": "Chandler SA, Gehrckens AS, Shah LMN, Buckton KE, Cao G, Sen N, Zollitsch T, Rodriguez R, Solov'yov IA, Schleicher E, Weber S, Hore PJ, Timmel CR, Mackenzie SR, Benesch JLP.",
+        "pubYear": "2025",
+        "journalTitle": "Structure",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A40882633+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/40885484/",
       "record_paths": [
         "research/updates/2026-10-28-context-reinstatement-detection.md"
@@ -21127,6 +22600,34 @@
         "journalTitle": "Imaging Neurosci (Camb)",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41089190+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41191630/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:07+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41191630/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Metascientific replication project with the advanced meta-experimental protocol of the transparent psi project procedures for testing the precognitive effect claimed by Bem - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41191630",
+        "source": "MED",
+        "pmcid": "PMC12588471",
+        "doi": "10.1371/journal.pone.0335330",
+        "title": "Metascientific replication project with the advanced meta-experimental protocol of the transparent psi project procedures for testing the precognitive effect claimed by Bem.",
+        "authorString": "Walleczek J, von Stillfried N, Schmidt S, Wittmann M, Kirmse KA, Moll J, Kekecs Z.",
+        "pubYear": "2025",
+        "journalTitle": "PLoS One",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41191630+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -21386,6 +22887,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41488359/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:01+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41488359/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Structure of European robin cryptochrome 1 reveals a role in circadian rhythms, not magnetoreception - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41488359",
+        "source": "MED",
+        "pmcid": "PMC12757563",
+        "doi": "10.1016/j.isci.2025.114015",
+        "title": "Structure of European robin cryptochrome 1 reveals a role in circadian rhythms, not magnetoreception.",
+        "authorString": "Wickramaratne AC, Rasmussen ES, Chelliah Y, Schuhmann F, Solov'yov IA, Mouritsen H, Green CB, Zoltowski BD, Takahashi JS.",
+        "pubYear": "2025",
+        "journalTitle": "iScience",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41488359+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/41513054/",
       "record_paths": [
         "research/chats/1k49VaX0v4skHuCXZxV5qq7_0Ps210TKI-4.md"
@@ -21497,6 +23026,62 @@
         "journalTitle": "Neurosci Conscious",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41561361+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41565820/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:58+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41565820/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Quantum spin resonance in engineered proteins for multimodal sensing - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41565820",
+        "source": "MED",
+        "pmcid": "PMC12851924",
+        "doi": "10.1038/s41586-025-09971-3",
+        "title": "Quantum spin resonance in engineered proteins for multimodal sensing.",
+        "authorString": "Abrahams G, Štuhec A, Spreng V, Henry R, Kempf I, James J, Sechkar K, Stacey S, Trelles-Fernandez V, Antill LM, Timmel CR, Miller JJ, Ingaramo M, York AG, Tetienne JP, Steel H.",
+        "pubYear": "2026",
+        "journalTitle": "Nature",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41565820+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41603739/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:00+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41603739/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A supramolecular assembly of cone-specific G-protein and cryptochrome 4a on lipid bilayer - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41603739",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1111/febs.70425",
+        "title": "A supramolecular assembly of cone-specific G-protein and cryptochrome 4a on lipid bilayer.",
+        "authorString": "Güzelsoy-Flügge Ü, Vujinović S, Scholten A, Koch KW.",
+        "pubYear": "2026",
+        "journalTitle": "FEBS J",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41603739+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -21613,6 +23198,34 @@
         "journalTitle": "J Sleep Res",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41702567+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41712640/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:04+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/41712640/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "A hybrid compass mechanism combining radical pairs and magnetite crystals - PubMed",
+      "bytes_sampled": 130867,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "41712640",
+        "source": "MED",
+        "pmcid": "PMC12933104",
+        "doi": "10.1073/pnas.2524093123",
+        "title": "A hybrid compass mechanism combining radical pairs and magnetite crystals.",
+        "authorString": "Hore PJ.",
+        "pubYear": "2026",
+        "journalTitle": "Proc Natl Acad Sci U S A",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A41712640+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -21954,6 +23567,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42207892/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:05+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42207892/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42207892",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1126/science.ady2486",
+        "title": "Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions.",
+        "authorString": "Lisowski C, Quetting M, Klaus D, Lazarevski L, Seep L, Germer M, Li J, Müller I, Zuniga D, Fiedler W, Dechmann DKN, Thorup K, Hasenauer J, Fester L, Kuerten S, Farle M, Wiedwald U, Wikelski M, Kurts C.",
+        "pubYear": "2026",
+        "journalTitle": "Science",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42207892+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/42270639/",
       "record_paths": [
         "research/chats/deeper-hypnosis-evidence-archive.md",
@@ -22040,6 +23681,34 @@
       "identity_check_category": "api_identity_resolved"
     },
     {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42352556/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:13:54+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42352556/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Delayed Correlations Between Geomagnetic Activity and Human EEG Alpha and Theta Oscillations: Evidence from Archival and Experimental Data - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42352556",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.3390/brainsci16060547",
+        "title": "Delayed Correlations Between Geomagnetic Activity and Human EEG Alpha and Theta Oscillations: Evidence from Archival and Experimental Data.",
+        "authorString": "Chezzi CD, Saroka KS, Branigan KS, Levac SJ, Dotta BT.",
+        "pubYear": "2026",
+        "journalTitle": "Brain Sci",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42352556+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
       "url": "https://pubmed.ncbi.nlm.nih.gov/42380726/",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -22092,6 +23761,34 @@
         "journalTitle": "Front Sleep",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42422173+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42481018/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:03+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42481018/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Disruption of magnetic orientation in migratory songbirds by radiofrequency magnetic fields is mediated by a specialized sensory system - PubMed",
+      "bytes_sampled": 125687,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42481018",
+        "source": "MED",
+        "pmcid": null,
+        "doi": "10.1098/rsif.2026.0129",
+        "title": "Disruption of magnetic orientation in migratory songbirds by radiofrequency magnetic fields is mediated by a specialized sensory system.",
+        "authorString": "Kavokin K, Bojarinova J, Sannikov D, Cherbunin R, Pakhomov A, Fedorishcheva A, Chernetsov N.",
+        "pubYear": "2026",
+        "journalTitle": "J R Soc Interface",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42481018+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -22205,6 +23902,34 @@
         "journalTitle": "Trends Cogn Sci",
         "metadata_provider": "Europe PMC",
         "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42850138+AND+SRC%3AMED&format=json&pageSize=1"
+      },
+      "identity_check_category": "api_identity_resolved"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937954/",
+      "record_paths": [
+        "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:02+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://pubmed.ncbi.nlm.nih.gov/42937954/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Coherent Vibrational Wave Packet Motion in ErCry4a Proteins Monitors the Redox State of the Flavin Chromophore - PubMed",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "bibliographic_metadata": {
+        "id": "42937954",
+        "source": "MED",
+        "pmcid": "PMC13651507",
+        "doi": "10.1021/jacs.6c14527",
+        "title": "Coherent Vibrational Wave Packet Motion in ErCry4a Proteins Monitors the Redox State of the Flavin Chromophore.",
+        "authorString": "Kumar K, Timmer D, Khazani M, Dautaj G, Brinkmann S, Götze JP, Saalfrank P, Gribakin BF, De Sio A, Mouritsen H, Lienau C.",
+        "pubYear": "2026",
+        "journalTitle": "J Am Chem Soc",
+        "metadata_provider": "Europe PMC",
+        "metadata_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A42937954+AND+SRC%3AMED&format=json&pageSize=1"
       },
       "identity_check_category": "api_identity_resolved"
     },
@@ -25595,6 +27320,22 @@
       "identity_check_category": "not_applicable"
     },
     {
+      "url": "https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails",
+      "record_paths": [
+        "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md"
+      ],
+      "checked_at_utc": "2026-10-30T13:14:13+00:00",
+      "auditor_version": 3,
+      "http_status": 200,
+      "final_url": "https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Testing for Telepathy in Connection with E-mails",
+      "bytes_sampled": 131072,
+      "status": "reachable",
+      "pdf_signature": null,
+      "identity_check_category": "not_applicable"
+    },
+    {
       "url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-16/issue-6/067011/Measuring-and-predicting-eyelid-spectral-transmittance/10.1117/1.3593151.pdf",
       "record_paths": [
         "research/updates/2026-10-28-awareness/awareness-optical-bibliography-2026-10-28.md"
@@ -25812,8 +27553,8 @@
     "scope": "Twenty current source URLs checked incrementally; prior same-day results and separately dated checks preserved except updated context paths. Selected primary-text checks recorded in the combined-technique review."
   },
   "metadata_summary": {
-    "api_identity_resolved": 723,
-    "not_applicable": 337,
+    "api_identity_resolved": 784,
+    "not_applicable": 341,
     "prior_independent_identity_resolved_after_index_miss": 1
   },
   "decoded_ai_incremental_check": {
@@ -25890,5 +27631,18 @@
     },
     "new_url_metadata_identities_resolved": 13,
     "scope": "Documented-abuse case and scientific source URLs. Prior access, identity and manual receipts preserved apart from context paths; no global refresh or scientific data reanalysis."
+  },
+  "cryptochrome_psi_incremental_check": {
+    "date": "2026-10-30",
+    "prior_report_date": "2026-10-29",
+    "prior_results_preserved_with_original_dates": 1061,
+    "new_source_urls_checked": 65,
+    "new_url_http_summary": {
+      "reachable": 54,
+      "access_restricted": 9,
+      "redirect_landing": 2
+    },
+    "new_url_metadata_identities_resolved": 61,
+    "scope": "Cryptochrome/psi source and recovered historical citation URLs. Prior access, identity and manual receipts preserved apart from context paths; no global refresh or scientific data reanalysis."
   }
 }

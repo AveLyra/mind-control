@@ -2266,6 +2266,22 @@
       "origin": "New bounded primary-record and publication follow-up dated 2026-10-29",
       "status": "26 source entries; six legal-record entries; ten bounded queries; 18 PubMed identities and 16 complete abstracts; selected primary PDF/HTML inspection and one complete PMC XML body; allegations, clinical harm, procedural outcomes, corrections, reversibility and fictional extensions distinguished",
       "sha256": "445b8c96ec9bb9956985d4ef4c86f4088422b126e73ea5667d9a6936d075530a"
+    },
+    {
+      "id": "69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy",
+      "title": "Deep Research Availability — recovered telepathy answer",
+      "path": "research/chats/69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy.md",
+      "origin": "ChatGPT conversation `69acfa94-73c8-8322-a0d5-24ced159ea62`, assistant message `50938846-82af-4cdd-911b-8a445d163db0`",
+      "status": "Historical research; complete reader answer and nine original rendered citation targets recovered; overstatements and miscitation qualified",
+      "sha256": "3eea0e2052b7bd80dddde96307bf9546739f88c735534aaed455ec2d7a5363d2"
+    },
+    {
+      "id": "2026-10-30-cryptochrome-magnetoreception-psi",
+      "title": "Cryptochrome, magnetoreception, and psi — source checks",
+      "path": "research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md",
+      "origin": "New editorial research checks, October 29–30, 2026",
+      "status": "32 selected source entries; metadata/abstract checks, ten complete supplied PMC bodies with scoped inspection, primary-publisher extracts; no data reanalysis",
+      "sha256": "c6a59d5abc8f7263182e4dbc410b618c32edf9b46e09d7aafa3ba0717ee4ea04"
     }
   ],
   "supplementary_recovery": {
@@ -2462,23 +2478,23 @@
     "private_search_inventory_sha256": "f9db908f96d68f26f885cff239d6061cf203b4fccd2ea533503d7db14854dd3a"
   },
   "source_link_audit": {
-    "date": "2026-10-29",
-    "unique_source_urls": 1061,
+    "date": "2026-10-30",
+    "unique_source_urls": 1126,
     "http_summary": {
-      "reachable": 562,
-      "access_restricted": 153,
+      "reachable": 616,
+      "access_restricted": 162,
       "access_challenge": 281,
-      "redirect_landing": 55,
+      "redirect_landing": 57,
       "request_failed": 7,
       "http_error": 3
     },
     "metadata_summary": {
-      "api_identity_resolved": 723,
-      "not_applicable": 337,
+      "api_identity_resolved": 784,
+      "not_applicable": 341,
       "prior_independent_identity_resolved_after_index_miss": 1
     },
     "report": "sources/link-audit.json",
-    "report_sha256": "72b9899855db4067062dd2d39ff1b373aa8783ca4a0ded55017c0ba8e5ef2002",
+    "report_sha256": "56d32e3435e2251269760f9e11eb1f9005f03888c02e0f4bf883ddae6c4e9e9e",
     "registry_report": "sources/trial-identity-checks.json",
     "registry_report_sha256": "ddd6e5f569c2c85d4b79d7d72eaf00f32b238d4648b2454fccc4c6f8f2945a6a"
   },
@@ -2551,5 +2567,25 @@
     "main_reference_identities_matched": 53,
     "selected_claim_checks": 6,
     "execution_status": "supplied_literature_update_integrated"
+  },
+  "turn3file2_followup": {
+    "date": "2026-10-30",
+    "report": "sources/turn3file2-followup.json",
+    "report_sha256": "616aa846b531e7d6a20d17aa7457896fd5c35776cb217c718c829419c7289bae",
+    "source_identity_recovered": false,
+    "side_chat_identified": false,
+    "original_file_bytes_recovered": false,
+    "new_research_record_ids": [
+      "69acfa94-73c8-8322-a0d5-24ced159ea62-telepathy",
+      "2026-10-30-cryptochrome-magnetoreception-psi"
+    ]
+  },
+  "cryptochrome_psi_source_checks": {
+    "date": "2026-10-30",
+    "report": "sources/cryptochrome-psi-source-checks.json",
+    "report_sha256": "a00d25bc37c86f334cbd160c9d0c86d61943ed0ef941d17255288241cd2f360c",
+    "source_entries": 32,
+    "complete_supplied_pmc_bodies": 10,
+    "topic_page": "wiki/cryptochrome-magnetoreception-and-psi.md"
   }
 }

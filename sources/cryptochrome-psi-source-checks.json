@@ -1,0 +1,995 @@
+{
+  "date": "2026-10-30",
+  "scope": "Selected primary studies, original statistical syntheses, theoretical proposals and a physical critique. Not a systematic review or independent data reanalysis.",
+  "sources": [
+    {
+      "id": "M01",
+      "pmid": "34163056",
+      "title": "Magnetic sensitivity of cryptochrome 4 from a migratory songbird.",
+      "doi": "10.1038/s41586-021-03618-9",
+      "publication_date_as_returned": "2021 Jun",
+      "first_authors_as_returned": [
+        "Jingjing Xu",
+        "Lauren E Jarocha",
+        "Tilo Zollitsch"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34163056/",
+      "doi_url": "https://doi.org/10.1038/s41586-021-03618-9",
+      "abstract_available": true,
+      "abstract_characters": 962,
+      "abstract_sha256": "989f18e613d609394730fcdab597913fe641e879da53f18d9bbb8f9b55a90577",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": null,
+      "evidence_role": "In-vitro biophysics",
+      "editorial_assessment": "European robin CRY4 photochemistry responds to magnetic fields; mutations help locate the electron-transfer steps. This is protein chemistry, not an intact-human compass or proof of a specific downstream neural circuit."
+    },
+    {
+      "id": "M02",
+      "pmid": "21694704",
+      "title": "Human cryptochrome exhibits light-dependent magnetosensitivity.",
+      "doi": "10.1038/ncomms1364",
+      "publication_date_as_returned": "2011 Jun 21",
+      "first_authors_as_returned": [
+        "Lauren E Foley",
+        "Robert J Gegear",
+        "Steven M Reppert"
+      ],
+      "pmcid": "PMC3128388",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/21694704/",
+      "doi_url": "https://doi.org/10.1038/ncomms1364",
+      "abstract_available": true,
+      "abstract_characters": 730,
+      "abstract_sha256": "3d8a0465da91ca25036168210f7b0856a5f2ba84b8301072fc5b87b80ebe8fad",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": {
+        "retrieved_characters": 10335,
+        "sha256": "a83264505c3023f4cfc495b188a9f16bb2d09492b066aeae9726cad47841cd86",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Transgenic animal behavior",
+      "editorial_assessment": "Human CRY2 restored light-dependent magnetic behavior in a fly assay. The Methods give a 0.1–5 G field gradient (10–500 µT). The paper explicitly leaves downstream human capability unknown; a human protein in a fly is not a human demonstration."
+    },
+    {
+      "id": "M03",
+      "pmid": "37558871",
+      "title": "No evidence for magnetic field effects on the behaviour of Drosophila.",
+      "doi": "10.1038/s41586-023-06397-7",
+      "publication_date_as_returned": "2023 Aug",
+      "first_authors_as_returned": [
+        "Marco Bassetto",
+        "Thomas Reichl",
+        "Dmitry Kobylkov"
+      ],
+      "pmcid": "PMC10432270",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37558871/",
+      "doi_url": "https://doi.org/10.1038/s41586-023-06397-7",
+      "abstract_available": true,
+      "abstract_characters": 1605,
+      "abstract_sha256": "72699315472cfcfb5b0b9919dac91d14540fd64e2d5d60c5fa9f69cdf3844578",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": {
+        "retrieved_characters": 50218,
+        "sha256": "ef0d70440ce1cb0e2e9868a15ed8f1385681138c8f1ad271d54f8677bef3190d",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Large negative replication attempt",
+      "editorial_assessment": "Tests of 97,658 maze flies and 10,960 negative-geotaxis flies found no magnetic behavior under the tested conditions. Batch structure, assay differences, and the unit of replication matter; the fly count is not a count of independent human or bird experiments."
+    },
+    {
+      "id": "M04",
+      "pmid": "38693417",
+      "title": "Magnetic field effects on behaviour in Drosophila.",
+      "doi": "10.1038/s41586-024-07319-x",
+      "publication_date_as_returned": "2024 May",
+      "first_authors_as_returned": [
+        "Steven M Reppert"
+      ],
+      "pmcid": "PMC11062911",
+      "publication_types": [
+        "News",
+        "Comment"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38693417/",
+      "doi_url": "https://doi.org/10.1038/s41586-024-07319-x",
+      "abstract_available": false,
+      "abstract_characters": 0,
+      "abstract_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": {
+        "retrieved_characters": 9243,
+        "sha256": "b926066c418e6d755cbf0aca88c39ae23b34b5f2713c94b979f7c00f316f7681",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Published methodological dispute",
+      "editorial_assessment": "Reppert disputes the conditioning controls at the actual test location and the statistical treatment of batch-level data. This is a defense/reanalysis of published results, not a new independent positive replication. The complete supplied body was retrieved; PubMed supplies no abstract."
+    },
+    {
+      "id": "M05",
+      "pmid": "36813962",
+      "title": "Essential elements of radical pair magnetosensitivity in Drosophila.",
+      "doi": "10.1038/s41586-023-05735-z",
+      "publication_date_as_returned": "2023 Mar",
+      "first_authors_as_returned": [
+        "Adam A Bradlaugh",
+        "Giorgio Fedele",
+        "Anna L Munro"
+      ],
+      "pmcid": "PMC9977682",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36813962/",
+      "doi_url": "https://doi.org/10.1038/s41586-023-05735-z",
+      "abstract_available": true,
+      "abstract_characters": 1482,
+      "abstract_sha256": "528ceb669b44337d3ed8ca9312c64d0b1aa1d942da174d787cf9af016a68660d",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": null,
+      "evidence_role": "Alternative cellular/animal mechanism",
+      "editorial_assessment": "A fly CRY C-terminal segment without the usual FAD-binding domain and high free FAD supported responses in the authors’ assays. This challenges a uniquely canonical CRY explanation. Some neuronal experiments used 100 mT; do not equate their endpoint with an Earth-field human threshold.",
+      "additional_inspection": "Primary publisher indexed Figure 2 extract includes a 100 mT neuronal condition; full paper/supplements not claimed read."
+    },
+    {
+      "id": "M06",
+      "pmid": "28317918",
+      "title": "Vertebrate Cryptochromes are Vestigial Flavoproteins.",
+      "doi": "10.1038/srep44906",
+      "publication_date_as_returned": "2017 Mar 20",
+      "first_authors_as_returned": [
+        "Roger J Kutta",
+        "Nataliya Archipowa",
+        "Linus O Johannissen"
+      ],
+      "pmcid": "PMC5357904",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28317918/",
+      "doi_url": "https://doi.org/10.1038/srep44906",
+      "abstract_available": true,
+      "abstract_characters": 841,
+      "abstract_sha256": "88bc85256755de1fd53c5a87417ce2a7191096dac29f095a7b04c06f76fcad94",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": {
+        "retrieved_characters": 31872,
+        "sha256": "e9372ee972985a07a857616dddf4f188a43ae1745c27ac97884ffaca8dc82563",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Counterevidence to a simple mammalian receptor model",
+      "editorial_assessment": "Structural and binding work finds weak FAD binding in type-II cryptochromes, including human CRY1/2. Reported dissociation constants are 16 and 68 µM; estimated native cofactor occupancy is limited. This qualifies the inference from fly rescue without proving every possible mammalian magnetic mechanism absent."
+    },
+    {
+      "id": "M07",
+      "pmid": "31028046",
+      "title": "Transduction of the Geomagnetic Field as Evidenced from alpha-Band Activity in the Human Brain.",
+      "doi": "10.1523/ENEURO.0483-18.2019",
+      "publication_date_as_returned": "2019",
+      "first_authors_as_returned": [
+        "Connie X Wang",
+        "Isaac A Hilburn",
+        "Daw-An Wu"
+      ],
+      "pmcid": "PMC6494972",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31028046/",
+      "doi_url": "https://doi.org/10.1523/ENEURO.0483-18.2019",
+      "abstract_available": true,
+      "abstract_characters": 1807,
+      "abstract_sha256": "b6452ab8e0fbc71518a4eebab96d68676845ce75381f7b997e392465287b476c",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": {
+        "retrieved_characters": 94347,
+        "sha256": "e2c9dff5ddb9674e7b14c704f93dbaa0d061c791077666e6655c398fd0f0c2e4",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Human physiological response",
+      "editorial_assessment": "In 36 volunteers, particular rotations near 35 µT elicited alpha-band desynchronization. Participants had eyes closed in darkness. The authors use polarity dependence to argue against the standard radical-pair-only mechanism for this response. It does not establish conscious direction finding, semantic reception, or a measured molecular receptor."
+    },
+    {
+      "id": "M08",
+      "pmid": "35637212",
+      "title": "Human magnetic sense is mediated by a light and magnetic field resonance-dependent mechanism.",
+      "doi": "10.1038/s41598-022-12460-6",
+      "publication_date_as_returned": "2022 May 30",
+      "first_authors_as_returned": [
+        "Kwon-Seok Chae",
+        "Soo-Chan Kim",
+        "Hye-Jin Kwon"
+      ],
+      "pmcid": "PMC9151822",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35637212/",
+      "doi_url": "https://doi.org/10.1038/s41598-022-12460-6",
+      "abstract_available": true,
+      "abstract_characters": 1317,
+      "abstract_sha256": "14eb0a31f2e6c858c4d52c4185a22f2c457f4dfac94a32ae2e75090c3ceb90a2",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": {
+        "retrieved_characters": 39163,
+        "sha256": "ecce8053fb498274b956758d8d38eecfa06d3f2ddb23e414ad323b83e029e526",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Human orientation result requiring independent replication",
+      "editorial_assessment": "The rotary-chair study reports blue-light-, food-context-, and radiofrequency-dependent directional choices in men. It is a positive behavioral claim from a research program, not a molecular identification of human cryptochrome, and not a replication of the dark-room alpha-EEG protocol."
+    },
+    {
+      "id": "M09",
+      "pmid": "40125477",
+      "title": "Magnetic sense-dependent probabilistic decision-making in humans.",
+      "doi": "10.3389/fnins.2025.1497021",
+      "publication_date_as_returned": "2025",
+      "first_authors_as_returned": [
+        "In-Taek Oh",
+        "Soo-Chan Kim",
+        "Yongkuk Kim"
+      ],
+      "pmcid": "PMC11925921",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40125477/",
+      "doi_url": "https://doi.org/10.3389/fnins.2025.1497021",
+      "abstract_available": true,
+      "abstract_characters": 1442,
+      "abstract_sha256": "6eb34fad379d4eb44f3c01ce8c8571df7e85332cbeea99c3e1b8d318c6ed1b28",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": {
+        "retrieved_characters": 50270,
+        "sha256": "9f7cddebc5891ffadbff7866bffcafe565de7e41709418ac8de94dea87af4de6",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Exploratory human decision-making claim",
+      "editorial_assessment": "The Go-stone study associates field manipulations with human binary selections. Choices and concealment involve other people and ordinary visual access; independent random future targets were not the defining task. The Methods call the work double-blind while saying task experimenters knew conditions but not the investigators’ intended interpretation. This is a narrower blinding arrangement than full condition blinding."
+    },
+    {
+      "id": "M10",
+      "pmid": "42352556",
+      "title": "Delayed Correlations Between Geomagnetic Activity and Human EEG Alpha and Theta Oscillations: Evidence from Archival and Experimental Data.",
+      "doi": "10.3390/brainsci16060547",
+      "publication_date_as_returned": "2026 May 22",
+      "first_authors_as_returned": [
+        "Carlee D Chezzi",
+        "Kevin S Saroka",
+        "Kate S Branigan"
+      ],
+      "pmcid": "PMC13296945",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42352556/",
+      "doi_url": "https://doi.org/10.3390/brainsci16060547",
+      "abstract_available": true,
+      "abstract_characters": 1504,
+      "abstract_sha256": "bb8cf00280c76fd0383dd33f84c5944b32f2b341c9f3f41e4fdcf61cbd8d7c7c",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": {
+        "retrieved_characters": 28470,
+        "sha256": "eb0e45ff54f8747ffbed1c901d8ceaa8e4e2ab6cf1dd3523bf6cf1249a6b69ef",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Archival correlation plus uncontrolled longitudinal exposure",
+      "editorial_assessment": "Archival EEG involved 238 people and a ±90-day lag search; the follow-up involved 22 people and a 19-day comparison. The body reports opposite directions between datasets. There is no contemporaneous sham-exposure group in the described follow-up. This is not an independent replication of the 2019 rotation response or evidence of precognition."
+    },
+    {
+      "id": "M11",
+      "pmid": "26569474",
+      "title": "A magnetic protein biocompass.",
+      "doi": "10.1038/nmat4484",
+      "publication_date_as_returned": "2016 Feb",
+      "first_authors_as_returned": [
+        "Siying Qin",
+        "Hang Yin",
+        "Celi Yang"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26569474/",
+      "doi_url": "https://doi.org/10.1038/nmat4484",
+      "abstract_available": true,
+      "abstract_characters": 886,
+      "abstract_sha256": "94cfe0cfd478814b1dcb0db4e9580f4298e5963327e575af150b305b0d3fbf3b",
+      "metadata_receipt_sha256": "024a2c5cfa818d692ad01378e3b53873e546dff8a272b8b7b613fba5009de5bb",
+      "body": null,
+      "evidence_role": "Contested protein-compass proposal",
+      "editorial_assessment": "Qin and colleagues propose a Cry–MagR/IscA1 complex and report alignment in magnetic fields. The claim concerns a proposed protein assembly; it must be read alongside mechanism-specific physical criticism and failed cellular activation tests."
+    },
+    {
+      "id": "M12",
+      "pmid": "27529126",
+      "title": "Physical limits to magnetogenetics.",
+      "doi": "10.7554/eLife.17210",
+      "publication_date_as_returned": "2016 Aug 16",
+      "first_authors_as_returned": [
+        "Markus Meister"
+      ],
+      "pmcid": "PMC5016093",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27529126/",
+      "doi_url": "https://doi.org/10.7554/eLife.17210",
+      "abstract_available": true,
+      "abstract_characters": 925,
+      "abstract_sha256": "00cc00a0d09e536bb01b501ef2980d83147ed80616b8f2aabb69911b2846cff0",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": null,
+      "evidence_role": "Quantitative physical critique",
+      "editorial_assessment": "Meister calculates that the proposed protein-compass and particular ferritin force/heating schemes fall short by orders of magnitude. This criticism does not apply indiscriminately to radical-pair chemistry, magnetite crystals, TMS, or every engineered magnetic device.",
+      "additional_inspection": "Primary eLife publisher body and selected force/thermal reasoning; not an independent numerical reproduction."
+    },
+    {
+      "id": "M13",
+      "pmid": "28360843",
+      "title": "MagR Alone Is Insufficient to Confer Cellular Calcium Responses to Magnetic Stimulation.",
+      "doi": "10.3389/fncir.2017.00011",
+      "publication_date_as_returned": "2017",
+      "first_authors_as_returned": [
+        "Keliang Pang",
+        "He You",
+        "Yanbo Chen"
+      ],
+      "pmcid": "PMC5352684",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28360843/",
+      "doi_url": "https://doi.org/10.3389/fncir.2017.00011",
+      "abstract_available": true,
+      "abstract_characters": 983,
+      "abstract_sha256": "32466df6c74b931dbe4bcb9af64972190f8d41d1ab0f8114a8514c92bd00ac0e",
+      "metadata_receipt_sha256": "3b017361636d1bfe742e0e142976bd0b450ec20dd669bbc2d1356108810b4f7c",
+      "body": null,
+      "evidence_role": "Negative cellular replication",
+      "editorial_assessment": "MagR expression did not produce magnetic calcium responses across tested HEK cells and primary neurons; optical positive controls worked in channelrhodopsin-expressing neurons. This tests MagR-alone cellular activation, not all Cry–MagR assemblies or all forms of magnetoreception."
+    },
+    {
+      "id": "M14",
+      "pmid": "41565820",
+      "title": "Quantum spin resonance in engineered proteins for multimodal sensing.",
+      "doi": "10.1038/s41586-025-09971-3",
+      "publication_date_as_returned": "2026 Jan",
+      "first_authors_as_returned": [
+        "Gabriel Abrahams",
+        "Ana Štuhec",
+        "Vincent Spreng"
+      ],
+      "pmcid": "PMC12851924",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41565820/",
+      "doi_url": "https://doi.org/10.1038/s41586-025-09971-3",
+      "abstract_available": true,
+      "abstract_characters": 1763,
+      "abstract_sha256": "929ce44a56dcf5aea7d33dd2fafce5ac2255d72e8ec86ace01751f9b5c43cace",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": {
+        "retrieved_characters": 66581,
+        "sha256": "727c79f56564dac1c44898760211bd42bf0b40e8585db1e717d686ea62a06256",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Engineered protein sensing",
+      "editorial_assessment": "MagLOV exhibits optically detected magnetic resonance in living bacterial cells, including single-cell readout. One single-cell field-effect example switches between 0 and 10 mT. The fluorescent engineered probe is a real advance; it is not a demonstrated native human receptor, thought decoder, or behavioral controller."
+    },
+    {
+      "id": "M15",
+      "pmid": "39982451",
+      "title": "European Robin Cryptochrome-4a Associates with Lipid Bilayers in an Ordered Manner, Fulfilling a Molecular-Level Condition for Magnetoreception.",
+      "doi": "10.1021/acschembio.4c00576",
+      "publication_date_as_returned": "2025 Mar 21",
+      "first_authors_as_returned": [
+        "Marta Majewska",
+        "Maja Hanić",
+        "Rabea Bartölke"
+      ],
+      "pmcid": "PMC11934094",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39982451/",
+      "doi_url": "https://doi.org/10.1021/acschembio.4c00576",
+      "abstract_available": true,
+      "abstract_characters": 1971,
+      "abstract_sha256": "fceed8c3d423318f59b53313b0eede38a74bf1242c34b8bcb20f3bd8b7c6aa1e",
+      "metadata_receipt_sha256": "c1686fc4efbf4e64afce3fc8e6dc958eb2879c7965a84483b90fd2b77eb286b2",
+      "body": null,
+      "evidence_role": "Candidate molecular bridge",
+      "editorial_assessment": "Experiments and modeling show ordered association of robin CRY4a with model lipid bilayers. This addresses an orientation/attachment requirement for a directional sensor. It does not finish the path from field to retinal electrical signal to navigational behavior."
+    },
+    {
+      "id": "M16",
+      "pmid": "41603739",
+      "title": "A supramolecular assembly of cone-specific G-protein and cryptochrome 4a on lipid bilayer.",
+      "doi": "10.1111/febs.70425",
+      "publication_date_as_returned": "2026 Jun",
+      "first_authors_as_returned": [
+        "Ümmügülsüm Güzelsoy-Flügge",
+        "Srđan Vujinović",
+        "Alexander Scholten"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41603739/",
+      "doi_url": "https://doi.org/10.1111/febs.70425",
+      "abstract_available": true,
+      "abstract_characters": 1691,
+      "abstract_sha256": "654e62844136ec308d18bbb66a85becd20c373dea8f7792c130287c8a2af9ca2",
+      "metadata_receipt_sha256": "ea93b8df97d7caf9b3db5aa39007b064462496b94d8ae9e98fc9f9fa80e1f434",
+      "body": null,
+      "evidence_role": "Candidate signaling bridge",
+      "editorial_assessment": "Surface-plasmon-resonance experiments support interactions between robin CRY4a, lipid bilayers, and a cone G-protein subunit. Binding supports a downstream-signaling candidate; an intact-animal causal magnetic transduction chain is not demonstrated by binding alone."
+    },
+    {
+      "id": "M17",
+      "pmid": "40829642",
+      "title": "Cryptochrome 4b protein is probably irrelevant for radical pair-based magnetoreception in the European robin.",
+      "doi": "10.1098/rsif.2025.0176",
+      "publication_date_as_returned": "2025 Aug",
+      "first_authors_as_returned": [
+        "Jingjing Xu",
+        "Alisha Bhanu Pattani Ameerjan",
+        "Jonathan Hungerland"
+      ],
+      "pmcid": "PMC12364574",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40829642/",
+      "doi_url": "https://doi.org/10.1098/rsif.2025.0176",
+      "abstract_available": true,
+      "abstract_characters": 1370,
+      "abstract_sha256": "a004035e57181973655691aab0a590845622268c543464974a8a9b52d6ed6a57",
+      "metadata_receipt_sha256": "694692ee694d1699677310384b10c5d9b3988ae4e0b1e6ba360b297f286e04b7",
+      "body": null,
+      "evidence_role": "Isoform-specific negative evidence",
+      "editorial_assessment": "Robin CRY4b failed to bind FAD in vitro and was not detected as protein in the tested tissues, while its transcript was less abundant than CRY4a. The result narrows which isoform is plausible; it does not invalidate CRY4a."
+    },
+    {
+      "id": "M18",
+      "pmid": "41488359",
+      "title": "Structure of European robin cryptochrome 1 reveals a role in circadian rhythms, not magnetoreception.",
+      "doi": "10.1016/j.isci.2025.114015",
+      "publication_date_as_returned": "2025 Dec 19",
+      "first_authors_as_returned": [
+        "Anushka C Wickramaratne",
+        "Emil Sjulstok Rasmussen",
+        "Yogarany Chelliah"
+      ],
+      "pmcid": "PMC12757563",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41488359/",
+      "doi_url": "https://doi.org/10.1016/j.isci.2025.114015",
+      "abstract_available": true,
+      "abstract_characters": 1052,
+      "abstract_sha256": "214f2882ea2cafb5c48a437e1bee07c2d5d7116b979dcee6eb917e709916c281",
+      "metadata_receipt_sha256": "c1686fc4efbf4e64afce3fc8e6dc958eb2879c7965a84483b90fd2b77eb286b2",
+      "body": null,
+      "evidence_role": "Cryptochrome-family specificity",
+      "editorial_assessment": "The robin CRY1 structure/biochemistry supports a circadian role and absence of FAD binding rather than the proposed photosensor role. CRY1, human type-II CRYs, and avian CRY4a cannot be treated as interchangeable because they share a name."
+    },
+    {
+      "id": "M19",
+      "pmid": "42937954",
+      "title": "Coherent Vibrational Wave Packet Motion in ErCry4a Proteins Monitors the Redox State of the Flavin Chromophore.",
+      "doi": "10.1021/jacs.6c14527",
+      "publication_date_as_returned": "2026 Oct 07",
+      "first_authors_as_returned": [
+        "Krishan Kumar",
+        "Daniel Timmer",
+        "Maryam Khazani"
+      ],
+      "pmcid": "PMC13651507",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42937954/",
+      "doi_url": "https://doi.org/10.1021/jacs.6c14527",
+      "abstract_available": true,
+      "abstract_characters": 1548,
+      "abstract_sha256": "662e708840c0e94439a6cfd2aff0a1e0cc1adbb74a0a3b2f23c640d373162305",
+      "metadata_receipt_sha256": "ea93b8df97d7caf9b3db5aa39007b064462496b94d8ae9e98fc9f9fa80e1f434",
+      "body": null,
+      "evidence_role": "October 2026 molecular spectroscopy",
+      "editorial_assessment": "Ultrafast spectroscopy and mutation controls resolve early electron-transfer/redox dynamics in robin CRY4a. These observations strengthen molecular understanding; coherent vibrational motion is not evidence for shared thoughts or access to future information."
+    },
+    {
+      "id": "M20",
+      "pmid": "42481018",
+      "title": "Disruption of magnetic orientation in migratory songbirds by radiofrequency magnetic fields is mediated by a specialized sensory system.",
+      "doi": "10.1098/rsif.2026.0129",
+      "publication_date_as_returned": "2026 Jul 22",
+      "first_authors_as_returned": [
+        "Kirill Kavokin",
+        "Julia Bojarinova",
+        "Dmitriy Sannikov"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42481018/",
+      "doi_url": "https://doi.org/10.1098/rsif.2026.0129",
+      "abstract_available": true,
+      "abstract_characters": 1333,
+      "abstract_sha256": "c69e71528d2cd072048e29d9292fa6d439ac3a5700af9ebd59c35aacaf26e041",
+      "metadata_receipt_sha256": "ea93b8df97d7caf9b3db5aa39007b064462496b94d8ae9e98fc9f9fa80e1f434",
+      "body": null,
+      "evidence_role": "Contrary interpretation of bird radiofrequency disruption",
+      "editorial_assessment": "Modulated fields disrupted flycatcher orientation differently from the authors’ tested photochemical prediction. They propose an alternative sensory pathway, possibly induction. The behavioral contrast is observed; the separate receptor is a hypothesis, not an identified mechanism or a general refutation of radical-pair chemistry."
+    },
+    {
+      "id": "M21",
+      "pmid": "41712640",
+      "title": "A hybrid compass mechanism combining radical pairs and magnetite crystals.",
+      "doi": "10.1073/pnas.2524093123",
+      "publication_date_as_returned": "2026 Feb 24",
+      "first_authors_as_returned": [
+        "P J Hore"
+      ],
+      "pmcid": "PMC12933104",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41712640/",
+      "doi_url": "https://doi.org/10.1073/pnas.2524093123",
+      "abstract_available": true,
+      "abstract_characters": 863,
+      "abstract_sha256": "bd51cee7df20138c62fea584790091dd1777dfcdecc3f4abf8414f30c548870b",
+      "metadata_receipt_sha256": "c1686fc4efbf4e64afce3fc8e6dc958eb2879c7965a84483b90fd2b77eb286b2",
+      "body": null,
+      "evidence_role": "Theoretical hybrid mechanism",
+      "editorial_assessment": "Hore proposes magnetite-assisted radical-pair sensing, with modeled local field amplification and potentially higher sensitivity. The predicted 10–100-fold gain is theoretical, not a measured human enhancement. A hybrid model is an alternative to treating mineral and radical-pair routes as mutually exclusive."
+    },
+    {
+      "id": "M22",
+      "pmid": "42207892",
+      "title": "Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions.",
+      "doi": "10.1126/science.ady2486",
+      "publication_date_as_returned": "2026 May 28",
+      "first_authors_as_returned": [
+        "Clivia Lisowski",
+        "Michael Quetting",
+        "Daniela Klaus"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42207892/",
+      "doi_url": "https://doi.org/10.1126/science.ady2486",
+      "abstract_available": true,
+      "abstract_characters": 912,
+      "abstract_sha256": "b6531e001911d6840f581082d5ad8c1a8fcfb52b41c779c9bb419b94d129c578",
+      "metadata_receipt_sha256": "ea93b8df97d7caf9b3db5aa39007b064462496b94d8ae9e98fc9f9fa80e1f434",
+      "body": null,
+      "evidence_role": "New animal mechanism claim",
+      "editorial_assessment": "Pigeon macrophage-depletion experiments report impaired orientation under overcast conditions and identify superparamagnetic liver macrophages. The authors propose a magnetic role. Replication and specificity remain important because immune-cell depletion can have broader effects; the study does not establish a corresponding human sense."
+    },
+    {
+      "id": "M23",
+      "pmid": "30992474",
+      "title": "BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains.",
+      "doi": "10.1038/s41598-019-41895-7",
+      "publication_date_as_returned": "2019 Apr 16",
+      "first_authors_as_returned": [
+        "Linxing Jiang",
+        "Andrea Stocco",
+        "Darby M Losey"
+      ],
+      "pmcid": "PMC6467884",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30992474/",
+      "doi_url": "https://doi.org/10.1038/s41598-019-41895-7",
+      "abstract_available": true,
+      "abstract_characters": 2312,
+      "abstract_sha256": "b00d252269fe401c1a42f10f3c8fe37059a8bbcc8d5d2bc514b824a62ba8274f",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": null,
+      "evidence_role": "Hardware-mediated communication",
+      "editorial_assessment": "BrainNet used EEG, internet transmission, and TMS to communicate decisions in five three-person groups; reported average task accuracy was 81.25%. It demonstrates an instrumented communication chain. It neither requires nor demonstrates natural telepathy."
+    },
+    {
+      "id": "M24",
+      "pmid": "21280961",
+      "title": "Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect.",
+      "doi": "10.1037/a0021524",
+      "publication_date_as_returned": "2011 Mar",
+      "first_authors_as_returned": [
+        "Daryl J Bem"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/21280961/",
+      "doi_url": "https://doi.org/10.1037/a0021524",
+      "abstract_available": true,
+      "abstract_characters": 1639,
+      "abstract_sha256": "8cfa621c5d111daf23f67de002c8cb824d0238912fe835f22df2e1c74b0c8cab",
+      "metadata_receipt_sha256": "703ca10f8e66ff62ac290c8a2aab06b0e9664e1a962698814f1f961d27c81711",
+      "body": null,
+      "evidence_role": "Positive precognition claim",
+      "editorial_assessment": "Bem reported nine experiments, more than 1,000 participants, and mean d=0.22 for time-reversed tasks. This is the original statistical claim to compare with later task-specific replications. Neither cryptochrome nor a magnetic communication channel was established."
+    },
+    {
+      "id": "M25",
+      "pmid": "26834996",
+      "title": "Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events.",
+      "doi": "10.12688/f1000research.7177.2",
+      "publication_date_as_returned": "2015",
+      "first_authors_as_returned": [
+        "Daryl Bem",
+        "Patrizio Tressoldi",
+        "Thomas Rabeyron"
+      ],
+      "pmcid": "PMC4706048",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26834996/",
+      "doi_url": "https://doi.org/10.12688/f1000research.7177.2",
+      "abstract_available": true,
+      "abstract_characters": 2011,
+      "abstract_sha256": "c967cb9d1a583c335783bb0643e5dfbab414ad403fe5bc9b23ca55b33929b6a0",
+      "metadata_receipt_sha256": "703ca10f8e66ff62ac290c8a2aab06b0e9664e1a962698814f1f961d27c81711",
+      "body": null,
+      "evidence_role": "Positive retrospective synthesis",
+      "editorial_assessment": "The 90-experiment meta-analysis reports Hedges’ g=0.09 overall and g=0.06 after excluding Bem’s original experiments. Those are different contrasts, not the same as the original d. Bem coauthored the synthesis; independence of included laboratories does not make the review wholly independent of the original proponent. No protein mechanism was measured."
+    },
+    {
+      "id": "M26",
+      "pmid": "41191630",
+      "title": "Metascientific replication project with the advanced meta-experimental protocol of the transparent psi project procedures for testing the precognitive effect claimed by Bem.",
+      "doi": "10.1371/journal.pone.0335330",
+      "publication_date_as_returned": "2025",
+      "first_authors_as_returned": [
+        "Jan Walleczek",
+        "Nikolaus von Stillfried",
+        "Stefan Schmidt"
+      ],
+      "pmcid": "PMC12588471",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41191630/",
+      "doi_url": "https://doi.org/10.1371/journal.pone.0335330",
+      "abstract_available": true,
+      "abstract_characters": 1973,
+      "abstract_sha256": "c52adb8a9b1ab5007f2fbd105654c3baba46c91a0594839b2676c474733797d3",
+      "metadata_receipt_sha256": "934d572950d1e2a9dd613c6939ddbaa9eb0fabb2688283e88ce3dbcfe704be2e",
+      "body": {
+        "retrieved_characters": 107557,
+        "sha256": "6e136bddea19d320b2e6bd6a1fb066984198fd6b8a13812866eb67af4301bc5e",
+        "contiguous_complete_supplied_body": true,
+        "inspection_scope": "Selected methods/results/discussion passages; figures, supplements and raw data not exhaustively inspected."
+      },
+      "evidence_role": "Large controlled replication sequence",
+      "editorial_assessment": "The AMP–TPP project reports 26,483 participants. A below-chance exploratory result was confirmed in Study 2 (49.65%, SE 0.14 percentage points), then failed in Study 3 (50.07%, SE 0.11; 217,800 trials). It did not replicate Bem’s predicted positive direction. The transient reversed anomaly remains unexplained; it is not silently omitted or counted as a durable discovery."
+    },
+    {
+      "id": "M27",
+      "pmid": "40338855",
+      "title": "Behavioural and EEG correlates of forward and backward priming-An exploratory study.",
+      "doi": "10.1371/journal.pone.0322930",
+      "publication_date_as_returned": "2025",
+      "first_authors_as_returned": [
+        "Mareike Wilson",
+        "Marc Wittmann",
+        "Jürgen Kornmeier"
+      ],
+      "pmcid": "PMC12061123",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40338855/",
+      "doi_url": "https://doi.org/10.1371/journal.pone.0322930",
+      "abstract_available": true,
+      "abstract_characters": 1952,
+      "abstract_sha256": "0d10f65ecd5720904e00b03beabbb78c2fd0b7846ed5395c14dadce80c619261",
+      "metadata_receipt_sha256": "703ca10f8e66ff62ac290c8a2aab06b0e9664e1a962698814f1f961d27c81711",
+      "body": null,
+      "evidence_role": "Exploratory replication with an ordinary-task comparator",
+      "editorial_assessment": "Forward priming was behaviorally detectable; backward priming was not significant (p=0.12). Weak exploratory EEG differences and chance-average neural-network decoding do not establish precognition. This tests a different Bem-style task from the AMP–TPP project."
+    },
+    {
+      "id": "M28",
+      "pmid": "38813059",
+      "title": "Stage 2 Registered Report: Anomalous perception in a Ganzfeld condition - A meta-analysis of more than 40 years investigation.",
+      "doi": "10.12688/f1000research.51746.4",
+      "publication_date_as_returned": "2021",
+      "first_authors_as_returned": [
+        "Patrizio E Tressoldi",
+        "Lance Storm"
+      ],
+      "pmcid": "PMC11134153",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38813059/",
+      "doi_url": "https://doi.org/10.12688/f1000research.51746.4",
+      "abstract_available": true,
+      "abstract_characters": 1242,
+      "abstract_sha256": "a88a96cadb111f5ce76cbf7a01b04f3a1281d91ce2972a36934c55cbcf64c094",
+      "metadata_receipt_sha256": "47f2b604acdfc28d24639d2667db64e780f7e85f7083e21b7faac09106114b52",
+      "body": null,
+      "evidence_role": "Positive registered meta-analysis",
+      "editorial_assessment": "The Stage 2 Ganzfeld meta-analysis, version 4, reports an effect around 0.08 (0.04–0.12) across studies published 1974–2020 and favorable bias tests. Registering the synthesis protocol does not retroactively preregister all included experiments. No cryptochrome manipulation or biological telepathy channel was measured. PubMed lists publication year 2021; a version-specific date is not inferred from that field."
+    },
+    {
+      "id": "M29",
+      "pmid": "10414223",
+      "title": "Does Psi exist? Lack of replication of an anomalous process of information transfer.",
+      "doi": "10.1037/0033-2909.125.4.387",
+      "publication_date_as_returned": "1999 Jul",
+      "first_authors_as_returned": [
+        "J Milton",
+        "R Wiseman"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/10414223/",
+      "doi_url": "https://doi.org/10.1037/0033-2909.125.4.387",
+      "abstract_available": true,
+      "abstract_characters": 1034,
+      "abstract_sha256": "a24c7361ec5ed96db5de0c50ccb5463d788b8e8ba6ea29dd6141a1ea027d0088",
+      "metadata_receipt_sha256": "47f2b604acdfc28d24639d2667db64e780f7e85f7083e21b7faac09106114b52",
+      "body": null,
+      "evidence_role": "Negative Ganzfeld synthesis",
+      "editorial_assessment": "Milton and Wiseman analyzed 30 studies from seven independent laboratories and reported a nonsignificant overall result (one-tailed p=0.24). This conflicts with stronger positive syntheses but does not erase all later positive estimates. Databases, eligibility rules, and outcomes differ."
+    },
+    {
+      "id": "M30",
+      "pmid": "18095790",
+      "title": "Using neuroimaging to resolve the psi debate.",
+      "doi": "10.1162/jocn.2008.20.1.182",
+      "publication_date_as_returned": "2008 Jan",
+      "first_authors_as_returned": [
+        "Samuel T Moulton",
+        "Stephen M Kosslyn"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/18095790/",
+      "doi_url": "https://doi.org/10.1162/jocn.2008.20.1.182",
+      "abstract_available": true,
+      "abstract_characters": 1359,
+      "abstract_sha256": "e9488f0edf05f413057ff601311ffe99d12daedbf6ef0fb4a99db3e7efea9551",
+      "metadata_receipt_sha256": "8bc71f1dee4e2d486e9d78283ffbbd96aeefe1d55ee73cd5b757b171e47dfb3d",
+      "body": null,
+      "evidence_role": "Negative neural test of psi",
+      "editorial_assessment": "Related/emotionally connected participants and emotional stimuli were used to seek telepathy, clairvoyance, or precognition effects. Psi/non-psi conditions did not differ neurally, while arousal contrasts did. A null in this design does not prove the logical impossibility of every conceivable psi claim."
+    },
+    {
+      "id": "M31",
+      "pmid": "40882633",
+      "title": "Light-induced conformational switching and magnetic sensitivity of Drosophila cryptochrome.",
+      "doi": "10.1016/j.str.2025.08.003",
+      "publication_date_as_returned": "2025 Nov 06",
+      "first_authors_as_returned": [
+        "Shane A Chandler",
+        "Angela S Gehrckens",
+        "Laila M N Shah"
+      ],
+      "pmcid": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40882633/",
+      "doi_url": "https://doi.org/10.1016/j.str.2025.08.003",
+      "abstract_available": true,
+      "abstract_characters": 1119,
+      "abstract_sha256": "f221162059ded869a55b7baff399865bc46ae6c04ea14bfe9d81ed29ae184da6",
+      "metadata_receipt_sha256": "c1686fc4efbf4e64afce3fc8e6dc958eb2879c7965a84483b90fd2b77eb286b2",
+      "body": null,
+      "evidence_role": "Protein conformational signaling candidate",
+      "editorial_assessment": "Spectroscopy, hydrogen–deuterium exchange, simulations, and electron-transfer variants identify a reversible blue-light-driven CRY signaling conformation. This helps connect chemistry with possible downstream interactions. It is not independent replication of human field detection or semantic transfer."
+    },
+    {
+      "id": "M32",
+      "pmid": "35019998",
+      "title": "Broadband 75-85 MHz radiofrequency fields disrupt magnetic compass orientation in night-migratory songbirds consistent with a flavin-based radical pair magnetoreceptor.",
+      "doi": "10.1007/s00359-021-01537-8",
+      "publication_date_as_returned": "2022 Jan",
+      "first_authors_as_returned": [
+        "Bo Leberecht",
+        "Dmitry Kobylkov",
+        "Thiemo Karwinkel"
+      ],
+      "pmcid": "PMC8918455",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35019998/",
+      "doi_url": "https://doi.org/10.1007/s00359-021-01537-8",
+      "abstract_available": true,
+      "abstract_characters": 1388,
+      "abstract_sha256": "5d09c380851137c52dcda97cd6f1dd9840891473d54bbe9a4786646c14cf5c8f",
+      "metadata_receipt_sha256": "1557dbddd3d6b5e3cc4a9eabdd7f742e350202db65a9acfc530d0c7ade0e3c20",
+      "body": null,
+      "evidence_role": "Positive animal radiofrequency perturbation",
+      "editorial_assessment": "Broadband 75–85 MHz fields disrupted nocturnal songbird magnetic orientation, interpreted as consistent with flavin-based radical-pair sensing. Perturbing behavior supports a mechanism family but is not an identification of every receptor component; the 2026 alternative interpretation remains relevant."
+    }
+  ],
+  "pubmed_query_receipts": [
+    {
+      "query": "Bassetto reply magnetic Drosophila",
+      "total_count": 0,
+      "returned_count": 0,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": [
+        "No items found."
+      ]
+    },
+    {
+      "query": "cryptochrome magnetoreception",
+      "total_count": 30,
+      "returned_count": 12,
+      "offset": 0,
+      "next_offset": 12,
+      "has_more": true,
+      "warnings": []
+    },
+    {
+      "query": "Feeling the future Bem",
+      "total_count": 7,
+      "returned_count": 5,
+      "offset": 0,
+      "next_offset": 5,
+      "has_more": true,
+      "warnings": [
+        "the"
+      ]
+    },
+    {
+      "query": "human magnetoreception orientation light 2022 2025",
+      "total_count": 0,
+      "returned_count": 0,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": [
+        "No items found."
+      ]
+    },
+    {
+      "query": "MagR insufficient calcium",
+      "total_count": 2,
+      "returned_count": 2,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": []
+    },
+    {
+      "query": "cryptochrome (telepathy OR precognition OR hypnosis OR \"sleep conditioning\")",
+      "total_count": 1,
+      "returned_count": 1,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": [
+        "\"sleep conditioning\""
+      ]
+    },
+    {
+      "query": "10.1038/nmat4484",
+      "total_count": 1,
+      "returned_count": 1,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": []
+    },
+    {
+      "query": "MagR magnetic protein biocompass calcium insufficient",
+      "total_count": 0,
+      "returned_count": 0,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": [
+        "No items found."
+      ]
+    },
+    {
+      "query": "cryptochrome magnetoreception",
+      "total_count": 30,
+      "returned_count": 18,
+      "offset": 12,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": []
+    },
+    {
+      "query": "Bem feeling future precognition ganzfeld",
+      "total_count": 0,
+      "returned_count": 0,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": [
+        "No items found."
+      ]
+    },
+    {
+      "query": "cryptochrome 4 magnetic sensitivity songbird",
+      "total_count": 9,
+      "returned_count": 8,
+      "offset": 0,
+      "next_offset": 8,
+      "has_more": true,
+      "warnings": []
+    },
+    {
+      "query": "precognition replication Transparent Psi Project",
+      "total_count": 1,
+      "returned_count": 1,
+      "offset": 0,
+      "next_offset": null,
+      "has_more": false,
+      "warnings": []
+    }
+  ],
+  "abstractless_records": [
+    "38693417"
+  ],
+  "full_bodies_retrieved": 10,
+  "private_receipts_published": false,
+  "scientific_claims_certified_by_link_access": false
+}

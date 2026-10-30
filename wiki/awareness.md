@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Optical signaling](optical.md) · [Sleep](sleep.md) · [Memory and awareness](memory.md) · [Continuation prompt](../prompts/awareness-optical-deep-research.md) · [Research network](research-horizon.md)
 
-The research question is **how to distinguish processing without awareness from weak conscious perception, guessing, response bias, and measurement error**. This is the subject identified with high confidence from the passage containing the unresolved `turn3file2` citation. Its original source identity remains unresolved. A supplied continuation review, with a reported search cutoff of October 28, 2026, is now integrated below. Its source artifacts and the scope of independent intake checks remain separate.
+The research question is **how to distinguish processing without awareness from weak conscious perception, guessing, response bias, and measurement error**. This is the claim context identified with high confidence beside the unresolved `turn3file2` citation; it does not identify the whole missing document’s subject. Its source identity remains unresolved. The [October 30 provenance follow-up](../sources/turn3file2-followup.md) adds the recalled protein-magnetism/psychic topic as a candidate lead. A supplied continuation review, with a reported search cutoff of October 28, 2026, is now integrated below. Its source artifacts and the scope of independent intake checks remain separate.
 
 ## What the recovered material says
 
@@ -14,9 +14,9 @@ Section 8 of the [earlier optical review](../research/chats/6ab16b83-0630-83ea-9
 
 | Question | Current assessment | Basis and limit |
 |---|---|---|
-| What subject did `turn3file2` support? | High confidence: awareness measurement and interpretation of apparent unconscious processing | Its exact position and surrounding paragraph are recovered. |
+| What claim appears beside `turn3file2`? | High confidence: awareness measurement and interpretation of apparent unconscious processing | Its position and surrounding paragraph are recovered; this does not identify the whole document. |
 | Did the pasted material share text with the optical review? | High confidence | Three distinct retained passages match the complete review, including original citation indices. |
-| Did the unresolved citation retrieve a passage from that same earlier chat? | Moderate confidence; leading working hypothesis | The Sources panel names the optical chat, the discussion matches, and the recorded turns are minutes apart. No mapping identifies the citation’s target. |
+| Did the unresolved citation retrieve a passage from that same earlier chat? | Earlier moderate-confidence working hypothesis; still a candidate | The Sources panel names the optical chat, the discussion matches, and the recorded turns are minutes apart. No mapping identifies the target; the recalled protein/psi topic remains another lead. |
 | What was the original document, filename, or extension behind `turn3file2`? | Unknown | The rendered citation is empty; no original file identifier or target was recovered. |
 
 The [provenance note and chronology](../sources/upload-recovery.md#working-inference-and-chronology) document the likely reuse between chats. A different report quoting the same material, another retrieved source, and an invalid citation handle remain alternatives. The user’s recollection that the paste came from another research chat is consistent with the record, but does not resolve the original citation.

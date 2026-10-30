@@ -1,6 +1,6 @@
 # Sleep, Hypnosis, and Influence Research Wiki
 
-A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery, supplied-literature integration, and the research network updated October 28, with durability and documented-abuse follow-ups added October 29. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
+A topic-based collection of research recovered from Codex, ChatGPT, and associated project notes. Collected October 27, 2026; recovery and literature updates extend through October 30, including cryptochrome/magnetoreception and the psychic-research provenance follow-up. This is an account-research collection, not a claim that every conversation has been recovered or every cited result independently verified.
 
 ## Research focus
 
@@ -31,9 +31,10 @@ AI misinformation, source monitoring, general memory theory, and neural interfac
 | [Prediction error and retrieval-enhanced suggestibility](wiki/prediction-error-and-suggestibility.md) | Mismatch definitions, test-potentiated learning, protective results, sleep/hypnosis signals, and a checked correction notice |
 | [Context reinstatement and discrepancy detection](wiki/context-reinstatement-and-detection.md) | Context can support accuracy or source errors; noticing versus remembering change, reused warning data, sleep nulls, and hypnosis components |
 | [Memory reconstruction and awareness](wiki/memory.md) | Neural decoding, generated reconstructions, false-memory risks, and awareness measures |
-| [Awareness and unconscious visual processing](wiki/awareness.md) | The high-confidence subject of `turn3file2`, awareness methods, competing interpretations, and the next research questions |
+| [Awareness and unconscious visual processing](wiki/awareness.md) | The claim beside `turn3file2`, awareness methods and competing interpretations; whole-source identity remains unknown |
 | [Optical signaling](wiki/optical.md) | Closed eyelids, spectral flicker, infrared receivers, EEG detection versus comprehension |
 | [Magnetism and neural interfaces](wiki/magnetic.md) | Natural magnetoreception, TMS, engineered receivers, instrumented decoding |
+| [Cryptochrome, magnetoreception, and psychic interpretations](wiki/cryptochrome-magnetoreception-and-psi.md) | Protein chemistry, human results, replication disputes, and the unproved steps to telepathy or precognition |
 | [Sleep measurement and models](wiki/measurement.md) | Breathing, smartphone audio, datasets, real-time model constraints |
 | [Experiment plans and simulations](wiki/experiments.md) | Sleep-EDF scheduling, synthetic interactions, TMR pilot proposals, acoustic campaign |
 | [Population influence and fiction](wiki/population-and-fiction.md) | Aggregate effects, attention and curation, explicitly fictional extrapolations |
@@ -41,7 +42,9 @@ AI misinformation, source monitoring, general memory theory, and neural interfac
 
 ## Trace the research
 
-- [Source catalog](sources/catalog.md): 156 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Source catalog](sources/catalog.md): 158 research records, including supplied continuation artifacts and dated follow-up checks, with origins and status.
+- [Protein-magnetism/psi source checks](research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md): 32 entries, positive and negative findings, ten complete supplied PMC bodies, and explicit inspection limits.
+- [Further turn3file2 provenance](sources/turn3file2-followup.md): matching magnetic report, an additional telepathy review, archived-chat checks, and another authenticated backup search; source identity and side chat remain unresolved.
 - [Documented-abuse case checks](research/updates/2026-10-29-documented-abuse-cases.md): 26 entries, primary filings and rulings, ten bounded queries, clinical versus laboratory endpoints, correction/reversal evidence, and explicit access limits.
 - [Posthypnotic/sleep/pink-noise checks](research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md): 39 source entries, 17 bounded queries, durability contrasts, behavioral outcomes, reused data, negative replications, and a retraction exclusion.
 - [Context/detection checks](research/updates/2026-10-28-context-reinstatement-detection.md): 26 source entries, 16 bounded queries, competing directions, reused data, and scoped inspection.
@@ -71,7 +74,7 @@ The [new durability and pink-noise review](wiki/posthypnotic-sleep-and-pink-nois
 
 The [documented-abuse review](wiki/documented-abuse-and-evidence.md) now traces the fictional worst cases to primary records and measured outcomes. It distinguishes professional exploitation and treatment injury from unestablished claims of precise, durable control.
 
-The [original Deep Research prompt](prompts/awareness-optical-deep-research.md) now has a supplied [continuation review and companion files](sources/awareness-update-intake.md), integrated into the [awareness topic page](wiki/awareness.md). The result addresses awareness measurement and unconscious visual processing, with optical and sleep applications. It is new literature synthesis, with the original citation gap preserved. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits.
+The [original Deep Research prompt](prompts/awareness-optical-deep-research.md) now has a supplied [continuation review and companion files](sources/awareness-update-intake.md), integrated into the [awareness topic page](wiki/awareness.md). The result addresses awareness measurement and unconscious visual processing, with optical and sleep applications. It is new literature synthesis, with the original citation gap preserved. The [working provenance inference](sources/upload-recovery.md#working-inference-and-chronology) records the likely connection between chats and its limits. The [October 30 follow-up](sources/turn3file2-followup.md) narrows the high-confidence inference to the nearby claim and records the additional protein-magnetism/psychic lead.
 
 ## Maintain
 

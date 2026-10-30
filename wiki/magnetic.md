@@ -17,3 +17,9 @@ The primary [Woods et al. cortical-stimulator study](https://doi.org/10.1126/sci
 The research retains negative weak-field studies and replication disputes alongside positive reports. Natural magnetosensitivity, externally powered implants, and recorded inner-speech decoding are distinct technologies with distinct evidence. Read/write asymmetry matters: decoding a representation does not establish that stimulation can produce the same thought.
 
 A useful natural-sense claim would survive blinded artifact controls and independent replication, then demonstrate held-out discrimination with quantified error rates. A claim of selected behavioral influence would additionally require that behavioral outcome. Both previously truncated magnetic answers are now recovered, with matching message IDs and complete rendered endings documented in the [recovery report](../sources/recovery.md).
+
+## Cryptochrome and the psychic-research lead
+
+The [October 30 review](cryptochrome-magnetoreception-and-psi.md) follows the molecular-to-behavioral chain through 32 source checks. It separates avian CRY4a, human CRY2 in transgenic flies, MagR’s disputed compass/activation claims, engineered MagLOV sensing, human physiological/behavioral reports, and instrumented communication. Positive psi syntheses and contrary replication evidence are both retained.
+
+The original magnetic report is a topic match for the recalled research. The [new provenance follow-up](../sources/turn3file2-followup.md) also recovers an earlier telepathy answer; neither identifies the missing turn3file2 citation or the recalled side chat. A cryptochrome circadian role does not itself establish a magnetic route for hypnotic suggestions or sleep influence.

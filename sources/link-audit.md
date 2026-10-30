@@ -2,16 +2,16 @@
 
 [Home](../README.md) · [Citation recovery](citation-audit.md) · [Bibliography](bibliography.md) · [Machine results](link-audit.json) · [New literature intake](awareness-update-intake.md)
 
-Latest incremental check: October 29, 2026, America/New_York. All **1,061 distinct source URLs** currently cited in research and wiki have access/identity records. The [documented-abuse follow-up](../research/updates/2026-10-29-documented-abuse-cases.md) checked 25 new URLs on October 29. All 1,036 earlier outcomes retain their actual October 28 or October 29 attempt dates and receipts; only context paths changed. This is a cumulative report across dates, not a fresh global check. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
+Latest incremental check: October 30, 2026, America/New_York. All **1,126 distinct source URLs** currently cited in research and wiki have access/identity records. The [cryptochrome/psi follow-up](../research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md) and recovered telepathy answer added 65 checked URLs: 54 reachable, nine restricted, and two redirect landing pages. All 1,061 earlier outcomes retain their original attempt dates and receipts; only context paths changed. This is a cumulative report, not a fresh global check. URL variants can identify the same work; this is not a study count. Private account/Drive links and literal-ellipsis examples are excluded.
 
 ## Direct access results
 
 | Result | URLs | Meaning |
 |---|---:|---|
-| Reachable | 562 | HTTP success without a recognized challenge in the sample; not full-text certification. |
+| Reachable | 616 | HTTP success without a recognized challenge in the sample; not full-text certification. |
 | Access challenge | 281 | A browser or human-verification response, sometimes returned with HTTP 200. |
-| Access restricted | 153 | HTTP 401, 403, or 429. |
-| Redirect landing | 55 | An intermediary page rather than verified article content. |
+| Access restricted | 162 | HTTP 401, 403, or 429. |
+| Redirect landing | 57 | An intermediary page rather than verified article content. |
 | Request failed | 7 | TLS validation or another request error; verification was not disabled. |
 | Other HTTP error | 3 | Two official guidance URLs returned 404; a supplied author-PDF route returned 503. |
 
@@ -19,7 +19,7 @@ The JSON report records each URL, research/wiki context paths, attempt time, sta
 
 ## Publication identities and separately dated checks
 
-- **723 URL identities** resolved through Europe PMC, Crossref, or DataCite metadata in the cumulative audits, including 13 new URL identities in the documented-abuse follow-up. Earlier checks, including the 29 added in the technique review, retain their original receipts. These are URL identities, not independent studies or complete full-text reviews.
+- **784 URL identities** resolved through Europe PMC, Crossref, or DataCite in the cumulative audits, including 61 new identities in the cryptochrome/psi follow-up. Earlier checks retain their original receipts. These are URL identities, not independent studies or complete full-text reviews.
 - **1 remaining API index miss** retains a separately dated independent identity check from October 27. Earlier independent checks remain recorded even where a fresh API lookup now resolves the identity.
 - **All 53 numbered references in the supplied continuation bibliography** passed title and DOI/PMID relationship checks. All 58 DOI-resolver URLs in those new records resolved bibliographic metadata. The version-3 eLife DOI and PubMed's base DOI identify one study; their alias is explicit in the [intake receipt](awareness-update-intake.json).
 - The supplied update received selected primary-text checks, not a complete independent rereading of every paper or numerical table entry. Its FT/PFT/A labels describe the supplied reviewer. New independent checks are enumerated in the [intake report](awareness-update-intake.md).
@@ -31,6 +31,7 @@ The JSON report records each URL, research/wiki context paths, attempt time, sta
 - The context/detection follow-up selected 26 publications and checked all 26 provided PubMed abstracts. Nine complete PMC bodies and selected publisher HTML sections received scoped inspection. All 22 new URLs were reachable, with matching PMID/title metadata; one DOI missing from the PubMed connector was subsequently supplied by Europe PMC and independently matched through Crossref. The [source record](../research/updates/2026-10-28-context-reinstatement-detection.md) distinguishes same-data encoding analysis from new cohorts, preserves inconsistent published exclusion counts, and records body-retrieval failures and known-item search misses. The reported TMR subgroup estimate was not independently recalculated.
 - The October 29 posthypnotic/sleep/pink-noise follow-up selected 39 source entries, including a methods report, reanalyses, syntheses, and a retraction notice. All 38 provided PubMed abstracts were complete; one primary-publisher abstract extract supplemented an abstractless record. Sixteen complete PMC bodies and selected primary PDF/indexed-results sections received scoped inspection. Of 30 new URLs, 29 were reachable and one publisher route returned 403; all 29 new identifier-based metadata identities resolved. Earlier dates/outcomes remain preserved. The [source checks](../research/updates/2026-10-29-posthypnotic-sleep-pink-noise.md) distinguish failed full-body retrievals, related datasets, statistical contrasts, and invalidated estimates.
 - The October 29 [documented-abuse follow-up](../research/updates/2026-10-29-documented-abuse-cases.md) adds 26 entries: six legal records, an expert-witness case report, two retraction-account publications, and 17 other scientific entries. Eighteen PubMed identities/DOIs and 16 complete abstracts were checked; primary PDF/HTML sections and one complete PMC XML body received scoped inspection. Twenty-five new URLs were checked: 21 reachable, four restricted, and 13 new metadata identities resolved. Public filings with sealed exhibits, procedural versus merits decisions, author/final versions, same-data recoding/footage, a correction, reversibility/attrition, and failed access routes remain explicit. Earlier URL outcomes and timestamps are preserved.
+- The October 30 [protein/psi source record](../research/updates/2026-10-30-cryptochrome-magnetoreception-psi.md) checks 32 PMID/title/DOI relationships and 31 provided abstracts, retrieves ten complete supplied PMC bodies with scoped section inspection, and adds selected primary-publisher extracts. Restricted publisher routes are not described as full text read. Nine historical citation targets from the recovered telepathy answer have separate recovery receipts; their contents are not automatically endorsed. Earlier access and metadata evidence remains preserved.
 - The **six ClinicalTrials.gov identity receipts remain dated October 27**. Their direct source URLs were included in this refresh, but the earlier connector retrievals and trial fields were not rerun. See the [registry receipt](trial-identity-checks.json).
 - Earlier independent web-content checks for Apple Focus guidance and the FTC privacy guide retain their October 27 dates. Their direct requests still returned 404; these are separately dated observations from different access routes.
 
